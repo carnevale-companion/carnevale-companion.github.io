@@ -7,8 +7,8 @@ description: >-
 # Update for your GitHub Pages repo
 # username.github.io/repo-name  →  baseurl: "/repo-name"
 # username.github.io            →  baseurl: ""
-baseurl: ""
-url: "https://unofficial-carnevale-docs.github.io"
+baseurl: "/unofficial-carnevale-docs.github.io"
+url: "https://emaffert.github.io"
 
 markdown: kramdown
 highlighter: rouge
