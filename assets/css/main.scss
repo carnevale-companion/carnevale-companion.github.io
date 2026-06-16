@@ -524,6 +524,49 @@ a:hover { text-decoration: underline; }
 .sidebar-section a:hover    { background: rgba(0,0,0,0.04); color: var(--ink); text-decoration: none; }
 .sidebar-section a.active   { background: rgba(0,0,0,0.06); color: var(--ink); font-weight: 500; box-shadow: inset -2px 0 0 var(--accent); }
 
+/* Collapsible sidebar groups */
+.sidebar-section details { display: block; }
+
+.sidebar-section details summary {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.sidebar-section details summary::-webkit-details-marker { display: none; }
+.sidebar-section details summary::marker { display: none; }
+
+.sidebar-section details summary a {
+  flex: 1;
+  padding-right: 0;
+}
+
+.sidebar-section details summary::after {
+  content: '›';
+  flex-shrink: 0;
+  padding-right: 1.25rem;
+  color: var(--ink-3);
+  font-size: 1.1rem;
+  line-height: 1;
+  display: inline-block;
+  transition: transform 0.15s;
+}
+
+.sidebar-section details[open] > summary::after {
+  transform: rotate(90deg);
+}
+
+.sidebar-section details > ul {
+  margin: 0 0 0.125rem;
+  padding: 0;
+}
+
+.sidebar-section details > ul a {
+  padding-left: 2rem;
+  font-size: 0.78rem;
+  color: var(--ink-3);
+}
+
 /* Doc main area */
 .doc-content {
   flex: 1;

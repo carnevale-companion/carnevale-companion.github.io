@@ -7,7 +7,20 @@
       <p class="sidebar-section-title">Hyperlinked Rules</p>
       <ul>
         {% for item in page.toc %}
+        {% if item.children %}
+        <li class="has-children">
+          <details>
+            <summary><a href="#{{ item.anchor }}">{{ item.title }}</a></summary>
+            <ul>
+              {% for child in item.children %}
+              <li><a href="#{{ child.anchor }}">{{ child.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </details>
+        </li>
+        {% else %}
         <li><a href="#{{ item.anchor }}">{{ item.title }}</a></li>
+        {% endif %}
         {% endfor %}
       </ul>
     </div>

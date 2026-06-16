@@ -8,30 +8,144 @@ toc:
     anchor: the-golden-rule
   - title: Dice Rolls
     anchor: dice-rolls
+    children:
+      - title: Successes, Failures, Criticals & Fumbles
+        anchor: successes-failures-criticals--fumbles
+      - title: Types of Rolls
+        anchor: types-of-rolls
   - title: Line of Sight and Measuring
-    anchor: line-of-sight-and-measuring
+    anchor: measuring-and-line-of-sight
+    children:
+      - title: Line of Sight
+        anchor: line-of-sight
+      - title: Cover
+        anchor: cover
+      - title: Base Contact
+        anchor: base-contact
   - title: Character Profiles
     anchor: character-profiles
+    children:
+      - title: Size and Cost
+        anchor: size-and-cost
+      - title: Points
+        anchor: points
+      - title: Statistics
+        anchor: statistics
+      - title: Weapons
+        anchor: profile-weapons
+      - title: Keywords
+        anchor: keywords
+      - title: Abilities
+        anchor: abilities
   - title: AP, WP & CP
     anchor: ap-wp-and-cp
+    children:
+      - title: Action Points (AP)
+        anchor: action-points-ap
+      - title: Will Points (WP)
+        anchor: will-points-wp
+      - title: Command Points (CP)
+        anchor: command-points-cp
   - title: Rounds & Turns
     anchor: rounds-and-turns
+  - title: Friendly & Enemy Characters
+    anchor: friendly-and-enemy-characters
   - title: Actions
     anchor: actions
-  - title: Combat
-    anchor: combat
+    children:
+      - title: Run/Climb
+        anchor: runclimb--1ap
+      - title: Charging & Disengaging
+        anchor: charging--disengaging
+      - title: Attacks of Opportunity
+        anchor: attacks-of-opportunity
+      - title: Jump
+        anchor: jump--1ap
+      - title: Falling
+        anchor: falling
+      - title: Dive
+        anchor: dive--2ap
+      - title: Hide
+        anchor: hide--1ap
+      - title: Guard
+        anchor: guard--1ap
+      - title: Combat
+        anchor: combat--1ap
+      - title: Grapple
+        anchor: grapple--1ap
+      - title: Drown
+        anchor: drown--1ap
   - title: Magic
     anchor: magic
+    children:
+      - title: Disciplines
+        anchor: disciplines
+      - title: Spells
+        anchor: spells
+      - title: Cast Spell
+        anchor: cast-spell--1ap
+      - title: Dispel
+        anchor: dispel
   - title: Terrain
     anchor: terrain
+    children:
+      - title: Solid Ground
+        anchor: solid-ground
+      - title: Water
+        anchor: water
+      - title: Canals
+        anchor: canals
+      - title: Water Access
+        anchor: water-access
+      - title: Landing Spots
+        anchor: landing-spots
+      - title: Impassable Terrain
+        anchor: impassable-terrain
+      - title: Vertical Terrain
+        anchor: vertical-terrain
+      - title: Ropes & Ladders
+        anchor: ropes--ladders
+      - title: Ruins
+        anchor: ruins
+      - title: Obstacles & Debris
+        anchor: obstacles--debris
+      - title: Barricades
+        anchor: barricades
+      - title: Gondolas
+        anchor: gondolas
   - title: Building Your Gang
     anchor: building-your-gang
+    children:
+      - title: Ducats
+        anchor: ducats
+      - title: Frequency
+        anchor: frequency
   - title: Equipment
     anchor: equipment
   - title: Campaigns & Scenarios
     anchor: campaigns-and-scenarios
+    children:
+      - title: Campaigns
+        anchor: campaigns
+      - title: Scenarios
+        anchor: scenarios
+      - title: Primary Objective
+        anchor: primary-objective
+      - title: Agendas
+        anchor: agendas
+      - title: Special Rules
+        anchor: scenario-special-rules
+      - title: Deployment Zones
+        anchor: deployment-zones
+      - title: Duration
+        anchor: duration
   - title: Order of Play
     anchor: order-of-play
+    children:
+      - title: Setup
+        anchor: order-of-play-setup
+      - title: Game Round Order
+        anchor: game-round-order
   - title: Character Abilities
     anchor: character-abilities
   - title: Weapon Abilities
@@ -92,13 +206,6 @@ Opposed Rolls are when two characters make a Basic Roll using the same attribute
 
 The targeted character's player rolls first. Add up their Aces and subtract that number from the active player's roll, which is then treated just like a Basic Roll. Note that the targeted character cannot score Criticals or Fumbles.
 
-<div class="callout">
-<p class="callout-title">FAQ</p>
-
-**What do I need to roll when making a Grapple against a friendly character?** 7 or higher, since it turns into a Basic roll (a Basic ATTACK roll is different to an Attack Roll).
-
-</div>
-
 #### Attack Rolls
 
 Attack Rolls use a character's ATTACK stat, and are mostly used for Combat actions. **The result needed for an Ace is equal to or higher than the target's DEXTERITY value.**
@@ -120,7 +227,7 @@ Protection Rolls use a character's PROTECTION stat, and are used to save against
 
 ---
 
-## Line of Sight and Measuring
+## Measuring and Line of Sight
 
 Carnevale measures its distances in inches, noted with inverted commas (for example 6 inches is 6"). You are allowed to measure distances at any time. To calculate a distance, measure the space directly between the two closest points – this can be horizontally, diagonally, or vertically!
 
@@ -130,6 +237,14 @@ When measuring to or from characters, always measure from the closest part of th
 <p class="callout-title">Measuring & Moving With Terrain</p>
 <p>Players should ignore all terrain up to 1" high for the purposes of measuring, judging line of sight, and moving.</p>
 </div>
+
+### Base Contact
+
+Characters must be in base contact with each other to use certain attacks and abilities. Characters are in base contact when their bases are touching. An enemy character does **not** count as being in cover if it is attacked when in base contact.
+
+Note that due to small walls or other terrain features in Carnevale, there may be some height discrepancies. Miniatures are assumed to be in base contact if there is 1" or less in vertical distance between bases.
+
+If both characters' bases are within 1" of each other and touching the same obstacle that is up to 1" high (like fighting over a barricade), they count as in base contact when making Combat actions, able to attack with 0" range weapons. However, in this situation the enemy character **always** counts as being in cover.
 
 ### Line of Sight
 
@@ -142,15 +257,6 @@ If at least 25% of an enemy character is covered in some way (including arms, le
 In some situations it will be trickier to tell if a character is in cover. In these situations if the players cannot come to a decision, the character being attacked always counts as being in cover.
 
 **A character in base contact with its attacker is never counted as in cover. A character in water is always counted as being in cover when not in base contact with their attacker.**
-
-### Base Contact
-
-Characters must be in base contact with each other to use certain attacks and abilities. Characters are in base contact when their bases are touching. An enemy character does **not** count as being in cover if it is attacked when in base contact.
-
-Note that due to small walls or other terrain features in Carnevale, there may be some height discrepancies. Miniatures are assumed to be in base contact if there is 1" or less in vertical distance between bases.
-
-If both characters' bases are within 1" of each other and touching the same obstacle that is up to 1" high (like fighting over a barricade), they count as in base contact when making Combat actions, able to attack with 0" range weapons. However, in this situation the enemy character **always** counts as being in cover.
----
 
 ## Character Profiles
 
@@ -301,7 +407,11 @@ Starting with the player who took the initiative, each player chooses a single c
 
 Once all character turns are over, the game round ends. At that point players resolve any effects that last until the game round ends, proceeding in initiative order if needed. Players then check for victory conditions according to the scenario. If no player has won, then another game round begins, and initiative is rolled again as above.
 
----
+## Friendly & Enemy Characters {#friendly-and-enemy-characters}
+
+Any character in your gang is a friendly character, and any in allied or opposing gangs are enemy characters (yes you can turn on your allies!).
+
+When abilities say they affect any or every friendly character, that does include the character using the ability, provided they are the target, or in range of the ability. However, some abilities may specify that the character using the ability is unaffected.
 
 ## Actions
 
@@ -357,6 +467,12 @@ Characters are never "locked" in base contact and may move away from base contac
 **Can you charge a character you are in base contact with?** No.
 
 </div>
+
+### Attacks of Opportunity
+
+An Attack of Opportunity is counted as a regular action, but costs 0AP. A character cannot choose to make an Attack of Opportunity as an action, but may be instructed to for many reasons (such as moving into base contact with an enemy).
+
+Choose either to make a **Combat** action, a **Grapple** action, or a **Drown** action. Treat the Attack of Opportunity as a normal action of that type, with any and all Character Abilities, Weapon Abilities, or modifiers that may apply.
 
 ### Jump — 1AP
 
@@ -495,6 +611,15 @@ Some Character Abilities or weapons will add additional modifiers to your Attack
 Once you have determined how much Damage your attack does, your target gets a chance to defend themselves. The target makes a Protection Roll. For every 1 Damage suffered after Protection Rolls, the target loses 1 Life Point.
 
 <div class="callout">
+<p class="callout-title">Attack and damages</p>
+
+**Each point of Damage taken causes a character to lose 1 Life Point.**
+
+When a character is instructed to take **Damage,** they make a **Protection Roll.** However, when a character is instructed to lose **Life Points**, no armour will save them and they **cannot** make a **Protection Roll**.
+
+</div>
+
+<div class="callout">
 <p class="callout-title">FAQ</p>
 
 **If a character falls into base contact, do they get to make an Attack of Opportunity? Do they get the bonus for attacking from above?** Yes and yes (provided they fall from 3" or higher and survive their fall damage first).
@@ -533,6 +658,8 @@ A character can target another friendly character with a Grapple. If they do, th
 
 **Can I target characters in base contact with enemy models?** Yes.
 
+**What do I need to roll when making a Grapple against a friendly character?** 7 or higher, since it turns into a Basic roll (a Basic ATTACK roll is different to an Attack Roll).
+
 </div>
 
 ### Drown — 1AP
@@ -549,32 +676,6 @@ Protection Rolls may not be made against Drown actions – armour doesn't stop w
 | Fail | No effect. |
 | Critical | Target character loses 4 Life Points, plus 1 Life Point for every Ace rolled. |
 | Fumble | Attacker loses 2 Life Points. |
-
----
-
-
-## Combat
-
-
-### Friendly & Enemy Characters
-
-Any character in your gang is a friendly character, and any in allied or opposing gangs are enemy characters (yes you can turn on your allies!).
-
-When abilities say they affect any or every friendly character, that does include the character using the ability, provided they are the target, or in range of the ability. However, some abilities may specify that the character using the ability is unaffected.
-
-### Attacks of Opportunity
-
-An Attack of Opportunity is counted as a regular action, but costs 0AP. A character cannot choose to make an Attack of Opportunity as an action, but may be instructed to for many reasons (such as moving into base contact with an enemy).
-
-Choose either to make a **Combat** action, a **Grapple** action, or a **Drown** action. Treat the Attack of Opportunity as a normal action of that type, with any and all Character Abilities, Weapon Abilities, or modifiers that may apply.
-
-### Attacks & Damage
-
-**Each point of Damage taken causes a character to lose 1 Life Point.**
-
-When a character is instructed to take **Damage,** they make a **Protection Roll.** However, when a character is instructed to lose **Life Points**, no armour will save them and they **cannot** make a **Protection Roll**.
-
----
 
 ## Magic
 
