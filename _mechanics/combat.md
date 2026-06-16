@@ -1,13 +1,12 @@
 ---
-title: Combat Capabilities
+title: Combat Capabilities calculations
 nav_order: 3
 prev_doc:
   title: "Offense & Defense Modifiers"
   url: /mechanics/offense-defense/
 ---
 
-How the offensive (EDPA) and defensive (ATK2K) capability scores are computed, what they
-assume, and where they stop.
+How the offensive (EDPA) and defensive (ATK2K) capability scores are computed, what they assume, and where they stop.
 
 ## Purpose
 
@@ -81,7 +80,7 @@ is clean. The following are surfaced only in comparison:
   *generation* tier — the layer that lifts WP-rich factions
   (Vatican, Patricians, Doctors) above their cold standard. Parallel to Frenzy, but WP-fuelled.
 - **Magic potential** — a mage's EDPA assumes it took its best **damage** spell; a support mage
-  usually spends its slots on buffs/heals instead. Flags read as "could deal this", not "is mis-tagged".
+  usually spends its slots on buffs/heals instead.
 - **Vampiric Attack, Hunter, conditional offence** (Fear / First Strike / Berserk / Brawler), and
   **weapon riders** (Stun / Knockback / Template / Reload) are recorded per model, not scored.
 
@@ -95,9 +94,6 @@ is clean. The following are surfaced only in comparison:
   a distinct role (`Sniper`), judged on **alpha**, not sustained — so they neither look like weak
   Damage Dealers nor drag the Damage Dealer standard down. A sniper below the Sniper alpha/Ducat
   median is weak even for its cost.
-- **Melee vs ranged routing.** Weapons with range ≤ 2" are treated as melee (Parry/Poison/Expert
-  Offence apply); range > 2" as ranged (Expert Marksman; no Parry). Reach weapons used in base
-  contact are an edge case.
 - **Hunter** (Pen-3 vs larger base) is inactive against the 30mm reference targets — annotated only.
 - **AoE/template** spells are scored single-target; multi-target upside is annotation.
 - **Excluded:** Cover, terrain, scenario/objective value, and

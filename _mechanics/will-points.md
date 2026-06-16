@@ -6,10 +6,6 @@ next_doc:
   url: /mechanics/offense-defense/
 ---
 
-Source: derived from rules_core_gameplay.md, rules_abilities.md, all faction files (verified by reading each file)
-
----
-
 ## Core Rules
 
 - Spend up to **2 WP** before any roll: each WP = +1 die
@@ -18,14 +14,25 @@ Source: derived from rules_core_gameplay.md, rules_abilities.md, all faction fil
 
 ---
 
-## Value per WP by Action Type
+## TLDR: What WP is worth (best to worst)
+
+- **On an attack** — the best use. More dice = more hits and more damage; fully boosting a key attack
+  can lift its damage by roughly half.
+- **On casting a spell** — very good: it makes an important spell much more likely to land (and avoids
+  disastrous fumbles).
+- **On a defence (Protection) roll** — okay, but worth less than on an attack.
+- **On a movement or utility roll** — small; rarely worth it.
+
+---
+
+## Detailed maths: Value per WP by Action Type
 
 ### Combat / Ranged Attack — threshold = target DEX
 
 Each bonus die adds **(11 − DEX) / 10** expected damage. WP is most efficient here because DEX is usually below 7.
 
 | Target DEX | E[+Aces per WP] |
-|------------|----------------|
+|------------|-----------------|
 | 4          | +0.70           |
 | 5          | +0.60           |
 | 6          | +0.50           |
@@ -38,9 +45,9 @@ Full +2 WP on ATK 4 vs DEX 4: 2.80 → 4.20 expected Aces (**+50% damage**).
 Each bonus die adds **+0.40** expected LP saved.
 
 | PROT | Base E[LP saved] | +1 WP | +2 WP |
-|------|-----------------|-------|-------|
-| 3    | 1.20            | 1.60  | 2.00  |
-| 4    | 1.60            | 2.00  | 2.40  |
+|------|------------------|-------|-------|
+| 3    | 1.20             | 1.60  | 2.00  |
+| 4    | 1.60             | 2.00  | 2.40  |
 
 WP on defence is worth less per point than on offence vs DEX 4–5 targets.
 
@@ -94,6 +101,7 @@ Very few non-Frenzied models can match this output — WP 4 is rare outside dedi
 ### Vampiric Attack interaction
 
 Each triggering hit refunds X LP. With VA(1) on two boosted attacks:
+
 - Spend 4 LP, recover 2 LP if both connect → **net 2 LP** for a +50% damage turn
 - With VA(2): net 0 LP cost against low-Prot targets
 

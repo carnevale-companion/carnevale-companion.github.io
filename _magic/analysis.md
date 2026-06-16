@@ -24,14 +24,14 @@ The WP budget per game is finite and shared across all magic actions (casting, d
 
 - **Benchmark:** 1 WP per activation is sustainable; 2 WP spells must deliver roughly double value or a unique effect.
 - **Key caveat:** WP is spent whether the spell succeeds or fails. The real cost is `WP / P(success)` — a 1-WP spell at 60% success costs an effective 1.67 WP per cast.
-- **P(success) is a lever, not a constant:** up to 2 additional WP may be committed to the casting roll to raise it (see [will_points_analysis.md](will_points_analysis.md)). This trades raw WP for reliability — a Diff-8 spell sits at ~59% at MIND 4 unboosted but ~83% with +2 WP. Fold the boost into the effective cost: `effective cost = (cast WP + expected boost WP) / P(success at chosen boost)`. A high-Difficulty spell should not be judged at its bare success rate if you would routinely boost it.
+- **P(success) is a lever, not a constant:** up to 2 additional WP may be committed to the casting roll to raise it. This trades raw WP for reliability — a Diff-8 spell sits at ~59% at MIND 4 unboosted but ~83% with +2 WP. Fold the boost into the effective cost: `effective cost = (cast WP + expected boost WP) / P(success at chosen boost)`. A high-Difficulty spell should not be judged at its bare success rate if you would routinely boost it.
 
 ### 2. Difficulty
 
 Sets the per-die Ace threshold: P(Ace) = (11 − Difficulty) / 10. Controls both success rate and the expected number of Aces for scaling effects.
 
 - **Benchmark:** see Difficulty Accessibility table below. Difficulty ≤ 6 is reliable at MIND 4+; Difficulty 7–8 requires MIND 5–6 for consistent performance.
-- Note: Difficulty also governs **dispel exposure**, but counter-intuitively. A Dispel is an Opposed Magic Roll in which the dispelling Mage rolls against the **spell's own Difficulty** as threshold and may count Aces only up to their **Mage(X)** level (rules_magic.md). A **high-Difficulty spell is therefore *harder* to dispel**, not easier — the dispeller generates fewer Aces against a high threshold. The dominant factor is the dispeller's Mage(X) cap: a Mage(1) dispeller subtracts at most 1 die regardless of Difficulty. Model dispel strength as `min(dispeller Mage X, dispeller's expected Aces at the spell's Difficulty)`.
+- Note: Difficulty also governs **dispel exposure**, but counter-intuitively. A Dispel is an Opposed Magic Roll in which the dispelling Mage rolls against the **spell's own Difficulty** as threshold and may count Aces only up to their **Mage(X)** level. A **high-Difficulty spell is therefore *harder* to dispel**, not easier — the dispeller generates fewer Aces against a high threshold. The dominant factor is the dispeller's Mage(X) cap: a Mage(1) dispeller subtracts at most 1 die regardless of Difficulty. Model dispel strength as `min(dispeller Mage X, dispeller's expected Aces at the spell's Difficulty)`.
 
 ### 3. Range
 
@@ -67,7 +67,7 @@ Stat buffs and debuffs scale non-linearly depending on the affected stat and the
 - **+Dexterity:** adds dice to the defence pool. Value depends on attacker's Attack stat.
 - **Stun:** removes the target's next activation entirely (unless they have anti-Stun effects). Equivalent to stealing 1–3 AP.
 - **Stat debuffs (Curse of the Rent, Sunder Armour):** mirror analysis — subtracting from a stat has the same math as adding to the opposing stat.
-- ✅ Buff math uses the real non-leader medians (Attack 3, Dexterity 4, Protection 3): **+Attack** ≈ +(11−Dex)/10 hits per die (≈+0.7 vs Dex 4); **+Protection** ≈ +0.4 LP saved per die (capped by incoming damage); **+Dexterity** ≈ −(attacker Attack × 0.1) damage per attack. See [offense_defense_modifiers.md](offense_defense_modifiers.md).
+- Buff math uses the real non-leader medians (Attack 3, Dexterity 4, Protection 3): **+Attack** ≈ +(11−Dex)/10 hits per die (≈+0.7 vs Dex 4); **+Protection** ≈ +0.4 LP saved per die (capped by incoming damage); **+Dexterity** ≈ −(attacker Attack × 0.1) damage per attack.
 
 ### 7. Scarcity Across Schools
 
@@ -89,7 +89,7 @@ When does the spell's effect resolve?
 Hard constraints on when a spell can be cast at all.
 
 - **Mage-only targets (Holy Light):** effect is zero if no enemy Mages are in range.
-- **Water-only (Ice Lock, Waves of Force):** requires water tiles. The recommended terrain rule of thirds (1/3 water, rules_core_building.md) means water is present in every game, so both spells are relevant — the constraint is positioning, not board availability.
+- **Water-only (Ice Lock, Waves of Force):** requires water tiles. The recommended terrain rule of thirds (1/3 water, 1/3 ground, 1/3 buildings) means water is present in every game, so both spells are relevant — the constraint is positioning, not board availability.
 - **Self-centred template (Kraken's Breath):** caster must be in the fight; cannot be cast safely from range.
 - **Proximity required (Gateway, Madness, Fiery Rhetoric):** ≤1" means base contact or nearly so — the caster is exposed.
 - **Friendly-only / enemy-only:** limits flexibility in spells that would otherwise be versatile.
@@ -264,7 +264,7 @@ Can the effect be achieved without magic, or by a weapon/ability?
 
 **Buff benchmark at X=2:** 1 WP typically grants one strong ability (+2 to a stat, Expert X(2)) to one character until end of next turn. Multi-character or multi-ability buffs cost more or require higher difficulty.
 
-> ⚠ **Universal Shielding is not flat Protection.** US(X) sets a *minimum* Protection floor, capped at the target's **starting** Protection, and only activates when an attacker's Penetration would drop effective Protection below that floor (rules_abilities.md). Protection of the Eye granting "Universal Shielding 5" is **anti-Penetration insurance**, not generic durability: against a no-Penetration attacker on a model already at its starting Protection it contributes **zero**, and the "5" ceiling is only reachable on models whose starting Protection is ≥5. Rate it high specifically against Penetration-heavy threats (Blood Rites, post–Sunder Armour), low otherwise.
+> ⚠ **Universal Shielding is not flat Protection.** US(X) sets a *minimum* Protection floor, capped at the target's **starting** Protection, and only activates when an attacker's Penetration would drop effective Protection below that floor. Protection of the Eye granting "Universal Shielding 5" is **anti-Penetration insurance**, not generic durability: against a no-Penetration attacker on a model already at its starting Protection it contributes **zero**, and the "5" ceiling is only reachable on models whose starting Protection is ≥5. Rate it high specifically against Penetration-heavy threats (Blood Rites, post–Sunder Armour), low otherwise.
 
 ---
 

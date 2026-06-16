@@ -8,57 +8,25 @@ prev_doc:
 
 Sources: Carnevale Rulebook p36-40 + After Party Rulebook p44-48 + FAQ & Errata v1.3
 
-**Stacking**: special rules with (X) stack up to a maximum of **3**, unless otherwise noted. Stats can stack up to 10.
-
-## Tags
-
-| Tag | Meaning |
-|-----|---------|
-| `[DAMAGE]` | Increases damage output or reduces attacker reliability |
-| `[RESISTANCE]` | Reduces damage taken, improves survivability |
-| `[CONTROL]` | Repositioning, denial, status effects on opponents |
-| `[RESOURCE]` | AP / WP / LP / CP generation or conversion |
-| `[MOVEMENT]` | Movement enhancement or restriction |
-| `[MAGIC]` | Spell casting, dispelling, magic interaction |
-| `[SCENARIO]` | Objective interaction, deployment, VP scoring |
-| `[WATER]` | Water-specific mechanics |
-
-### Probability reference
-
-Attack Roll (Combat/Ranged) threshold = **target's DEX** (not a fixed 7+):
-
-| Target DEX | P(Ace per die) | P(Fail) |
-|------------|---------------|---------|
-| 3          | 80%           | 20%     |
-| 4          | 70%           | 30%     |
-| 5          | 60%           | 40%     |
-| 6          | 50%           | 50%     |
-| 7          | 40%           | 60%     |
-| 8          | 30%           | 70%     |
-
-All other rolls (Protection, MIND, Grapple, Drown, spell casting) use **7+**: P(Ace) = 0.40, P(Fail) = 0.60.
-
-Destiny Die is never re-rolled.
-
-**Will Points do not replenish per round** (unlike AP). A model with WP N and no replenishment source has exactly **N bonus dice** total across the entire game. Separately, the per-roll cap is 2: at most 2 dice added to any single roll. WP 2 = 2 bonus dice — one fully boosted roll (+2 dice) or two minimally boosted rolls (+1 die each).
+**Stacking**: special rules with (X) stack up to a maximum of **3**. If a character with Expert Offence (2) would gain another Expert Offence (2), they end up with Expert Offence (3). If a rule would grant a value above 3, only the highest value is used. Stats, however, can stack up to 10.
 
 ---
 
 ## Character Abilities
 
-### Acrobatic (X) `[MOVEMENT]`
+### Acrobatic (X)
 
 This character may re-roll up to (X) dice when making a DEXTERITY roll as part of any Move/Climb or Jump action.
 
 ---
 
-### Aerial Attack `[MOVEMENT]` `[DAMAGE]`
+### Aerial Attack
 
 This character does not lose Life Points from falling, provided it makes a charge from above.
 
 ---
 
-### Berserk `[RESOURCE]` `[DAMAGE]`
+### Berserk
 
 If this character has 5 or fewer Life Points remaining at the start of its turn → gains **+1 Action Point** and **+1 ATTACK** for that turn.
 
@@ -66,7 +34,7 @@ If this character has 5 or fewer Life Points remaining at the start of its turn 
 
 ---
 
-### Boat Crew `[RESOURCE]` `[WATER]`
+### Boat Crew
 
 This character may be set up on a Boat at the start of the game. Replenishes **1 Will Point** at the start of its turn if it is on a Boat.
 
@@ -74,13 +42,13 @@ Additionally, if at least 1 character with the Boat Crew ability is currently on
 
 ---
 
-### Brave `[RESISTANCE]`
+### Brave
 
 This character automatically succeeds when making a Basic MIND roll triggered by the **Fear** ability.
 
 ---
 
-### Brawler (X) `[DAMAGE]`
+### Brawler (X)
 
 This character modifies its ATTACK by (X) when in base contact with **2 or more opponents**.
 
@@ -95,7 +63,7 @@ This character modifies its ATTACK by (X) when in base contact with **2 or more 
 
 ---
 
-### Bodyguard (X) `[CONTROL]` `[RESISTANCE]`
+### Bodyguard (X)
 
 (X) may be a character name or a keyword.
 
@@ -105,23 +73,23 @@ If an enemy character charges (X), this character may immediately make an out of
 
 ---
 
-### Bulky `[SCENARIO]`
+### Bulky
 
 This character does not gain any benefit from being in cover, and cannot make **Hide** actions.
 
 ---
 
-### Companion (X) `[RESOURCE]`
+### Companion (X)
 
 (X) may be a character name or a keyword.
 
-If this character can draw line of sight to another (X) character at the start of their turn → replenishes **1 Will Point**.
+If this character can draw line of sight to another (X) character at the start of their turn, it replenishes **1 Will Point**.
 
-In addition, while in line of sight of another (X) character, they use that character's MIND value instead of their own (even if it is lower). If more than one (X) character is in line of sight, use the highest MIND value.
+In addition, while in line of sight of another (X) character, they **must** use that character's MIND value instead of their own (even if it is lower). If more than one (X) character is in line of sight, use the highest MIND value.
 
 ---
 
-### Concealment (X) `[RESISTANCE]`
+### Concealment (X)
 
 While in cover this character modifies its PROTECTION by (X).
 
@@ -137,7 +105,7 @@ Each Prot die saves 1 LP per Ace (7+, 40%). E[+LP saved per Damage] = X × 0.40.
 
 ---
 
-### Engage `[CONTROL]`
+### Engage
 
 This character automatically wins the Opposed Roll when an enemy character disengages from them, and so always gets to make an Attack of Opportunity.
 
@@ -145,7 +113,7 @@ This character automatically wins the Opposed Roll when an enemy character disen
 
 ---
 
-### Ethereal `[MOVEMENT]` `[WATER]`
+### Ethereal
 
 This character may ignore all terrain while moving, but cannot end its turn or make any other actions while "inside" Impassable Terrain.
 
@@ -153,7 +121,7 @@ This character may ignore all terrain while moving, but cannot end its turn or m
 
 ---
 
-### Expert Grappler (X) `[CONTROL]`
+### Expert Grappler (X)
 
 This character may re-roll up to (X) dice when making or defending against a **Grapple** or **Drown** action.
 
@@ -165,7 +133,7 @@ Applies symmetrically when defending — same expected gain on the Opposed Roll.
 
 ---
 
-### Expert Marksman (X) `[DAMAGE]`
+### Expert Marksman (X)
 
 This character may re-roll up to (X) dice when making a **Combat** action while **not** in base contact with the target.
 
@@ -182,17 +150,17 @@ This character may re-roll up to (X) dice when making a **Combat** action while 
 
 > ⚠ **Re-roll availability cap.** The `EM(2)` / `E[+Aces per re-roll]` columns assume every re-roll lands on a **failed, re-rollable** die — but two limits apply. (1) You can only re-roll dice that *failed*. (2) The **Destiny die can never be re-rolled** (core rule), so the re-rollable pool is only **Attack − 1** dice, not Attack. So usable re-rolls = `E[min(X, failures)]`, where failures ~ Binomial(Attack − 1, 1 − P(Ace)), and gain = usable re-rolls × P(Ace). `X × per-die-rate` is a **ceiling**, approached only when Attack ≫ X. Worked example at **Attack 4 / DEX 4** (re-rollable = 3 dice, failures ~ Binomial(3, 0.3), mean 0.9):
 >
-> | Ability | Naive (X × 0.70) | Actual (Destiny-excluded, availability-capped) |
-> |---------|------------------|------------------------------------------------|
-> | EO/EM(1) | +0.70 | **+0.46** |
-> | EO/EM(2) | +1.40 | **+0.61** |
-> | EO/EM(3) | +2.10 | **+0.63** |
+> | Ability  | Naive (X × 0.70) | Actual (Destiny-excluded, availability-capped) |
+> |----------|------------------|------------------------------------------------|
+> | EO/EM(1) | +0.70            | **+0.46**                                      |
+> | EO/EM(2) | +1.40            | **+0.61**                                      |
+> | EO/EM(3) | +2.10            | **+0.63**                                      |
 >
 > The overstatement is largest when X approaches or exceeds Attack − 1 (a 3-die re-rollable pool rarely produces 3 failures, and EO(3) barely beats EO(2)). The cap loosens for high-Attack models. Apply the capped value when scoring offense, not the naive product.
 
 ---
 
-### Expert Offence (X) `[DAMAGE]`
+### Expert Offence (X)
 
 This character may re-roll up to (X) dice when making a **Combat** action while **in base contact** with the target.
 
@@ -204,7 +172,7 @@ At DEX 4 (very common), **before** the re-roll availability cap: EO(1) = +0.70; 
 
 ---
 
-### Expert Protection (X) `[RESISTANCE]`
+### Expert Protection (X)
 
 This character may re-roll up to (X) dice when making a **Protection Roll**.
 
@@ -216,7 +184,7 @@ Same re-roll availability cap as EO/EM applies: only **failed, non-Destiny** Pro
 
 ---
 
-### Expert Sorcerer (X) `[MAGIC]`
+### Expert Sorcerer (X)
 
 This character may re-roll up to (X) dice when making a **Cast Spell** action or **Dispelling** a magic spell.
 
@@ -236,13 +204,13 @@ Additional spells known = larger selection at gang-building. Also applies to Dis
 
 ---
 
-### Fast Swimmer (X) `[WATER]` `[MOVEMENT]`
+### Fast Swimmer (X)
 
 If this character starts a **Run/Climb** action **in water**, it adds (X) inches to its MOVE for that action (even if it leaves water during the action).
 
 ---
 
-### Fear (X) `[DAMAGE]`
+### Fear (X)
 
 When this character makes a **Combat** action, the target must first make a Basic MIND Roll, with their MIND value modified by (X), to a minimum of 1. If they roll at least 1 Ace (on a 7+ as normal) → no effect. If they roll **no Aces** → this character may re-roll all failed dice rolls for the Combat action.
 
@@ -263,7 +231,7 @@ When triggered: re-roll ALL failed Combat dice. Each re-rolled failure adds (11 
 
 ---
 
-### First Strike (X) `[DAMAGE]`
+### First Strike (X)
 
 This character modifies its ATTACK by (X) when making an **Attack of Opportunity from charging**.
 
@@ -271,7 +239,7 @@ This character modifies its ATTACK by (X) when making an **Attack of Opportunity
 
 ---
 
-### Flight `[MOVEMENT]` `[RESISTANCE]`
+### Flight
 
 When this character makes a Run/Climb action, it may instead **Fly**: measure from the character to any other point within its MOVE (horizontally, vertically, or diagonally) and move it without making a DEXTERITY roll. It cannot make any actions while "mid-air" other than further Fly actions, and if it ends its turn "mid-air" it will fall from that spot. Additionally, this character takes **2 less Damage** from falling.
 
@@ -279,7 +247,7 @@ When this character makes a Run/Climb action, it may instead **Fly**: measure fr
 
 ---
 
-### Frenzied `[RESOURCE]`
+### Frenzied
 
 This character may use its Life Points as if they were Will Points.
 
@@ -289,11 +257,11 @@ This character may use its Life Points as if they were Will Points.
 
 Two fully boosted attacks (2 LP per attack = 4 LP total):
 
-| Profile | Base E[Aces/attack] | +2 LP E[Aces/attack] | Gain | LP cost |
-|---|---|---|---|---|
-| ATK 3 vs DEX 4 | 2.10 | 3.50 | +67% | 4 LP |
-| ATK 4 vs DEX 4 | 2.80 | 4.20 | +50% | 4 LP |
-| ATK 4 vs DEX 5 | 2.40 | 3.60 | +50% | 4 LP |
+| Profile        | Base E[Aces/attack] | +2 LP E[Aces/attack] | Gain | LP cost |
+|----------------|---------------------|----------------------|------|---------|
+| ATK 3 vs DEX 4 | 2.10                | 3.50                 | +67% | 4 LP    |
+| ATK 4 vs DEX 4 | 2.80                | 4.20                 | +50% | 4 LP    |
+| ATK 4 vs DEX 5 | 2.40                | 3.60                 | +50% | 4 LP    |
 
 A WP 3 character with no replenishment has 3 bonus dice for the whole game. A Frenzied character at LP 15 has the equivalent of 15 bonus dice available, at the cost of HP attrition — a 5× larger pool, capped at 2 per roll.
 
@@ -301,7 +269,7 @@ With Vampiric Attack(1) on both attacks: recover 2 LP if both connect → net co
 
 ---
 
-### Hunter `[DAMAGE]`
+### Hunter
 
 This character gains **Penetration -3** on its weapons (but **not** on Unarmed attacks) when targeting an enemy with a **larger base size**.
 
@@ -309,13 +277,13 @@ This character gains **Penetration -3** on its weapons (but **not** on Unarmed a
 
 ---
 
-### Infiltration `[SCENARIO]`
+### Infiltration
 
 This character may be deployed more than 3" above or below ground level at the start of the game, but **not** in water unless specified.
 
 ---
 
-### Limited Movement `[MOVEMENT]`
+### Limited Movement
 
 - Maximum **2"** of movement in a single action when in water
 - Maximum **2" vertically** up or down in a single Run/Climb action
@@ -326,15 +294,15 @@ This character may be deployed more than 3" above or below ground level at the s
 
 ---
 
-### Mage (X) `[MAGIC]`
+### Mage (X)
 
 This character is a Mage and knows (X) number of magic spells. A character with Mage (0) knows only the Cantrip from their chosen discipline.
 
-→ See `rules_magic.md` for the complete magic system.
+→ See magic section for the complete magic system.
 
 ---
 
-### Mindless `[SCENARIO]`
+### Mindless
 
 This character may interact with Objectives as normal (carrying, revealing, claiming, or destroying), but is **ignored** when scoring Victory Points for Primary Objectives at the end of the game. It can still score Victory Points through Agendas, killing enemies, or surviving.
 
@@ -342,7 +310,7 @@ This character may interact with Objectives as normal (carrying, revealing, clai
 
 ---
 
-### Parry (X) `[RESISTANCE]`
+### Parry (X)
 
 When this character becomes the target of a Combat action **while in base contact with the attacker**, may force the opponent to re-roll up to (X) dice from the Attack Roll.
 
@@ -353,19 +321,19 @@ Note: the attacker may also choose to re-roll some of their dice. A die may neve
 E[Aces removed per forced re-roll] = P(die fails at threshold DEX d) = (d − 1) / 10:
 
 | Own DEX | Attacker P(Ace) | E[Aces removed per die] |
-|---------|----------------|-------------------------|
-| 3       | 80%            | 0.20                    |
-| 4       | 70%            | 0.30                    |
-| 5       | 60%            | 0.40                    |
-| 6       | 50%            | 0.50                    |
-| 7       | 40%            | 0.60                    |
-| 8       | 30%            | 0.70                    |
+|---------|-----------------|-------------------------|
+| 3       | 80%             | 0.20                    |
+| 4       | 70%             | 0.30                    |
+| 5       | 60%             | 0.40                    |
+| 6       | 50%             | 0.50                    |
+| 7       | 40%             | 0.60                    |
+| 8       | 30%             | 0.70                    |
 
 Parry is least effective on low-DEX characters (re-rolled Aces likely succeed again) and most effective on high-DEX characters (each Ace is rare; forcing a re-roll is high-value). Attacker with Expert Offence can re-roll the newly failed die — Parry + EO partially cancel.
 
 ---
 
-### Pickpocket `[SCENARIO]` `[RESOURCE]` `[CONTROL]`
+### Pickpocket
 
 If this character successfully disengages → its opponent loses 1 Will Point and this character automatically takes any Mobile Objective the opponent is carrying.
 
@@ -373,7 +341,7 @@ At the end of the action, this character or any friendly character within 3" rep
 
 ---
 
-### Primitive `[CONTROL]`
+### Primitive
 
 At the start of this character's turn, it must make a Basic MIND Roll. If it rolls **no Aces** → receives a **Stunned counter**.
 
@@ -390,7 +358,7 @@ Stun effect: −1 MOVE/ATK/DEX/MIND (min 1 each) for that turn. In water: +2 LP 
 
 ---
 
-### Slippery `[MOVEMENT]` `[CONTROL]`
+### Slippery
 
 This character automatically wins the Opposed Roll when disengaging, and so never gets hit by an Attack of Opportunity.
 
@@ -398,7 +366,7 @@ This character automatically wins the Opposed Roll when disengaging, and so neve
 
 ---
 
-### Universal Shielding (X) `[RESISTANCE]`
+### Universal Shielding (X)
 
 This character always has a minimum PROTECTION of (X), after all modifiers. This special rule can stack higher than 3, but cannot take a character's PROTECTION value above its starting number.
 
@@ -406,12 +374,12 @@ This character always has a minimum PROTECTION of (X), after all modifiers. This
 
 US(X) is active only when a weapon's Pen reduces effective Prot below X. Activation threshold: |pen| > base\_Prot − X.
 
-| US | base\_Prot | pen=−1 | pen=−2 | pen=−3 | pen=−4 |
-|----|-----------|--------|--------|--------|--------|
-| 2  | 3         | 2 (—)  | **2** (+1) | **2** (+2) | **2** (+2) |
-| 2  | 4         | 3 (—)  | 2 (—)  | **2** (+1) | **2** (+2) |
-| 3  | 4         | 3 (—)  | **3** (+1) | **3** (+2) | **3** (+3) |
-| 3  | 6         | 5 (—)  | 4 (—)  | 3 (—)  | **3** (+1) |
+| US | base\_Prot | pen=−1 | pen=−2     | pen=−3     | pen=−4     |
+|----|------------|--------|------------|------------|------------|
+| 2  | 3          | 2 (—)  | **2** (+1) | **2** (+2) | **2** (+2) |
+| 2  | 4          | 3 (—)  | 2 (—)      | **2** (+1) | **2** (+2) |
+| 3  | 4          | 3 (—)  | **3** (+1) | **3** (+2) | **3** (+3) |
+| 3  | 6          | 5 (—)  | 4 (—)      | 3 (—)      | **3** (+1) |
 
 Bold = US is active; (+N) = Prot dice restored by US. (—) = pen doesn't reduce Prot below X.
 
@@ -419,7 +387,7 @@ E[LP saved per Prot die restored] = 0.40. E.g. US(3) vs Pen−3 on base\_Prot 4:
 
 ---
 
-### Vampiric Attack (X) `[RESOURCE]` `[DAMAGE]`
+### Vampiric Attack (X)
 
 If this character makes a **Combat** action while **in base contact** with its target that causes the target to lose at least 1 Life Point → replenishes (X) of its own Life Points.
 
@@ -428,6 +396,7 @@ If this character makes a **Combat** action while **in base contact** with its t
 **Math**: heals exactly X LP per triggering Combat action (once per action, not per Ace). Trigger requires ≥1 LP lost by target.
 
 P(trigger) = P(≥1 Ace) × P(Prot Roll fails to save all Aces):
+
 - vs Prot 0 targets: P(trigger) ≈ 1 − (1 − P\_ace)^ATK (quickly >90% at ATK 3–4)
 - vs Prot 3, DEX 4: reliable at ATK 4+ (multiple Aces expected, saving all unlikely)
 - vs US targets: trigger can fail even on a hit if all Damage is absorbed
@@ -436,7 +405,7 @@ VA(2) sustained over 3+ activations can offset significant LP loss (6+ LP recove
 
 ---
 
-### Water Creature `[WATER]` `[MOVEMENT]`
+### Water Creature
 
 - Moves its full MOVE in water (no -2" reduction)
 - May move up to **8"** as part of a Dive action (instead of 4" per Underwater Counter)
@@ -449,13 +418,13 @@ VA(2) sustained over 3+ activations can offset significant LP loss (6+ LP recove
 
 ## Weapon Abilities
 
-### Aquatic `[WATER]`
+### Aquatic
 
 This weapon can be used while the attacker is in water.
 
 ---
 
-### Black Powder `[WATER]`
+### Black Powder
 
 This weapon cannot be used if a character starts its turn in water.
 
@@ -463,13 +432,13 @@ In addition, a character using this weapon loses **1 additional Life Point** whe
 
 ---
 
-### Blast `[DAMAGE]`
+### Blast
 
 Uses the round blast marker. Place the blast marker centred over the target. Roll once for your Attack Roll and apply the roll to every individual character (friendly and enemy) under the template.
 
 ---
 
-### Harmless `[CONTROL]`
+### Harmless
 
 A character cannot cause any Damage when using this weapon, but still follows normal rules for making Combat actions (including AoOs, Fumbles, etc.).
 
@@ -477,37 +446,37 @@ A character cannot cause any Damage when using this weapon, but still follows no
 
 ---
 
-### Knockback `[CONTROL]`
+### Knockback
 
 If a character takes Damage from this weapon (whether they lose Life Points or not) → they are moved **2" horizontally** directly away from the attacker. This movement does not count as charging or disengaging, and cannot cause Attacks of Opportunity.
 
 ---
 
-### Poisoned `[DAMAGE]`
+### Poisoned
 
 If a character loses at least 1 Life Point from this weapon → that character must roll **1 die**. On a **7+**: shrug off the poison. On **1-6**: lose extra Life Points depending on their Base Size:
 
 | Base Size | Extra LP lost |
-|-----------|--------------|
-| 30mm | 3 LP |
-| 40mm | 4 LP |
-| 50mm | 5 LP |
-| 60mm+ | 6 LP |
+|-----------|---------------|
+| 30mm      | 3 LP          |
+| 40mm      | 4 LP          |
+| 50mm      | 5 LP          |
+| 60mm+     | 6 LP          |
 
 **Math**: P(poison triggers) = 0.60. Extra LP loss is direct (no Protection Roll).
 
 | Base Size | Extra LP (if triggered) | E[extra LP] |
-|-----------|------------------------|-------------|
-| 30mm      | 3                      | 1.8         |
-| 40mm      | 4                      | 2.4         |
-| 50mm      | 5                      | 3.0         |
-| 60mm+     | 6                      | 3.6         |
+|-----------|-------------------------|-------------|
+| 30mm      | 3                       | 1.8         |
+| 40mm      | 4                       | 2.4         |
+| 50mm      | 5                       | 3.0         |
+| 60mm+     | 6                       | 3.6         |
 
 Bypasses all Prot and Universal Shielding. Highly efficient against large-base targets.
 
 ---
 
-### Reload (X) `[RESOURCE]`
+### Reload (X)
 
 This weapon may only be used for up to **(X) Combat actions in each round**.
 
@@ -517,13 +486,13 @@ A character in base contact with an enemy may only use this weapon (X) number of
 
 ---
 
-### Smoke `[CONTROL]` `[RESISTANCE]`
+### Smoke
 
 Any character hit by this weapon counts as being in cover until the end of the round and gains a **Hidden counter**. If this weapon also has the Blast ability, any character under the marker is affected. Remove the marker at the end of the round.
 
 ---
 
-### Stun `[CONTROL]` `[DAMAGE]`
+### Stun
 
 If a character takes Damage from this weapon (whether they lose Life Points or not) → they receive a **Stunned counter**.
 
@@ -536,42 +505,21 @@ If a character takes Damage from this weapon (whether they lose Life Points or n
 Water interaction: 2 LP direct loss bypasses all Prot and US. Equivalent effective Damage at common Prot values (E[LP lost from D Damage] = D − Prot × 0.40 for D ≥ Prot, so D such that D − Prot × 0.40 = 2):
 
 | Target Prot | Effective Damage equivalent of 2 LP direct |
-|-------------|---------------------------------------------|
-| 0           | 2.0                                         |
-| 3           | 3.2                                         |
-| 6           | 4.4                                         |
+|-------------|--------------------------------------------|
+| 0           | 2.0                                        |
+| 3           | 3.2                                        |
+| 6           | 4.4                                        |
 
 Stun near water is disproportionately effective against high-Prot models (Hospitaller, Constructs, Full Plate leaders). The stat reduction also cascades: −1 DEX = harder to hit for melee targets; −1 ATK = lower damage output.
 
 ---
 
-### Template `[DAMAGE]`
+### Template
 
 Uses the teardrop-shaped template. Trace a line between the attacker and the target. Place the template with the centre on the line with the small end of the template in range of the weapon (base contact with the attacker if the range is 0"), and the large end further away from the attacker. Any character at least partly touched by the template (friendly or enemy) is affected by the attack. Roll once for your Attack Roll and apply the roll to every individual character hit.
 
 ---
 
-### Two-handed `[DAMAGE]`
+### Two-handed
 
 This weapon increases its **Evasion by +1** when making an Attack of Opportunity.
-
----
-
-## Key FAQ Interaction Summary
-
-| Situation | Ruling |
-|-----------|--------|
-| Expert Offence on Grapple/Drown | NO — Combat in base contact only |
-| Expert Offence on ranged attack | NO — base contact only |
-| Expert Marksman in base contact | NO — out of base contact only |
-| Vampiric Attack on Grapple/Drown | NO — Combat only |
-| Vampiric Attack on ranged attack | NO — base contact only |
-| Concealment replaces cover | NO — adds/subtracts from existing modifier |
-| Water Creature + Stunned in water | YES — still loses 2 LP |
-| Mindless + Primary Objective scoring | Does NOT count for Primary Objective scoring |
-| Mindless + Agendas/kills/survival | CAN score normally |
-| Ethereal + water | Ignores water penalties |
-| Jumps + Limited Movement | Jumps NOT affected |
-| Disengage + Limited Movement | Disengage itself NOT affected; subsequent movement is |
-| Stacking cap | Maximum 3 for (X) rules; stats up to 10 |
-| Attack Roll threshold | DEX-dependent (not 7+); Grapple/Drown/Prot/MIND = 7+ |
