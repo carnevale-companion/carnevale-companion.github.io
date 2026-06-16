@@ -40,7 +40,7 @@ collections:
 # ── Front matter defaults ──────────────────────────────────────────────
 defaults:
   - scope: { type: rules }
-    values: { layout: doc, section: rules }
+    values: { layout: doc, section: compendium }
   - scope: { type: mechanics }
     values: { layout: doc, section: mechanics }
   - scope: { type: magic }

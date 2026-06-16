@@ -9,7 +9,8 @@
     </a>
 
     <nav class="main-nav" id="main-nav" aria-label="Main navigation">
-      <a href="{{ '/rules/' | relative_url }}"{% if page.section == 'rules' %} class="active" aria-current="page"{% endif %}>Rules Reference</a>
+      <a href="{{ '/rules/' | relative_url }}"{% if page.section == 'hyperlinked_rules' %} class="active" aria-current="page"{% endif %}>Hyperlinked Rules</a>
+      <a href="{{ '/rules/abilities/' | relative_url }}"{% if page.section == 'compendium' %} class="active" aria-current="page"{% endif %}>Compendium</a>
       <a href="{{ '/mechanics/' | relative_url }}"{% if page.section == 'mechanics' %} class="active" aria-current="page"{% endif %}>Game Mechanics</a>
       <a href="{{ '/magic/' | relative_url }}"{% if page.section == 'magic' %} class="active" aria-current="page"{% endif %}>Magic</a>
       <a href="{{ '/factions/' | relative_url }}"{% if page.section == 'factions' %} class="active" aria-current="page"{% endif %}>Factions</a>

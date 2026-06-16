@@ -2,24 +2,28 @@
 {% if sec %}
 <nav class="sidebar-nav" aria-label="Section navigation">
 
-  {% if sec == 'rules' %}
+  {% if sec == 'hyperlinked_rules' %}
     <div class="sidebar-section">
-      <p class="sidebar-section-title">Rules Reference</p>
+      <p class="sidebar-section-title">Hyperlinked Rules</p>
       <ul>
-        {% if page.toc %}
-          {% for item in page.toc %}
-          <li><a href="#{{ item.anchor }}">{{ item.title }}</a></li>
-          {% endfor %}
-        {% else %}
-          {% assign sec_pages = site.rules | sort: "nav_order" %}
-          {% for p in sec_pages %}
-          <li>
-            <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
-              {{ p.title }}
-            </a>
-          </li>
-          {% endfor %}
-        {% endif %}
+        {% for item in page.toc %}
+        <li><a href="#{{ item.anchor }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  {% elsif sec == 'compendium' %}
+    <div class="sidebar-section">
+      <p class="sidebar-section-title">Compendium</p>
+      <ul>
+        {% assign compendium_pages = site.rules | where_exp: "p", "p.section != 'hyperlinked_rules'" | sort: "nav_order" %}
+        {% for p in compendium_pages %}
+        <li>
+          <a href="{{ p.url | relative_url }}"{% if page.url == p.url %} class="active" aria-current="page"{% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endfor %}
       </ul>
     </div>
 

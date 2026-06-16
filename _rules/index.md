@@ -2,6 +2,8 @@
 title: Rules Reference
 description: Complete rules reference for Carnevale v2.2, with official FAQ & Errata v1.3 integrated.
 nav_order: 1
+section: hyperlinked_rules
+permalink: /rules/
 toc:
   - title: Character Profiles
     anchor: character-profiles
