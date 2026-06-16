@@ -4,20 +4,18 @@ description: Complete rules reference for Carnevale v2.2, with official FAQ & Er
 nav_order: 1
 permalink: /rules/
 toc:
-  - title: Character Profiles
-    anchor: character-profiles
   - title: The Golden Rule
     anchor: the-golden-rule
-  - title: Rounds & Turns
-    anchor: rounds-and-turns
-  - title: Measuring
-    anchor: measuring
-  - title: Weapons
-    anchor: weapons
   - title: Dice Rolls
     anchor: dice-rolls
+  - title: Measuring
+    anchor: measuring
+  - title: Character Profiles
+    anchor: character-profiles
   - title: AP, WP & CP
     anchor: ap-wp-and-cp
+  - title: Rounds & Turns
+    anchor: rounds-and-turns
   - title: Actions
     anchor: actions
   - title: Magic
@@ -43,148 +41,6 @@ toc:
 Carnevale is a narrative led skirmish game. The core rules are designed to make the game fun, fast-paced, and easy to understand. However, the story element of Carnevale should never be overlooked. It is a game of daring acrobatics, vicious combat, and eldritch magic. When playing, always remember the Golden Rule: the **object** of the game is to win, but the **point** of the game is for both players to have fun.
 
 When weaving your own story on the tabletop, it's good practice to allow your opponent a little leeway, whether measuring line of sight, planning their actions, or any number of other options that come up during a game. It is much more important for a move to be cinematic than for it to stick to the letter of the rules.
-
----
-
-## Character Profiles
-
-Each model in Carnevale is referred to as a character. Each character has a series of attributes and abilities to traverse the dangerous city and fight off would-be attackers. These are documented on a character's profile.
-
-**All character profiles can be found at the [TTCombat website](https://ttcombat.com/pages/carnevale-resources)**
-
-### Size and Cost
-
-**Size** - The diameter of a character’s base size is listed here in millimetres.
-
-**Cost** - How many Ducats this character costs to include in a gang.
-
-### Points
-
-Points are a finite resource for each character; lost and sometimes replenished throughout the game. Points can never be lower than 0 or go above its starting number. Points are split into the following four categories:
-
-**Action Points** – Action Points (often AP) are the number of actions a character may make each turn. A character may never use more than 3 Action Points in each character turn. AP are replenished each round.
-
-**Life Points** – Life Points (LP) are the amount of damage a character can take. Whenever a character takes 1 Damage, subtract 1 Life Point from its character profile. Once a character is reduced to 0 Life Points, it is removed from the game as a casualty.
-
-**Will Points** – Will Points (WP) are used to boost a character's actions during the game, or cast magic spells.
-
-**Command Points** – Characters with Command Points (CP) are able to spend them to command friendly characters to greater feats of daring. Making out of sequence actions and Command Abilities are just two of their uses. Command Points are also used to determine which player gets to have the first turn in each round.
-
-### Statistics
-
-Statistics are used to gauge how skilled a character is in different aspects of combat. Statistics (often stats) are used to roll dice against. You may be instructed to modify a character's statistics in a game. A character may never have a statistic lower than 0 or higher than 10.
-
-**MOVE** – How far a character can move. Each point equals 1" of movement.
-
-**DEXTERITY** – A character's ability to make special movement actions and avoid attacks. Each point equals a single dice, and the total number is the number your opponent must roll equal to or above in order to hit with a Combat attack.
-
-**ATTACK** – A character's skill at both ranged and melee combat. Each point equals a single dice.
-
-**PROTECTION** – A character's defence, both natural and via equipment it fights with. Whenever a character takes Damage, it rolls a number of dice equal to its PROTECTION value. Protection can reduce Damage to a minimum of 0, showing that the attack is not powerful enough or the target is especially well armoured.
-
-**MIND** – A character's ability to use its mental faculties. Each point equals a single dice. Mind values are mostly used for casting magic.
-
-### Weapons {#profile-weapons}
-
-A character may have several different weapons on their character profile. For each Combat action, choose one weapon to use and follow its rules. **All characters may make Unarmed attacks.** These simply count as an additional weapon the character can choose from even if it isn't on their character profile.
-
-| Weapon | Range | Evasion | Damage | Penetration | Abilities |
-|---|---|---|---|---|---|
-| Unarmed | 0" | — | — | +1 | — |
-
-- **Weapon:** The weapon's name is displayed here.
-- **Range:** Each weapon has a range value. This value shows the effective distance in inches that this weapon can be used on the tabletop. If the target is within the weapon's range, you may use that weapon to attack. **Weapons with a range of 0" may only be used against enemies in base contact.**
-- **Evasion:** How accurate the weapon is. This number will modify the **target's DEXTERITY** for the attack. A plus gives the target a bonus if the weapon is less likely to hit (like a pistol), and a minus gives them a negative if the weapon is extremely accurate (like a rapier). A dash means the **target's DEXTERITY** is unmodified. Multiple sources can modify this amount, simply add all sources together to determine the final modifier.
-- **Damage:** How much extra damage a weapon does. This number will modify the amount of Damage a **Successful** or **Critical** attack does. Note that this modifier has no effect on a **Failed** or **Fumbled** roll – you have to hit for the sword to do extra damage! A dash means that the Damage result is unaffected.
-- **Penetration:** How good the weapon is at breaking through armour. This number will modify the **target's PROTECTION** for the attack. A weapon with a minus negatively affects their armour (like when using a musket), and one with a plus positively affects it (such as unarmed attacks). A dash means the target's **PROTECTION** is unmodified. Multiple sources can modify this amount, simply add all sources together to determine the final modifier.
-- **Abilities:** Some weapons have different special rules that apply to them (such as Aquatic meaning the weapon can be used when in water). See the [Weapon Abilities](#weapon-abilities) section for more information.
-
-If a character has weapons separated by "OR", you must choose which option that character has before the game starts, and may not change the option during the game.
-
-### Keywords
-
-Here are descriptors that define the character, such as *Doctor, Monster* etc. Certain special rules will only affect a character with certain keywords, but they have no effect on their own.
-
-### Abilities
-
-All of the character's special abilities are listed here. There are universal Character Abilities listed in the [Character Abilities](#character-abilities) section of this page, but many characters have unique abilities.
-
----
-
-## Rounds & Turns {#rounds-and-turns}
-
-A game of Carnevale is divided into game rounds, which are then divided into character turns (older publications may refer to character turns as activations). Once all characters have had a turn, a new round begins.
-
-### Initiative
-
-To determine which player gets the first character turn at the start of each game round, each player rolls a number of dice equal to the **current remaining Command Points** of any one friendly character. Total up the number of 7+ results. The player with the most takes the initiative. If the result is a tie, simply re-roll the dice. Initiative rolls are not able to be modified, re-rolled through abilities, or altered.
-
-If a player doesn't have any characters with remaining Command Points, they automatically lose the roll. If no players have any characters with remaining Command Points, all players simply roll a single dice each. The player with the highest roll takes initiative.
-
-Starting with the player who took the initiative, each player chooses a single character to have a turn. Keep moving clockwise around the board until all players' characters have had a turn. Each character may only have one turn per game round. In a character's turn it uses various actions according to how many Action Points it has (see Action Points for more details). A player may choose when to end a character's turn, and doesn't have to use any actions if they don't want to.
-
-Once all character turns are over, the game round ends. At that point players resolve any effects that last until the game round ends, proceeding in initiative order if needed. Players then check for victory conditions according to the scenario. If no player has won, then another game round begins, and initiative is rolled again as above.
-
----
-
-## Measuring
-
-Carnevale measures its distances in inches, noted with inverted commas (for example 6 inches is 6"). You are allowed to measure distances at any time. To calculate a distance, measure the space directly between the two closest points – this can be horizontally, diagonally, or vertically!
-
-When measuring to or from characters, always measure from the closest part of their base. Base sizes are listed on a character's profile sheet as diameter in millimetres.
-
-<div class="callout">
-<p class="callout-title">Measuring & Moving With Terrain</p>
-<p>Players should ignore all terrain up to 1" high for the purposes of measuring, judging line of sight, and moving.</p>
-</div>
-
-### Line of Sight
-
-Carnevale uses true line of sight. To check if a character has line of sight to another character, draw a straight line between the miniatures. The easiest way to do this is to get close to the character itself for a "miniature's eye view" of its surroundings. If any part of a character's body or head can see any part of another character's body or head, then it is in line of sight.
-
-### Cover
-
-If at least 25% of an enemy character is covered in some way (including arms, legs, weapons etc), the enemy counts as being in cover and gains +1 PROTECTION.
-
-In some situations it will be trickier to tell if a character is in cover. In these situations if the players cannot come to a decision, the character being attacked always counts as being in cover.
-
-**A character in base contact with its attacker is never counted as in cover. A character in water is always counted as being in cover when not in base contact with their attacker.**
-
-### Friendly & Enemy Characters
-
-Any character in your gang is a friendly character, and any in allied or opposing gangs are enemy characters (yes you can turn on your allies!).
-
-When abilities say they affect any or every friendly character, that does include the character using the ability, provided they are the target, or in range of the ability. However, some abilities may specify that the character using the ability is unaffected.
-
-### Base Contact
-
-Characters must be in base contact with each other to use certain attacks and abilities. Characters are in base contact when their bases are touching. An enemy character does **not** count as being in cover if it is attacked when in base contact.
-
-Note that due to small walls or other terrain features in Carnevale, there may be some height discrepancies. Miniatures are assumed to be in base contact if there is 1" or less in vertical distance between bases.
-
-If both characters' bases are within 1" of each other and touching the same obstacle that is up to 1" high (like fighting over a barricade), they count as in base contact when making Combat actions, able to attack with 0" range weapons. However, in this situation the enemy character **always** counts as being in cover.
-
-### Attacks of Opportunity
-
-An Attack of Opportunity is counted as a regular action, but costs 0AP. A character cannot choose to make an Attack of Opportunity as an action, but may be instructed to for many reasons (such as moving into base contact with an enemy).
-
-Choose either to make a **Combat** action, a **Grapple** action, or a **Drown** action. Treat the Attack of Opportunity as a normal action of that type, with any and all Character Abilities, Weapon Abilities, or modifiers that may apply.
-
-### Attacks & Damage
-
-**Each point of Damage taken causes a character to lose 1 Life Point.**
-
-When a character is instructed to take **Damage,** they make a **Protection Roll.** However, when a character is instructed to lose **Life Points**, no armour will save them and they **cannot** make a **Protection Roll**.
-
----
-
-## Weapons
-
-A character may have several different weapons on their character profile. For each Combat action, choose one weapon to use and follow its rules. **All characters may make Unarmed attacks.** These simply count as an additional weapon the character can choose from even if it isn't on their character profile.
-
-**Weapons with a range of 0" may only be used against enemies in base contact.**
-
-A dash ("—") in Evasion, Damage, or Penetration means the target's relevant value is unmodified.
 
 ---
 
@@ -262,6 +118,122 @@ Protection Rolls use a character's PROTECTION stat, and are used to save against
 
 ---
 
+## Measuring
+
+Carnevale measures its distances in inches, noted with inverted commas (for example 6 inches is 6"). You are allowed to measure distances at any time. To calculate a distance, measure the space directly between the two closest points – this can be horizontally, diagonally, or vertically!
+
+When measuring to or from characters, always measure from the closest part of their base. Base sizes are listed on a character's profile sheet as diameter in millimetres.
+
+<div class="callout">
+<p class="callout-title">Measuring & Moving With Terrain</p>
+<p>Players should ignore all terrain up to 1" high for the purposes of measuring, judging line of sight, and moving.</p>
+</div>
+
+### Line of Sight
+
+Carnevale uses true line of sight. To check if a character has line of sight to another character, draw a straight line between the miniatures. The easiest way to do this is to get close to the character itself for a "miniature's eye view" of its surroundings. If any part of a character's body or head can see any part of another character's body or head, then it is in line of sight.
+
+### Cover
+
+If at least 25% of an enemy character is covered in some way (including arms, legs, weapons etc), the enemy counts as being in cover and gains +1 PROTECTION.
+
+In some situations it will be trickier to tell if a character is in cover. In these situations if the players cannot come to a decision, the character being attacked always counts as being in cover.
+
+**A character in base contact with its attacker is never counted as in cover. A character in water is always counted as being in cover when not in base contact with their attacker.**
+
+### Friendly & Enemy Characters
+
+Any character in your gang is a friendly character, and any in allied or opposing gangs are enemy characters (yes you can turn on your allies!).
+
+When abilities say they affect any or every friendly character, that does include the character using the ability, provided they are the target, or in range of the ability. However, some abilities may specify that the character using the ability is unaffected.
+
+### Base Contact
+
+Characters must be in base contact with each other to use certain attacks and abilities. Characters are in base contact when their bases are touching. An enemy character does **not** count as being in cover if it is attacked when in base contact.
+
+Note that due to small walls or other terrain features in Carnevale, there may be some height discrepancies. Miniatures are assumed to be in base contact if there is 1" or less in vertical distance between bases.
+
+If both characters' bases are within 1" of each other and touching the same obstacle that is up to 1" high (like fighting over a barricade), they count as in base contact when making Combat actions, able to attack with 0" range weapons. However, in this situation the enemy character **always** counts as being in cover.
+
+### Attacks of Opportunity
+
+An Attack of Opportunity is counted as a regular action, but costs 0AP. A character cannot choose to make an Attack of Opportunity as an action, but may be instructed to for many reasons (such as moving into base contact with an enemy).
+
+Choose either to make a **Combat** action, a **Grapple** action, or a **Drown** action. Treat the Attack of Opportunity as a normal action of that type, with any and all Character Abilities, Weapon Abilities, or modifiers that may apply.
+
+### Attacks & Damage
+
+**Each point of Damage taken causes a character to lose 1 Life Point.**
+
+When a character is instructed to take **Damage,** they make a **Protection Roll.** However, when a character is instructed to lose **Life Points**, no armour will save them and they **cannot** make a **Protection Roll**.
+
+---
+
+## Character Profiles
+
+Each model in Carnevale is referred to as a character. Each character has a series of attributes and abilities to traverse the dangerous city and fight off would-be attackers. These are documented on a character's profile.
+
+**All character profiles can be found at the [TTCombat website](https://ttcombat.com/pages/carnevale-resources)**
+
+### Size and Cost
+
+**Size** - The diameter of a character’s base size is listed here in millimetres.
+
+**Cost** - How many Ducats this character costs to include in a gang.
+
+### Points
+
+Points are a finite resource for each character; lost and sometimes replenished throughout the game. Points can never be lower than 0 or go above its starting number. Points are split into the following four categories:
+
+**Action Points** – Action Points (often AP) are the number of actions a character may make each turn. A character may never use more than 3 Action Points in each character turn. AP are replenished each round.
+
+**Life Points** – Life Points (LP) are the amount of damage a character can take. Whenever a character takes 1 Damage, subtract 1 Life Point from its character profile. Once a character is reduced to 0 Life Points, it is removed from the game as a casualty.
+
+**Will Points** – Will Points (WP) are used to boost a character's actions during the game, or cast magic spells.
+
+**Command Points** – Characters with Command Points (CP) are able to spend them to command friendly characters to greater feats of daring. Making out of sequence actions and Command Abilities are just two of their uses. Command Points are also used to determine which player gets to have the first turn in each round.
+
+### Statistics
+
+Statistics are used to gauge how skilled a character is in different aspects of combat. Statistics (often stats) are used to roll dice against. You may be instructed to modify a character's statistics in a game. A character may never have a statistic lower than 0 or higher than 10.
+
+**MOVE** – How far a character can move. Each point equals 1" of movement.
+
+**DEXTERITY** – A character's ability to make special movement actions and avoid attacks. Each point equals a single dice, and the total number is the number your opponent must roll equal to or above in order to hit with a Combat attack.
+
+**ATTACK** – A character's skill at both ranged and melee combat. Each point equals a single dice.
+
+**PROTECTION** – A character's defence, both natural and via equipment it fights with. Whenever a character takes Damage, it rolls a number of dice equal to its PROTECTION value. Protection can reduce Damage to a minimum of 0, showing that the attack is not powerful enough or the target is especially well armoured.
+
+**MIND** – A character's ability to use its mental faculties. Each point equals a single dice. Mind values are mostly used for casting magic.
+
+### Weapons {#profile-weapons}
+
+A character may have several different weapons on their character profile. For each Combat action, choose one weapon to use and follow its rules. **All characters may make Unarmed attacks.** These simply count as an additional weapon the character can choose from even if it isn't on their character profile.
+
+| Weapon | Range | Evasion | Damage | Penetration | Abilities |
+|---|---|---|---|---|---|
+| Unarmed | 0" | — | — | +1 | — |
+
+- **Weapon:** The weapon's name is displayed here.
+- **Range:** Each weapon has a range value. This value shows the effective distance in inches that this weapon can be used on the tabletop. If the target is within the weapon's range, you may use that weapon to attack. **Weapons with a range of 0" may only be used against enemies in base contact.**
+- **Evasion:** How accurate the weapon is. This number will modify the **target's DEXTERITY** for the attack. A plus gives the target a bonus if the weapon is less likely to hit (like a pistol), and a minus gives them a negative if the weapon is extremely accurate (like a rapier). A dash means the **target's DEXTERITY** is unmodified. Multiple sources can modify this amount, simply add all sources together to determine the final modifier.
+- **Damage:** How much extra damage a weapon does. This number will modify the amount of Damage a **Successful** or **Critical** attack does. Note that this modifier has no effect on a **Failed** or **Fumbled** roll – you have to hit for the sword to do extra damage! A dash means that the Damage result is unaffected.
+- **Penetration:** How good the weapon is at breaking through armour. This number will modify the **target's PROTECTION** for the attack. A weapon with a minus negatively affects their armour (like when using a musket), and one with a plus positively affects it (such as unarmed attacks). A dash means the target's **PROTECTION** is unmodified. Multiple sources can modify this amount, simply add all sources together to determine the final modifier.
+- **Abilities:** Some weapons have different special rules that apply to them (such as Aquatic meaning the weapon can be used when in water). See the [Weapon Abilities](#weapon-abilities) section for more information.
+
+If a character has weapons separated by "OR", you must choose which option that character has before the game starts, and may not change the option during the game.
+
+### Keywords
+
+Here are descriptors that define the character, such as *Doctor, Monster* etc. Certain special rules will only affect a character with certain keywords, but they have no effect on their own.
+
+### Abilities
+
+All of the character's special abilities are listed here. There are universal Character Abilities listed in the [Character Abilities](#character-abilities) section of this page, but many characters have unique abilities.
+
+---
+
 ## AP, WP & CP {#ap-wp-and-cp}
 
 ### Action Points (AP)
@@ -329,6 +301,22 @@ Command Abilities come in two forms:
 **Can I use a Counter command on a Mage to cast a second spell that they have already cast that round?** No.
 
 </div>
+
+---
+
+## Rounds & Turns {#rounds-and-turns}
+
+A game of Carnevale is divided into game rounds, which are then divided into character turns (older publications may refer to character turns as activations). Once all characters have had a turn, a new round begins.
+
+### Initiative
+
+To determine which player gets the first character turn at the start of each game round, each player rolls a number of dice equal to the **current remaining Command Points** of any one friendly character. Total up the number of 7+ results. The player with the most takes the initiative. If the result is a tie, simply re-roll the dice. Initiative rolls are not able to be modified, re-rolled through abilities, or altered.
+
+If a player doesn't have any characters with remaining Command Points, they automatically lose the roll. If no players have any characters with remaining Command Points, all players simply roll a single dice each. The player with the highest roll takes initiative.
+
+Starting with the player who took the initiative, each player chooses a single character to have a turn. Keep moving clockwise around the board until all players' characters have had a turn. Each character may only have one turn per game round. In a character's turn it uses various actions according to how many Action Points it has (see Action Points for more details). A player may choose when to end a character's turn, and doesn't have to use any actions if they don't want to.
+
+Once all character turns are over, the game round ends. At that point players resolve any effects that last until the game round ends, proceeding in initiative order if needed. Players then check for victory conditions according to the scenario. If no player has won, then another game round begins, and initiative is rolled again as above.
 
 ---
 
