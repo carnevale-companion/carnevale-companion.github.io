@@ -285,47 +285,61 @@ a:hover { text-decoration: underline; }
 }
 .btn-secondary:hover { background: var(--side); text-decoration: none; }
 
-/* Rules CTA banner */
+/* Rules CTA */
 .rules-cta {
   max-width: 960px;
   margin: 0 auto;
-  padding: 0 2rem 1.5rem;
+  padding: 0 2rem 3.5rem;
+  display: flex;
+  justify-content: center;
 }
 
 .rules-cta-link {
   display: flex;
   align-items: center;
-  gap: 1rem;
-  background: var(--accent);
-  color: white;
+  gap: 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-top: 2px solid var(--gold);
   border-radius: 10px;
-  padding: 1.25rem 1.75rem;
+  padding: 1.125rem 1.5rem;
   text-decoration: none;
-  transition: background 0.15s;
+  color: inherit;
+  max-width: 540px;
+  width: 100%;
+  transition: border-color 0.15s, background 0.15s;
 }
-.rules-cta-link:hover { background: var(--accent-h); text-decoration: none; color: white; }
-
-.rules-cta-label {
-  font-family: var(--font-display);
-  font-size: 1rem;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  white-space: nowrap;
-  flex-shrink: 0;
+.rules-cta-link:hover {
+  border-color: var(--gold);
+  background: oklch(99.5% 0.003 72);
+  text-decoration: none;
 }
 
-.rules-cta-sub {
-  font-size: 0.85rem;
-  font-weight: 300;
-  opacity: 0.88;
+.rules-cta-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
   flex: 1;
 }
 
+.rules-cta-label {
+  font-family: var(--font-display);
+  font-size: 0.88rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--ink);
+}
+
+.rules-cta-sub {
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: var(--ink-3);
+}
+
 .rules-cta-arrow {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
+  color: var(--accent);
   flex-shrink: 0;
-  opacity: 0.8;
-  margin-left: auto;
 }
 
 .feature-grid {
@@ -550,22 +564,20 @@ a:hover { text-decoration: underline; }
   font-weight: 300;
   margin-bottom: 0;
 }
-.doc-content hr {
-  border: none;
-  border-top: 1px solid var(--border);
-  margin: 1.75rem 0 2rem;
-}
+.doc-content hr { display: none; }
 .doc-content h2 {
   font-family: var(--font-display);
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   font-weight: 600;
   letter-spacing: 0.04em;
   color: var(--ink);
-  margin: 2.25rem 0 0.875rem;
+  margin: 2.75rem 0 1rem;
+  padding-bottom: 0.625rem;
+  border-bottom: 1px solid var(--border);
 }
 .doc-content h3 {
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 500;
   color: var(--ink);
   margin: 1.75rem 0 0.75rem;
 }
