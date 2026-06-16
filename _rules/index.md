@@ -687,8 +687,6 @@ Characters with the **Mage (X)** ability are able to cast arcane spells.
 
 Mages are limited to the kinds of spells they are able to cast. There are five Disciplines of magic in Carnevale: Divinity, Blood Rites, Fateweaving, Runes of Sovereignty, and Wild Magic.
 
-**All magic spells can be found online at ttcombat.com/pages/carnevale-resources or in the Magic Card deck.**
-
 At the start of the game, before rolling for Deployment Zone, pick which spells your characters know. A character with the **Mage (X)** ability knows (X) number of spells. A character with the **Expert Sorcerer (X)** ability adds (X) to the number of spells known.
 
 If a character has the Discipline (X) keyword, then they can know spells from the disciplines listed. **A character must pick all of their spells from the same Discipline.** Each Discipline has a Cantrip.

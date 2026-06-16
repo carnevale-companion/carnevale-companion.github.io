@@ -1,74 +1,69 @@
 ---
 permalink: /magic/
-title: Rules Reference
+title: Magic Rules Reference
+description: Magic rules reference for Carnevale v2.2, with official FAQ & Errata v1.3 integrated.
 nav_order: 1
-next_doc:
-  title: Deep Analysis
-  url: /magic/analysis/
 ---
 
-Sources: After Party Rulebook p24-25 + Magic Disciplines PDF (250214) + FAQ & Errata v1.3
+## General
 
----
+Characters with the **Mage (X)** ability are able to cast arcane spells.
 
-## Magic System
+**When working out the effects of a spell, any (X) in the text refers to the casting character's Mage (X) number.**
 
-### Mages and Disciplines
+## Disciplines
 
-Characters with the **Mage (X)** ability can cast arcane spells.
+Mages are limited to the kinds of spells they are able to cast. There are five Disciplines of magic in Carnevale: Divinity, Blood Rites, Fateweaving, Runes of Sovereignty, and Wild Magic.
 
-- **5 disciplines**: Blood Rites, Divinity, Fateweaving, Runes of Sovereignty, Wild Magic
-- A character must pick **all of their spells from the same discipline**
-- A Mage (X) knows **(X) spells** from their discipline + the **Cantrip** (free, does not count toward the quota)
-- A character with **Mage (0)** knows only the Cantrip
-- A character with **Expert Sorcerer (X)** knows (X) additional spells
-- A character with the **Discipline (X)** keyword may choose their spells from the listed disciplines
+At the start of the game, before rolling for Deployment Zone, pick which spells your characters know. A character with the **Mage (X)** ability knows (X) number of spells. A character with the **Expert Sorcerer (X)** ability adds (X) to the number of spells known.
 
-Spells are chosen **before the game** and cannot be changed during play.
+If a character has the Discipline (X) keyword, then they can know spells from the disciplines listed. **A character must pick all of their spells from the same Discipline.** Each Discipline has a Cantrip.
 
-In spell text, **(X)** refers to the casting character's **Mage (X)** value.
+A Mage will always know the Cantrip from their chosen Discipline, but Cantrips do not count towards the maximum number of known spells.
 
----
+Characters are only allowed to cast their chosen spells for the entirety of the game, so choose carefully!
 
-### Cast Spell — 1 AP
+## Spells
 
-A character with Mage may attempt to cast one of their known spells. **Each spell may only be attempted once per round.**
+Each spell card has four entries:
 
-**Cannot cast spells while in water**, unless the character has the **Water Creature** ability.
+1. **Spell:** The name of the spell.
+2. **Cost:** How many Will Points need to be spent to attempt to cast the spell.
+3. **Difficulty:** The result needed to score an Ace on the spell's Magic Roll.
+4. **Effect:** What the spell does.
 
-Spend the spell's **WP cost** (whether it succeeds or not). Make a **Magic Roll** (MIND vs the spell's Difficulty).
+## Cast Spell — 1AP
+
+A character with the **Mage** Character Ability may attempt to cast a spell out of those they know. **Each character may only attempt to cast each spell once per round.**
+
+**A character cannot cast a spell while in water unless it has the Water Creature ability.**
+
+Spells cost a different number of Will Points, noted in its entry. These are spent whether the action is successful or not. Select the spell you wish to cast and make a **Magic Roll** using the character's MIND value. The result needed for an Ace is the Difficulty of each spell.
 
 | Result | Effect |
-|--------|--------|
-| Success | The spell takes effect as described |
-| Fail | No effect. **Cannot attempt to cast any other spells** this activation |
-| Critical | Replenish **1 Will Point**. The spell takes effect with all (X) amounts increased by **+1** |
-| Fumble | Receive a **Stunned counter** + lose **1 additional Will Point**. **Cannot attempt to cast any other spells** this activation |
+|---|---|
+| Success | Character casts the spell according to its Effect. |
+| Fail | Character cannot attempt to cast any other spells during this activation. |
+| Critical | Character replenishes 1 Will Point, and casts the spell according to its Effect, increasing any (x) amounts by +1. |
+| Fumble | Character receives a Stunned counter and loses 1 additional Will Point. Character cannot attempt to cast any other spells during this activation. |
 
----
+If a character attempts to cast a spell while in base contact with one or more enemy characters, one enemy character (chosen by the controlling player – or decided among controlling players) makes an out of sequence Attack of Opportunity before the action is completed.
 
-### Dispel
+<div class="callout">
+<p class="callout-title">FAQ</p>
 
-When an enemy character attempts to cast a spell, a **friendly Mage in line of sight of the caster** may declare they are attempting to Dispel it.
+**Can I use a Counter command on a Mage to cast a second spell that they have already cast that round?** No.
 
-- Cost: **1 Will Point**
-- The Magic Roll becomes an **Opposed Roll** (same threshold = the spell's Difficulty)
-- The dispelling Mage only counts Aces up to their **Mage (X)** level — any additional Aces are discarded
-- If the dispelling character rolls no Aces → cannot attempt to Dispel any other spells this game round
+</div>
 
-A character cannot dispel a spell while in water unless it has the Water Creature ability.
+## Dispel
 
-*FAQ v1.3:* You cannot use the Counter command on a Mage to have them cast a spell they have already cast this round.
+When an enemy character attempts to cast a spell, a friendly **Mage in line of sight of the caster** may declare that they are attempting to Dispel it.
 
----
+The dispelling Mage must pay **1 Will Point** to Dispel the spell.
 
-## Key Magic Rules Summary
+The Magic Roll becomes an **Opposed Roll,** with the result needed for an Ace equal to the Difficulty of the spell being cast. **The Dispelling character only counts Aces up to its Mage (X) level.** Any additional Aces are discarded.
 
-- Fail → cannot cast any more spells this activation
-- Fumble → cannot cast any more spells this activation + Stunned counter + lose 1 extra WP
-- Critical → replenish 1 WP + all (X) amounts increase by +1
-- Cannot cast in water (unless Water Creature)
-- Dispel: friendly Mage in LOS spends 1 WP; only counts Aces up to Mage (X) level; if 0 Aces rolled cannot Dispel again this round
-- Each spell may only be attempted once per round by the same Mage
-- Gateway (Wild Magic) does not cause AoOs; Gateway (Fateweaving equivalent is Walk Between Worlds which is different)
-- Madness (Runes of Sovereignty): the enemy character's action does not count toward their 3AP
+If the Dispelling character rolls no Aces, it cannot attempt to Dispel any other spells this game round.
+
+A character cannot dispel a spell while in water unless it has the **Water Creature** Character Ability.
