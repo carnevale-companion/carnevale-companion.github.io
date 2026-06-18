@@ -1,6 +1,6 @@
 ---
 permalink: /factions/
-title: Faction presentation
+title: Factions presentation
 description: What each gang is and how it plays.
 is_index: true
 ---
@@ -9,7 +9,7 @@ is_index: true
 
 *An elite melee-and-magic faction: above-average dealers and brawlers on the game's best armour-against-piercing, backed by the deepest support and magic bench in the game.*
 
-The Vatican is almost entirely a melee faction, with a deep line of brawlers and the best durability against armour-piercing enemies in the game. A large share of the gang carries Universal Shielding, and its Frenzied Hospitallers hit hard. That anti-piercing armour does nothing against flat damage, drowning, or life-loss spells, however, and the faction is weak in water: it has only one dedicated Canal Fighter, and the Full Plate rule makes its hard-hitting knights vulnerable near the canals.
+The Vatican is almost entirely a melee faction, with a deep line of brawlers and the best durability against armour-piercing enemies in the game: a large share of the gang carries Universal Shielding. That anti-piercing armour does nothing against flat damage, drowning, or life-loss spells however, and the faction is weak in water: it has only one dedicated Canal Fighter, and the Full Plate rule makes its hard-hitting knights vulnerable near the canals.
 
 Off the combat line, it has the deepest magic and support bench in the game: nine mages across all five disciplines, a dozen support models, and the most layered Will-Point economy of any faction. It is light on Command Points, slow on foot, and a significant part of the gang cannot score objectives. A Construct sub-engine provides fast flying models as a counterweight. The roster is mostly mid-cost elites with very few cheap fillers, and it is not the strongest faction for scenario play.
 

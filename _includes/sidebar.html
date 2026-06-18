@@ -140,9 +140,10 @@
       <ul>
         <li>
           <a href="{{ '/factions/' | relative_url }}"{% if page.url == '/factions/' %} class="active" aria-current="page"{% endif %}>
-            All Factions
+            Factions presentation
           </a>
         </li>
+        <li class="sidebar-divider"></li>
         {% assign faction_pages = site.factions | where_exp: "f", "f.is_index != true" | sort: "title" %}
         {% for f in faction_pages %}
         <li>
