@@ -59,31 +59,31 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [Pinnacle of Affluence - Support (command)](pinnacle-of-affluence)
+#### [Pinnacle of Affluence - Support (command)](/factions/patricians/pinnacle-of-affluence/)
 
 Highest command output over the course of the game; a pure anchor + grappler at premium cost, with no offensive capability.
 
-#### [Guard Commander - Brawler / Support (Officer)](guard-commander)
+#### [Guard Commander - Brawler / Support (Officer)](/factions/patricians/guard-commander/)
 
 Durable Parry fighter that also buffs Officers/Soldiers.
 
-#### [Noble Admiral - Damage Dealer (ranged)](noble-admiral)
+#### [Noble Admiral - Damage Dealer (ranged)](/factions/patricians/noble-admiral/)
 
 High-alpha twin-pistol shooter; Boat/Naval synergy.
 
-#### [Venetian Noble - Damage Dealer (melee)](venetian-noble)
+#### [Venetian Noble - Damage Dealer (melee)](/factions/patricians/venetian-noble/)
 
 Aggressive duelist; turns friendly kills into WP.
 
-#### [Mounted Venetian Noble - Assassin (melee, fast)](mounted-venetian-noble)
+#### [Mounted Venetian Noble - Assassin (melee, fast)](/factions/patricians/mounted-venetian-noble/)
 
 Fast cavalry assassin; can make nearby allies move.
 
-#### [Janissary Chorbaji - Brawler / Support (Ottoman)](janissary-chorbaji)
+#### [Janissary Chorbaji - Brawler / Support (Ottoman)](/factions/patricians/janissary-chorbaji/)
 
 Durable fighter that buffs Ottomans; gains CP when Ottomans kill.
 
-#### [Sopracomito - Support (WP battery)](sopracomito)
+#### [Sopracomito - Support (WP battery)](/factions/patricians/sopracomito/)
 
 Cheapest leader; only 2 AP and low command, but a WP battery that can move Soldiers.
 
@@ -91,107 +91,107 @@ Cheapest leader; only 2 AP and low command, but a WP battery that can move Soldi
 
 **Councillor**
 
-**[Mounted Venetian Noble](mounted-venetian-noble)**, **[Noble Admiral](noble-admiral)**, **[Pinnacle of Affluence](pinnacle-of-affluence)**, **[Sopracomito](sopracomito)**, **[Venetian Noble](venetian-noble)**, [Adventuring Noble](adventuring-noble), [Cat Burglar](cat-burglar), [Don Gregorio Morisini](don-gregorio-morisini), [Gourmand Noble](gourmand-noble), [Noble Seafarer](noble-seafarer), [Submissive Noble](submissive-noble), [Syphilitic Noble](syphilitic-noble)
+**[Mounted Venetian Noble](/factions/patricians/mounted-venetian-noble/)** , **[Noble Admiral](/factions/patricians/noble-admiral/)** , **[Pinnacle of Affluence](/factions/patricians/pinnacle-of-affluence/)** , **[Sopracomito](/factions/patricians/sopracomito/)** , **[Venetian Noble](/factions/patricians/venetian-noble/)** , [Adventuring Noble](/factions/patricians/adventuring-noble/), [Cat Burglar](/factions/patricians/cat-burglar/), [Don Gregorio Morisini](/factions/patricians/don-gregorio-morisini/), [Gourmand Noble](/factions/patricians/gourmand-noble/), [Noble Seafarer](/factions/patricians/noble-seafarer/), [Submissive Noble](/factions/patricians/submissive-noble/), [Syphilitic Noble](/factions/patricians/syphilitic-noble/)
 
 **Officer**
 
-**[Guard Commander](guard-commander)**, **[Noble Admiral](noble-admiral)**, **[Sopracomito](sopracomito)**, [Captain of the Guard](captain-of-the-guard), [Naval Lieutenant](naval-lieutenant)
+**[Guard Commander](/factions/patricians/guard-commander/)** , **[Noble Admiral](/factions/patricians/noble-admiral/)** , **[Sopracomito](/factions/patricians/sopracomito/)** , [Captain of the Guard](/factions/patricians/captain-of-the-guard/), [Naval Lieutenant](/factions/patricians/naval-lieutenant/)
 
 **Ottoman**
 
-**[Janissary Chorbaji](janissary-chorbaji)**, [Janissary Sapper](janissary-sapper), [Ottoman Archer](ottoman-archer), [Ottoman Cannoneer](ottoman-cannoneer), [Ottoman Janissary](ottoman-janissary), [Ottoman Pirate](ottoman-pirate), [Ottoman Rigger](ottoman-rigger)
+**[Janissary Chorbaji](/factions/patricians/janissary-chorbaji/)** , [Janissary Sapper](/factions/patricians/janissary-sapper/), [Ottoman Archer](/factions/patricians/ottoman-archer/), [Ottoman Cannoneer](/factions/patricians/ottoman-cannoneer/), [Ottoman Janissary](/factions/patricians/ottoman-janissary/), [Ottoman Pirate](/factions/patricians/ottoman-pirate/), [Ottoman Rigger](/factions/patricians/ottoman-rigger/)
 
 **Soldier**
 
-[Captain of the Guard](captain-of-the-guard), [City Guard](city-guard), [Guard Marksman](guard-marksman), [Guard Sentry](guard-sentry), [Naval Ensign](naval-ensign), [Naval Lieutenant](naval-lieutenant), [Naval Recruit](naval-recruit), [Seven Years Veteran](seven-years-veteran), [Venetian Heavy Guard](venetian-heavy-guard)
+[Captain of the Guard](/factions/patricians/captain-of-the-guard/), [City Guard](/factions/patricians/city-guard/), [Guard Marksman](/factions/patricians/guard-marksman/), [Guard Sentry](/factions/patricians/guard-sentry/), [Naval Ensign](/factions/patricians/naval-ensign/), [Naval Lieutenant](/factions/patricians/naval-lieutenant/), [Naval Recruit](/factions/patricians/naval-recruit/), [Seven Years Veteran](/factions/patricians/seven-years-veteran/), [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/)
 
 ### Heroes
 
 **Mages**
 
-- [Moon](moon) is a spellcasting assassin that doubles as a support piece, bringing damage & life-drain, stat buffs & dice manipulation. It's Mindless (can't score primaries). Also flies over terrain.
-- [Adventuring Noble](adventuring-noble) is an Arcane Totem specialist. Its niche is to drop an Arcane Totem zone. Also extra Penetration vs bigger bases.
+- [Moon](/factions/patricians/moon/) is a spellcasting assassin that doubles as a support piece, bringing damage & life-drain, stat buffs & dice manipulation. It's Mindless (can't score primaries). Also flies over terrain.
+- [Adventuring Noble](/factions/patricians/adventuring-noble/) is an Arcane Totem specialist. Its niche is to drop an Arcane Totem zone. Also extra Penetration vs bigger bases.
 
 **Damage Dealer**
 
-- [Submissive Noble](submissive-noble) is a melee damage dealer. It brings a Frenzy burst (+53%).
-- [Janissary Sapper](janissary-sapper) is a mid-range area-effect damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's tough for its role, but one shot per turn (Reload).
-- [Fencing Master](fencing-master) is a melee armour-piercing damage dealer. It's tough for its role. Also pins fleeing enemies.
-- [Seven Years Veteran](seven-years-veteran) is a damage dealer.
-- [Ottoman Cannoneer](ottoman-cannoneer) is an area-effect armour-piercing damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload).
-- [Syphilitic Noble](syphilitic-noble) is a melee damage dealer. It's Mindless (can't score primaries). Also pins fleeing enemies.
+- [Submissive Noble](/factions/patricians/submissive-noble/) is a melee damage dealer. It brings a Frenzy burst (+53%).
+- [Janissary Sapper](/factions/patricians/janissary-sapper/) is a mid-range area-effect damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's tough for its role, but one shot per turn (Reload).
+- [Fencing Master](/factions/patricians/fencing-master/) is a melee armour-piercing damage dealer. It's tough for its role. Also pins fleeing enemies.
+- [Seven Years Veteran](/factions/patricians/seven-years-veteran/) is a damage dealer.
+- [Ottoman Cannoneer](/factions/patricians/ottoman-cannoneer/) is an area-effect armour-piercing damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload).
+- [Syphilitic Noble](/factions/patricians/syphilitic-noble/) is a melee damage dealer. It's Mindless (can't score primaries). Also pins fleeing enemies.
 
 **Brawler**
 
-- [Ottoman Janissary](ottoman-janissary) is a brawler.
-- [Venetian Heavy Guard](venetian-heavy-guard) is a brawler. It's tough for its role.
+- [Ottoman Janissary](/factions/patricians/ottoman-janissary/) is a brawler.
+- [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/) is a brawler. It's tough for its role.
 
 **Assassin**
 
-- [Sun](sun) is a ranged armour-piercing assassin. It's cost-efficient, but Mindless (can't score primaries).
+- [Sun](/factions/patricians/sun/) is a ranged armour-piercing assassin. It's cost-efficient, but Mindless (can't score primaries).
 
 **Sniper**
 
-- [Venetian Spy](venetian-spy) is a long-range sniper. Also deploys forward.
-- [Naval Lieutenant](naval-lieutenant) is a mid-range sniper. It's high-output and cost-efficient. Also fast through water; crews boats for WP.
+- [Venetian Spy](/factions/patricians/venetian-spy/) is a long-range sniper. Also deploys forward.
+- [Naval Lieutenant](/factions/patricians/naval-lieutenant/) is a mid-range sniper. It's high-output and cost-efficient. Also fast through water; crews boats for WP.
 
 **Harasser**
 
-- [Cat Burglar](cat-burglar) is a harasser. Also steals WP/objectives on disengage; deploys forward.
+- [Cat Burglar](/factions/patricians/cat-burglar/) is a harasser. Also steals WP/objectives on disengage; deploys forward.
 
 **Support**
 
-- [Foreign Dignitary](foreign-dignitary) is a support piece that doubles as a damage dealer.
-- [Captain of the Guard](captain-of-the-guard) is a support piece that doubles as a damage dealer.
-- [Gourmand Noble](gourmand-noble) is a support piece. It's Mindless (can't score primaries). Also pins fleeing enemies; rattles low-Mind foes.
-- [Wayfinder](wayfinder) is a support piece.
+- [Foreign Dignitary](/factions/patricians/foreign-dignitary/) is a support piece that doubles as a damage dealer.
+- [Captain of the Guard](/factions/patricians/captain-of-the-guard/) is a support piece that doubles as a damage dealer.
+- [Gourmand Noble](/factions/patricians/gourmand-noble/) is a support piece. It's Mindless (can't score primaries). Also pins fleeing enemies; rattles low-Mind foes.
+- [Wayfinder](/factions/patricians/wayfinder/) is a support piece.
 
 **Specialist**
 
-- [Don Gregorio Morisini](don-gregorio-morisini) is an Artifact objective specialist. Its niche is to carry an Artifact for scenario value. Also steals WP/objectives on disengage; slips out of melee freely.
+- [Don Gregorio Morisini](/factions/patricians/don-gregorio-morisini/) is an Artifact objective specialist. Its niche is to carry an Artifact for scenario value. Also steals WP/objectives on disengage; slips out of melee freely.
 
 ### Henchmen
 
 **Damage Dealer**
 
-- [Noble Seafarer](noble-seafarer) is a mid-range damage dealer. It's one shot per turn (Reload). Also fast through water; crews boats for WP.
-- [Ottoman Archer](ottoman-archer) is a mid-range damage dealer. It's low on damage and pricey for its output. Also crews boats for WP.
-- [Butler](butler) is a mid-range damage dealer. It's low on damage.
+- [Noble Seafarer](/factions/patricians/noble-seafarer/) is a mid-range damage dealer. It's one shot per turn (Reload). Also fast through water; crews boats for WP.
+- [Ottoman Archer](/factions/patricians/ottoman-archer/) is a mid-range damage dealer. It's low on damage and pricey for its output. Also crews boats for WP.
+- [Butler](/factions/patricians/butler/) is a mid-range damage dealer. It's low on damage.
 
 **Brawler**
 
-- [Hired Muscle](hired-muscle) is a brawler. Also a strong grappler/drowner.
+- [Hired Muscle](/factions/patricians/hired-muscle/) is a brawler. Also a strong grappler/drowner.
 
 **Sniper**
 
-- [Guard Marksman](guard-marksman) is a long-range sniper.
+- [Guard Marksman](/factions/patricians/guard-marksman/) is a long-range sniper.
 
 **Canal Fighter**
 
-- [Naval Ensign](naval-ensign) is a canal fighter. Also extra Penetration vs bigger bases; fast through water.
+- [Naval Ensign](/factions/patricians/naval-ensign/) is a canal fighter. Also extra Penetration vs bigger bases; fast through water.
 
 **Harasser**
 
-- [Hunting Hound](hunting-hound) is a harasser. It's Mindless (can't score primaries). Also pins fleeing enemies.
+- [Hunting Hound](/factions/patricians/hunting-hound/) is a harasser. It's Mindless (can't score primaries). Also pins fleeing enemies.
 
 **Support**
 
-- [Merchant](merchant) is a support piece.
-- [Guard Sentry](guard-sentry) is a support piece.
+- [Merchant](/factions/patricians/merchant/) is a support piece.
+- [Guard Sentry](/factions/patricians/guard-sentry/) is a support piece.
 
 **Objective Runner**
 
-- [Ottoman Rigger](ottoman-rigger) is an objective runner. Also crews boats for WP.
+- [Ottoman Rigger](/factions/patricians/ottoman-rigger/) is an objective runner. Also crews boats for WP.
 
 **Line Fighter**
 
-- [Cortigiane](cortigiane) is a support line fighter. It's tough for its role, but pricey for its output.
-- [Barnabotti](barnabotti) is a line fighter. It's high-output.
-- [Ottoman Pirate](ottoman-pirate) is a line fighter. It's high-output. Also crews boats for WP.
-- [City Guard](city-guard) is a line fighter. It's high-output and tough for its role.
-- [Naval Recruit](naval-recruit) is a line fighter. Also fast through water.
-- [Household Staff](household-staff) is a line fighter. It's pricey for its output.
-- [Cannibal Cultist](cannibal-cultist) is a line fighter. It's Mindless (can't score primaries).
+- [Cortigiane](/factions/patricians/cortigiane/) is a support line fighter. It's tough for its role, but pricey for its output.
+- [Barnabotti](/factions/patricians/barnabotti/) is a line fighter. It's high-output.
+- [Ottoman Pirate](/factions/patricians/ottoman-pirate/) is a line fighter. It's high-output. Also crews boats for WP.
+- [City Guard](/factions/patricians/city-guard/) is a line fighter. It's high-output and tough for its role.
+- [Naval Recruit](/factions/patricians/naval-recruit/) is a line fighter. Also fast through water.
+- [Household Staff](/factions/patricians/household-staff/) is a line fighter. It's pricey for its output.
+- [Cannibal Cultist](/factions/patricians/cannibal-cultist/) is a line fighter. It's Mindless (can't score primaries).
 
 ## Roster value
 

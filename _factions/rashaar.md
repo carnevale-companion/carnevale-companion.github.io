@@ -63,27 +63,27 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [The Flame That Burns Underwater - Brawler (water, grappler)](the-flame-that-burns-underwater)
+#### [The Flame That Burns Underwater - Brawler (water, grappler)](/factions/rashaar/the-flame-that-burns-underwater/)
 
 Pricey LP22 grappling centerpiece with heavy AoE damage and reliable Drown.
 
-#### [Magi-Rashaar - Damage Dealer (magic, Blood Rites) / Support (magic)](magi-rashaar)
+#### [Magi-Rashaar - Damage Dealer (magic, Blood Rites) / Support (magic)](/factions/rashaar/magi-rashaar/)
 
 Best offensive caster among leaders (Kraken's Breath); fragile.
 
-#### [Paartul Matriarch - Specialist (spawner)](paartul-matriarch)
+#### [Paartul Matriarch - Specialist (spawner)](/factions/rashaar/paartul-matriarch/)
 
 No personal offense unless set up; unique body-spawning, and supports Feral characters.
 
-#### [Sir Tiburcio - Tank](sir-tiburcio)
+#### [Sir Tiburcio - Tank](/factions/rashaar/sir-tiburcio/)
 
 Durable tank; worse than the faction standard in water (slow, no usable weapon).
 
-#### [Thalidraur - Brawler](thalidraur)
+#### [Thalidraur - Brawler](/factions/rashaar/thalidraur/)
 
 Big melee monster; very slow unless in water; very low CP, but turns kills into WP+CP.
 
-#### [Voice of Dagon - Support (CP, control)](voice-of-dagon)
+#### [Voice of Dagon - Support (CP, control)](/factions/rashaar/voice-of-dagon/)
 
 One of the highest effective Command outputs in the game; modest combat but a good disruptor with a Stun template attack.
 
@@ -91,112 +91,112 @@ One of the highest effective Command outputs in the game; modest combat but a go
 
 **Feral**
 
-[Bounding Telchine](bounding-telchine), [Brachyura](brachyura), [Bulbous Toad](bulbous-toad), [Caandru Eel](caandru-eel), [Crybaby](crybaby), [Cymothoan Crusher](cymothoan-crusher), [Hellhound](hellhound), [Karcharos](karcharos), [Salaacia](salaacia), [Secreting Myxin](secreting-myxin), [Tainted Maw](tainted-maw)
+[Bounding Telchine](/factions/rashaar/bounding-telchine/), [Brachyura](/factions/rashaar/brachyura/), [Bulbous Toad](/factions/rashaar/bulbous-toad/), [Caandru Eel](/factions/rashaar/caandru-eel/), [Crybaby](/factions/rashaar/crybaby/), [Cymothoan Crusher](/factions/rashaar/cymothoan-crusher/), [Hellhound](/factions/rashaar/hellhound/), [Karcharos](/factions/rashaar/karcharos/), [Salaacia](/factions/rashaar/salaacia/), [Secreting Myxin](/factions/rashaar/secreting-myxin/), [Tainted Maw](/factions/rashaar/tainted-maw/)
 
 **Henchman *(free with Emissary of Mother Hydra)***
 
-[Dagger Tentacle](dagger-tentacle), [Lash Tentacle](lash-tentacle), [Maw Tentacle](maw-tentacle), [Thorn Tentacle](thorn-tentacle)
+[Dagger Tentacle](/factions/rashaar/dagger-tentacle/), [Lash Tentacle](/factions/rashaar/lash-tentacle/), [Maw Tentacle](/factions/rashaar/maw-tentacle/), [Thorn Tentacle](/factions/rashaar/thorn-tentacle/)
 
 **Hydra**
 
-**[The Flame That Burns Underwater](the-flame-that-burns-underwater)**, [Emissary of Mother Hydra](emissary-of-mother-hydra), [Half-Breed](half-breed), [Infant Kraken](infant-kraken), [Mature Kraken](mature-kraken), [Sirena](sirena)
+**[The Flame That Burns Underwater](/factions/rashaar/the-flame-that-burns-underwater/)** , [Emissary of Mother Hydra](/factions/rashaar/emissary-of-mother-hydra/), [Half-Breed](/factions/rashaar/half-breed/), [Infant Kraken](/factions/rashaar/infant-kraken/), [Mature Kraken](/factions/rashaar/mature-kraken/), [Sirena](/factions/rashaar/sirena/)
 
 **Monster**
 
-**[Paartul Matriarch](paartul-matriarch)**, **[Thalidraur](thalidraur)**, **[The Flame That Burns Underwater](the-flame-that-burns-underwater)**, **[Voice of Dagon](voice-of-dagon)**, [Aglaope](aglaope), [Brachyura](brachyura), [Bulbous Toad](bulbous-toad), [Caandru Eel](caandru-eel), [Emissary of Mother Hydra](emissary-of-mother-hydra), [Hellhound](hellhound), [Karcharos](karcharos), [Lesser Rhyll](lesser-rhyll), [Lesser Ugdru](lesser-ugdru), [Mature Kraken](mature-kraken), [Morgraur](morgraur), [Paliaa](paliaa), [Raadru](raadru), [Secreting Myxin](secreting-myxin), [Sirena](sirena)
+**[Paartul Matriarch](/factions/rashaar/paartul-matriarch/)** , **[Thalidraur](/factions/rashaar/thalidraur/)** , **[The Flame That Burns Underwater](/factions/rashaar/the-flame-that-burns-underwater/)** , **[Voice of Dagon](/factions/rashaar/voice-of-dagon/)** , [Aglaope](/factions/rashaar/aglaope/), [Brachyura](/factions/rashaar/brachyura/), [Bulbous Toad](/factions/rashaar/bulbous-toad/), [Caandru Eel](/factions/rashaar/caandru-eel/), [Emissary of Mother Hydra](/factions/rashaar/emissary-of-mother-hydra/), [Hellhound](/factions/rashaar/hellhound/), [Karcharos](/factions/rashaar/karcharos/), [Lesser Rhyll](/factions/rashaar/lesser-rhyll/), [Lesser Ugdru](/factions/rashaar/lesser-ugdru/), [Mature Kraken](/factions/rashaar/mature-kraken/), [Morgraur](/factions/rashaar/morgraur/), [Paliaa](/factions/rashaar/paliaa/), [Raadru](/factions/rashaar/raadru/), [Secreting Myxin](/factions/rashaar/secreting-myxin/), [Sirena](/factions/rashaar/sirena/)
 
 ### Heroes
 
 **Mages**
 
-- [Paliaa](paliaa) is a spellcasting support piece, bringing control & action economy. Also fast through water; at home in water.
-- [The Drowned Nun](the-drowned-nun) is a spellcasting support canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
-- [Sirena](sirena) is a spellcasting damage support canal fighter. It's high-output and cost-efficient. Also fast through water; at home in water.
-- [Dagonite Priest](dagonite-priest) is a spellcasting damage dealer that doubles as a support piece, bringing damage & life-drain, versatile utility magic. Also pins fleeing enemies.
+- [Paliaa](/factions/rashaar/paliaa/) is a spellcasting support piece, bringing control & action economy. Also fast through water; at home in water.
+- [The Drowned Nun](/factions/rashaar/the-drowned-nun/) is a spellcasting support canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
+- [Sirena](/factions/rashaar/sirena/) is a spellcasting damage support canal fighter. It's high-output and cost-efficient. Also fast through water; at home in water.
+- [Dagonite Priest](/factions/rashaar/dagonite-priest/) is a spellcasting damage dealer that doubles as a support piece, bringing damage & life-drain, versatile utility magic. Also pins fleeing enemies.
 
 **Damage Dealer**
 
-- [Raadru](raadru) is a melee damage dealer. It's high-output and tough for its role. Also fast through water; at home in water.
+- [Raadru](/factions/rashaar/raadru/) is a melee damage dealer. It's high-output and tough for its role. Also fast through water; at home in water.
 
 **Brawler**
 
-- [Morgraur](morgraur) is a brawler. It's high-output and tough for its role, but pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
-- [Brachyura](brachyura) is a brawler. It's tough for its role, but Mindless (can't score primaries). Also at home in water.
-- [Cult Enforcer](cult-enforcer) is a brawler.
+- [Morgraur](/factions/rashaar/morgraur/) is a brawler. It's high-output and tough for its role, but pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
+- [Brachyura](/factions/rashaar/brachyura/) is a brawler. It's tough for its role, but Mindless (can't score primaries). Also at home in water.
+- [Cult Enforcer](/factions/rashaar/cult-enforcer/) is a brawler.
 
 **Canal Fighter**
 
-- [Emissary of Mother Hydra](emissary-of-mother-hydra) is a canal fighter. It's high-output and tough for its role, with Vampiric self-healing, but pricey for its output and slow. Also fast through water; at home in water.
-- [Karcharos](karcharos) is a canal fighter. It's high-output and cost-efficient, but Mindless (can't score primaries). Also fast through water; at home in water.
-- [Salaacia](salaacia) is a drown canal fighter. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload). Also fast through water; at home in water.
-- [Caandru Eel](caandru-eel) is a canal fighter. It's cost-efficient, but Mindless (can't score primaries). Also a strong grappler/drowner; fast through water.
+- [Emissary of Mother Hydra](/factions/rashaar/emissary-of-mother-hydra/) is a canal fighter. It's high-output and tough for its role, with Vampiric self-healing, but pricey for its output and slow. Also fast through water; at home in water.
+- [Karcharos](/factions/rashaar/karcharos/) is a canal fighter. It's high-output and cost-efficient, but Mindless (can't score primaries). Also fast through water; at home in water.
+- [Salaacia](/factions/rashaar/salaacia/) is a drown canal fighter. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload). Also fast through water; at home in water.
+- [Caandru Eel](/factions/rashaar/caandru-eel/) is a canal fighter. It's cost-efficient, but Mindless (can't score primaries). Also a strong grappler/drowner; fast through water.
 
 **Tank**
 
-- [Secreting Myxin](secreting-myxin) is a stun debuff aura tank. It's very durable, but costly for what it soaks and Mindless (can't score primaries). Also at home in water; slips out of melee freely.
+- [Secreting Myxin](/factions/rashaar/secreting-myxin/) is a stun debuff aura tank. It's very durable, but costly for what it soaks and Mindless (can't score primaries). Also at home in water; slips out of melee freely.
 
 **Control**
 
-- [Mature Kraken](mature-kraken) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also a strong grappler/drowner; at home in water.
+- [Mature Kraken](/factions/rashaar/mature-kraken/) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also a strong grappler/drowner; at home in water.
 
 **Support**
 
-- [Demagogue](demagogue) is a support piece. Also rattles low-Mind foes.
-- [Handler](handler) is a support piece. Also extra Penetration vs bigger bases.
+- [Demagogue](/factions/rashaar/demagogue/) is a support piece. Also rattles low-Mind foes.
+- [Handler](/factions/rashaar/handler/) is a support piece. Also extra Penetration vs bigger bases.
 
 **Specialist**
 
-- [Tainted Maw](tainted-maw) is a water pull specialist. Its niche is to drag enemies around near water (needs canals). Also a strong grappler/drowner; fast through water.
-- [Krakenhost](krakenhost) is a Kraken spawner specialist. Its niche is to spawn extra Kraken bodies over the game. Also Mindless (can't score primaries); a strong grappler/drowner.
+- [Tainted Maw](/factions/rashaar/tainted-maw/) is a water pull specialist. Its niche is to drag enemies around near water (needs canals). Also a strong grappler/drowner; fast through water.
+- [Krakenhost](/factions/rashaar/krakenhost/) is a Kraken spawner specialist. Its niche is to spawn extra Kraken bodies over the game. Also Mindless (can't score primaries); a strong grappler/drowner.
 
 ### Henchmen
 
 **Mages**
 
-- [Aglaope](aglaope) is a spellcasting support piece, bringing stat buffs & dice manipulation, versatile utility magic. Also fast through water; at home in water.
+- [Aglaope](/factions/rashaar/aglaope/) is a spellcasting support piece, bringing stat buffs & dice manipulation, versatile utility magic. Also fast through water; at home in water.
 
 **Damage Dealer**
 
-- [Dagonite Zealot](dagonite-zealot) is a melee damage dealer. It's Mindless (can't score primaries).
-- [Dagon Officiant](dagon-officiant) is a melee damage dealer.
+- [Dagonite Zealot](/factions/rashaar/dagonite-zealot/) is a melee damage dealer. It's Mindless (can't score primaries).
+- [Dagon Officiant](/factions/rashaar/dagon-officiant/) is a melee damage dealer.
 
 **Canal Fighter**
 
-- [Half-Breed](half-breed) is a grappler canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
-- [Lesser Ugdru](lesser-ugdru) is a canal fighter. It's cost-efficient. Also fast through water; at home in water.
-- [Bulbous Toad](bulbous-toad) is a pull canal fighter. It's low on damage, pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
+- [Half-Breed](/factions/rashaar/half-breed/) is a grappler canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
+- [Lesser Ugdru](/factions/rashaar/lesser-ugdru/) is a canal fighter. It's cost-efficient. Also fast through water; at home in water.
+- [Bulbous Toad](/factions/rashaar/bulbous-toad/) is a pull canal fighter. It's low on damage, pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
 
 **Tank**
 
-- [Cymothoan Crusher](cymothoan-crusher) is a knockback stun tank. It's very durable, but Mindless (can't score primaries). Also at home in water.
+- [Cymothoan Crusher](/factions/rashaar/cymothoan-crusher/) is a knockback stun tank. It's very durable, but Mindless (can't score primaries). Also at home in water.
 
 **Support**
 
-- [Dagonite Page](dagonite-page) is a support piece. Also at home in water.
-- [Wet Nurse](wet-nurse) is a support piece.
+- [Dagonite Page](/factions/rashaar/dagonite-page/) is a support piece. Also at home in water.
+- [Wet Nurse](/factions/rashaar/wet-nurse/) is a support piece.
 
 **Objective Runner**
 
-- [Advanced Hybrid](advanced-hybrid) is an objective runner. It's fragile. Also at home in water.
-- [Bounding Telchine](bounding-telchine) is an objective runner. It's self-stun-prone (Primitive). Also at home in water.
-- [Urchin](urchin) is an objective runner. It's fragile and Mindless (can't score primaries). Also steals WP/objectives on disengage.
+- [Advanced Hybrid](/factions/rashaar/advanced-hybrid/) is an objective runner. It's fragile. Also at home in water.
+- [Bounding Telchine](/factions/rashaar/bounding-telchine/) is an objective runner. It's self-stun-prone (Primitive). Also at home in water.
+- [Urchin](/factions/rashaar/urchin/) is an objective runner. It's fragile and Mindless (can't score primaries). Also steals WP/objectives on disengage.
 
 **Line Fighter**
 
-- [Lesser Rhyll](lesser-rhyll) is a disruptive line fighter. It's pricey for its output. Also fast through water; at home in water.
-- [Encrusted Squire](encrusted-squire) is a bodyguard line fighter. It's high-output. Also at home in water.
-- [Hellhound](hellhound) is a line fighter. It's high-output, but Mindless (can't score primaries). Also at home in water.
-- [Hybrid](hybrid) is a line fighter. It's pricey for its output. Also fast through water.
+- [Lesser Rhyll](/factions/rashaar/lesser-rhyll/) is a disruptive line fighter. It's pricey for its output. Also fast through water; at home in water.
+- [Encrusted Squire](/factions/rashaar/encrusted-squire/) is a bodyguard line fighter. It's high-output. Also at home in water.
+- [Hellhound](/factions/rashaar/hellhound/) is a line fighter. It's high-output, but Mindless (can't score primaries). Also at home in water.
+- [Hybrid](/factions/rashaar/hybrid/) is a line fighter. It's pricey for its output. Also fast through water.
 
 **Specialist**
 
-- [Infant Kraken](infant-kraken) is a permanent-lockdown sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also self-stun-prone (Primitive); at home in water.
-- [Crybaby](crybaby) is a debuff sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
-- [Slave](slave) is a Monster sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
-- [Thorn Tentacle](thorn-tentacle) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
-- [Maw Tentacle](maw-tentacle) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); a strong grappler/drowner.
-- [Lash Tentacle](lash-tentacle) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
-- [Dagger Tentacle](dagger-tentacle) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
+- [Infant Kraken](/factions/rashaar/infant-kraken/) is a permanent-lockdown sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also self-stun-prone (Primitive); at home in water.
+- [Crybaby](/factions/rashaar/crybaby/) is a debuff sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
+- [Slave](/factions/rashaar/slave/) is a Monster sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
+- [Thorn Tentacle](/factions/rashaar/thorn-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
+- [Maw Tentacle](/factions/rashaar/maw-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); a strong grappler/drowner.
+- [Lash Tentacle](/factions/rashaar/lash-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
+- [Dagger Tentacle](/factions/rashaar/dagger-tentacle/) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
 
 ## Roster value
 

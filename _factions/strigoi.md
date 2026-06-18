@@ -63,23 +63,23 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [Vlad Dracula - Brawler](vlad-dracula)
+#### [Vlad Dracula - Brawler](/factions/strigoi/vlad-dracula/)
 
 Strong versatile fighter with very high mobility; can play as an assassin or sit with the Vampires to become near-unkillable (every Vampire gains Bodyguard(Leader)); lets his Brides be fielded as Henchmen.
 
-#### [Blood Crone - Support (mage) / Damage Dealer (magic)](blood-crone)
+#### [Blood Crone - Support (mage) / Damage Dealer (magic)](/factions/strigoi/blood-crone/)
 
 Cheap, flexible caster-leader (knows all cantrips; 0AP cantrip).
 
-#### [Noble Strigoi - Damage Dealer (melee) / Support (Vampire)](noble-strigoi)
+#### [Noble Strigoi - Damage Dealer (melee) / Support (Vampire)](/factions/strigoi/noble-strigoi/)
 
 Modest fighter, but brings short-range Command denial and buffs Vampiric Attack for Vampires.
 
-#### [Stryha Crone - Assassin (flying, infiltration)](stryha-crone)
+#### [Stryha Crone - Assassin (flying, infiltration)](/factions/strigoi/stryha-crone/)
 
 Fragile anti-armor alpha-striker; gives 3 models Infiltration to enable a turn-1 strike or terrain control.
 
-#### [Wallachian Hospodar - Brawler (durable)](wallachian-hospodar)
+#### [Wallachian Hospodar - Brawler (durable)](/factions/strigoi/wallachian-hospodar/)
 
 Tanky fighter; small incentive to play Soldiers.
 
@@ -87,100 +87,100 @@ Tanky fighter; small incentive to play Soldiers.
 
 **Bride**
 
-[Ceres](ceres), [Gibele](gibele), [Miriam](miriam)
+[Ceres](/factions/strigoi/ceres/), [Gibele](/factions/strigoi/gibele/), [Miriam](/factions/strigoi/miriam/)
 
 **Soldier**
 
-**[Wallachian Hospodar](wallachian-hospodar)**, [Giurgiu Guard](giurgiu-guard), [Poenari Scout](poenari-scout), [Spatar](spatar), [Strigoi Jude](strigoi-jude), [Strigoi Sluger](strigoi-sluger), [Targoveti](targoveti), [Wallachian Impaler](wallachian-impaler)
+**[Wallachian Hospodar](/factions/strigoi/wallachian-hospodar/)** , [Giurgiu Guard](/factions/strigoi/giurgiu-guard/), [Poenari Scout](/factions/strigoi/poenari-scout/), [Spatar](/factions/strigoi/spatar/), [Strigoi Jude](/factions/strigoi/strigoi-jude/), [Strigoi Sluger](/factions/strigoi/strigoi-sluger/), [Targoveti](/factions/strigoi/targoveti/), [Wallachian Impaler](/factions/strigoi/wallachian-impaler/)
 
 **Vampire**
 
-**[Noble Strigoi](noble-strigoi)**, **[Stryha Crone](stryha-crone)**, **[Vlad Dracula](vlad-dracula)**, **[Wallachian Hospodar](wallachian-hospodar)**, [Aquatic Strigoi](aquatic-strigoi), [Ceres](ceres), [Cetean Upiór](cetean-upi-r), [Common Strigoi](common-strigoi), [Gibele](gibele), [Giurgiu Guard](giurgiu-guard), [Hulking Moroi](hulking-moroi), [Leech](leech), [Miriam](miriam), [Monstrous Stryx](monstrous-stryx), [Newborn Strigoi](newborn-strigoi), [Nosferatu](nosferatu), [Poenari Scout](poenari-scout), [Reaper](reaper), [Sinker](sinker), [Spatar](spatar), [Starved Dhampir](starved-dhampir), [Strige](strige), [Strigoi Jude](strigoi-jude), [Strigoi Priest](strigoi-priest), [Strigoi Sluger](strigoi-sluger), [Strzyga](strzyga), [Wallachian Impaler](wallachian-impaler), [Zoryi](zoryi)
+**[Noble Strigoi](/factions/strigoi/noble-strigoi/)** , **[Stryha Crone](/factions/strigoi/stryha-crone/)** , **[Vlad Dracula](/factions/strigoi/vlad-dracula/)** , **[Wallachian Hospodar](/factions/strigoi/wallachian-hospodar/)** , [Aquatic Strigoi](/factions/strigoi/aquatic-strigoi/), [Ceres](/factions/strigoi/ceres/), [Cetean Upiór](/factions/strigoi/cetean-upi-r/), [Common Strigoi](/factions/strigoi/common-strigoi/), [Gibele](/factions/strigoi/gibele/), [Giurgiu Guard](/factions/strigoi/giurgiu-guard/), [Hulking Moroi](/factions/strigoi/hulking-moroi/), [Leech](/factions/strigoi/leech/), [Miriam](/factions/strigoi/miriam/), [Monstrous Stryx](/factions/strigoi/monstrous-stryx/), [Newborn Strigoi](/factions/strigoi/newborn-strigoi/), [Nosferatu](/factions/strigoi/nosferatu/), [Poenari Scout](/factions/strigoi/poenari-scout/), [Reaper](/factions/strigoi/reaper/), [Sinker](/factions/strigoi/sinker/), [Spatar](/factions/strigoi/spatar/), [Starved Dhampir](/factions/strigoi/starved-dhampir/), [Strige](/factions/strigoi/strige/), [Strigoi Jude](/factions/strigoi/strigoi-jude/), [Strigoi Priest](/factions/strigoi/strigoi-priest/), [Strigoi Sluger](/factions/strigoi/strigoi-sluger/), [Strzyga](/factions/strigoi/strzyga/), [Wallachian Impaler](/factions/strigoi/wallachian-impaler/), [Zoryi](/factions/strigoi/zoryi/)
 
 ### Heroes
 
 **Mages**
 
-- [Gibele](gibele) is a spellcasting damage dealer. It brings a Frenzy burst (+76%).
-- [Strigoi Jude](strigoi-jude) is a target-locking anti-mage specialist that doubles as a spellcasting damage dealer. Its niche is to hunt and tax enemy Mages — dead weight vs magic-free gangs.
-- [Tarot Reader](tarot-reader) is a spellcasting support piece that doubles as a Summon Vermin damage dealer, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.
-- [Seer](seer) is a spellcasting support piece, bringing stat buffs & dice manipulation. Also slips out of melee freely.
+- [Gibele](/factions/strigoi/gibele/) is a spellcasting damage dealer. It brings a Frenzy burst (+76%).
+- [Strigoi Jude](/factions/strigoi/strigoi-jude/) is a target-locking anti-mage specialist that doubles as a spellcasting damage dealer. Its niche is to hunt and tax enemy Mages — dead weight vs magic-free gangs.
+- [Tarot Reader](/factions/strigoi/tarot-reader/) is a spellcasting support piece that doubles as a Summon Vermin damage dealer, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.
+- [Seer](/factions/strigoi/seer/) is a spellcasting support piece, bringing stat buffs & dice manipulation. Also slips out of melee freely.
 
 **Damage Dealer**
 
-- [Moon Eater](moon-eater) is a melee damage dealer. It's high-output, but Mindless (can't score primaries). Also rattles low-Mind foes.
-- [Zoryi](zoryi) is a melee damage dealer. It's tough for its role, with a Frenzy burst (+48%), but coverless (no cover). Also rattles low-Mind foes.
-- [Wallachian Impaler](wallachian-impaler) is a melee damage dealer. It's high-output and cost-efficient, with a Frenzy burst (+36%). Also rattles low-Mind foes.
-- [Strigoi Sluger](strigoi-sluger) is a melee grappling damage dealer. It's pricey for its output.
-- [Varcolae](varcolae) is a melee damage dealer. It's Mindless (can't score primaries).
-- [Strige](strige) is a melee damage dealer. It's low on damage, fragile for its role and pricey for its output. Also extra Penetration vs bigger bases; flies over terrain.
-- [Hulking Moroi](hulking-moroi) is a melee damage dealer. It's cost-efficient, with a Frenzy burst (+40%), but Mindless (can't score primaries).
-- [Reaper](reaper) is a melee damage dealer. It's low on damage, pricey for its output and Mindless (can't score primaries).
-- [Highborn Servant](highborn-servant) is a melee/ranged damage dealer.
+- [Moon Eater](/factions/strigoi/moon-eater/) is a melee damage dealer. It's high-output, but Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Zoryi](/factions/strigoi/zoryi/) is a melee damage dealer. It's tough for its role, with a Frenzy burst (+48%), but coverless (no cover). Also rattles low-Mind foes.
+- [Wallachian Impaler](/factions/strigoi/wallachian-impaler/) is a melee damage dealer. It's high-output and cost-efficient, with a Frenzy burst (+36%). Also rattles low-Mind foes.
+- [Strigoi Sluger](/factions/strigoi/strigoi-sluger/) is a melee grappling damage dealer. It's pricey for its output.
+- [Varcolae](/factions/strigoi/varcolae/) is a melee damage dealer. It's Mindless (can't score primaries).
+- [Strige](/factions/strigoi/strige/) is a melee damage dealer. It's low on damage, fragile for its role and pricey for its output. Also extra Penetration vs bigger bases; flies over terrain.
+- [Hulking Moroi](/factions/strigoi/hulking-moroi/) is a melee damage dealer. It's cost-efficient, with a Frenzy burst (+40%), but Mindless (can't score primaries).
+- [Reaper](/factions/strigoi/reaper/) is a melee damage dealer. It's low on damage, pricey for its output and Mindless (can't score primaries).
+- [Highborn Servant](/factions/strigoi/highborn-servant/) is a melee/ranged damage dealer.
 
 **Assassin**
 
-- [Monstrous Stryx](monstrous-stryx) is a melee flying assassin. It's high-output and tough for its role, with a Frenzy burst (+26%), but pricey for its output and Mindless (can't score primaries). Also slips out of melee freely; area attack — multi-target upside not counted.
-- [Ceres](ceres) is a melee infiltrating assassin. It's low on damage and pricey for its output. Also slips out of melee freely.
-- [Strzyga](strzyga) is a melee armour-piercing assassin. It brings a Frenzy burst (+48%). Also flies over terrain.
+- [Monstrous Stryx](/factions/strigoi/monstrous-stryx/) is a melee flying assassin. It's high-output and tough for its role, with a Frenzy burst (+26%), but pricey for its output and Mindless (can't score primaries). Also slips out of melee freely; area attack — multi-target upside not counted.
+- [Ceres](/factions/strigoi/ceres/) is a melee infiltrating assassin. It's low on damage and pricey for its output. Also slips out of melee freely.
+- [Strzyga](/factions/strigoi/strzyga/) is a melee armour-piercing assassin. It brings a Frenzy burst (+48%). Also flies over terrain.
 
 **Canal Fighter**
 
-- [Cetean Upiór](cetean-upi-r) is a canal fighter. It brings a Frenzy burst (+38%). Also a strong grappler/drowner; fast through water.
-- [Aquatic Strigoi](aquatic-strigoi) is a canal fighter. It brings a Frenzy burst (+65%).
+- [Cetean Upiór](/factions/strigoi/cetean-upi-r/) is a canal fighter. It brings a Frenzy burst (+38%). Also a strong grappler/drowner; fast through water.
+- [Aquatic Strigoi](/factions/strigoi/aquatic-strigoi/) is a canal fighter. It brings a Frenzy burst (+65%).
 
 **Tank**
 
-- [Spatar](spatar) is a tank. It's extremely durable and hits back hard.
+- [Spatar](/factions/strigoi/spatar/) is a tank. It's extremely durable and hits back hard.
 
 **Disruptor**
 
-- [Strigoi Priest](strigoi-priest) is a WP lockout melee anti-mage disruptor.
+- [Strigoi Priest](/factions/strigoi/strigoi-priest/) is a WP lockout melee anti-mage disruptor.
 
 **Harasser**
 
-- [Leech](leech) is an aquatic harasser. It's self-stun-prone (Primitive).
+- [Leech](/factions/strigoi/leech/) is an aquatic harasser. It's self-stun-prone (Primitive).
 
 **Support**
 
-- [Miriam](miriam) is a Bride support piece.
+- [Miriam](/factions/strigoi/miriam/) is a Bride support piece.
 
 ### Henchmen
 
 **Mages**
 
-- [Romani](romani) is a line fighter that doubles as a spellcasting cantrip support piece, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.
+- [Romani](/factions/strigoi/romani/) is a line fighter that doubles as a spellcasting cantrip support piece, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.
 
 **Canal Fighter**
 
-- [Rotter](rotter) is a canal fighter. It's cost-efficient, with a Frenzy burst (+46%). Also fast through water; at home in water.
-- [Sinker](sinker) is a canal fighter. It's cost-efficient, with a Frenzy burst (+49%), but fragile for its role and slow. Also at home in water.
+- [Rotter](/factions/strigoi/rotter/) is a canal fighter. It's cost-efficient, with a Frenzy burst (+46%). Also fast through water; at home in water.
+- [Sinker](/factions/strigoi/sinker/) is a canal fighter. It's cost-efficient, with a Frenzy burst (+49%), but fragile for its role and slow. Also at home in water.
 
 **Harasser**
 
-- [Harpy](harpy) is a harasser. It's Mindless (can't score primaries). Also flies over terrain.
+- [Harpy](/factions/strigoi/harpy/) is a harasser. It's Mindless (can't score primaries). Also flies over terrain.
 
 **Support**
 
-- [Nosferatu](nosferatu) is a repositioning support piece.
-- [Thrall](thrall) is a Vampire AP battery support piece.
+- [Nosferatu](/factions/strigoi/nosferatu/) is a repositioning support piece.
+- [Thrall](/factions/strigoi/thrall/) is a Vampire AP battery support piece.
 
 **Objective Runner**
 
-- [Poenari Scout](poenari-scout) is an objective runner that doubles as a mid-range damage dealer. Also deploys forward.
+- [Poenari Scout](/factions/strigoi/poenari-scout/) is an objective runner that doubles as a mid-range damage dealer. Also deploys forward.
 
 **Line Fighter**
 
-- [Giurgiu Guard](giurgiu-guard) is a line fighter. It's high-output and tough for its role, with a Frenzy burst (+70%).
-- [Common Strigoi](common-strigoi) is a line fighter. It's high-output, with a Frenzy burst (+68%).
-- [Targoveti](targoveti) is a line fighter. It's high-output.
-- [Newborn Strigoi](newborn-strigoi) is a line fighter. It's fragile for its role and Mindless (can't score primaries).
-- [Starved Dhampir](starved-dhampir) is a line fighter. It's fragile for its role.
+- [Giurgiu Guard](/factions/strigoi/giurgiu-guard/) is a line fighter. It's high-output and tough for its role, with a Frenzy burst (+70%).
+- [Common Strigoi](/factions/strigoi/common-strigoi/) is a line fighter. It's high-output, with a Frenzy burst (+68%).
+- [Targoveti](/factions/strigoi/targoveti/) is a line fighter. It's high-output.
+- [Newborn Strigoi](/factions/strigoi/newborn-strigoi/) is a line fighter. It's fragile for its role and Mindless (can't score primaries).
+- [Starved Dhampir](/factions/strigoi/starved-dhampir/) is a line fighter. It's fragile for its role.
 
 **Specialist**
 
-- [Al Naibii](al-naibii) is a scaling versatile specialist. Its niche is to grow stronger as the game goes on.
-- [Ferryman](ferryman) is a Gondola water transport specialist. Its niche is to ferry the gang by boat. Also rattles low-Mind foes.
+- [Al Naibii](/factions/strigoi/al-naibii/) is a scaling versatile specialist. Its niche is to grow stronger as the game goes on.
+- [Ferryman](/factions/strigoi/ferryman/) is a Gondola water transport specialist. Its niche is to ferry the gang by boat. Also rattles low-Mind foes.
 
 ## Roster value
 

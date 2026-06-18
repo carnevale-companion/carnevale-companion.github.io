@@ -61,15 +61,15 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [Il Capitano - Damage Dealer (melee) / Support](il-capitano)
+#### [Il Capitano - Damage Dealer (melee) / Support](/factions/gifted/il-capitano/)
 
 High-output glass cannon; good support, making allies move; gives gang-wide WP regen; cost-effective but forces the gang to use its weak Mind 2 while in LOS.
 
-#### [La Signora - Support (re-roll engine)](la-signora)
+#### [La Signora - Support (re-roll engine)](/factions/gifted/la-signora/)
 
 Unique support: generates a re-roll pool for all friendly characters; high starting WP and WP regen, moderate combat stats.
 
-#### [The Duke - Assassin (infiltration) / Damage Dealer](the-duke)
+#### [The Duke - Assassin (infiltration) / Damage Dealer](/factions/gifted/the-duke/)
 
 High-mobility assassin.
 
@@ -77,75 +77,75 @@ High-mobility assassin.
 
 **Commedia dell'Arte**
 
-**[Il Capitano](il-capitano)**, **[La Signora](la-signora)**, [Brighella](brighella), [Colombina](colombina), [Coviello](coviello), [Harlequin](harlequin), [Il Dottore](il-dottore), [Innamorati](innamorati), [Mezzetino](mezzetino), [Pantaleone](pantaleone), [Pierrot](pierrot), [Scapino](scapino)
+**[Il Capitano](/factions/gifted/il-capitano/)** , **[La Signora](/factions/gifted/la-signora/)** , [Brighella](/factions/gifted/brighella/), [Colombina](/factions/gifted/colombina/), [Coviello](/factions/gifted/coviello/), [Harlequin](/factions/gifted/harlequin/), [Il Dottore](/factions/gifted/il-dottore/), [Innamorati](/factions/gifted/innamorati/), [Mezzetino](/factions/gifted/mezzetino/), [Pantaleone](/factions/gifted/pantaleone/), [Pierrot](/factions/gifted/pierrot/), [Scapino](/factions/gifted/scapino/)
 
 ### Heroes
 
 **Mages**
 
-- [Fadhila](fadhila) is a spellcasting support piece, bringing healing & shielding, stat buffs & dice manipulation.
-- [Maria Fioritura](maria-fioritura) is a spellcasting invocation support piece that doubles as a Summon Vermin damage dealer, flexible across disciplines (its spell pick sets the role).
-- [Fate](fate) is a spellcasting damage dealer that doubles as a WP drain disruptor.
-- [Francisco De Lorme](francisco-de-lorme) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
+- [Fadhila](/factions/gifted/fadhila/) is a spellcasting support piece, bringing healing & shielding, stat buffs & dice manipulation.
+- [Maria Fioritura](/factions/gifted/maria-fioritura/) is a spellcasting invocation support piece that doubles as a Summon Vermin damage dealer, flexible across disciplines (its spell pick sets the role).
+- [Fate](/factions/gifted/fate/) is a spellcasting damage dealer that doubles as a WP drain disruptor.
+- [Francisco De Lorme](/factions/gifted/francisco-de-lorme/) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
 
 **Damage Dealer**
 
-- [Black Spectre](black-spectre) is a melee damage dealer. It's tough for its role, but pricey for its output and Mindless (can't score primaries). Also flies over terrain; rattles low-Mind foes.
-- [The Aberration](the-aberration) is a melee damage dealer. It's tough for its role, but pricey for its output and Mindless (can't score primaries).
-- [White Dove](white-dove) is a mid-range damage dealer. It's low on damage and pricey for its output. Also flies over terrain.
-- [Justice](justice) is a melee armour-piercing damage dealer. It's high-output.
-- [Zovena Vela](zovena-vela) is a mid-range area-effect armour-piercing damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload). Also steals WP/objectives on disengage; slips out of melee freely.
-- [Burattino](burattino) is a melee damage dealer. It's fragile for its role and Mindless (can't score primaries). Also extra Penetration vs bigger bases; pins fleeing enemies.
-- [Innamorati](innamorati) is a melee/mid-range damage dealer.
+- [Black Spectre](/factions/gifted/black-spectre/) is a melee damage dealer. It's tough for its role, but pricey for its output and Mindless (can't score primaries). Also flies over terrain; rattles low-Mind foes.
+- [The Aberration](/factions/gifted/the-aberration/) is a melee damage dealer. It's tough for its role, but pricey for its output and Mindless (can't score primaries).
+- [White Dove](/factions/gifted/white-dove/) is a mid-range damage dealer. It's low on damage and pricey for its output. Also flies over terrain.
+- [Justice](/factions/gifted/justice/) is a melee armour-piercing damage dealer. It's high-output.
+- [Zovena Vela](/factions/gifted/zovena-vela/) is a mid-range area-effect armour-piercing damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload). Also steals WP/objectives on disengage; slips out of melee freely.
+- [Burattino](/factions/gifted/burattino/) is a melee damage dealer. It's fragile for its role and Mindless (can't score primaries). Also extra Penetration vs bigger bases; pins fleeing enemies.
+- [Innamorati](/factions/gifted/innamorati/) is a melee/mid-range damage dealer.
 
 **Assassin**
 
-- [Senshi the Undying](senshi-the-undying) is a melee assassin. It's tough for its role.
+- [Senshi the Undying](/factions/gifted/senshi-the-undying/) is a melee assassin. It's tough for its role.
 
 **Harasser**
 
-- [Harlequin](harlequin) is a harasser. Also slips out of melee freely.
+- [Harlequin](/factions/gifted/harlequin/) is a harasser. Also slips out of melee freely.
 
 **Specialist**
 
-- [Solus Hydraea](solus-hydraea) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile. Also at home in water; rattles low-Mind foes.
-- [Harbinger's Reflection](harbinger-s-reflection) is a WP regeneration Agenda specialist. Its niche is to act as a Will Point engine for the gang. Also Mindless (can't score primaries).
-- [Artisan Elena](artisan-elena) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
-- [Master Gerhard](master-gerhard) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
-- [Il Mentore](il-mentore) is a Mask giver objective specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile. Also steals WP/objectives on disengage; slips out of melee freely.
-- [Marco Leontus](marco-leontus) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
-- [The Mask Maker](the-mask-maker) is an adaptive specialist. Its niche is to adapt or copy into whatever role the gang needs.
+- [Solus Hydraea](/factions/gifted/solus-hydraea/) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile. Also at home in water; rattles low-Mind foes.
+- [Harbinger's Reflection](/factions/gifted/harbinger-s-reflection/) is a WP regeneration Agenda specialist. Its niche is to act as a Will Point engine for the gang. Also Mindless (can't score primaries).
+- [Artisan Elena](/factions/gifted/artisan-elena/) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
+- [Master Gerhard](/factions/gifted/master-gerhard/) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
+- [Il Mentore](/factions/gifted/il-mentore/) is a Mask giver objective specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile. Also steals WP/objectives on disengage; slips out of melee freely.
+- [Marco Leontus](/factions/gifted/marco-leontus/) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
+- [The Mask Maker](/factions/gifted/the-mask-maker/) is an adaptive specialist. Its niche is to adapt or copy into whatever role the gang needs.
 
 ### Henchmen
 
 **Damage Dealer**
 
-- [The Demolitionist](the-demolitionist) is a mid-range area-effect damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's Mindless (can't score primaries) and one shot per turn (Reload).
-- [Brighella](brighella) is a long-range damage dealer. It's pricey for its output.
-- [Mezzetino](mezzetino) is a melee damage dealer.
+- [The Demolitionist](/factions/gifted/the-demolitionist/) is a mid-range area-effect damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's Mindless (can't score primaries) and one shot per turn (Reload).
+- [Brighella](/factions/gifted/brighella/) is a long-range damage dealer. It's pricey for its output.
+- [Mezzetino](/factions/gifted/mezzetino/) is a melee damage dealer.
 
 **Brawler**
 
-- [Starspawn](starspawn) is a brawler. It's Mindless (can't score primaries).
+- [Starspawn](/factions/gifted/starspawn/) is a brawler. It's Mindless (can't score primaries).
 
 **Control**
 
-- [Escaped Madman](escaped-madman) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also Mindless (can't score primaries); a strong grappler/drowner.
-- [Il Dottore](il-dottore) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also pins fleeing enemies.
+- [Escaped Madman](/factions/gifted/escaped-madman/) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also Mindless (can't score primaries); a strong grappler/drowner.
+- [Il Dottore](/factions/gifted/il-dottore/) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also pins fleeing enemies.
 
 **Support**
 
-- [Colombina](colombina) is a support piece.
+- [Colombina](/factions/gifted/colombina/) is a support piece.
 
 **Objective Runner**
 
-- [Coviello](coviello) is an objective runner.
-- [Scapino](scapino) is an objective runner. Also slips out of melee freely.
-- [Pantaleone](pantaleone) is an objective runner. Also steals WP/objectives on disengage; area attack — multi-target upside not counted.
+- [Coviello](/factions/gifted/coviello/) is an objective runner.
+- [Scapino](/factions/gifted/scapino/) is an objective runner. Also slips out of melee freely.
+- [Pantaleone](/factions/gifted/pantaleone/) is an objective runner. Also steals WP/objectives on disengage; area attack — multi-target upside not counted.
 
 **Specialist**
 
-- [Pierrot](pierrot) is a charge redirect specialist. Its niche is to redirect enemy charges away from allies.
+- [Pierrot](/factions/gifted/pierrot/) is a charge redirect specialist. Its niche is to redirect enemy charges away from allies.
 
 ## Roster value
 

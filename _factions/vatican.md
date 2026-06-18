@@ -66,23 +66,23 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 ### Leaders
 
-#### [Patriarch Bishop de Bernis - Support (mage) / Damage Dealer (magic)](patriarch-bishop-de-bernis)
+#### [Patriarch Bishop de Bernis - Support (mage) / Damage Dealer (magic)](/factions/the-vatican/patriarch-bishop-de-bernis/)
 
 Best mage of the faction; gives gang-wide WP regen.
 
-#### [Father Cesta - Support (mage, Constructs)](father-cesta)
+#### [Father Cesta - Support (mage, Constructs)](/factions/the-vatican/father-cesta/)
 
 Construct enabler — every ability feeds Constructs (Impart Will, Gates of Heaven WP×2); build around Constructs.
 
-#### [Exorcist - Specialist (anti-caster, WP denial)](exorcist)
+#### [Exorcist - Specialist (anti-caster, WP denial)](/factions/the-vatican/exorcist/)
 
 Mediocre combatant but a counter-pick vs casters; Exorcism gives a permanent +3 damage vs WP-0 models (notably Frenzied Strigoi).
 
-#### [Inquisitor - Damage Dealer (magic) / Support (offensive, magic)](inquisitor)
+#### [Inquisitor - Damage Dealer (magic) / Support (offensive, magic)](/factions/the-vatican/inquisitor/)
 
 Very aggressive caster leader.
 
-#### [Knight Commander - Brawler](knight-commander)
+#### [Knight Commander - Brawler](/factions/the-vatican/knight-commander/)
 
 Really strong all-round fighter; small incentive to play Hospitallers (too elite to field as a full sub-faction).
 
@@ -90,123 +90,123 @@ Really strong all-round fighter; small incentive to play Hospitallers (too elite
 
 **Construct**
 
-[Celestial Congregation](celestial-congregation), [Celestial Spirit](celestial-spirit), [Cherubim](cherubim), [Divine Seraphim](divine-seraphim), [Gethsemane](gethsemane), [Golgotha](golgotha), [Seraph](seraph), [Thalassic Messenger](thalassic-messenger), [Theophant of Sinai](theophant-of-sinai), [Throne](throne)
+[Celestial Congregation](/factions/the-vatican/celestial-congregation/), [Celestial Spirit](/factions/the-vatican/celestial-spirit/), [Cherubim](/factions/the-vatican/cherubim/), [Divine Seraphim](/factions/the-vatican/divine-seraphim/), [Gethsemane](/factions/the-vatican/gethsemane/), [Golgotha](/factions/the-vatican/golgotha/), [Seraph](/factions/the-vatican/seraph/), [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/), [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/), [Throne](/factions/the-vatican/throne/)
 
 **Hospitaller**
 
-**[Knight Commander](knight-commander)**, [Angel of the Blooded Rose](angel-of-the-blooded-rose), [Burning Saint](burning-saint), [Chevaleresse](chevaleresse), [Conventual Chaplain](conventual-chaplain), [Knight of Malta](knight-of-malta), [Maltese Squire](maltese-squire), [Paladin of St Lazarus](paladin-of-st-lazarus), [Templar Marshal](templar-marshal), [Venator of Devotion](venator-of-devotion)
+**[Knight Commander](/factions/the-vatican/knight-commander/)** , [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/), [Burning Saint](/factions/the-vatican/burning-saint/), [Chevaleresse](/factions/the-vatican/chevaleresse/), [Conventual Chaplain](/factions/the-vatican/conventual-chaplain/), [Knight of Malta](/factions/the-vatican/knight-of-malta/), [Maltese Squire](/factions/the-vatican/maltese-squire/), [Paladin of St Lazarus](/factions/the-vatican/paladin-of-st-lazarus/), [Templar Marshal](/factions/the-vatican/templar-marshal/), [Venator of Devotion](/factions/the-vatican/venator-of-devotion/)
 
 **Invoker**
 
-**[Father Cesta](father-cesta)**, [Galilean Priest](galilean-priest), [Summoner Priest](summoner-priest)
+**[Father Cesta](/factions/the-vatican/father-cesta/)** , [Galilean Priest](/factions/the-vatican/galilean-priest/), [Summoner Priest](/factions/the-vatican/summoner-priest/)
 
 ### Heroes
 
 **Mages**
 
-- [Galilean Priest](galilean-priest) is a support piece that doubles as a Summon Vermin damage dealer, bringing stat buffs & dice manipulation, versatile utility magic. Also fast through water.
-- [Silere Priest](silere-priest) is an offensive support piece, bringing stat buffs & dice manipulation, control & action economy.
-- [Summoner Priest](summoner-priest) is a support piece, bringing stat buffs & dice manipulation, control & action economy.
-- [Baptist](baptist) is a support piece, bringing healing & shielding.
-- [Stigmatist](stigmatist) is a magic/melee damage dealer. It's cost-efficient, with a Frenzy burst (+80%).
+- [Galilean Priest](/factions/the-vatican/galilean-priest/) is a support piece that doubles as a Summon Vermin damage dealer, bringing stat buffs & dice manipulation, versatile utility magic. Also fast through water.
+- [Silere Priest](/factions/the-vatican/silere-priest/) is an offensive support piece, bringing stat buffs & dice manipulation, control & action economy.
+- [Summoner Priest](/factions/the-vatican/summoner-priest/) is a support piece, bringing stat buffs & dice manipulation, control & action economy.
+- [Baptist](/factions/the-vatican/baptist/) is a support piece, bringing healing & shielding.
+- [Stigmatist](/factions/the-vatican/stigmatist/) is a magic/melee damage dealer. It's cost-efficient, with a Frenzy burst (+80%).
 
 **Damage Dealer**
 
-- [Felix Baumgartner](felix-baumgartner) is a melee damage dealer.
-- [Inquisition Commissioner](inquisition-commissioner) is a melee/mid-range damage dealer.
-- [Prelate of the Flaming Sword](prelate-of-the-flaming-sword) is a melee armour-piercing damage dealer. It's high-output, tough for its role and cost-efficient, but Mindless (can't score primaries).
-- [Templar Marshal](templar-marshal) is a melee/mid-range damage dealer. It's one shot per turn (Reload). Also pins fleeing enemies.
-- [Executioner](executioner) is a melee damage dealer. It's cost-efficient.
+- [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) is a melee damage dealer.
+- [Inquisition Commissioner](/factions/the-vatican/inquisition-commissioner/) is a melee/mid-range damage dealer.
+- [Prelate of the Flaming Sword](/factions/the-vatican/prelate-of-the-flaming-sword/) is a melee armour-piercing damage dealer. It's high-output, tough for its role and cost-efficient, but Mindless (can't score primaries).
+- [Templar Marshal](/factions/the-vatican/templar-marshal/) is a melee/mid-range damage dealer. It's one shot per turn (Reload). Also pins fleeing enemies.
+- [Executioner](/factions/the-vatican/executioner/) is a melee damage dealer. It's cost-efficient.
 
 **Brawler**
 
-- [Gethsemane](gethsemane) is a brawler. It's pricey for its output and Mindless (can't score primaries). Also area attack — multi-target upside not counted.
-- [Golgotha](golgotha) is a brawler. It's high-output and cost-efficient, but Mindless (can't score primaries). Also rattles low-Mind foes.
-- [Venator of Devotion](venator-of-devotion) is a brawler. It's high-output and cost-efficient. Also extra Penetration vs bigger bases.
-- [Knight of the Holy Sepulchre](knight-of-the-holy-sepulchre) is a brawler. It's Mindless (can't score primaries).
-- [Paladin of St Lazarus](paladin-of-st-lazarus) is a brawler.
-- [Burning Saint](burning-saint) is a brawler.
-- [Avignon Guard](avignon-guard) is a brawler. It's cost-efficient.
+- [Gethsemane](/factions/the-vatican/gethsemane/) is a brawler. It's pricey for its output and Mindless (can't score primaries). Also area attack — multi-target upside not counted.
+- [Golgotha](/factions/the-vatican/golgotha/) is a brawler. It's high-output and cost-efficient, but Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Venator of Devotion](/factions/the-vatican/venator-of-devotion/) is a brawler. It's high-output and cost-efficient. Also extra Penetration vs bigger bases.
+- [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) is a brawler. It's Mindless (can't score primaries).
+- [Paladin of St Lazarus](/factions/the-vatican/paladin-of-st-lazarus/) is a brawler.
+- [Burning Saint](/factions/the-vatican/burning-saint/) is a brawler.
+- [Avignon Guard](/factions/the-vatican/avignon-guard/) is a brawler. It's cost-efficient.
 
 **Assassin**
 
-- [Angel of the Blooded Rose](angel-of-the-blooded-rose) is a melee assassin. It's pricey for its output. Also flies over terrain.
+- [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/) is a melee assassin. It's pricey for its output. Also flies over terrain.
 
 **Sniper**
 
-- [Scorpio Marksman](scorpio-marksman) is a long-range sniper. It's high-output, tough for its role and cost-efficient.
+- [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) is a long-range sniper. It's high-output, tough for its role and cost-efficient.
 
 **Tank**
 
-- [Sepulchral Vanguard](sepulchral-vanguard) is a tank that doubles as a WP lockout disruptor. It's extremely durable and cheap for the staying power, but Mindless (can't score primaries).
+- [Sepulchral Vanguard](/factions/the-vatican/sepulchral-vanguard/) is a tank that doubles as a WP lockout disruptor. It's extremely durable and cheap for the staying power, but Mindless (can't score primaries).
 
 **Disruptor**
 
-- [Seraph](seraph) is a tank disruptor. It's Mindless (can't score primaries). Also flies over terrain; rattles low-Mind foes.
-- [Eater of Sin](eater-of-sin) is a WP strip disruptor.
+- [Seraph](/factions/the-vatican/seraph/) is a tank disruptor. It's Mindless (can't score primaries). Also flies over terrain; rattles low-Mind foes.
+- [Eater of Sin](/factions/the-vatican/eater-of-sin/) is a WP strip disruptor.
 
 **Support**
 
-- [Cross-bearing Deacon](cross-bearing-deacon) is a support piece. It's unusually durable.
-- [Conventual Chaplain](conventual-chaplain) is a support piece.
+- [Cross-bearing Deacon](/factions/the-vatican/cross-bearing-deacon/) is a support piece. It's unusually durable.
+- [Conventual Chaplain](/factions/the-vatican/conventual-chaplain/) is a support piece.
 
 **Specialist**
 
-- [Throne](throne) is a flying control/support specialist. Its niche is to fly around as a control/support piece. Also rattles low-Mind foes.
-- [Divine Seraphim](divine-seraphim) is an AoE template attacker anti-status aura specialist. Its niche is to scrub status effects off allies. Also flies over terrain; rattles low-Mind foes; area attack — multi-target upside not counted.
+- [Throne](/factions/the-vatican/throne/) is a flying control/support specialist. Its niche is to fly around as a control/support piece. Also rattles low-Mind foes.
+- [Divine Seraphim](/factions/the-vatican/divine-seraphim/) is an AoE template attacker anti-status aura specialist. Its niche is to scrub status effects off allies. Also flies over terrain; rattles low-Mind foes; area attack — multi-target upside not counted.
 
 ### Henchmen
 
 **Mages**
 
-- [Lacrimosa](lacrimosa) is a support piece, bringing healing & shielding.
+- [Lacrimosa](/factions/the-vatican/lacrimosa/) is a support piece, bringing healing & shielding.
 
 **Damage Dealer**
 
-- [Theophant of Sinai](theophant-of-sinai) is a mid-range high-burst damage dealer. It's Mindless (can't score primaries) and one shot per turn (Reload).
+- [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) is a mid-range high-burst damage dealer. It's Mindless (can't score primaries) and one shot per turn (Reload).
 
 **Brawler**
 
-- [Knight of Malta](knight-of-malta) is a brawler.
+- [Knight of Malta](/factions/the-vatican/knight-of-malta/) is a brawler.
 
 **Sniper**
 
-- [Maltese Squire](maltese-squire) is a long-range sniper. It's low on damage and pricey for its output.
+- [Maltese Squire](/factions/the-vatican/maltese-squire/) is a long-range sniper. It's low on damage and pricey for its output.
 
 **Canal Fighter**
 
-- [Thalassic Messenger](thalassic-messenger) is a drown canal fighter. It's tough for its role, but self-stun-prone (Primitive). Also fast through water; at home in water.
+- [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/) is a drown canal fighter. It's tough for its role, but self-stun-prone (Primitive). Also fast through water; at home in water.
 
 **Disruptor**
 
-- [Witch Finder](witch-finder) is a WP lockout disruptor. Also a strong grappler/drowner; pins fleeing enemies.
+- [Witch Finder](/factions/the-vatican/witch-finder/) is a WP lockout disruptor. Also a strong grappler/drowner; pins fleeing enemies.
 
 **Support**
 
-- [Celestial Congregation](celestial-congregation) is an offensive support piece. It's Mindless (can't score primaries). Also rattles low-Mind foes.
-- [Altar Boy](altar-boy) is a support piece.
-- [Celestial Spirit](celestial-spirit) is a support piece. It's Mindless (can't score primaries). Also rattles low-Mind foes.
-- [Reliquary Page](reliquary-page) is a support piece. Also slips out of melee freely.
-- [Cherubim](cherubim) is a Companion chain extender support piece. It's fragile and Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Celestial Congregation](/factions/the-vatican/celestial-congregation/) is an offensive support piece. It's Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Altar Boy](/factions/the-vatican/altar-boy/) is a support piece.
+- [Celestial Spirit](/factions/the-vatican/celestial-spirit/) is a support piece. It's Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Reliquary Page](/factions/the-vatican/reliquary-page/) is a support piece. Also slips out of melee freely.
+- [Cherubim](/factions/the-vatican/cherubim/) is a Companion chain extender support piece. It's fragile and Mindless (can't score primaries). Also rattles low-Mind foes.
 
 **Objective Runner**
 
-- [Inquisitorial Spy](inquisitorial-spy) is an objective runner. Also steals WP/objectives on disengage; deploys forward.
+- [Inquisitorial Spy](/factions/the-vatican/inquisitorial-spy/) is an objective runner. Also steals WP/objectives on disengage; deploys forward.
 
 **Line Fighter**
 
-- [Bishop Guard](bishop-guard) is a line fighter. It's high-output and tough for its role.
-- [Redemptionist](redemptionist) is a line fighter. It's pricey for its output.
-- [Chevaleresse](chevaleresse) is a line fighter. It's high-output and tough for its role.
-- [Priest](priest) is a disruptive line fighter.
-- [Crucifier](crucifier) is an armour-piercing line fighter.
-- [French Infantryman](french-infantryman) is a line fighter. It's pricey for its output and Mindless (can't score primaries).
-- [Martyr](martyr) is a line fighter. It's Mindless (can't score primaries).
+- [Bishop Guard](/factions/the-vatican/bishop-guard/) is a line fighter. It's high-output and tough for its role.
+- [Redemptionist](/factions/the-vatican/redemptionist/) is a line fighter. It's pricey for its output.
+- [Chevaleresse](/factions/the-vatican/chevaleresse/) is a line fighter. It's high-output and tough for its role.
+- [Priest](/factions/the-vatican/priest/) is a disruptive line fighter.
+- [Crucifier](/factions/the-vatican/crucifier/) is an armour-piercing line fighter.
+- [French Infantryman](/factions/the-vatican/french-infantryman/) is a line fighter. It's pricey for its output and Mindless (can't score primaries).
+- [Martyr](/factions/the-vatican/martyr/) is a line fighter. It's Mindless (can't score primaries).
 
 **Specialist**
 
-- [Thomas Thieme](thomas-thieme) is an anti-vampire bodyguard specialist. Its niche is to counter Vampire/Strigoi gangs specifically. Also extra Penetration vs bigger bases.
-- [Stalker](stalker) is a ranged Counter trigger specialist. Its niche is to make reactive, out-of-sequence attacks (Counter). Also deploys forward.
+- [Thomas Thieme](/factions/the-vatican/thomas-thieme/) is an anti-vampire bodyguard specialist. Its niche is to counter Vampire/Strigoi gangs specifically. Also extra Penetration vs bigger bases.
+- [Stalker](/factions/the-vatican/stalker/) is a ranged Counter trigger specialist. Its niche is to make reactive, out-of-sequence attacks (Counter). Also deploys forward.
 
 ## Roster value
 
