@@ -3,91 +3,133 @@ layout: doc
 title: The Guild
 description: Guild faction presentation and analysis
 nav_section: Factions
+toc:
+  - title: Faction Overview
+    anchor: faction-overview
+  - title: Faction Command
+    anchor: faction-command
+  - title: Magic Access
+    anchor: magic-access
+  - title: Roster
+    anchor: roster
+  - title: Roster value
+    anchor: roster-value
 ---
 
 ## Faction Overview
 
-Venice's criminal underworld — thieves, courtesans, merchants, and carnival monsters. The Guild has three internal sub-factions with very different playstyles: **Trade**, **House of Virtue**, and **End of Days**. Six leaders and a wide hero roster make the Guild highly versatile, while Mob mentality encourages populous lists.
-
----
+Venice's criminal underworld — thieves, courtesans, merchants, and carnival monsters. The Guild has three internal sub-factions with very different playstyles: **Trade** (WP and Companion economy), **House of Virtue** (assassination and Penetration), and **End of Days** (Mindless mob chaos). Six leaders and a wide hero roster make the Guild highly versatile.
 
 ## Faction Command
 
-**Mob Mentality** (PULSE): For every friendly character in LOS (including this character), add a re-roll to your **Mob Mentality Pool**. Until the end of the round, and friendly character may use these re-rolls on any roll - one re-roll per dice.
+**Mob Mentality** (PULSE): For every friendly character in LOS (including self), add a re-roll to the Mob Mentality Pool. Friendly characters may use these re-rolls on any roll this round — one re-roll per die.
 
 <div class="callout">
 <p class="callout-title">Tactical note</p>
 
-Unlike WP, re-rolls are applied after rolling, they are more precise. Each re-roll worth ~0.40 expected Aces on 7+ rolls, ~0.70 on Attack Rolls vs DEX 4.
+Re-roll pool = 1 per friendly in LOS. With 6 models in LOS: 6 re-rolls distributed freely across the whole round. Unlike WP, re-rolls are applied after rolling (more precise — target only the dice that matter). Each re-roll worth ~0.40 expected Aces on 7+ rolls, ~0.70 on Attack Rolls vs DEX 4. Gang-size dependent: large End of Days rosters generate enormous pools (8–10+); small elite gangs generate fewer but still valuable. Activate at the start of a round to maximise LOS before any movement changes the count.
 
 </div>
-
----
 
 ## Magic Access
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| Baba-Yaga (Hero) | Mage(3) | Blood Rites, Wild Magic | Highest mage level in faction, highest Mind in the game, Will regen via Blood Rights |
-| Bloodletter (Hero) | Mage(2) + Expert Sorcerer(1) | Blood Rites | Trades LP for WP and gains LP on successful casts |
-| Witch (Hero) | Mage(2) | Blood Rites, Runes of Sovereignty, Wild Magic | Will regen via Blood Rights, House of Virtue |
-| Seamstress (Hero) | Mage(1) + Expert Sorcerer(1) | Divinity, Fateweaving | Can learn spells from 2 disciplines |
+| Baba-Yaga (Hero) | Mage(3) | Blood Rites, Wild Magic | Highest mage level in faction; self-sustaining via Blood Rights |
+| Bloodletter (Hero) | Mage(2) + Expert Sorcerer(1) | Blood Rites | Trades LP for WP; gains LP on successful casts |
+| Witch (Hero) | Mage(2) | Blood Rites, Runes of Sovereignty, Wild Magic | Blood Rights (1AP) LP→WP; House of Virtue |
+| Seamstress (Hero) | Mage(1) + Expert Sorcerer(1) | Divinity, Fateweaving | Entwined Magics: ES spells from any known discipline |
 
-The Guild has reasonable magic access with Baba-Yaga as primary caster. Black Lamp functions as anti-magic support (Dispel as Mage(3)+Expert Sorcerer(3)) without casting.
+The Guild has reasonable magic access with Baba-Yaga as primary caster. Baba-Yaga is the primary caster at Mage(3) with two disciplines. Black Lamp functions as anti-magic support (Dispel as Mage(3)+Expert Sorcerer(3)) without casting. The Lamp also blocks enemy WP use within 3".
 
----
+## Roster
 
-## Roster composition
+<div class="table-fixed">
+
+| Line Fighter | Damage Dealer | Assassin | Brawler | Tank | Canal Fighter |
+|---|---|---|---|---|---|
+| 5 | 12 | 2 | 1 | 0 | 2 |
+
+| Sniper | Support | Harasser | Disruptor | Objective Runner | Specialist |
+|---|---|---|---|---|---|
+| 1 | 7 | 3 | 1 | 3 | 4 |
+
+</div>
 
 ### Leaders
 
-[**Capodecina - Assassin (melee, infiltrator)**](factions/capodecina)
+#### [Capodecina - Assassin (melee, infiltrator)](capodecina)
 
-Fast infiltrating assassin-leader (Dex6, Aerial). He is build around the **Trade** sub-faction, notably giving them all **Companion(*Trade*)**.
+Fast infiltrating assassin-leader (Dex6, Aerial); build around the Trade sub-faction.
 
-[**Harbourmaster - Brawler (water)**](factions/harbourmaster)
+#### [Harbourmaster - Brawler (water)](harbourmaster)
 
-Durable Parry frontline fighter. She has a **Fast Swimmer** gang buff.
+Durable Parry frontline fighter; Fast Swimmer gang buff.
 
-[**King For a Day - Damage Dealer (anti-armor)**](factions/king-for-a-day)
+#### [King For a Day - Damage Dealer (anti-armor)](king-for-a-day)
 
-Cheap anti-armor damage dealer, but only AP2 and low command. He is build around the **End of Days** sub-faction, notably removing their Mindless attribute.
+Cheap, but only AP2 and low command; build around the End of Days sub-faction — notably removes their Mindless attribute.
 
-[**Madame - Support (House of Virtue)**](factions/madame)
+#### [Madame - Support (House of Virtue)](madame)
 
-Agile but with little combat capabilities. She is build around the **House of Virtue** sub-faction, notably giving them all **Companion(*House of Virtue*)**.
+Little personal combat; build around the House of Virtue sub-faction.
 
-[**Ostrich King?! - Damage Dealer (anti-armor, fast)**](factions/ostrich-king)
+#### [Ostrich King?! - Damage Dealer (anti-armor, fast)](ostrich-king)
 
-Very fast anti-armor damage dealer, but only AP2 and low command. He is build around the **End of Days** sub-faction, notably removing their Mindless attribute.
+Very fast, but only AP2 and low command; build around the End of Days sub-faction — notably removes their Mindless attribute.
 
-[**Prince of Thieves - Damage Dealer (melee/short-range) / Objective Runner**](factions/prince-of-thieves)
+#### [Prince of Thieves - Damage Dealer (melee/short-range) / Objective Runner](prince-of-thieves)
 
-Flexible aggressive hero-leader with good command. He can also be chosen as a Hero.
+Flexible aggressive hero-leader with good CP.
 
 ### Heroes
 
-> WIP
+- [Baba-Yaga](baba-yaga) is a spellcasting damage dealer that doubles as a support piece, bringing damage & life-drain, versatile utility magic. It's high-output and cost-efficient, with Vampiric self-healing, but coverless (no cover).
+- [Black Lamp](black-lamp) is a WP lockout disruptor.
+- [Ebenezer Chummage](ebenezer-chummage) is an anti-monster specialist. Its niche is to punch up against large-base monsters; ordinary otherwise. Also a strong grappler/drowner; extra Penetration vs bigger bases.
+- [Ostrich Chariot?!](ostrich-chariot) is a melee damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's tough for its role, but Mindless (can't score primaries).
+- [Rialto Assassin](rialto-assassin) is a ranged assassin. It's high-output and cost-efficient, but one shot per turn (Reload). Also deploys forward; slips out of melee freely; area attack — multi-target upside not counted.
+- [Bloodletter](bloodletter) is a spellcasting damage dealer. It's cost-efficient.
+- [Blood Matron](blood-matron) is a target-locking permanent-lockdown specialist. Its niche is to lock onto one enemy and keep it debuffed/stunned all game. Also Mindless (can't score primaries).
+- [Barber](barber) is a melee armour-piercing damage dealer. It's cost-efficient. Also pins fleeing enemies.
+- [Baroni](baroni) is a long-range damage dealer. It's one shot per turn (Reload). Also steals WP/objectives on disengage.
+- [Brewer](brewer) is an End of Days conditional specialist. Its niche is to build toward a slow-burn wincon — pays off only late. Also Mindless (can't score primaries).
+- [Brute](brute) is a melee damage dealer. It's Mindless (can't score primaries).
+- [Butcher](butcher) is a brawler. Also a strong grappler/drowner.
+- [Dancer](dancer) is an objective runner. Also slips out of melee freely.
+- [Death Duellist](death-duellist) is a melee damage dealer. Also pins fleeing enemies.
+- [Fisherman](fisherman) is a canal fighter. It's cost-efficient, but one shot per turn (Reload). Also extra Penetration vs bigger bases; fast through water.
+- [Recruiter](recruiter) is a support piece.
+- [Seamstress](seamstress) is a spellcasting support piece, bringing healing & shielding, stat buffs & dice manipulation.
+- [Shadow Assassin](shadow-assassin) is a melee assassin that doubles as an objective runner. Also slips out of melee freely.
+- [Smuggler](smuggler) is a support piece. Also crews boats for WP; area attack — multi-target upside not counted.
+- [Thief](thief) is a harasser. Also steals WP/objectives on disengage; deploys forward; area attack — multi-target upside not counted.
+- [Very Loud Ostrich](very-loud-ostrich) is a support piece. It's Mindless (can't score primaries). Also slips out of melee freely.
+- [Whaler](whaler) is a mid-range Hunter damage dealer. It's high-output and cost-efficient. Also fast through water; crews boats for WP.
+- [Witch](witch) is a spellcasting damage dealer that doubles as a support piece, flexible across disciplines (its spell pick sets the role). It's high-output and cost-efficient. Also slips out of melee freely.
 
 ### Henchmen
 
-> WIP
+- [Arbalest](arbalest) is a long-range sniper. It's low on damage and pricey for its output.
+- [Beggar](beggar) is an objective runner.
+- [Blooded](blooded) is a support piece. It's fragile and Mindless (can't score primaries).
+- [Blood Courier](blood-courier) is a support piece. Also slips out of melee freely.
+- [Citizen](citizen) is a line fighter. It's pricey for its output.
+- [Dog Keeper](dog-keeper) is a support piece. Also pins fleeing enemies.
+- [Dog](dog) is a harasser. It's Mindless (can't score primaries). Also pins fleeing enemies.
+- [Escort](escort) is a bodyguard grappler line fighter. It's high-output.
+- [Firebreather](firebreather) is an AoE/template damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's fragile for its role, Mindless (can't score primaries) and one shot per turn (Reload).
+- [Gondolier](gondolier) is a Gondola specialist. Its niche is to ferry the gang by gondola. Also fast through water.
+- [Harlot](harlot) is a line fighter. Also slips out of melee freely.
+- [Indebted](indebted) is a line fighter. It's pricey for its output.
+- [Mariner](mariner) is a canal fighter. It's low on damage. Also fast through water; crews boats for WP.
+- [Ostrich Rider](ostrich-rider) is a harasser. It's Mindless (can't score primaries). Also slips out of melee freely.
+- [Pilferer](pilferer) is an objective runner. Also steals WP/objectives on disengage.
+- [Poacher](poacher) is a ranged damage dealer that doubles as an objective runner. It's low on damage and pricey for its output. Also deploys forward.
+- [Pulcinella](pulcinella) is a disruptive line fighter. It's Mindless (can't score primaries).
+- [Shipwright](shipwright) is a melee damage dealer. It's cost-efficient.
 
 ## Roster value
-
-| Role | Count |
-|---|---|
-| Damage Dealer | 12 |
-| Brawler | 1 |
-| Assassin | 2 |
-| Sniper | 1 |
-| Canal Fighter | 2 |
-| Disruptor | 1 |
-| Harasser | 3 |
-| Support | 7 |
-| Objective Runner | 3 |
-| Line Fighter | 5 |
-| Specialist | 4 |
 
 ### Offensive and Defensive capability by role
 
@@ -135,9 +177,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Baroni | 3.34 | 0.223 | ✓ | 14.9 | 0.99 | ✓ |
 | Brute | 2.68 | 0.206 | ✓ | 9.3 | 0.72 | – |
 | Death Duellist | 2.75 | 0.196 | ✓ | 8.9 | 0.64 | – |
+| Ostrich Chariot?! | 5.96 | 0.175 | – | 17.0 | 0.5 | – |
 | Poacher | 1.13 | 0.113 | – | 8.8 | 0.88 | ✓ |
 | Firebreather | 1.1 | 0.11 | – | 6.0 | 0.6 | – |
-| Ostrich Chariot?! | 3.66 | 0.108 | – | 17.0 | 0.5 | – |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
 
@@ -217,3 +259,4 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Ebenezer Chummage | 3.1 | 0.172 | ✓ | 16.0 | 0.89 | ✓ |
 | Brewer | 2.2 | 0.147 | ✓ | 7.4 | 0.49 | – |
 | Blood Matron | 1.23 | 0.082 | – | 10.6 | 0.71 | ✓ |
+

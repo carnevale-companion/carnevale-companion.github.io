@@ -149,6 +149,13 @@
           <a href="{{ f.url | relative_url }}"{% if page.url == f.url %} class="active" aria-current="page"{% endif %}>
             {{ f.title }}
           </a>
+          {% if page.url == f.url and f.toc %}
+          <ul class="sidebar-toc">
+            {% for item in f.toc %}
+            <li><a href="#{{ item.anchor }}">{{ item.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
         </li>
         {% endfor %}
       </ul>
