@@ -104,13 +104,13 @@ Dealer quality is shown both raw and **per-Ducat (value)**; the value column is 
 
 | Faction | DD EDPA (raw) | DD EDPA/Duc (value) | above value bar | snipers | median ATK2K | tanks | top offense |
 |---|---|---|---|---|---|---|---|
-| The Guild | 3.4 (+15%) | 0.23 (+21%) | 9/12 | 1 | 9.7 | 0 | Ostrich Chariot?! 5.96 |
-| The Vatican | 3.29 (+12%) | 0.22 (+18%) | 6/7 | 2 | 11.5 | 1 | Venator of Devotion 4.7 |
-| Rashaar | 2.96 (+0%) | 0.22 (+14%) | 3/4 | 0 | 9.7 | 2 | Morgraur 5.06 |
-| The Doctors | 2.77 (-6%) | 0.19 (+0%) | 6/13 | 0 | 9.8 | 2 | Doctor of the Firmament 4.71 |
-| Strigoi | 3.0 (+2%) | 0.18 (-7%) | 4/10 | 0 | 9.7 | 1 | Monstrous Stryx 5.31 |
-| Patricians | 2.13 (-28%) | 0.16 (-14%) | 3/9 | 3 | 11.3 | 0 | Moon 3.7 |
-| Gifted | 2.68 (-9%) | 0.15 (-19%) | 4/11 | 0 | 10.6 | 0 | Senshi the Undying 3.99 |
+| The Guild | 3.41 (+15%) | 0.24 (+18%) | 8/11 | 1 | 9.7 | 0 | Ostrich Chariot?! 5.96 |
+| The Vatican | 3.29 (+11%) | 0.22 (+12%) | 5/7 | 2 | 11.5 | 1 | Venator of Devotion 4.7 |
+| Rashaar | 2.96 (+0%) | 0.22 (+8%) | 3/4 | 0 | 9.7 | 2 | Morgraur 5.06 |
+| The Doctors | 2.77 (-7%) | 0.19 (-5%) | 6/13 | 0 | 9.8 | 2 | Doctor of the Firmament 4.71 |
+| Strigoi | 3.0 (+1%) | 0.18 (-12%) | 3/10 | 0 | 9.7 | 1 | Monstrous Stryx 5.31 |
+| Patricians | 2.13 (-28%) | 0.16 (-18%) | 2/9 | 3 | 11.3 | 0 | Moon 3.7 |
+| Gifted | 2.68 (-10%) | 0.15 (-23%) | 4/11 | 0 | 10.6 | 0 | Senshi the Undying 3.99 |
 
 ## Resource economy (WP / CP / magic)
 
