@@ -91,6 +91,20 @@ Very fast anti-armor damage dealer, but he only has AP2 and low command. Build a
 
 Flexible aggressive hero-leader with good command. He is a strong solo, but is a less good commander than the other leaders, he doesn't give as useful gang-wide buff.
 
+### Sub-factions
+
+#### End of Days
+
+**[King For a Day](king-for-a-day)**, **[Ostrich King?!](ostrich-king)**, [Brewer](brewer), [Brute](brute), [Firebreather](firebreather), [Ostrich Chariot?!](ostrich-chariot), [Ostrich Rider](ostrich-rider), [Pulcinella](pulcinella), [Very Loud Ostrich](very-loud-ostrich)
+
+#### House of Virtue
+
+**[Madame](madame)**, [Blood Courier](blood-courier), [Blood Matron](blood-matron), [Bloodletter](bloodletter), [Dancer](dancer), [Death Duellist](death-duellist), [Escort](escort), [Harlot](harlot), [Seamstress](seamstress), [Shadow Assassin](shadow-assassin), [Witch](witch)
+
+#### Trade
+
+**[Capodecina](capodecina)**, [Arbalest](arbalest), [Barber](barber), [Black Lamp](black-lamp), [Butcher](butcher), [Citizen](citizen), [Ebenezer Chummage](ebenezer-chummage), [Gondolier](gondolier), [Recruiter](recruiter)
+
 ### Heroes
 
 **Mages**
