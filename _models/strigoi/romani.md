@@ -1,0 +1,69 @@
+---
+layout: model
+title: Romani
+permalink: /factions/strigoi/romani/
+faction: strigoi
+faction_title: Strigoi
+nav_section: Factions
+---
+
+<p class="model-meta"><strong>Henchman · Discipline(<span class="disc-blood-rites">Blood Rites</span>, <span class="disc-runes-sovereignty">Runes of Sovereignty</span>, <span class="disc-fateweaving">Fateweaving</span>, <span class="disc-wild-magic">Wild Magic</span>)</strong><span>Size 30 · 9 Ducats</span></p>
+
+<div class="model-stats">
+
+| AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
+|---|---|---|---|---|---|---|---|---|
+| 2 | 10 | 2 | 0 | 4 | 4 | 3 | 2 | 3 |
+
+</div>
+
+### Weapons
+
+| Name | Range | Damage | Pen | Special |
+|---|---|---|---|---|
+| Knife | melee | — | — | — |
+
+### Abilities
+
+[Mage(0)](/compendium/character-abilities/#mage-x), [Slippery](/compendium/character-abilities/#slippery)
+
+**Tarot** — when using more than one character with this ability, each must select magic from a different Discipline until all are represented.
+
+## Capability
+
+EDPA **1.33** · EDPA/Duc **0.148** · ATK2K **6.7** · ATK2K/Duc **0.74**
+
+*Line Fighter median: EDPA **1.46** · EDPA/Duc **0.150** · ATK2K **9.7** · ATK2K/Duc **0.97***
+
+[How these metrics are computed →](/mechanics/combat/)
+
+<div class="model-pairs">
+<div>
+
+### EDPA by target
+
+| Target | EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 2.19 | 2.50 |
+| Balanced (Dex4/Prot3) | 1.33 | 1.46 |
+| Evasive (Dex6/Prot2) | 1.56 | 1.30 |
+| Armoured (Dex4/Prot5) | 0.71 | 0.86 |
+| Tank (Dex4/Prot5/US5) | 0.67 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 1.33 | 0.81 |
+
+*Spell:cantrip of the devil*
+
+</div>
+<div>
+
+### Defence
+
+| Attacker | Net LP/hit | ATK2K | Median |
+|---|---|---|---|
+| Baseline (Atk3) | 1.50 | 6.7 | 9.7 |
+| Elite (Atk5, Dmg+1) | 3.81 | 2.6 | 3.3 |
+| Penetrator (Atk3, Pen−3) | 2.20 | 4.6 | 5.0 |
+| Drown (Atk3) | 1.90 | 5.3 | 5.8 |
+
+</div>
+</div>
