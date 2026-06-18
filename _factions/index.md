@@ -7,7 +7,7 @@ is_index: true
 
 ## The Vatican
 
-*An elite melee-and-magic faction: above-average dealers and brawlers on the game's best armour-against-piercing, backed by the deepest support and magic bench in the game.*
+*An elite melee-and-magic faction: above-average dealers and brawlers on the game's best anti-armor-piercing armored characters, backed by the deepest support and magic bench in the game.*
 
 The Vatican is almost entirely a melee faction, with a deep line of brawlers and the best durability against armour-piercing enemies in the game: a large share of the gang carries Universal Shielding. That anti-piercing armour does nothing against flat damage, drowning, or life-loss spells however, and the faction is weak in water: it has only one dedicated Canal Fighter, and the Full Plate rule makes its hard-hitting knights vulnerable near the canals.
 
