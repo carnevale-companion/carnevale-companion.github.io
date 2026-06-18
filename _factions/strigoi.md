@@ -177,11 +177,11 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Vlad Dracula | Brawler | 5.08 | 50 | 0.188 | 1.86 |
-| Blood Crone | Support (mage) / Damage Dealer (magic) | 4.94 | 12 | 0.274 | 0.64 |
-| Noble Strigoi | Damage Dealer (melee) / Support (Vampire) | 2.32 | 18 | 0.111 | 0.88 |
-| Stryha Crone | Assassin (flying, infiltration) | 3.90 | 8 | 0.177 | 0.35 |
-| Wallachian Hospodar | Brawler (durable) | 3.10 | 35 | 0.148 | 1.67 |
+| Vlad Dracula | Brawler | 5.08 | 50.3 | 0.188 | 1.86 |
+| Blood Crone | Support (mage) / Damage Dealer (magic) | 4.94 | 11.5 | 0.274 | 0.64 |
+| Noble Strigoi | Damage Dealer (melee) / Support (Vampire) | 2.32 | 18.4 | 0.111 | 0.88 |
+| Stryha Crone | Assassin (flying, infiltration) | 3.90 | 7.6 | 0.177 | 0.35 |
+| Wallachian Hospodar | Brawler (durable) | 3.10 | 35.1 | 0.148 | 1.67 |
 
 #### Summary of troops
 
@@ -189,10 +189,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Role | n | EDPA med | EDPA/Duc med | above E/Duc bar | ATK2K med | ATK2K/Duc med | above A2/Duc bar |
 |---|---|---|---|---|---|---|---|
-| Damage Dealer | 10 | 3.0 | 0.176 | 4/10 | 9.4 | 0.57 | 2/10 |
+| Damage Dealer | 10 | 3.00 | 0.176 | 4/10 | 9.4 | 0.57 | 2/10 |
 | Assassin | 3 | 3.52 | 0.133 | 0/3 | 10.0 | 0.52 | 0/3 |
 | Canal Fighter | 4 | 3.02 | 0.205 | 3/4 | 7.8 | 0.63 | 0/4 |
-| Tank | 1 | 3.1 | 0.194 | 1/1 | 22.9 | 1.43 | 0/1 |
+| Tank | 1 | 3.10 | 0.194 | 1/1 | 22.9 | 1.43 | 0/1 |
 | Disruptor | 1 | 1.75 | 0.125 | 1/1 | 13.0 | 0.93 | 1/1 |
 | Harasser | 2 | 1.06 | 0.114 | 1/2 | 4.7 | 0.58 | 0/2 |
 | Support | 5 | 1.75 | 0.145 | 4/5 | 9.7 | 0.65 | 1/5 |
@@ -208,9 +208,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Hulking Moroi | 3.59 | 0.256 | ✓ | 7.9 | 0.56 | – |
 | Highborn Servant | 2.68 | 0.206 | ✓ | 12.4 | 0.95 | ✓ |
 | Gibele | 3.78 | 0.199 | ✓ | 9.8 | 0.52 | – |
-| Moon Eater | 4.1 | 0.178 | – | 9.0 | 0.39 | – |
+| Moon Eater | 4.10 | 0.178 | – | 9.0 | 0.39 | – |
 | Zoryi | 3.31 | 0.174 | – | 16.8 | 0.88 | ✓ |
-| Varcolae | 2.6 | 0.153 | – | 8.8 | 0.52 | – |
+| Varcolae | 2.60 | 0.153 | – | 8.8 | 0.52 | – |
 | Reaper | 1.75 | 0.135 | – | 7.6 | 0.58 | – |
 | Strige | 1.75 | 0.125 | – | 6.3 | 0.45 | – |
 | Strigoi Sluger | 2.13 | 0.118 | – | 10.3 | 0.57 | – |
@@ -228,15 +228,15 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | Sinker | 2.93 | 0.293 | ✓ | 6.7 | 0.67 | – |
-| Rotter | 3.1 | 0.258 | ✓ | 8.0 | 0.67 | – |
+| Rotter | 3.10 | 0.258 | ✓ | 8.0 | 0.67 | – |
 | Aquatic Strigoi | 2.13 | 0.152 | ✓ | 7.6 | 0.54 | – |
-| Cetean Upiór | 3.1 | 0.148 | – | 12.5 | 0.6 | – |
+| Cetean Upiór | 3.10 | 0.148 | – | 12.5 | 0.60 | – |
 
 #### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Spatar | 3.1 | 0.194 | ✓ | 22.9 | 1.43 | – |
+| Spatar | 3.10 | 0.194 | ✓ | 22.9 | 1.43 | – |
 
 #### Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*
 
@@ -248,7 +248,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Leech | 1.5 | 0.125 | ✓ | 5.0 | 0.42 | – |
+| Leech | 1.50 | 0.125 | ✓ | 5.0 | 0.42 | – |
 | Harpy | 0.62 | 0.103 | – | 4.4 | 0.73 | – |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
@@ -284,5 +284,5 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | Strigoi Jude | 3.58 | 0.199 | ✓ | 10.6 | 0.59 | – |
 | Ferryman | 1.63 | 0.181 | ✓ | 9.7 | 1.08 | ✓ |
-| Al Naibii | 1.5 | 0.136 | ✓ | 7.3 | 0.66 | – |
+| Al Naibii | 1.50 | 0.136 | ✓ | 7.3 | 0.66 | – |
 

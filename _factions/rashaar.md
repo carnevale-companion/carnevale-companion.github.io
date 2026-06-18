@@ -189,12 +189,12 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| The Flame That Burns Underwater | Canal Fighter | 2.68 | 27 | 0.089 | 0.90 |
-| Magi-Rashaar | Damage Dealer (magic, Blood Rites) / Support (magic) | 6.41 | 11 | 0.267 | 0.44 |
-| Paartul Matriarch | Specialist (spawner) | 0.87 | 16 | 0.035 | 0.64 |
-| Sir Tiburcio | Tank | 3.40 | 26 | 0.148 | 1.11 |
-| Thalidraur | Brawler | 4.58 | 24 | 0.176 | 0.94 |
-| Voice of Dagon | Support (CP, control) | 2.50 | 16 | 0.125 | 0.80 |
+| The Flame That Burns Underwater | Brawler (water, grappler) | 2.68 | 27.0 | 0.089 | 0.90 |
+| Magi-Rashaar | Damage Dealer (magic, Blood Rites) / Support (magic) | 6.41 | 10.6 | 0.267 | 0.44 |
+| Paartul Matriarch | Specialist (spawner) | 0.87 | 16.1 | 0.035 | 0.64 |
+| Sir Tiburcio | Tank | 3.40 | 25.6 | 0.148 | 1.11 |
+| Thalidraur | Brawler | 4.58 | 24.5 | 0.176 | 0.94 |
+| Voice of Dagon | Support (CP, control) | 2.50 | 16.0 | 0.125 | 0.80 |
 
 #### Summary of troops
 
@@ -218,7 +218,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | Dagonite Priest | 3.58 | 0.239 | ✓ | 10.6 | 0.71 | – |
 | Raadru | 4.37 | 0.218 | ✓ | 22.9 | 1.15 | ✓ |
-| Dagonite Zealot | 2.35 | 0.214 | ✓ | 7.7 | 0.7 | – |
+| Dagonite Zealot | 2.35 | 0.214 | ✓ | 7.7 | 0.70 | – |
 | Dagon Officiant | 1.86 | 0.169 | – | 13.7 | 1.25 | ✓ |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
@@ -233,9 +233,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Lesser Ugdru | 3.1 | 0.221 | ✓ | 14.9 | 1.06 | ✓ |
-| Sirena | 3.7 | 0.206 | ✓ | 7.6 | 0.42 | – |
-| Karcharos | 3.6 | 0.2 | ✓ | 17.2 | 0.96 | ✓ |
+| Lesser Ugdru | 3.10 | 0.221 | ✓ | 14.9 | 1.06 | ✓ |
+| Sirena | 3.70 | 0.206 | ✓ | 7.6 | 0.42 | – |
+| Karcharos | 3.60 | 0.200 | ✓ | 17.2 | 0.96 | ✓ |
 | Caandru Eel | 2.68 | 0.191 | ✓ | 15.6 | 1.11 | ✓ |
 | Emissary of Mother Hydra | 4.98 | 0.098 | – | 36.8 | 0.72 | – |
 | Half-Breed | 1.42 | 0.089 | – | 13.0 | 0.81 | ✓ |
@@ -247,7 +247,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Secreting Myxin | 2.6 | 0.113 | – | 21.8 | 0.95 | – |
+| Secreting Myxin | 2.60 | 0.113 | – | 21.8 | 0.95 | – |
 | Cymothoan Crusher | 1.33 | 0.078 | – | 20.9 | 1.23 | – |
 
 #### Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*
@@ -262,8 +262,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | Aglaope | 2.75 | 0.229 | ✓ | 6.3 | 0.53 | – |
 | Handler | 2.68 | 0.223 | ✓ | 9.7 | 0.81 | ✓ |
-| Demagogue | 2.2 | 0.147 | ✓ | 8.8 | 0.59 | – |
-| Paliaa | 1.5 | 0.079 | – | 14.9 | 0.78 | ✓ |
+| Demagogue | 2.20 | 0.147 | ✓ | 8.8 | 0.59 | – |
+| Paliaa | 1.50 | 0.079 | – | 14.9 | 0.78 | ✓ |
 | Dagonite Page | 0.62 | 0.048 | – | 8.8 | 0.68 | – |
 | Wet Nurse | 0.44 | 0.044 | – | 8.8 | 0.88 | ✓ |
 
@@ -289,12 +289,12 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | Tainted Maw | 2.86 | 0.159 | ✓ | 20.6 | 1.14 | ✓ |
-| Slave | 0.44 | 0.11 | – | 4.2 | 1.05 | ✓ |
+| Slave | 0.44 | 0.110 | – | 4.2 | 1.05 | ✓ |
 | Crybaby | 0.44 | 0.088 | – | 1.8 | 0.36 | – |
 | Infant Kraken | 0.44 | 0.088 | – | 3.2 | 0.64 | – |
 | Krakenhost | 0.87 | 0.051 | – | 10.6 | 0.62 | – |
 | Maw Tentacle | 1.13 | – | – | 2.6 | – | – |
 | Lash Tentacle | 1.77 | – | – | 2.6 | – | – |
-| Dagger Tentacle | 1.8 | – | – | 2.6 | – | – |
+| Dagger Tentacle | 1.80 | – | – | 2.6 | – | – |
 | Thorn Tentacle | 1.99 | – | – | 2.6 | – | – |
 

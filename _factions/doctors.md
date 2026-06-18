@@ -200,11 +200,11 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Doctor of the Mind | Damage Dealer (magic) | 5.01 | 19 | 0.228 | 0.88 |
-| Master of Necromantic Studies | Damage Dealer (magic) | 3.78 | 13 | 0.164 | 0.55 |
-| Master of Arcane Security | Brawler | 3.37 | 27 | 0.125 | 1.00 |
-| Master of Zoology | Support (Beast Master) / Tank | 3.59 | 37 | 0.179 | 1.84 |
-| Plague Doctor | Support (magic) | 3.73 | 15 | 0.178 | 0.71 |
+| Doctor of the Mind | Damage Dealer (magic) | 5.01 | 19.4 | 0.228 | 0.88 |
+| Master of Necromantic Studies | Damage Dealer (magic) | 3.78 | 12.6 | 0.164 | 0.55 |
+| Master of Arcane Security | Brawler | 3.37 | 27.0 | 0.125 | 1.00 |
+| Master of Zoology | Support (Beast Master) / Tank | 3.59 | 36.7 | 0.179 | 1.84 |
+| Plague Doctor | Support (magic) | 3.73 | 14.9 | 0.178 | 0.71 |
 
 #### Summary of troops
 
@@ -219,8 +219,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Tank | 2 | 2.14 | 0.154 | 1/2 | 24.9 | 1.79 | 2/2 |
 | Disruptor | 1 | 0.44 | 0.073 | 0/1 | 4.0 | 0.67 | 0/1 |
 | Control | 1 | 1.89 | 0.126 | 1/1 | 16.0 | 1.07 | 1/1 |
-| Harasser | 1 | 1.77 | 0.253 | 1/1 | 9.8 | 1.4 | 1/1 |
-| Support | 3 | 1.5 | 0.1 | 1/3 | 10.6 | 0.9 | 2/3 |
+| Harasser | 1 | 1.77 | 0.253 | 1/1 | 9.8 | 1.40 | 1/1 |
+| Support | 3 | 1.50 | 0.100 | 1/3 | 10.6 | 0.90 | 2/3 |
 | Line Fighter | 5 | 1.13 | 0.126 | 2/5 | 9.8 | 0.88 | 2/5 |
 | Specialist | 7 | 1.13 | 0.113 | 3/7 | 6.7 | 0.73 | 4/7 |
 
@@ -236,7 +236,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Doctor of Blood | 3.58 | 0.224 | ✓ | 13.7 | 0.86 | ✓ |
 | Alchemist Doctor | 2.46 | 0.189 | – | 11.9 | 0.92 | ✓ |
 | Manticore | 1.63 | 0.181 | – | 6.7 | 0.74 | ✓ |
-| Patient 42 | 2.52 | 0.18 | – | 11.4 | 0.81 | ✓ |
+| Patient 42 | 2.52 | 0.180 | – | 11.4 | 0.81 | ✓ |
 | Unleashed Madman | 2.11 | 0.141 | – | 9.8 | 0.65 | – |
 | Ordnance Doctor | 1.73 | 0.115 | – | 13.7 | 0.91 | ✓ |
 | Electron Cannoneer | 1.21 | 0.101 | – | 7.3 | 0.61 | – |
@@ -262,8 +262,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Brined Horror | 3.47 | 0.183 | ✓ | 18.4 | 0.97 | ✓ |
 | Hippocampus | 3.08 | 0.162 | ✓ | 7.9 | 0.42 | – |
 | Doctor of Tides | 2.68 | 0.149 | – | 24.0 | 1.33 | ✓ |
-| Diving Assistant | 1.5 | 0.115 | – | 12.6 | 0.97 | ✓ |
-| Mermaid | 1.5 | 0.115 | – | 6.9 | 0.53 | – |
+| Diving Assistant | 1.50 | 0.115 | – | 12.6 | 0.97 | ✓ |
+| Mermaid | 1.50 | 0.115 | – | 6.9 | 0.53 | – |
 | Marine Biologist | 0.85 | 0.061 | – | 9.7 | 0.69 | – |
 
 #### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
@@ -289,14 +289,14 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Hippogryph | 1.77 | 0.253 | ✓ | 9.8 | 1.4 | ✓ |
+| Hippogryph | 1.77 | 0.253 | ✓ | 9.8 | 1.40 | ✓ |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Doctor of the Beasts | 1.99 | 0.142 | ✓ | 12.6 | 0.9 | ✓ |
-| Morgue Doctor | 1.5 | 0.1 | – | 10.6 | 0.71 | – |
+| Doctor of the Beasts | 1.99 | 0.142 | ✓ | 12.6 | 0.90 | ✓ |
+| Morgue Doctor | 1.50 | 0.100 | – | 10.6 | 0.71 | – |
 | Nurse | 0.62 | 0.089 | – | 6.7 | 0.96 | ✓ |
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
@@ -314,8 +314,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | Voltage Bombardiers | 4.14 | 0.345 | ✓ | 6.7 | 0.56 | – |
-| Apprentice Doctor | 1.5 | 0.125 | ✓ | 8.8 | 0.73 | ✓ |
-| Harvester | 1.5 | 0.125 | ✓ | 9.7 | 0.81 | ✓ |
+| Apprentice Doctor | 1.50 | 0.125 | ✓ | 8.8 | 0.73 | ✓ |
+| Harvester | 1.50 | 0.125 | ✓ | 9.7 | 0.81 | ✓ |
 | Carrion | 1.13 | 0.113 | – | 6.5 | 0.65 | – |
 | Hollowman | 0.44 | 0.073 | – | 4.0 | 0.67 | – |
 | Doctor of Divine Probabilities | 0.62 | 0.041 | – | 18.4 | 1.23 | ✓ |

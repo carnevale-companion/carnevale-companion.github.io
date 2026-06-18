@@ -199,12 +199,12 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Capodecina | Assassin (melee, infiltrator) | 3.29 | 13 | 0.165 | 0.67 |
-| Harbourmaster | Brawler (water) | 2.51 | 23 | 0.119 | 1.08 |
-| King For a Day | Damage Dealer (anti-armor) | 2.20 | 8 | 0.100 | 0.36 |
-| Madame | Support (House of Virtue) | 1.80 | 20 | 0.090 | 1.01 |
-| Ostrich King?! | Damage Dealer (anti-armor, fast) | 2.91 | 10 | 0.153 | 0.53 |
-| Prince of Thieves | Damage Dealer (melee/short-range) / Objective Runner | 3.92 | 18 | 0.170 | 0.80 |
+| Capodecina | Assassin (melee, infiltrator) | 3.29 | 13.4 | 0.165 | 0.67 |
+| Harbourmaster | Brawler (water) | 2.51 | 22.7 | 0.119 | 1.08 |
+| King For a Day | Damage Dealer (anti-armor) | 2.20 | 8.0 | 0.100 | 0.36 |
+| Madame | Support (House of Virtue) | 1.80 | 20.1 | 0.090 | 1.01 |
+| Ostrich King?! | Damage Dealer (anti-armor, fast) | 2.91 | 10.0 | 0.153 | 0.53 |
+| Prince of Thieves | Damage Dealer (melee/short-range) / Objective Runner | 3.92 | 18.4 | 0.170 | 0.80 |
 
 #### Summary of troops
 
@@ -214,9 +214,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|---|
 | Damage Dealer | 11 | 3.41 | 0.236 | 9/11 | 9.7 | 0.61 | 3/11 |
 | Brawler | 1 | 2.68 | 0.206 | 1/1 | 14.9 | 1.15 | 0/1 |
-| Assassin | 2 | 3.7 | 0.243 | 1/2 | 13.0 | 0.87 | 2/2 |
+| Assassin | 2 | 3.70 | 0.243 | 1/2 | 13.0 | 0.87 | 2/2 |
 | Sniper | 1 | 0.75 | 0.075 | 0/1 | 11.4 | 1.14 | 1/1 |
-| Canal Fighter | 2 | 2.29 | 0.18 | 1/2 | 11.7 | 0.97 | 2/2 |
+| Canal Fighter | 2 | 2.29 | 0.180 | 1/2 | 11.7 | 0.97 | 2/2 |
 | Disruptor | 1 | 2.13 | 0.125 | 1/1 | 16.0 | 0.94 | 1/1 |
 | Harasser | 4 | 1.38 | 0.115 | 1/4 | 8.8 | 0.74 | 2/4 |
 | Support | 7 | 1.13 | 0.088 | 1/7 | 9.7 | 0.76 | 5/7 |
@@ -228,7 +228,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Baba-Yaga | 5.46 | 0.287 | ✓ | 9.5 | 0.5 | – |
+| Baba-Yaga | 5.46 | 0.287 | ✓ | 9.5 | 0.50 | – |
 | Shipwright | 3.41 | 0.284 | ✓ | 11.5 | 0.96 | ✓ |
 | Barber | 3.38 | 0.282 | ✓ | 11.9 | 0.99 | ✓ |
 | Whaler | 4.22 | 0.248 | ✓ | 10.0 | 0.59 | – |
@@ -237,8 +237,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Baroni | 3.34 | 0.223 | ✓ | 14.9 | 0.99 | ✓ |
 | Brute | 2.68 | 0.206 | ✓ | 9.3 | 0.72 | – |
 | Death Duellist | 2.75 | 0.196 | ✓ | 8.9 | 0.64 | – |
-| Ostrich Chariot?! | 5.96 | 0.175 | – | 17.0 | 0.5 | – |
-| Firebreather | 1.1 | 0.11 | – | 6.0 | 0.6 | – |
+| Ostrich Chariot?! | 5.96 | 0.175 | – | 17.0 | 0.50 | – |
+| Firebreather | 1.10 | 0.110 | – | 6.0 | 0.60 | – |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
 
@@ -251,7 +251,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | Rialto Assassin | 4.74 | 0.296 | ✓ | 14.1 | 0.88 | ✓ |
-| Shadow Assassin | 2.66 | 0.19 | – | 11.9 | 0.85 | ✓ |
+| Shadow Assassin | 2.66 | 0.190 | – | 11.9 | 0.85 | ✓ |
 
 #### Sniper  *(bars: E/Duc 0.126, ATK2K/Duc 1.12)*
 
@@ -287,7 +287,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | Dog Keeper | 1.36 | 0.113 | ✓ | 9.7 | 0.81 | ✓ |
 | Smuggler | 1.42 | 0.109 | – | 10.6 | 0.82 | ✓ |
-| Recruiter | 1.5 | 0.107 | – | 10.6 | 0.76 | ✓ |
+| Recruiter | 1.50 | 0.107 | – | 10.6 | 0.76 | ✓ |
 | Blooded | 0.44 | 0.088 | – | 4.6 | 0.92 | ✓ |
 | Very Loud Ostrich | 1.13 | 0.071 | – | 9.3 | 0.58 | – |
 | Blood Courier | 0.62 | 0.048 | – | 7.3 | 0.56 | – |
@@ -315,8 +315,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Gondolier | 2.42 | 0.22 | ✓ | 9.7 | 0.88 | ✓ |
-| Ebenezer Chummage | 3.1 | 0.172 | ✓ | 16.0 | 0.89 | ✓ |
-| Brewer | 2.2 | 0.147 | ✓ | 7.4 | 0.49 | – |
+| Gondolier | 2.42 | 0.220 | ✓ | 9.7 | 0.88 | ✓ |
+| Ebenezer Chummage | 3.10 | 0.172 | ✓ | 16.0 | 0.89 | ✓ |
+| Brewer | 2.20 | 0.147 | ✓ | 7.4 | 0.49 | – |
 | Blood Matron | 1.23 | 0.082 | – | 10.6 | 0.71 | ✓ |
 

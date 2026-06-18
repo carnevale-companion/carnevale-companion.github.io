@@ -184,13 +184,13 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Pinnacle of Affluence | Support (command) | 1.77 | 22 | 0.055 | 0.69 |
-| Guard Commander | Brawler / Support (Officer) | 3.51 | 23 | 0.175 | 1.14 |
-| Noble Admiral | Damage Dealer (ranged) | 3.74 | 15 | 0.197 | 0.78 |
-| Venetian Noble | Damage Dealer (melee) | 3.74 | 18 | 0.178 | 0.88 |
-| Mounted Venetian Noble | Assassin (melee, fast) | 3.99 | 21 | 0.166 | 0.86 |
-| Janissary Chorbaji | Brawler / Support (Ottoman) | 2.02 | 21 | 0.088 | 0.91 |
-| Sopracomito | Support (WP battery) | 1.50 | 18 | 0.100 | 1.20 |
+| Pinnacle of Affluence | Support (command) | 1.77 | 22.0 | 0.055 | 0.69 |
+| Guard Commander | Brawler / Support (Officer) | 3.51 | 22.7 | 0.175 | 1.14 |
+| Noble Admiral | Damage Dealer (ranged) | 3.74 | 14.9 | 0.197 | 0.78 |
+| Venetian Noble | Damage Dealer (melee) | 3.74 | 18.4 | 0.178 | 0.88 |
+| Mounted Venetian Noble | Assassin (melee, fast) | 3.99 | 20.6 | 0.166 | 0.86 |
+| Janissary Chorbaji | Brawler / Support (Ottoman) | 2.02 | 21.0 | 0.088 | 0.91 |
+| Sopracomito | Support (WP battery) | 1.50 | 18.0 | 0.100 | 1.20 |
 
 #### Summary of troops
 
@@ -204,10 +204,10 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Sniper | 3 | 1.87 | 0.135 | 2/3 | 13.7 | 0.91 | 1/3 |
 | Canal Fighter | 1 | 1.99 | 0.166 | 1/1 | 8.8 | 0.73 | 0/1 |
 | Harasser | 2 | 1.65 | 0.222 | 1/2 | 8.1 | 0.87 | 1/2 |
-| Support | 6 | 1.68 | 0.129 | 3/6 | 11.2 | 0.9 | 5/6 |
+| Support | 6 | 1.68 | 0.129 | 3/6 | 11.2 | 0.90 | 5/6 |
 | Objective Runner | 1 | 1.13 | 0.094 | 1/1 | 11.3 | 0.94 | 1/1 |
-| Line Fighter | 7 | 1.5 | 0.167 | 5/7 | 9.7 | 1.03 | 6/7 |
-| Specialist | 2 | 2.55 | 0.151 | 2/2 | 13.8 | 0.8 | 1/2 |
+| Line Fighter | 7 | 1.50 | 0.167 | 5/7 | 9.7 | 1.03 | 6/7 |
+| Specialist | 2 | 2.55 | 0.151 | 2/2 | 13.8 | 0.80 | 1/2 |
 
 #### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
 
@@ -215,7 +215,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | Fencing Master | 3.48 | 0.217 | ✓ | 18.4 | 1.15 | ✓ |
 | Seven Years Veteran | 3.13 | 0.209 | ✓ | 14.9 | 0.99 | ✓ |
-| Submissive Noble | 3.23 | 0.19 | – | 12.4 | 0.73 | ✓ |
+| Submissive Noble | 3.23 | 0.190 | – | 12.4 | 0.73 | ✓ |
 | Janissary Sapper | 2.86 | 0.179 | – | 19.5 | 1.22 | ✓ |
 | Syphilitic Noble | 2.13 | 0.164 | – | 12.6 | 0.97 | ✓ |
 | Butler | 1.63 | 0.163 | – | 9.7 | 0.97 | ✓ |
@@ -236,7 +236,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | Sun | 3.63 | 0.242 | ✓ | 9.8 | 0.65 | ✓ |
-| Moon | 3.7 | 0.231 | ✓ | 9.8 | 0.61 | ✓ |
+| Moon | 3.70 | 0.231 | ✓ | 9.8 | 0.61 | ✓ |
 
 #### Sniper  *(bars: E/Duc 0.126, ATK2K/Duc 1.12)*
 
@@ -263,7 +263,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Captain of the Guard | 3.1 | 0.221 | ✓ | 14.9 | 1.06 | ✓ |
+| Captain of the Guard | 3.10 | 0.221 | ✓ | 14.9 | 1.06 | ✓ |
 | Foreign Dignitary | 2.56 | 0.183 | ✓ | 13.7 | 0.98 | ✓ |
 | Gourmand Noble | 2.13 | 0.164 | ✓ | 11.5 | 0.88 | ✓ |
 | Merchant | 1.23 | 0.095 | – | 9.7 | 0.75 | – |
@@ -281,12 +281,12 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | City Guard | 1.99 | 0.199 | ✓ | 13.7 | 1.37 | ✓ |
-| Cannibal Cultist | 1.5 | 0.188 | ✓ | 9.7 | 1.21 | ✓ |
+| Cannibal Cultist | 1.50 | 0.188 | ✓ | 9.7 | 1.21 | ✓ |
 | Ottoman Pirate | 1.99 | 0.181 | ✓ | 11.3 | 1.03 | ✓ |
-| Naval Recruit | 1.5 | 0.167 | ✓ | 8.8 | 0.98 | ✓ |
+| Naval Recruit | 1.50 | 0.167 | ✓ | 8.8 | 0.98 | ✓ |
 | Barnabotti | 1.99 | 0.166 | ✓ | 9.7 | 0.81 | – |
 | Household Staff | 1.13 | 0.126 | – | 8.8 | 0.98 | ✓ |
-| Cortigiane | 1.5 | 0.125 | – | 14.2 | 1.18 | ✓ |
+| Cortigiane | 1.50 | 0.125 | – | 14.2 | 1.18 | ✓ |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
 

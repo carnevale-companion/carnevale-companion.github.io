@@ -150,9 +150,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Il Capitano | Damage Dealer (melee) / Support | 4.29 | 9 | 0.226 | 0.46 |
-| La Signora | Support (re-roll engine) | 1.50 | 18 | 0.083 | 0.98 |
-| The Duke | Assassin (infiltration) / Damage Dealer | 4.14 | 18 | 0.188 | 0.84 |
+| Il Capitano | Damage Dealer (melee) / Support | 4.29 | 8.7 | 0.226 | 0.46 |
+| La Signora | Support (re-roll engine) | 1.50 | 17.7 | 0.083 | 0.98 |
+| The Duke | Assassin (infiltration) / Damage Dealer | 4.14 | 18.4 | 0.188 | 0.84 |
 
 #### Summary of troops
 
@@ -162,25 +162,25 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|---|
 | Damage Dealer | 11 | 2.68 | 0.155 | 4/11 | 11.3 | 0.72 | 5/11 |
 | Brawler | 1 | 2.68 | 0.179 | 0/1 | 19.8 | 1.32 | 1/1 |
-| Assassin | 1 | 3.99 | 0.2 | 1/1 | 16.6 | 0.83 | 1/1 |
+| Assassin | 1 | 3.99 | 0.200 | 1/1 | 16.6 | 0.83 | 1/1 |
 | Control | 2 | 1.71 | 0.119 | 1/2 | 8.7 | 0.62 | 0/2 |
 | Harasser | 1 | 2.68 | 0.149 | 1/1 | 15.0 | 0.83 | 1/1 |
 | Support | 3 | 1.13 | 0.113 | 2/3 | 10.6 | 0.73 | 1/3 |
 | Objective Runner | 3 | 0.44 | 0.044 | 1/3 | 6.7 | 0.67 | 1/3 |
-| Specialist | 9 | 1.5 | 0.102 | 2/9 | 10.6 | 0.66 | 3/9 |
+| Specialist | 9 | 1.50 | 0.102 | 2/9 | 10.6 | 0.66 | 3/9 |
 
 #### Damage Dealer  *(bars: E/Duc 0.196, ATK2K/Duc 0.73)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | Zovena Vela | 3.99 | 0.266 | ✓ | 10.9 | 0.73 | ✓ |
-| Justice | 3.9 | 0.217 | ✓ | 12.4 | 0.69 | – |
-| Fate | 3.8 | 0.211 | ✓ | 12.4 | 0.69 | – |
+| Justice | 3.90 | 0.217 | ✓ | 12.4 | 0.69 | – |
+| Fate | 3.80 | 0.211 | ✓ | 12.4 | 0.69 | – |
 | Innamorati | 2.68 | 0.206 | ✓ | 9.7 | 0.75 | ✓ |
 | Mezzetino | 1.99 | 0.181 | – | 11.3 | 1.03 | ✓ |
 | Burattino | 2.32 | 0.155 | – | 5.3 | 0.35 | – |
-| Brighella | 1.8 | 0.139 | – | 7.3 | 0.56 | – |
-| The Aberration | 2.9 | 0.126 | – | 19.4 | 0.84 | ✓ |
+| Brighella | 1.80 | 0.139 | – | 7.3 | 0.56 | – |
+| The Aberration | 2.90 | 0.126 | – | 19.4 | 0.84 | ✓ |
 | The Demolitionist | 1.58 | 0.121 | – | 9.7 | 0.75 | ✓ |
 | Black Spectre | 3.08 | 0.103 | – | 20.0 | 0.67 | – |
 | White Dove | 1.34 | 0.064 | – | 15.2 | 0.72 | – |
@@ -195,7 +195,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Senshi the Undying | 3.99 | 0.2 | ✓ | 16.6 | 0.83 | ✓ |
+| Senshi the Undying | 3.99 | 0.200 | ✓ | 16.6 | 0.83 | ✓ |
 
 #### Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*
 
@@ -231,11 +231,11 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | Francisco De Lorme | 2.69 | 0.168 | ✓ | 8.1 | 0.51 | – |
-| The Mask Maker | 1.75 | 0.125 | ✓ | 12.6 | 0.9 | ✓ |
+| The Mask Maker | 1.75 | 0.125 | ✓ | 12.6 | 0.90 | ✓ |
 | Pierrot | 0.87 | 0.109 | – | 5.3 | 0.66 | – |
-| Master Gerhard | 1.7 | 0.106 | – | 13.7 | 0.86 | ✓ |
+| Master Gerhard | 1.70 | 0.106 | – | 13.7 | 0.86 | ✓ |
 | Il Mentore | 1.63 | 0.102 | – | 10.6 | 0.66 | – |
-| Artisan Elena | 1.5 | 0.088 | – | 10.6 | 0.62 | – |
+| Artisan Elena | 1.50 | 0.088 | – | 10.6 | 0.62 | – |
 | Harbinger's Reflection | 1.47 | 0.086 | – | 7.3 | 0.43 | – |
 | Marco Leontus | 1.23 | 0.082 | – | 10.6 | 0.71 | ✓ |
 | Solus Hydraea | 1.13 | 0.067 | – | 9.7 | 0.57 | – |
