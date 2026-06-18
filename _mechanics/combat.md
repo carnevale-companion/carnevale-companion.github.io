@@ -97,3 +97,43 @@ is clean. The following are surfaced only in comparison:
 - **Excluded:** Cover, terrain, scenario/objective value, and
   hard-to-quantify control/support utility. A low EDPA for a Support/Objective Runner is expected,
   not a defect.
+
+## Offense & defense at a glance
+
+Dealer quality is shown both raw and **per-Ducat (value)**; the value column is the fair cross-faction ranking (raw favours factions with expensive dealers), and the table is sorted by it. `above value bar` = dealers at/above the global median EDPA/Ducat.
+
+| Faction | DD EDPA (raw) | DD EDPA/Duc (value) | above value bar | snipers | median ATK2K | tanks | top offense |
+|---|---|---|---|---|---|---|---|
+| The Guild | 3.4 (+15%) | 0.23 (+21%) | 9/12 | 1 | 9.7 | 0 | Baba-Yaga 5.46 |
+| The Vatican | 3.29 (+12%) | 0.22 (+18%) | 6/7 | 2 | 11.5 | 1 | Venator of Devotion 4.7 |
+| Rashaar | 2.96 (+0%) | 0.22 (+14%) | 3/4 | 0 | 9.7 | 2 | Morgraur 5.06 |
+| The Doctors | 2.77 (-6%) | 0.19 (+0%) | 6/13 | 0 | 9.8 | 2 | Doctor of the Firmament 4.71 |
+| Strigoi | 3.0 (+2%) | 0.18 (-7%) | 4/10 | 0 | 9.7 | 1 | Monstrous Stryx 5.31 |
+| Patricians | 2.13 (-28%) | 0.16 (-14%) | 3/9 | 3 | 11.3 | 0 | Moon 3.7 |
+| Gifted | 2.68 (-9%) | 0.15 (-19%) | 4/11 | 0 | 10.6 | 0 | Senshi the Undying 3.99 |
+
+## Resource economy (WP / CP / magic)
+
+| Faction | WP total | CP (models) | mages | disciplines |
+|---|---|---|---|---|
+| Patricians | 110 | 47 (23 models) | 2 | 3 |
+| The Guild | 120 | 41 (19 models) | 4 | 5 |
+| Rashaar | 110 | 33 (12 models) | 6 | 4 |
+| Strigoi | 27 | 31 (12 models) | 6 | 4 |
+| The Vatican | 115 | 30 (11 models) | 9 | 5 |
+| The Doctors | 73 | 27 (11 models) | 7 | 5 |
+| Gifted | 97 | 10 (4 models) | 4 | 5 |
+
+## Build shape & scenario
+
+| Faction | cost range | premium ≥18 | Mindless | obj-runners | mobile |
+|---|---|---|---|---|---|
+| Patricians | 5–32 (med 14) | 16% | 14% | 1 | 9 |
+| Strigoi | 6–40 (med 14) | 39% | 17% | 1 | 16 |
+| Gifted | 8–30 (med 16.0) | 35% | 21% | 3 | 8 |
+| The Vatican | 8–37 (med 15.0) | 21% | 23% | 1 | 10 |
+| The Guild | 5–34 (med 14) | 19% | 26% | 3 | 20 |
+| Rashaar | 4–68 (med 15) | 40% | 36% | 3 | 36 |
+| The Doctors | 4–45 (med 13) | 19% | 40% | 0 | 11 |
+
+Mindless can't score Primary Objectives — high % is a scoring liability. Cost spread shows elite-vs-fodder disparity (Rashaar 4–68 is the widest).
