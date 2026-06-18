@@ -810,12 +810,17 @@ a:hover { text-decoration: underline; }
   margin-bottom: 1rem;
 }
 
-/* Magic discipline colours */
-.disc-blood-rites       { color: #b83232; font-weight: 500; }
-.disc-divinity          { color: #a07c10; font-weight: 500; }
-.disc-fateweaving       { color: #2878a8; font-weight: 500; }
-.disc-runes-sovereignty { color: #2e7a3a; font-weight: 500; }
-.disc-wild-magic        { color: #c06a18; font-weight: 500; }
+/* Magic discipline colours — apply to both <span> and <a> */
+.disc-blood-rites,
+a.disc-blood-rites       { color: #b83232; font-weight: 500; }
+.disc-divinity,
+a.disc-divinity          { color: #a07c10; font-weight: 500; }
+.disc-fateweaving,
+a.disc-fateweaving       { color: #2878a8; font-weight: 500; }
+.disc-runes-sovereignty,
+a.disc-runes-sovereignty { color: #2e7a3a; font-weight: 500; }
+.disc-wild-magic,
+a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
 
 /* Stat block: uniform column widths */
 .model-stats table {

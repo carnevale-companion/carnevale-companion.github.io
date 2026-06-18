@@ -36,12 +36,12 @@ Dual-purpose — direct LP removal (no Protection Roll) and WP replenishment in 
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| Magi-Rashaar (Leader) | Mage(3) + Expert Sorcerer(2) | Blood Rites, Runes of Sovereignty, Wild Magic | Can cast while in water; Rent-born reduces 1 spell's cost per round; Mind6 |
-| The Drowned Nun (Hero) | Mage(2) | Runes of Sovereignty, Fateweaving | Unique spell Dagonite Baptism (scales with Aces); can cast while in water |
-| Dagonite Priest (Hero) | Mage(2) | Blood Rites, Wild Magic | Self-sustaining via Sacrifice (LP dealt = WP back); can combat friendlies |
-| Sirena (Hero) | Mage(2) | Blood Rites, Runes of Sovereignty | Hydra; Hypnotic Song AURA (-2 Mind to enemies); Dragging Down |
-| Paliaa (Hero) | Mage(1) | Runes of Sovereignty | Monster; Gift of the Elder Gods PULSE (+1 Atk to Henchmen near Monsters) |
-| Aglaope (Henchman) | Mage(1) + Expert Sorcerer(1) | Fateweaving, Wild Magic | Monster; Water Creature; Dragging Down |
+| [Magi-Rashaar (Leader)](/factions/rashaar/magi-rashaar/) | Mage(3) + Expert Sorcerer(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Can cast while in water; Rent-born reduces 1 spell's cost per round; Mind6 |
+| [The Drowned Nun (Hero)](/factions/rashaar/the-drowned-nun/) | Mage(2) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Unique spell Dagonite Baptism (scales with Aces); can cast while in water |
+| [Dagonite Priest (Hero)](/factions/rashaar/dagonite-priest/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Self-sustaining via Sacrifice (LP dealt = WP back); can combat friendlies |
+| [Sirena (Hero)](/factions/rashaar/sirena/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Hydra; Hypnotic Song AURA (-2 Mind to enemies); Dragging Down |
+| [Paliaa (Hero)](/factions/rashaar/paliaa/) | Mage(1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Monster; Gift of the Elder Gods PULSE (+1 Atk to Henchmen near Monsters) |
+| [Aglaope (Henchman)](/factions/rashaar/aglaope/) | Mage(1) + Expert Sorcerer(1) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Monster; Water Creature; Dragging Down |
 
 Magi-Rashaar remains the highest raw magic level in the game: Mage(3)+ES(2) = 5 spells + Cantrip across 3 disciplines, with Mind6 and Water Creature. The Drowned Nun's Dagonite Baptism is a unique scaling damage spell usable in water within 3" — combo with Fanaticism (gives nearby allies Frenzied for 1LP each) enables a denial/buff loop.
 
@@ -208,12 +208,12 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| The Flame That Burns Underwater | Brawler (water, grappler) | 2.68 | 27.0 | 0.089 | 0.90 |
-| Magi-Rashaar | Damage Dealer (magic, Blood Rites) / Support (magic) | 6.41 | 10.6 | 0.267 | 0.44 |
-| Paartul Matriarch | Specialist (spawner) | 0.87 | 16.1 | 0.035 | 0.64 |
-| Sir Tiburcio | Tank | 3.40 | 25.6 | 0.148 | 1.11 |
-| Thalidraur | Brawler | 4.58 | 24.5 | 0.176 | 0.94 |
-| Voice of Dagon | Support (CP, control) | 2.50 | 16.0 | 0.125 | 0.80 |
+| [The Flame That Burns Underwater](/factions/rashaar/the-flame-that-burns-underwater/) | Brawler (water, grappler) | 2.68 | 27.0 | 0.089 | 0.90 |
+| [Magi-Rashaar](/factions/rashaar/magi-rashaar/) | Damage Dealer (magic, Blood Rites) / Support (magic) | 6.41 | 10.6 | 0.267 | 0.44 |
+| [Paartul Matriarch](/factions/rashaar/paartul-matriarch/) | Specialist (spawner) | 0.87 | 16.1 | 0.035 | 0.64 |
+| [Sir Tiburcio](/factions/rashaar/sir-tiburcio/) | Tank | 3.40 | 25.6 | 0.148 | 1.11 |
+| [Thalidraur](/factions/rashaar/thalidraur/) | Brawler | 4.58 | 24.5 | 0.176 | 0.94 |
+| [Voice of Dagon](/factions/rashaar/voice-of-dagon/) | Support (CP, control) | 2.50 | 16.0 | 0.125 | 0.80 |
 
 #### Summary of troops
 
@@ -235,85 +235,85 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Dagonite Priest | 3.58 | 0.239 | ✓ | 10.6 | 0.71 | – |
-| Raadru | 4.37 | 0.218 | ✓ | 22.9 | 1.15 | ✓ |
-| Dagonite Zealot | 2.35 | 0.214 | ✓ | 7.7 | 0.70 | – |
-| Dagon Officiant | 1.86 | 0.169 | – | 13.7 | 1.25 | ✓ |
+| [Dagonite Priest](/factions/rashaar/dagonite-priest/) | 3.58 | 0.239 | ✓ | 10.6 | 0.71 | – |
+| [Raadru](/factions/rashaar/raadru/) | 4.37 | 0.218 | ✓ | 22.9 | 1.15 | ✓ |
+| [Dagonite Zealot](/factions/rashaar/dagonite-zealot/) | 2.35 | 0.214 | ✓ | 7.7 | 0.70 | – |
+| [Dagon Officiant](/factions/rashaar/dagon-officiant/) | 1.86 | 0.169 | – | 13.7 | 1.25 | ✓ |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Cult Enforcer | 2.97 | 0.212 | ✓ | 19.5 | 1.39 | ✓ |
-| Brachyura | 3.75 | 0.208 | ✓ | 42.6 | 2.37 | ✓ |
-| Morgraur | 5.06 | 0.074 | – | 55.2 | 0.81 | – |
+| [Cult Enforcer](/factions/rashaar/cult-enforcer/) | 2.97 | 0.212 | ✓ | 19.5 | 1.39 | ✓ |
+| [Brachyura](/factions/rashaar/brachyura/) | 3.75 | 0.208 | ✓ | 42.6 | 2.37 | ✓ |
+| [Morgraur](/factions/rashaar/morgraur/) | 5.06 | 0.074 | – | 55.2 | 0.81 | – |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Lesser Ugdru | 3.10 | 0.221 | ✓ | 14.9 | 1.06 | ✓ |
-| Sirena | 3.70 | 0.206 | ✓ | 7.6 | 0.42 | – |
-| Karcharos | 3.60 | 0.200 | ✓ | 17.2 | 0.96 | ✓ |
-| Caandru Eel | 2.68 | 0.191 | ✓ | 15.6 | 1.11 | ✓ |
-| Emissary of Mother Hydra | 4.98 | 0.098 | – | 36.8 | 0.72 | – |
-| Half-Breed | 1.42 | 0.089 | – | 13.0 | 0.81 | ✓ |
-| Bulbous Toad | 0.71 | 0.055 | – | 16.0 | 1.23 | ✓ |
-| Salaacia | 0.57 | 0.036 | – | 12.5 | 0.78 | – |
-| The Drowned Nun | 0.62 | 0.034 | – | 8.8 | 0.49 | – |
+| [Lesser Ugdru](/factions/rashaar/lesser-ugdru/) | 3.10 | 0.221 | ✓ | 14.9 | 1.06 | ✓ |
+| [Sirena](/factions/rashaar/sirena/) | 3.70 | 0.206 | ✓ | 7.6 | 0.42 | – |
+| [Karcharos](/factions/rashaar/karcharos/) | 3.60 | 0.200 | ✓ | 17.2 | 0.96 | ✓ |
+| [Caandru Eel](/factions/rashaar/caandru-eel/) | 2.68 | 0.191 | ✓ | 15.6 | 1.11 | ✓ |
+| [Emissary of Mother Hydra](/factions/rashaar/emissary-of-mother-hydra/) | 4.98 | 0.098 | – | 36.8 | 0.72 | – |
+| [Half-Breed](/factions/rashaar/half-breed/) | 1.42 | 0.089 | – | 13.0 | 0.81 | ✓ |
+| [Bulbous Toad](/factions/rashaar/bulbous-toad/) | 0.71 | 0.055 | – | 16.0 | 1.23 | ✓ |
+| [Salaacia](/factions/rashaar/salaacia/) | 0.57 | 0.036 | – | 12.5 | 0.78 | – |
+| [The Drowned Nun](/factions/rashaar/the-drowned-nun/) | 0.62 | 0.034 | – | 8.8 | 0.49 | – |
 
 #### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Secreting Myxin | 2.60 | 0.113 | – | 21.8 | 0.95 | – |
-| Cymothoan Crusher | 1.33 | 0.078 | – | 20.9 | 1.23 | – |
+| [Secreting Myxin](/factions/rashaar/secreting-myxin/) | 2.60 | 0.113 | – | 21.8 | 0.95 | – |
+| [Cymothoan Crusher](/factions/rashaar/cymothoan-crusher/) | 1.33 | 0.078 | – | 20.9 | 1.23 | – |
 
 #### Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Mature Kraken | 2.32 | 0.097 | – | 16.1 | 0.67 | ✓ |
+| [Mature Kraken](/factions/rashaar/mature-kraken/) | 2.32 | 0.097 | – | 16.1 | 0.67 | ✓ |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Aglaope | 2.75 | 0.229 | ✓ | 6.3 | 0.53 | – |
-| Handler | 2.68 | 0.223 | ✓ | 9.7 | 0.81 | ✓ |
-| Demagogue | 2.20 | 0.147 | ✓ | 8.8 | 0.59 | – |
-| Paliaa | 1.50 | 0.079 | – | 14.9 | 0.78 | ✓ |
-| Dagonite Page | 0.62 | 0.048 | – | 8.8 | 0.68 | – |
-| Wet Nurse | 0.44 | 0.044 | – | 8.8 | 0.88 | ✓ |
+| [Aglaope](/factions/rashaar/aglaope/) | 2.75 | 0.229 | ✓ | 6.3 | 0.53 | – |
+| [Handler](/factions/rashaar/handler/) | 2.68 | 0.223 | ✓ | 9.7 | 0.81 | ✓ |
+| [Demagogue](/factions/rashaar/demagogue/) | 2.20 | 0.147 | ✓ | 8.8 | 0.59 | – |
+| [Paliaa](/factions/rashaar/paliaa/) | 1.50 | 0.079 | – | 14.9 | 0.78 | ✓ |
+| [Dagonite Page](/factions/rashaar/dagonite-page/) | 0.62 | 0.048 | – | 8.8 | 0.68 | – |
+| [Wet Nurse](/factions/rashaar/wet-nurse/) | 0.44 | 0.044 | – | 8.8 | 0.88 | ✓ |
 
 #### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Urchin | 1.13 | 0.141 | ✓ | 5.0 | 0.62 | – |
-| Bounding Telchine | 0.87 | 0.097 | ✓ | 6.9 | 0.77 | – |
-| Advanced Hybrid | 1.13 | 0.094 | ✓ | 5.3 | 0.44 | – |
+| [Urchin](/factions/rashaar/urchin/) | 1.13 | 0.141 | ✓ | 5.0 | 0.62 | – |
+| [Bounding Telchine](/factions/rashaar/bounding-telchine/) | 0.87 | 0.097 | ✓ | 6.9 | 0.77 | – |
+| [Advanced Hybrid](/factions/rashaar/advanced-hybrid/) | 1.13 | 0.094 | ✓ | 5.3 | 0.44 | – |
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Encrusted Squire | 2.42 | 0.202 | ✓ | 9.4 | 0.78 | – |
-| Hellhound | 1.99 | 0.199 | ✓ | 6.7 | 0.67 | – |
-| Hybrid | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
-| Lesser Rhyll | 1.36 | 0.105 | – | 9.7 | 0.75 | – |
+| [Encrusted Squire](/factions/rashaar/encrusted-squire/) | 2.42 | 0.202 | ✓ | 9.4 | 0.78 | – |
+| [Hellhound](/factions/rashaar/hellhound/) | 1.99 | 0.199 | ✓ | 6.7 | 0.67 | – |
+| [Hybrid](/factions/rashaar/hybrid/) | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
+| [Lesser Rhyll](/factions/rashaar/lesser-rhyll/) | 1.36 | 0.105 | – | 9.7 | 0.75 | – |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Tainted Maw | 2.86 | 0.159 | ✓ | 20.6 | 1.14 | ✓ |
-| Slave | 0.44 | 0.110 | – | 4.2 | 1.05 | ✓ |
-| Crybaby | 0.44 | 0.088 | – | 1.8 | 0.36 | – |
-| Infant Kraken | 0.44 | 0.088 | – | 3.2 | 0.64 | – |
-| Krakenhost | 0.87 | 0.051 | – | 10.6 | 0.62 | – |
-| Maw Tentacle | 1.13 | – | – | 2.6 | – | – |
-| Lash Tentacle | 1.77 | – | – | 2.6 | – | – |
-| Dagger Tentacle | 1.80 | – | – | 2.6 | – | – |
-| Thorn Tentacle | 1.99 | – | – | 2.6 | – | – |
+| [Tainted Maw](/factions/rashaar/tainted-maw/) | 2.86 | 0.159 | ✓ | 20.6 | 1.14 | ✓ |
+| [Slave](/factions/rashaar/slave/) | 0.44 | 0.110 | – | 4.2 | 1.05 | ✓ |
+| [Crybaby](/factions/rashaar/crybaby/) | 0.44 | 0.088 | – | 1.8 | 0.36 | – |
+| [Infant Kraken](/factions/rashaar/infant-kraken/) | 0.44 | 0.088 | – | 3.2 | 0.64 | – |
+| [Krakenhost](/factions/rashaar/krakenhost/) | 0.87 | 0.051 | – | 10.6 | 0.62 | – |
+| [Maw Tentacle](/factions/rashaar/maw-tentacle/) | 1.13 | – | – | 2.6 | – | – |
+| [Lash Tentacle](/factions/rashaar/lash-tentacle/) | 1.77 | – | – | 2.6 | – | – |
+| [Dagger Tentacle](/factions/rashaar/dagger-tentacle/) | 1.80 | – | – | 2.6 | – | – |
+| [Thorn Tentacle](/factions/rashaar/thorn-tentacle/) | 1.99 | – | – | 2.6 | – | – |
 

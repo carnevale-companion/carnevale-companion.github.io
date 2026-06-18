@@ -8,7 +8,7 @@ faction_title: The Doctors
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Leader · Doctor · Discipline(<span class="disc-blood-rites">Blood Rites</span>, <span class="disc-runes-sovereignty">Runes of Sovereignty</span>)</strong><span>Size 30 · 22 Ducats</span></p>
+<p class="model-meta"><strong>Leader · Doctor · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>)</strong><span>Size 30 · 22 Ducats</span></p>
 
 <div class="model-stats">
 

@@ -37,10 +37,10 @@ Unlike WP, re-rolls are applied after rolling so they are less punishing to use,
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| Baba-Yaga (Hero) | Mage(3) | Blood Rites, Wild Magic | Most cost-effective damage dealer in the game with Summon Vermin. Can trade nearby model LP for WP |
-| Bloodletter (Hero) | Mage(2) + Expert Sorcerer(1) | Blood Rites | Self-sustaining mage: gains LP on successful cast and can spend LP for WP |
-| Witch (Hero) | Mage(2) | Blood Rites, Runes of Sovereignty, Wild Magic | Can trade nearby model LP for WP. House of Virtue |
-| Seamstress (Hero) | Mage(1) + Expert Sorcerer(1) | Divinity, Fateweaving | Can learn spells from both disciplines at the same time |
+| [Baba-Yaga (Hero)](/factions/the-guild/baba-yaga/) | Mage(3) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Most cost-effective damage dealer in the game with Summon Vermin. Can trade nearby model LP for WP |
+| [Bloodletter (Hero)](/factions/the-guild/bloodletter/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a> | Self-sustaining mage: gains LP on successful cast and can spend LP for WP |
+| [Witch (Hero)](/factions/the-guild/witch/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Can trade nearby model LP for WP. House of Virtue |
+| [Seamstress (Hero)](/factions/the-guild/seamstress/) | Mage(1) + Expert Sorcerer(1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Can learn spells from both disciplines at the same time |
 
 <div class="callout">
 <p class="callout-title">Tactical note</p>
@@ -214,12 +214,12 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Capodecina | Assassin (melee, infiltrator) | 3.29 | 13.4 | 0.165 | 0.67 |
-| Harbourmaster | Brawler (water) | 2.51 | 22.7 | 0.119 | 1.08 |
-| King For a Day | Damage Dealer (anti-armor) | 2.20 | 8.0 | 0.100 | 0.36 |
-| Madame | Support (House of Virtue) | 1.80 | 20.1 | 0.090 | 1.01 |
-| Ostrich King?! | Damage Dealer (anti-armor, fast) | 2.91 | 10.0 | 0.153 | 0.53 |
-| Prince of Thieves | Damage Dealer (melee/short-range) / Objective Runner | 3.92 | 18.4 | 0.170 | 0.80 |
+| [Capodecina](/factions/the-guild/capodecina/) | Assassin (melee, infiltrator) | 3.29 | 13.4 | 0.165 | 0.67 |
+| [Harbourmaster](/factions/the-guild/harbourmaster/) | Brawler (water) | 2.51 | 22.7 | 0.119 | 1.08 |
+| [King For a Day](/factions/the-guild/king-for-a-day/) | Damage Dealer (anti-armor) | 2.20 | 8.0 | 0.100 | 0.36 |
+| [Madame](/factions/the-guild/madame/) | Support (House of Virtue) | 1.80 | 20.1 | 0.090 | 1.01 |
+| [Ostrich King?!](/factions/the-guild/ostrich-king/) | Damage Dealer (anti-armor, fast) | 2.91 | 10.0 | 0.153 | 0.53 |
+| [Prince of Thieves](/factions/the-guild/prince-of-thieves/) | Damage Dealer (melee/short-range) / Objective Runner | 3.92 | 18.4 | 0.170 | 0.80 |
 
 #### Summary of troops
 
@@ -243,95 +243,95 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Baba-Yaga | 5.46 | 0.287 | ✓ | 9.5 | 0.50 | – |
-| Shipwright | 3.41 | 0.284 | ✓ | 11.5 | 0.96 | ✓ |
-| Barber | 3.38 | 0.282 | ✓ | 11.9 | 0.99 | ✓ |
-| Whaler | 4.22 | 0.248 | ✓ | 10.0 | 0.59 | – |
-| Witch | 3.85 | 0.241 | ✓ | 9.7 | 0.61 | – |
-| Bloodletter | 3.78 | 0.236 | ✓ | 7.3 | 0.46 | – |
-| Baroni | 3.34 | 0.223 | ✓ | 14.9 | 0.99 | ✓ |
-| Brute | 2.68 | 0.206 | ✓ | 9.3 | 0.72 | – |
-| Death Duellist | 2.75 | 0.196 | ✓ | 8.9 | 0.64 | – |
-| Ostrich Chariot?! | 5.96 | 0.175 | – | 17.0 | 0.50 | – |
-| Firebreather | 1.10 | 0.110 | – | 6.0 | 0.60 | – |
+| [Baba-Yaga](/factions/the-guild/baba-yaga/) | 5.46 | 0.287 | ✓ | 9.5 | 0.50 | – |
+| [Shipwright](/factions/the-guild/shipwright/) | 3.41 | 0.284 | ✓ | 11.5 | 0.96 | ✓ |
+| [Barber](/factions/the-guild/barber/) | 3.38 | 0.282 | ✓ | 11.9 | 0.99 | ✓ |
+| [Whaler](/factions/the-guild/whaler/) | 4.22 | 0.248 | ✓ | 10.0 | 0.59 | – |
+| [Witch](/factions/the-guild/witch/) | 3.85 | 0.241 | ✓ | 9.7 | 0.61 | – |
+| [Bloodletter](/factions/the-guild/bloodletter/) | 3.78 | 0.236 | ✓ | 7.3 | 0.46 | – |
+| [Baroni](/factions/the-guild/baroni/) | 3.34 | 0.223 | ✓ | 14.9 | 0.99 | ✓ |
+| [Brute](/factions/the-guild/brute/) | 2.68 | 0.206 | ✓ | 9.3 | 0.72 | – |
+| [Death Duellist](/factions/the-guild/death-duellist/) | 2.75 | 0.196 | ✓ | 8.9 | 0.64 | – |
+| [Ostrich Chariot?!](/factions/the-guild/ostrich-chariot/) | 5.96 | 0.175 | – | 17.0 | 0.50 | – |
+| [Firebreather](/factions/the-guild/firebreather/) | 1.10 | 0.110 | – | 6.0 | 0.60 | – |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Butcher | 2.68 | 0.206 | ✓ | 14.9 | 1.15 | – |
+| [Butcher](/factions/the-guild/butcher/) | 2.68 | 0.206 | ✓ | 14.9 | 1.15 | – |
 
 #### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Rialto Assassin | 4.74 | 0.296 | ✓ | 14.1 | 0.88 | ✓ |
-| Shadow Assassin | 2.66 | 0.190 | – | 11.9 | 0.85 | ✓ |
+| [Rialto Assassin](/factions/the-guild/rialto-assassin/) | 4.74 | 0.296 | ✓ | 14.1 | 0.88 | ✓ |
+| [Shadow Assassin](/factions/the-guild/shadow-assassin/) | 2.66 | 0.190 | – | 11.9 | 0.85 | ✓ |
 
 #### Sniper  *(bars: E/Duc 0.126, ATK2K/Duc 1.12)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Arbalest | 0.75 | 0.075 | – | 11.4 | 1.14 | ✓ |
+| [Arbalest](/factions/the-guild/arbalest/) | 0.75 | 0.075 | – | 11.4 | 1.14 | ✓ |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Fisherman | 3.46 | 0.247 | ✓ | 13.7 | 0.98 | ✓ |
-| Mariner | 1.13 | 0.113 | – | 9.7 | 0.97 | ✓ |
+| [Fisherman](/factions/the-guild/fisherman/) | 3.46 | 0.247 | ✓ | 13.7 | 0.98 | ✓ |
+| [Mariner](/factions/the-guild/mariner/) | 1.13 | 0.113 | – | 9.7 | 0.97 | ✓ |
 
 #### Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Black Lamp | 2.13 | 0.125 | ✓ | 16.0 | 0.94 | ✓ |
+| [Black Lamp](/factions/the-guild/black-lamp/) | 2.13 | 0.125 | ✓ | 16.0 | 0.94 | ✓ |
 
 #### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Dog | 1.68 | 0.336 | ✓ | 3.8 | 0.76 | ✓ |
-| Thief | 1.63 | 0.116 | – | 8.9 | 0.64 | – |
-| Poacher | 1.13 | 0.113 | – | 8.8 | 0.88 | ✓ |
-| Ostrich Rider | 1.13 | 0.094 | – | 8.7 | 0.72 | – |
+| [Dog](/factions/the-guild/dog/) | 1.68 | 0.336 | ✓ | 3.8 | 0.76 | ✓ |
+| [Thief](/factions/the-guild/thief/) | 1.63 | 0.116 | – | 8.9 | 0.64 | – |
+| [Poacher](/factions/the-guild/poacher/) | 1.13 | 0.113 | – | 8.8 | 0.88 | ✓ |
+| [Ostrich Rider](/factions/the-guild/ostrich-rider/) | 1.13 | 0.094 | – | 8.7 | 0.72 | – |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Dog Keeper | 1.36 | 0.113 | ✓ | 9.7 | 0.81 | ✓ |
-| Smuggler | 1.42 | 0.109 | – | 10.6 | 0.82 | ✓ |
-| Recruiter | 1.50 | 0.107 | – | 10.6 | 0.76 | ✓ |
-| Blooded | 0.44 | 0.088 | – | 4.6 | 0.92 | ✓ |
-| Very Loud Ostrich | 1.13 | 0.071 | – | 9.3 | 0.58 | – |
-| Blood Courier | 0.62 | 0.048 | – | 7.3 | 0.56 | – |
-| Seamstress | 0.44 | 0.031 | – | 10.6 | 0.76 | ✓ |
+| [Dog Keeper](/factions/the-guild/dog-keeper/) | 1.36 | 0.113 | ✓ | 9.7 | 0.81 | ✓ |
+| [Smuggler](/factions/the-guild/smuggler/) | 1.42 | 0.109 | – | 10.6 | 0.82 | ✓ |
+| [Recruiter](/factions/the-guild/recruiter/) | 1.50 | 0.107 | – | 10.6 | 0.76 | ✓ |
+| [Blooded](/factions/the-guild/blooded/) | 0.44 | 0.088 | – | 4.6 | 0.92 | ✓ |
+| [Very Loud Ostrich](/factions/the-guild/very-loud-ostrich/) | 1.13 | 0.071 | – | 9.3 | 0.58 | – |
+| [Blood Courier](/factions/the-guild/blood-courier/) | 0.62 | 0.048 | – | 7.3 | 0.56 | – |
+| [Seamstress](/factions/the-guild/seamstress/) | 0.44 | 0.031 | – | 10.6 | 0.76 | ✓ |
 
 #### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Dancer | 2.19 | 0.156 | ✓ | 11.3 | 0.81 | ✓ |
-| Beggar | 0.44 | 0.073 | – | 7.3 | 1.22 | ✓ |
-| Pilferer | 0.62 | 0.062 | – | 8.3 | 0.83 | ✓ |
+| [Dancer](/factions/the-guild/dancer/) | 2.19 | 0.156 | ✓ | 11.3 | 0.81 | ✓ |
+| [Beggar](/factions/the-guild/beggar/) | 0.44 | 0.073 | – | 7.3 | 1.22 | ✓ |
+| [Pilferer](/factions/the-guild/pilferer/) | 0.62 | 0.062 | – | 8.3 | 0.83 | ✓ |
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Escort | 1.99 | 0.166 | ✓ | 11.5 | 0.96 | – |
-| Harlot | 1.63 | 0.163 | ✓ | 7.3 | 0.73 | – |
-| Pulcinella | 1.13 | 0.141 | – | 6.0 | 0.75 | – |
-| Citizen | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
-| Indebted | 1.13 | 0.113 | – | 9.7 | 0.97 | – |
+| [Escort](/factions/the-guild/escort/) | 1.99 | 0.166 | ✓ | 11.5 | 0.96 | – |
+| [Harlot](/factions/the-guild/harlot/) | 1.63 | 0.163 | ✓ | 7.3 | 0.73 | – |
+| [Pulcinella](/factions/the-guild/pulcinella/) | 1.13 | 0.141 | – | 6.0 | 0.75 | – |
+| [Citizen](/factions/the-guild/citizen/) | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
+| [Indebted](/factions/the-guild/indebted/) | 1.13 | 0.113 | – | 9.7 | 0.97 | – |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Gondolier | 2.42 | 0.220 | ✓ | 9.7 | 0.88 | ✓ |
-| Ebenezer Chummage | 3.10 | 0.172 | ✓ | 16.0 | 0.89 | ✓ |
-| Brewer | 2.20 | 0.147 | ✓ | 7.4 | 0.49 | – |
-| Blood Matron | 1.23 | 0.082 | – | 10.6 | 0.71 | ✓ |
+| [Gondolier](/factions/the-guild/gondolier/) | 2.42 | 0.220 | ✓ | 9.7 | 0.88 | ✓ |
+| [Ebenezer Chummage](/factions/the-guild/ebenezer-chummage/) | 3.10 | 0.172 | ✓ | 16.0 | 0.89 | ✓ |
+| [Brewer](/factions/the-guild/brewer/) | 2.20 | 0.147 | ✓ | 7.4 | 0.49 | – |
+| [Blood Matron](/factions/the-guild/blood-matron/) | 1.23 | 0.082 | – | 10.6 | 0.71 | ✓ |
 

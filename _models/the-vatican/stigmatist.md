@@ -7,7 +7,7 @@ faction_title: The Vatican
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Hero · Discipline(<span class="disc-blood-rites">Blood Rites</span>)</strong><span>Size 30 · 13 Ducats</span></p>
+<p class="model-meta"><strong>Hero · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>)</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 

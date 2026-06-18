@@ -7,7 +7,7 @@ faction_title: The Vatican
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Hero · Discipline(<span class="disc-fateweaving">Fateweaving</span>, <span class="disc-runes-sovereignty">Runes of Sovereignty</span>)</strong><span>Size 30 · 16 Ducats</span></p>
+<p class="model-meta"><strong>Hero · Discipline(<a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 

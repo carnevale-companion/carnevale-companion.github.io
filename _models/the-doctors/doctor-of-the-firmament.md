@@ -7,7 +7,7 @@ faction_title: The Doctors
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Hero · Doctor · Discipline(<span class="disc-blood-rites">Blood Rites</span>, <span class="disc-fateweaving">Fateweaving</span>, <span class="disc-wild-magic">Wild Magic</span>)</strong><span>Size 30 · 16 Ducats</span></p>
+<p class="model-meta"><strong>Hero · Doctor · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 

@@ -7,7 +7,7 @@ faction_title: Rashaar
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Hero · Monster · Discipline(<span class="disc-runes-sovereignty">Runes of Sovereignty</span>)</strong><span>Size 40 · 19 Ducats</span></p>
+<p class="model-meta"><strong>Hero · Monster · Discipline(<a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>)</strong><span>Size 40 · 19 Ducats</span></p>
 
 <div class="model-stats">
 

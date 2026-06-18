@@ -36,17 +36,17 @@ WP generation scales with clustering — 3 friendlies within 3" generates +2+1+1
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| Patriarch Bishop de Bernis (Leader) | Mage(3) + Expert Sorcerer(1) | Divinity, Fateweaving, Wild Magic | Highest WP (8) in any profile seen |
-| Father Cesta (Leader) | Mage(2) | Runes of Sovereignty, Wild Magic | |
-| Inquisitor (Leader) | Mage(3) | Blood Rites, Runes of Sovereignty, Wild Magic | Frenzied — uses LP as WP |
-| Baptist (Hero) | Mage(2) + Expert Sorcerer(1) | Divinity | Unique Blessed Water ability |
-| Galilean Priest (Hero) | Mage(2) | Fateweaving, Wild Magic | Always knows Waves of Force; can cast in water |
-| Stigmatist (Hero) | Mage(2) | Blood Rites | Frenzied — LP re-rolls on action equal to LP spent; Pen-3 on Combat |
-| Summoner Priest (Hero, Invoker) | Mage(2) | Fateweaving, Runes of Sovereignty | |
-| Silere Priest (Hero) | Mage(1) | Fateweaving, Runes of Sovereignty | Keeper of the Fire aura (+1 Dmg to nearby allies) |
-| Lacrimosa (Henchman) | Mage(2) | Divinity | Frenzied; Candid Soul: each LP used as WP → nearby friendlies replenish 1LP |
+| [Patriarch Bishop de Bernis (Leader)](/factions/the-vatican/patriarch-bishop-de-bernis/) | Mage(3) + Expert Sorcerer(1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Highest WP (8) in any profile seen |
+| [Father Cesta (Leader)](/factions/the-vatican/father-cesta/) | Mage(2) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | |
+| [Inquisitor (Leader)](/factions/the-vatican/inquisitor/) | Mage(3) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Frenzied — uses LP as WP |
+| [Baptist (Hero)](/factions/the-vatican/baptist/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a> | Unique Blessed Water ability |
+| [Galilean Priest (Hero)](/factions/the-vatican/galilean-priest/) | Mage(2) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Always knows Waves of Force; can cast in water |
+| [Stigmatist (Hero)](/factions/the-vatican/stigmatist/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a> | Frenzied — LP re-rolls on action equal to LP spent; Pen-3 on Combat |
+| [Summoner Priest (Hero, Invoker)](/factions/the-vatican/summoner-priest/) | Mage(2) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | |
+| [Silere Priest (Hero)](/factions/the-vatican/silere-priest/) | Mage(1) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Keeper of the Fire aura (+1 Dmg to nearby allies) |
+| [Lacrimosa (Henchman)](/factions/the-vatican/lacrimosa/) | Mage(2) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a> | Frenzied; Candid Soul: each LP used as WP → nearby friendlies replenish 1LP |
 
-The Vatican is the most WP-rich magic faction. Patriarch Bishop has 8 WP (highest seen), the Faction Command replenishes WP, and several non-mage chars provide WP via auras. Divinity is the primary discipline; Inquisitor is the only non-healing mage type.
+The Vatican is the most WP-rich magic faction. Patriarch Bishop has 8 WP (highest seen), the Faction Command replenishes WP, and several non-mage chars provide WP via auras. <a href="/magic/divinity/" class="disc-divinity">Divinity</a> is the primary discipline; Inquisitor is the only non-healing mage type.
 
 ## Roster
 
@@ -218,11 +218,11 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Patriarch Bishop de Bernis | Support (mage) / Damage Dealer (magic) | 5.37 | 10.6 | 0.224 | 0.44 |
-| Father Cesta | Support (mage, Constructs) | 3.24 | 8.8 | 0.135 | 0.37 |
-| Exorcist | Specialist (anti-caster, WP denial) | 1.13 | 14.9 | 0.057 | 0.74 |
-| Inquisitor | Damage Dealer (magic) / Support (offensive, magic) | 4.94 | 14.1 | 0.225 | 0.64 |
-| Knight Commander | Brawler | 4.74 | 22.4 | 0.226 | 1.07 |
+| [Patriarch Bishop de Bernis](/factions/the-vatican/patriarch-bishop-de-bernis/) | Support (mage) / Damage Dealer (magic) | 5.37 | 10.6 | 0.224 | 0.44 |
+| [Father Cesta](/factions/the-vatican/father-cesta/) | Support (mage, Constructs) | 3.24 | 8.8 | 0.135 | 0.37 |
+| [Exorcist](/factions/the-vatican/exorcist/) | Specialist (anti-caster, WP denial) | 1.13 | 14.9 | 0.057 | 0.74 |
+| [Inquisitor](/factions/the-vatican/inquisitor/) | Damage Dealer (magic) / Support (offensive, magic) | 4.94 | 14.1 | 0.225 | 0.64 |
+| [Knight Commander](/factions/the-vatican/knight-commander/) | Brawler | 4.74 | 22.4 | 0.226 | 1.07 |
 
 #### Summary of troops
 
@@ -246,101 +246,101 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Prelate of the Flaming Sword | 4.52 | 0.301 | ✓ | 18.0 | 1.20 | ✓ |
-| Stigmatist | 3.34 | 0.257 | ✓ | 7.3 | 0.56 | – |
-| Executioner | 2.97 | 0.247 | ✓ | 6.9 | 0.58 | – |
-| Templar Marshal | 3.13 | 0.224 | ✓ | 13.7 | 0.98 | ✓ |
-| Inquisition Commissioner | 3.29 | 0.206 | ✓ | 13.7 | 0.86 | ✓ |
-| Felix Baumgartner | 3.29 | 0.194 | – | 14.9 | 0.88 | ✓ |
-| Theophant of Sinai | 2.40 | 0.185 | – | 11.5 | 0.88 | ✓ |
+| [Prelate of the Flaming Sword](/factions/the-vatican/prelate-of-the-flaming-sword/) | 4.52 | 0.301 | ✓ | 18.0 | 1.20 | ✓ |
+| [Stigmatist](/factions/the-vatican/stigmatist/) | 3.34 | 0.257 | ✓ | 7.3 | 0.56 | – |
+| [Executioner](/factions/the-vatican/executioner/) | 2.97 | 0.247 | ✓ | 6.9 | 0.58 | – |
+| [Templar Marshal](/factions/the-vatican/templar-marshal/) | 3.13 | 0.224 | ✓ | 13.7 | 0.98 | ✓ |
+| [Inquisition Commissioner](/factions/the-vatican/inquisition-commissioner/) | 3.29 | 0.206 | ✓ | 13.7 | 0.86 | ✓ |
+| [Felix Baumgartner](/factions/the-vatican/felix-baumgartner/) | 3.29 | 0.194 | – | 14.9 | 0.88 | ✓ |
+| [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) | 2.40 | 0.185 | – | 11.5 | 0.88 | ✓ |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Venator of Devotion | 4.70 | 0.277 | ✓ | 22.4 | 1.32 | ✓ |
-| Avignon Guard | 3.66 | 0.261 | ✓ | 24.0 | 1.71 | ✓ |
-| Golgotha | 4.46 | 0.248 | ✓ | 18.4 | 1.02 | – |
-| Burning Saint | 3.74 | 0.234 | ✓ | 17.6 | 1.10 | – |
-| Paladin of St Lazarus | 3.13 | 0.196 | ✓ | 21.0 | 1.31 | – |
-| Knight of Malta | 2.68 | 0.191 | – | 23.3 | 1.66 | ✓ |
-| Knight of the Holy Sepulchre | 3.25 | 0.191 | – | 28.8 | 1.69 | ✓ |
-| Gethsemane | 4.10 | 0.111 | – | 26.3 | 0.71 | – |
+| [Venator of Devotion](/factions/the-vatican/venator-of-devotion/) | 4.70 | 0.277 | ✓ | 22.4 | 1.32 | ✓ |
+| [Avignon Guard](/factions/the-vatican/avignon-guard/) | 3.66 | 0.261 | ✓ | 24.0 | 1.71 | ✓ |
+| [Golgotha](/factions/the-vatican/golgotha/) | 4.46 | 0.248 | ✓ | 18.4 | 1.02 | – |
+| [Burning Saint](/factions/the-vatican/burning-saint/) | 3.74 | 0.234 | ✓ | 17.6 | 1.10 | – |
+| [Paladin of St Lazarus](/factions/the-vatican/paladin-of-st-lazarus/) | 3.13 | 0.196 | ✓ | 21.0 | 1.31 | – |
+| [Knight of Malta](/factions/the-vatican/knight-of-malta/) | 2.68 | 0.191 | – | 23.3 | 1.66 | ✓ |
+| [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) | 3.25 | 0.191 | – | 28.8 | 1.69 | ✓ |
+| [Gethsemane](/factions/the-vatican/gethsemane/) | 4.10 | 0.111 | – | 26.3 | 0.71 | – |
 
 #### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Angel of the Blooded Rose | 2.68 | 0.134 | – | 10.6 | 0.53 | – |
+| [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/) | 2.68 | 0.134 | – | 10.6 | 0.53 | – |
 
 #### Sniper  *(bars: E/Duc 0.126, ATK2K/Duc 1.12)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Scorpio Marksman | 2.44 | 0.163 | ✓ | 18.4 | 1.23 | ✓ |
-| Maltese Squire | 0.75 | 0.075 | – | 10.9 | 1.09 | – |
+| [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) | 2.44 | 0.163 | ✓ | 18.4 | 1.23 | ✓ |
+| [Maltese Squire](/factions/the-vatican/maltese-squire/) | 0.75 | 0.075 | – | 10.9 | 1.09 | – |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Thalassic Messenger | 2.68 | 0.149 | – | 18.0 | 1.00 | ✓ |
+| [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/) | 2.68 | 0.149 | – | 18.0 | 1.00 | ✓ |
 
 #### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Sepulchral Vanguard | 2.86 | 0.191 | ✓ | 33.6 | 2.24 | ✓ |
+| [Sepulchral Vanguard](/factions/the-vatican/sepulchral-vanguard/) | 2.86 | 0.191 | ✓ | 33.6 | 2.24 | ✓ |
 
 #### Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Seraph | 2.68 | 0.158 | ✓ | 29.6 | 1.74 | ✓ |
-| Eater of Sin | 1.63 | 0.102 | – | 11.5 | 0.72 | – |
-| Witch Finder | 1.13 | 0.094 | – | 7.9 | 0.66 | – |
+| [Seraph](/factions/the-vatican/seraph/) | 2.68 | 0.158 | ✓ | 29.6 | 1.74 | ✓ |
+| [Eater of Sin](/factions/the-vatican/eater-of-sin/) | 1.63 | 0.102 | – | 11.5 | 0.72 | – |
+| [Witch Finder](/factions/the-vatican/witch-finder/) | 1.13 | 0.094 | – | 7.9 | 0.66 | – |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Celestial Congregation | 2.91 | 0.194 | ✓ | 11.0 | 0.73 | – |
-| Silere Priest | 3.10 | 0.194 | ✓ | 11.2 | 0.70 | – |
-| Galilean Priest | 3.24 | 0.191 | ✓ | 9.7 | 0.57 | – |
-| Conventual Chaplain | 1.99 | 0.153 | ✓ | 9.7 | 0.75 | – |
-| Celestial Spirit | 1.50 | 0.150 | ✓ | 8.7 | 0.87 | ✓ |
-| Cherubim | 1.01 | 0.126 | ✓ | 4.5 | 0.56 | – |
-| Cross-bearing Deacon | 1.75 | 0.125 | ✓ | 18.0 | 1.29 | ✓ |
-| Reliquary Page | 0.44 | 0.049 | – | 8.7 | 0.97 | ✓ |
-| Lacrimosa | 0.44 | 0.044 | – | 8.8 | 0.88 | ✓ |
-| Altar Boy | 0.44 | 0.040 | – | 6.5 | 0.59 | – |
-| Baptist | 0.44 | 0.029 | – | 9.7 | 0.65 | – |
-| Summoner Priest | 0.44 | 0.029 | – | 9.7 | 0.65 | – |
+| [Celestial Congregation](/factions/the-vatican/celestial-congregation/) | 2.91 | 0.194 | ✓ | 11.0 | 0.73 | – |
+| [Silere Priest](/factions/the-vatican/silere-priest/) | 3.10 | 0.194 | ✓ | 11.2 | 0.70 | – |
+| [Galilean Priest](/factions/the-vatican/galilean-priest/) | 3.24 | 0.191 | ✓ | 9.7 | 0.57 | – |
+| [Conventual Chaplain](/factions/the-vatican/conventual-chaplain/) | 1.99 | 0.153 | ✓ | 9.7 | 0.75 | – |
+| [Celestial Spirit](/factions/the-vatican/celestial-spirit/) | 1.50 | 0.150 | ✓ | 8.7 | 0.87 | ✓ |
+| [Cherubim](/factions/the-vatican/cherubim/) | 1.01 | 0.126 | ✓ | 4.5 | 0.56 | – |
+| [Cross-bearing Deacon](/factions/the-vatican/cross-bearing-deacon/) | 1.75 | 0.125 | ✓ | 18.0 | 1.29 | ✓ |
+| [Reliquary Page](/factions/the-vatican/reliquary-page/) | 0.44 | 0.049 | – | 8.7 | 0.97 | ✓ |
+| [Lacrimosa](/factions/the-vatican/lacrimosa/) | 0.44 | 0.044 | – | 8.8 | 0.88 | ✓ |
+| [Altar Boy](/factions/the-vatican/altar-boy/) | 0.44 | 0.040 | – | 6.5 | 0.59 | – |
+| [Baptist](/factions/the-vatican/baptist/) | 0.44 | 0.029 | – | 9.7 | 0.65 | – |
+| [Summoner Priest](/factions/the-vatican/summoner-priest/) | 0.44 | 0.029 | – | 9.7 | 0.65 | – |
 
 #### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Inquisitorial Spy | 1.50 | 0.136 | ✓ | 10.9 | 0.99 | ✓ |
+| [Inquisitorial Spy](/factions/the-vatican/inquisitorial-spy/) | 1.50 | 0.136 | ✓ | 10.9 | 0.99 | ✓ |
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Crucifier | 1.89 | 0.189 | ✓ | 9.7 | 0.97 | – |
-| Chevaleresse | 1.99 | 0.166 | ✓ | 14.1 | 1.18 | ✓ |
-| Priest | 1.43 | 0.143 | – | 9.7 | 0.97 | – |
-| Bishop Guard | 1.99 | 0.142 | – | 18.0 | 1.29 | ✓ |
-| Martyr | 1.13 | 0.141 | – | 9.7 | 1.21 | ✓ |
-| French Infantryman | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
-| Redemptionist | 1.13 | 0.094 | – | 12.6 | 1.05 | ✓ |
+| [Crucifier](/factions/the-vatican/crucifier/) | 1.89 | 0.189 | ✓ | 9.7 | 0.97 | – |
+| [Chevaleresse](/factions/the-vatican/chevaleresse/) | 1.99 | 0.166 | ✓ | 14.1 | 1.18 | ✓ |
+| [Priest](/factions/the-vatican/priest/) | 1.43 | 0.143 | – | 9.7 | 0.97 | – |
+| [Bishop Guard](/factions/the-vatican/bishop-guard/) | 1.99 | 0.142 | – | 18.0 | 1.29 | ✓ |
+| [Martyr](/factions/the-vatican/martyr/) | 1.13 | 0.141 | – | 9.7 | 1.21 | ✓ |
+| [French Infantryman](/factions/the-vatican/french-infantryman/) | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
+| [Redemptionist](/factions/the-vatican/redemptionist/) | 1.13 | 0.094 | – | 12.6 | 1.05 | ✓ |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Thomas Thieme | 1.99 | 0.153 | ✓ | 11.9 | 0.92 | ✓ |
-| Divine Seraphim | 2.48 | 0.138 | ✓ | 14.9 | 0.83 | ✓ |
-| Stalker | 1.50 | 0.125 | ✓ | 9.7 | 0.81 | ✓ |
-| Throne | 2.68 | 0.122 | – | 15.0 | 0.68 | – |
+| [Thomas Thieme](/factions/the-vatican/thomas-thieme/) | 1.99 | 0.153 | ✓ | 11.9 | 0.92 | ✓ |
+| [Divine Seraphim](/factions/the-vatican/divine-seraphim/) | 2.48 | 0.138 | ✓ | 14.9 | 0.83 | ✓ |
+| [Stalker](/factions/the-vatican/stalker/) | 1.50 | 0.125 | ✓ | 9.7 | 0.81 | ✓ |
+| [Throne](/factions/the-vatican/throne/) | 2.68 | 0.122 | – | 15.0 | 0.68 | – |
 

@@ -8,7 +8,7 @@ faction_title: The Doctors
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Leader · Doctor · Discipline(<span class="disc-blood-rites">Blood Rites</span>, <span class="disc-divinity">Divinity</span>)</strong><span>Size 30 · 23 Ducats</span></p>
+<p class="model-meta"><strong>Leader · Doctor · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/divinity/" class="disc-divinity">Divinity</a>)</strong><span>Size 30 · 23 Ducats</span></p>
 
 <div class="model-stats">
 

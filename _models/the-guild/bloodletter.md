@@ -7,7 +7,7 @@ faction_title: The Guild
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Hero · House of Virtue · Discipline(<span class="disc-blood-rites">Blood Rites</span>)</strong><span>Size 30 · 16 Ducats</span></p>
+<p class="model-meta"><strong>Hero · House of Virtue · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 

@@ -43,15 +43,15 @@ Net WP generation — 1 WP sacrificed becomes 2 WP on another character (+100% e
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| Doctor of the Mind (Leader) | Mage(3) | Blood Rites, Runes of Sovereignty | |
-| Master of Necromantic Studies (Leader) | Mage(2) + Expert Sorcerer(1) | Blood Rites, Divinity | |
-| Plague Doctor (Leader) | Mage(2) + Expert Sorcerer(1) | Fateweaving, Wild Magic | |
-| Doctor of Blood (Hero) | Mage(2) | Blood Rites | Vampiric Attack activates on Cast Spell |
-| Doctor of the Firmament (Hero) | Mage(2) + Expert Sorcerer(2) | Blood Rites, Fateweaving, Wild Magic | Aetheric Gaze: can pick from 2 disciplines |
-| Morgue Doctor (Hero) | Mage(2) | Divinity, Fateweaving | |
-| Mermaid (Henchman) | Mage(0) | Runes of Sovereignty | Cantrip only |
+| [Doctor of the Mind (Leader)](/factions/the-doctors/doctor-of-the-mind/) | Mage(3) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | |
+| [Master of Necromantic Studies (Leader)](/factions/the-doctors/master-of-necromantic-studies/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/divinity/" class="disc-divinity">Divinity</a> | |
+| [Plague Doctor (Leader)](/factions/the-doctors/plague-doctor/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | |
+| [Doctor of Blood (Hero)](/factions/the-doctors/doctor-of-blood/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a> | Vampiric Attack activates on Cast Spell |
+| [Doctor of the Firmament (Hero)](/factions/the-doctors/doctor-of-the-firmament/) | Mage(2) + Expert Sorcerer(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Aetheric Gaze: can pick from 2 disciplines |
+| [Morgue Doctor (Hero)](/factions/the-doctors/morgue-doctor/) | Mage(2) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | |
+| [Mermaid (Henchman)](/factions/the-doctors/mermaid/) | Mage(0) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Cantrip only |
 
-The Doctors have the widest magic access of any faction: Blood Rites, Runes of Sovereignty, Divinity, Fateweaving, and Wild Magic are all reachable. Doctor of the Firmament's Aetheric Gaze (picks from 2 disciplines) is unique in the game.
+The Doctors have the widest magic access of any faction: <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, and <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> are all reachable. Doctor of the Firmament's Aetheric Gaze (picks from 2 disciplines) is unique in the game.
 
 ## Roster
 
@@ -211,11 +211,11 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Doctor of the Mind | Damage Dealer (magic) | 5.01 | 19.4 | 0.228 | 0.88 |
-| Master of Necromantic Studies | Damage Dealer (magic) | 3.78 | 12.6 | 0.164 | 0.55 |
-| Master of Arcane Security | Brawler | 3.37 | 27.0 | 0.125 | 1.00 |
-| Master of Zoology | Support (Beast Master) / Tank | 3.59 | 36.7 | 0.179 | 1.84 |
-| Plague Doctor | Support (magic) | 3.73 | 14.9 | 0.178 | 0.71 |
+| [Doctor of the Mind](/factions/the-doctors/doctor-of-the-mind/) | Damage Dealer (magic) | 5.01 | 19.4 | 0.228 | 0.88 |
+| [Master of Necromantic Studies](/factions/the-doctors/master-of-necromantic-studies/) | Damage Dealer (magic) | 3.78 | 12.6 | 0.164 | 0.55 |
+| [Master of Arcane Security](/factions/the-doctors/master-of-arcane-security/) | Brawler | 3.37 | 27.0 | 0.125 | 1.00 |
+| [Master of Zoology](/factions/the-doctors/master-of-zoology/) | Support (Beast Master) / Tank | 3.59 | 36.7 | 0.179 | 1.84 |
+| [Plague Doctor](/factions/the-doctors/plague-doctor/) | Support (magic) | 3.73 | 14.9 | 0.178 | 0.71 |
 
 #### Summary of troops
 
@@ -239,96 +239,96 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Monstrosity | 2.93 | 0.326 | ✓ | 5.0 | 0.56 | – |
-| Doctor of Poisons | 4.08 | 0.314 | ✓ | 9.7 | 0.75 | ✓ |
-| Basilisk | 3.86 | 0.297 | ✓ | 12.2 | 0.94 | ✓ |
-| Doctor of the Firmament | 4.71 | 0.294 | ✓ | 11.4 | 0.71 | – |
-| Lion | 2.77 | 0.231 | ✓ | 9.8 | 0.82 | ✓ |
-| Doctor of Blood | 3.58 | 0.224 | ✓ | 13.7 | 0.86 | ✓ |
-| Alchemist Doctor | 2.46 | 0.189 | – | 11.9 | 0.92 | ✓ |
-| Manticore | 1.63 | 0.181 | – | 6.7 | 0.74 | ✓ |
-| Patient 42 | 2.52 | 0.180 | – | 11.4 | 0.81 | ✓ |
-| Unleashed Madman | 2.11 | 0.141 | – | 9.8 | 0.65 | – |
-| Ordnance Doctor | 1.73 | 0.115 | – | 13.7 | 0.91 | ✓ |
-| Electron Cannoneer | 1.21 | 0.101 | – | 7.3 | 0.61 | – |
-| The Unholy Union | 3.26 | 0.072 | – | 21.2 | 0.47 | – |
+| [Monstrosity](/factions/the-doctors/monstrosity/) | 2.93 | 0.326 | ✓ | 5.0 | 0.56 | – |
+| [Doctor of Poisons](/factions/the-doctors/doctor-of-poisons/) | 4.08 | 0.314 | ✓ | 9.7 | 0.75 | ✓ |
+| [Basilisk](/factions/the-doctors/basilisk/) | 3.86 | 0.297 | ✓ | 12.2 | 0.94 | ✓ |
+| [Doctor of the Firmament](/factions/the-doctors/doctor-of-the-firmament/) | 4.71 | 0.294 | ✓ | 11.4 | 0.71 | – |
+| [Lion](/factions/the-doctors/lion/) | 2.77 | 0.231 | ✓ | 9.8 | 0.82 | ✓ |
+| [Doctor of Blood](/factions/the-doctors/doctor-of-blood/) | 3.58 | 0.224 | ✓ | 13.7 | 0.86 | ✓ |
+| [Alchemist Doctor](/factions/the-doctors/alchemist-doctor/) | 2.46 | 0.189 | – | 11.9 | 0.92 | ✓ |
+| [Manticore](/factions/the-doctors/manticore/) | 1.63 | 0.181 | – | 6.7 | 0.74 | ✓ |
+| [Patient 42](/factions/the-doctors/patient-42/) | 2.52 | 0.180 | – | 11.4 | 0.81 | ✓ |
+| [Unleashed Madman](/factions/the-doctors/unleashed-madman/) | 2.11 | 0.141 | – | 9.8 | 0.65 | – |
+| [Ordnance Doctor](/factions/the-doctors/ordnance-doctor/) | 1.73 | 0.115 | – | 13.7 | 0.91 | ✓ |
+| [Electron Cannoneer](/factions/the-doctors/electron-cannoneer/) | 1.21 | 0.101 | – | 7.3 | 0.61 | – |
+| [The Unholy Union](/factions/the-doctors/the-unholy-union/) | 3.26 | 0.072 | – | 21.2 | 0.47 | – |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| The Being | 2.41 | 0.161 | – | 13.2 | 0.88 | – |
+| [The Being](/factions/the-doctors/the-being/) | 2.41 | 0.161 | – | 13.2 | 0.88 | – |
 
 #### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Ethereal Assassin | 2.89 | 0.222 | ✓ | 7.3 | 0.56 | – |
+| [Ethereal Assassin](/factions/the-doctors/ethereal-assassin/) | 2.89 | 0.222 | ✓ | 7.3 | 0.56 | – |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Crocodile | 2.91 | 0.208 | ✓ | 14.9 | 1.06 | ✓ |
-| Brined Horror | 3.47 | 0.183 | ✓ | 18.4 | 0.97 | ✓ |
-| Hippocampus | 3.08 | 0.162 | ✓ | 7.9 | 0.42 | – |
-| Doctor of Tides | 2.68 | 0.149 | – | 24.0 | 1.33 | ✓ |
-| Diving Assistant | 1.50 | 0.115 | – | 12.6 | 0.97 | ✓ |
-| Mermaid | 1.50 | 0.115 | – | 6.9 | 0.53 | – |
-| Marine Biologist | 0.85 | 0.061 | – | 9.7 | 0.69 | – |
+| [Crocodile](/factions/the-doctors/crocodile/) | 2.91 | 0.208 | ✓ | 14.9 | 1.06 | ✓ |
+| [Brined Horror](/factions/the-doctors/brined-horror/) | 3.47 | 0.183 | ✓ | 18.4 | 0.97 | ✓ |
+| [Hippocampus](/factions/the-doctors/hippocampus/) | 3.08 | 0.162 | ✓ | 7.9 | 0.42 | – |
+| [Doctor of Tides](/factions/the-doctors/doctor-of-tides/) | 2.68 | 0.149 | – | 24.0 | 1.33 | ✓ |
+| [Diving Assistant](/factions/the-doctors/diving-assistant/) | 1.50 | 0.115 | – | 12.6 | 0.97 | ✓ |
+| [Mermaid](/factions/the-doctors/mermaid/) | 1.50 | 0.115 | – | 6.9 | 0.53 | – |
+| [Marine Biologist](/factions/the-doctors/marine-biologist/) | 0.85 | 0.061 | – | 9.7 | 0.69 | – |
 
 #### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Warden | 2.29 | 0.176 | ✓ | 25.3 | 1.95 | ✓ |
-| Rhino | 1.99 | 0.133 | – | 24.5 | 1.63 | ✓ |
+| [Warden](/factions/the-doctors/warden/) | 2.29 | 0.176 | ✓ | 25.3 | 1.95 | ✓ |
+| [Rhino](/factions/the-doctors/rhino/) | 1.99 | 0.133 | – | 24.5 | 1.63 | ✓ |
 
 #### Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Ghoul | 0.44 | 0.073 | – | 4.0 | 0.67 | – |
+| [Ghoul](/factions/the-doctors/ghoul/) | 0.44 | 0.073 | – | 4.0 | 0.67 | – |
 
 #### Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Ethereal Snatcher | 1.89 | 0.126 | ✓ | 16.0 | 1.07 | ✓ |
+| [Ethereal Snatcher](/factions/the-doctors/ethereal-snatcher/) | 1.89 | 0.126 | ✓ | 16.0 | 1.07 | ✓ |
 
 #### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Hippogryph | 1.77 | 0.253 | ✓ | 9.8 | 1.40 | ✓ |
+| [Hippogryph](/factions/the-doctors/hippogryph/) | 1.77 | 0.253 | ✓ | 9.8 | 1.40 | ✓ |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Doctor of the Beasts | 1.99 | 0.142 | ✓ | 12.6 | 0.90 | ✓ |
-| Morgue Doctor | 1.50 | 0.100 | – | 10.6 | 0.71 | – |
-| Nurse | 0.62 | 0.089 | – | 6.7 | 0.96 | ✓ |
+| [Doctor of the Beasts](/factions/the-doctors/doctor-of-the-beasts/) | 1.99 | 0.142 | ✓ | 12.6 | 0.90 | ✓ |
+| [Morgue Doctor](/factions/the-doctors/morgue-doctor/) | 1.50 | 0.100 | – | 10.6 | 0.71 | – |
+| [Nurse](/factions/the-doctors/nurse/) | 0.62 | 0.089 | – | 6.7 | 0.96 | ✓ |
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Husk | 0.87 | 0.217 | ✓ | 2.9 | 0.72 | – |
-| Gorilla | 1.99 | 0.153 | ✓ | 11.5 | 0.88 | – |
-| Shackled Feaster | 1.13 | 0.126 | – | 9.8 | 1.09 | ✓ |
-| Doctor of Venesection | 1.13 | 0.113 | – | 9.8 | 0.98 | ✓ |
-| Lab Assistant | 1.13 | 0.113 | – | 7.3 | 0.73 | – |
+| [Husk](/factions/the-doctors/husk/) | 0.87 | 0.217 | ✓ | 2.9 | 0.72 | – |
+| [Gorilla](/factions/the-doctors/gorilla/) | 1.99 | 0.153 | ✓ | 11.5 | 0.88 | – |
+| [Shackled Feaster](/factions/the-doctors/shackled-feaster/) | 1.13 | 0.126 | – | 9.8 | 1.09 | ✓ |
+| [Doctor of Venesection](/factions/the-doctors/doctor-of-venesection/) | 1.13 | 0.113 | – | 9.8 | 0.98 | ✓ |
+| [Lab Assistant](/factions/the-doctors/lab-assistant/) | 1.13 | 0.113 | – | 7.3 | 0.73 | – |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Voltage Bombardiers | 4.14 | 0.345 | ✓ | 6.7 | 0.56 | – |
-| Apprentice Doctor | 1.50 | 0.125 | ✓ | 8.8 | 0.73 | ✓ |
-| Harvester | 1.50 | 0.125 | ✓ | 9.7 | 0.81 | ✓ |
-| Carrion | 1.13 | 0.113 | – | 6.5 | 0.65 | – |
-| Hollowman | 0.44 | 0.073 | – | 4.0 | 0.67 | – |
-| Doctor of Divine Probabilities | 0.62 | 0.041 | – | 18.4 | 1.23 | ✓ |
-| Madman | 0.11 | 0.022 | – | 5.3 | 1.06 | ✓ |
+| [Voltage Bombardiers](/factions/the-doctors/voltage-bombardiers/) | 4.14 | 0.345 | ✓ | 6.7 | 0.56 | – |
+| [Apprentice Doctor](/factions/the-doctors/apprentice-doctor/) | 1.50 | 0.125 | ✓ | 8.8 | 0.73 | ✓ |
+| [Harvester](/factions/the-doctors/harvester/) | 1.50 | 0.125 | ✓ | 9.7 | 0.81 | ✓ |
+| [Carrion](/factions/the-doctors/carrion/) | 1.13 | 0.113 | – | 6.5 | 0.65 | – |
+| [Hollowman](/factions/the-doctors/hollowman/) | 0.44 | 0.073 | – | 4.0 | 0.67 | – |
+| [Doctor of Divine Probabilities](/factions/the-doctors/doctor-of-divine-probabilities/) | 0.62 | 0.041 | – | 18.4 | 1.23 | ✓ |
+| [Madman](/factions/the-doctors/madman/) | 0.11 | 0.022 | – | 5.3 | 1.06 | ✓ |
 

@@ -36,10 +36,10 @@ Venice's ruling nobility — wealthy merchants, military officers, Ottoman merce
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| Adventuring Noble (Hero) | Mage(2) | Wild Magic | Arcane Totem: all spells free but once per game each; failed cast = lose random additional spell |
-| Moon (Hero) | Mage(2) | Blood Rites, Fateweaving | Mindless; Companion(Sun); AP2 |
+| [Adventuring Noble (Hero)](/factions/patricians/adventuring-noble/) | Mage(2) | <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Arcane Totem: all spells free but once per game each; failed cast = lose random additional spell |
+| [Moon (Hero)](/factions/patricians/moon/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Mindless; Companion(Sun); AP2 |
 
-The Patricians have the weakest magic in the game. Adventuring Noble's Arcane Totem gives access to all Wild Magic spells at 0WP cost, but the once-per-game limit and cascade-failure risk make it unreliable for sustained use. Moon is a fragile mage who must stay paired with Sun (Companion mechanic).
+The Patricians have the weakest magic in the game. Adventuring Noble's Arcane Totem gives access to all <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> spells at 0WP cost, but the once-per-game limit and cascade-failure risk make it unreliable for sustained use. Moon is a fragile mage who must stay paired with Sun (Companion mechanic).
 
 ## Roster
 
@@ -203,13 +203,13 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Pinnacle of Affluence | Support (command) | 1.77 | 22.0 | 0.055 | 0.69 |
-| Guard Commander | Brawler / Support (Officer) | 3.51 | 22.7 | 0.175 | 1.14 |
-| Noble Admiral | Damage Dealer (ranged) | 3.74 | 14.9 | 0.197 | 0.78 |
-| Venetian Noble | Damage Dealer (melee) | 3.74 | 18.4 | 0.178 | 0.88 |
-| Mounted Venetian Noble | Assassin (melee, fast) | 3.99 | 20.6 | 0.166 | 0.86 |
-| Janissary Chorbaji | Brawler / Support (Ottoman) | 2.02 | 21.0 | 0.088 | 0.91 |
-| Sopracomito | Support (WP battery) | 1.50 | 18.0 | 0.100 | 1.20 |
+| [Pinnacle of Affluence](/factions/patricians/pinnacle-of-affluence/) | Support (command) | 1.77 | 22.0 | 0.055 | 0.69 |
+| [Guard Commander](/factions/patricians/guard-commander/) | Brawler / Support (Officer) | 3.51 | 22.7 | 0.175 | 1.14 |
+| [Noble Admiral](/factions/patricians/noble-admiral/) | Damage Dealer (ranged) | 3.74 | 14.9 | 0.197 | 0.78 |
+| [Venetian Noble](/factions/patricians/venetian-noble/) | Damage Dealer (melee) | 3.74 | 18.4 | 0.178 | 0.88 |
+| [Mounted Venetian Noble](/factions/patricians/mounted-venetian-noble/) | Assassin (melee, fast) | 3.99 | 20.6 | 0.166 | 0.86 |
+| [Janissary Chorbaji](/factions/patricians/janissary-chorbaji/) | Brawler / Support (Ottoman) | 2.02 | 21.0 | 0.088 | 0.91 |
+| [Sopracomito](/factions/patricians/sopracomito/) | Support (WP battery) | 1.50 | 18.0 | 0.100 | 1.20 |
 
 #### Summary of troops
 
@@ -232,85 +232,85 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Fencing Master | 3.48 | 0.217 | ✓ | 18.4 | 1.15 | ✓ |
-| Seven Years Veteran | 3.13 | 0.209 | ✓ | 14.9 | 0.99 | ✓ |
-| Submissive Noble | 3.23 | 0.190 | – | 12.4 | 0.73 | ✓ |
-| Janissary Sapper | 2.86 | 0.179 | – | 19.5 | 1.22 | ✓ |
-| Syphilitic Noble | 2.13 | 0.164 | – | 12.6 | 0.97 | ✓ |
-| Butler | 1.63 | 0.163 | – | 9.7 | 0.97 | ✓ |
-| Noble Seafarer | 1.87 | 0.156 | – | 9.7 | 0.81 | ✓ |
-| Ottoman Cannoneer | 1.82 | 0.121 | – | 8.5 | 0.57 | – |
-| Ottoman Archer | 1.13 | 0.113 | – | 9.7 | 0.97 | ✓ |
+| [Fencing Master](/factions/patricians/fencing-master/) | 3.48 | 0.217 | ✓ | 18.4 | 1.15 | ✓ |
+| [Seven Years Veteran](/factions/patricians/seven-years-veteran/) | 3.13 | 0.209 | ✓ | 14.9 | 0.99 | ✓ |
+| [Submissive Noble](/factions/patricians/submissive-noble/) | 3.23 | 0.190 | – | 12.4 | 0.73 | ✓ |
+| [Janissary Sapper](/factions/patricians/janissary-sapper/) | 2.86 | 0.179 | – | 19.5 | 1.22 | ✓ |
+| [Syphilitic Noble](/factions/patricians/syphilitic-noble/) | 2.13 | 0.164 | – | 12.6 | 0.97 | ✓ |
+| [Butler](/factions/patricians/butler/) | 1.63 | 0.163 | – | 9.7 | 0.97 | ✓ |
+| [Noble Seafarer](/factions/patricians/noble-seafarer/) | 1.87 | 0.156 | – | 9.7 | 0.81 | ✓ |
+| [Ottoman Cannoneer](/factions/patricians/ottoman-cannoneer/) | 1.82 | 0.121 | – | 8.5 | 0.57 | – |
+| [Ottoman Archer](/factions/patricians/ottoman-archer/) | 1.13 | 0.113 | – | 9.7 | 0.97 | ✓ |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Hired Muscle | 2.35 | 0.214 | ✓ | 14.9 | 1.35 | ✓ |
-| Ottoman Janissary | 3.29 | 0.194 | – | 19.5 | 1.15 | – |
-| Venetian Heavy Guard | 3.01 | 0.188 | – | 47.9 | 2.99 | ✓ |
+| [Hired Muscle](/factions/patricians/hired-muscle/) | 2.35 | 0.214 | ✓ | 14.9 | 1.35 | ✓ |
+| [Ottoman Janissary](/factions/patricians/ottoman-janissary/) | 3.29 | 0.194 | – | 19.5 | 1.15 | – |
+| [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/) | 3.01 | 0.188 | – | 47.9 | 2.99 | ✓ |
 
 #### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Sun | 3.63 | 0.242 | ✓ | 9.8 | 0.65 | ✓ |
-| Moon | 3.70 | 0.231 | ✓ | 9.8 | 0.61 | ✓ |
+| [Sun](/factions/patricians/sun/) | 3.63 | 0.242 | ✓ | 9.8 | 0.65 | ✓ |
+| [Moon](/factions/patricians/moon/) | 3.70 | 0.231 | ✓ | 9.8 | 0.61 | ✓ |
 
 #### Sniper  *(bars: E/Duc 0.126, ATK2K/Duc 1.12)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Naval Lieutenant | 2.54 | 0.169 | ✓ | 13.7 | 0.91 | – |
-| Guard Marksman | 1.62 | 0.135 | ✓ | 13.7 | 1.14 | ✓ |
-| Venetian Spy | 1.87 | 0.117 | – | 10.6 | 0.66 | – |
+| [Naval Lieutenant](/factions/patricians/naval-lieutenant/) | 2.54 | 0.169 | ✓ | 13.7 | 0.91 | – |
+| [Guard Marksman](/factions/patricians/guard-marksman/) | 1.62 | 0.135 | ✓ | 13.7 | 1.14 | ✓ |
+| [Venetian Spy](/factions/patricians/venetian-spy/) | 1.87 | 0.117 | – | 10.6 | 0.66 | – |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Naval Ensign | 1.99 | 0.166 | ✓ | 8.8 | 0.73 | – |
+| [Naval Ensign](/factions/patricians/naval-ensign/) | 1.99 | 0.166 | ✓ | 8.8 | 0.73 | – |
 
 #### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Hunting Hound | 1.68 | 0.336 | ✓ | 4.9 | 0.98 | ✓ |
-| Cat Burglar | 1.63 | 0.109 | – | 11.3 | 0.75 | – |
+| [Hunting Hound](/factions/patricians/hunting-hound/) | 1.68 | 0.336 | ✓ | 4.9 | 0.98 | ✓ |
+| [Cat Burglar](/factions/patricians/cat-burglar/) | 1.63 | 0.109 | – | 11.3 | 0.75 | – |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Captain of the Guard | 3.10 | 0.221 | ✓ | 14.9 | 1.06 | ✓ |
-| Foreign Dignitary | 2.56 | 0.183 | ✓ | 13.7 | 0.98 | ✓ |
-| Gourmand Noble | 2.13 | 0.164 | ✓ | 11.5 | 0.88 | ✓ |
-| Merchant | 1.23 | 0.095 | – | 9.7 | 0.75 | – |
-| Guard Sentry | 1.13 | 0.094 | – | 10.9 | 0.91 | ✓ |
-| Wayfinder | 0.44 | 0.037 | – | 9.7 | 0.81 | ✓ |
+| [Captain of the Guard](/factions/patricians/captain-of-the-guard/) | 3.10 | 0.221 | ✓ | 14.9 | 1.06 | ✓ |
+| [Foreign Dignitary](/factions/patricians/foreign-dignitary/) | 2.56 | 0.183 | ✓ | 13.7 | 0.98 | ✓ |
+| [Gourmand Noble](/factions/patricians/gourmand-noble/) | 2.13 | 0.164 | ✓ | 11.5 | 0.88 | ✓ |
+| [Merchant](/factions/patricians/merchant/) | 1.23 | 0.095 | – | 9.7 | 0.75 | – |
+| [Guard Sentry](/factions/patricians/guard-sentry/) | 1.13 | 0.094 | – | 10.9 | 0.91 | ✓ |
+| [Wayfinder](/factions/patricians/wayfinder/) | 0.44 | 0.037 | – | 9.7 | 0.81 | ✓ |
 
 #### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Ottoman Rigger | 1.13 | 0.094 | ✓ | 11.3 | 0.94 | ✓ |
+| [Ottoman Rigger](/factions/patricians/ottoman-rigger/) | 1.13 | 0.094 | ✓ | 11.3 | 0.94 | ✓ |
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| City Guard | 1.99 | 0.199 | ✓ | 13.7 | 1.37 | ✓ |
-| Cannibal Cultist | 1.50 | 0.188 | ✓ | 9.7 | 1.21 | ✓ |
-| Ottoman Pirate | 1.99 | 0.181 | ✓ | 11.3 | 1.03 | ✓ |
-| Naval Recruit | 1.50 | 0.167 | ✓ | 8.8 | 0.98 | ✓ |
-| Barnabotti | 1.99 | 0.166 | ✓ | 9.7 | 0.81 | – |
-| Household Staff | 1.13 | 0.126 | – | 8.8 | 0.98 | ✓ |
-| Cortigiane | 1.50 | 0.125 | – | 14.2 | 1.18 | ✓ |
+| [City Guard](/factions/patricians/city-guard/) | 1.99 | 0.199 | ✓ | 13.7 | 1.37 | ✓ |
+| [Cannibal Cultist](/factions/patricians/cannibal-cultist/) | 1.50 | 0.188 | ✓ | 9.7 | 1.21 | ✓ |
+| [Ottoman Pirate](/factions/patricians/ottoman-pirate/) | 1.99 | 0.181 | ✓ | 11.3 | 1.03 | ✓ |
+| [Naval Recruit](/factions/patricians/naval-recruit/) | 1.50 | 0.167 | ✓ | 8.8 | 0.98 | ✓ |
+| [Barnabotti](/factions/patricians/barnabotti/) | 1.99 | 0.166 | ✓ | 9.7 | 0.81 | – |
+| [Household Staff](/factions/patricians/household-staff/) | 1.13 | 0.126 | – | 8.8 | 0.98 | ✓ |
+| [Cortigiane](/factions/patricians/cortigiane/) | 1.50 | 0.125 | – | 14.2 | 1.18 | ✓ |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Adventuring Noble | 2.68 | 0.168 | ✓ | 10.6 | 0.66 | – |
-| Don Gregorio Morisini | 2.42 | 0.134 | ✓ | 17.0 | 0.94 | ✓ |
+| [Adventuring Noble](/factions/patricians/adventuring-noble/) | 2.68 | 0.168 | ✓ | 10.6 | 0.66 | – |
+| [Don Gregorio Morisini](/factions/patricians/don-gregorio-morisini/) | 2.42 | 0.134 | ✓ | 17.0 | 0.94 | ✓ |
 

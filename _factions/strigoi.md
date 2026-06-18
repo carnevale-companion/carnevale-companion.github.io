@@ -36,14 +36,14 @@ Grants the standard cover protection bonus to all friendlies within 6" for the e
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| Blood Crone (Leader) | Mage(3) | Runes of Sovereignty, Blood Rites, Fateweaving | Major Arcana: knows all Cantrips from all Disciplines; Minor Incanta: free 0AP Cantrip once per turn |
-| Seer (Hero) | Mage(2) | Fateweaving | |
-| Gibele (Hero) | Mage(2) + Expert Sorcerer(1) | Runes of Sovereignty, Blood Rites, Fateweaving | WP0 + Frenzied: all spell costs paid in LP; African Bewitching PULSE: Bride chars gain Stun on weapons |
-| Strigoi Jude (Hero) | Mage(2) | Blood Rites, Runes of Sovereignty | Judgement PULSE: Judged char → friendlies re-roll full Attack Roll; Dispel vs Judged counts Mage(X) as 1 higher |
-| Tarot Reader (Hero) | Mage(2) + Expert Sorcerer(1) | Runes of Sovereignty, Fateweaving, Wild Magic | Minor Arcana: must know extra Cantrip from different Discipline; Cartomancy: successful Cantrip → 1 WP replenished |
-| Romani (Henchman) | Mage(0) | Blood Rites, Runes of Sovereignty, Fateweaving, Wild Magic | Tarot: multiple Romani must each pick a different Discipline until all represented |
+| [Blood Crone (Leader)](/factions/strigoi/blood-crone/) | Mage(3) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Major Arcana: knows all Cantrips from all Disciplines; Minor Incanta: free 0AP Cantrip once per turn |
+| [Seer (Hero)](/factions/strigoi/seer/) | Mage(2) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | |
+| [Gibele (Hero)](/factions/strigoi/gibele/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | WP0 + Frenzied: all spell costs paid in LP; African Bewitching PULSE: Bride chars gain Stun on weapons |
+| [Strigoi Jude (Hero)](/factions/strigoi/strigoi-jude/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Judgement PULSE: Judged char → friendlies re-roll full Attack Roll; Dispel vs Judged counts Mage(X) as 1 higher |
+| [Tarot Reader (Hero)](/factions/strigoi/tarot-reader/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Minor Arcana: must know extra Cantrip from different Discipline; Cartomancy: successful Cantrip → 1 WP replenished |
+| [Romani (Henchman)](/factions/strigoi/romani/) | Mage(0) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Tarot: multiple Romani must each pick a different Discipline until all represented |
 
-Blood Crone is the primary caster: Mage(3) across three disciplines with a cantrip from each if using Major Arcana. Seer is a secondary Fateweaving-only caster with strong command support.
+Blood Crone is the primary caster: Mage(3) across three disciplines with a cantrip from each if using Major Arcana. Seer is a secondary <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>-only caster with strong command support.
 
 ## Roster
 
@@ -192,11 +192,11 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Vlad Dracula | Brawler | 5.08 | 50.3 | 0.188 | 1.86 |
-| Blood Crone | Support (mage) / Damage Dealer (magic) | 4.94 | 11.5 | 0.274 | 0.64 |
-| Noble Strigoi | Damage Dealer (melee) / Support (Vampire) | 2.32 | 18.4 | 0.111 | 0.88 |
-| Stryha Crone | Assassin (flying, infiltration) | 3.90 | 7.6 | 0.177 | 0.35 |
-| Wallachian Hospodar | Brawler (durable) | 3.10 | 35.1 | 0.148 | 1.67 |
+| [Vlad Dracula](/factions/strigoi/vlad-dracula/) | Brawler | 5.08 | 50.3 | 0.188 | 1.86 |
+| [Blood Crone](/factions/strigoi/blood-crone/) | Support (mage) / Damage Dealer (magic) | 4.94 | 11.5 | 0.274 | 0.64 |
+| [Noble Strigoi](/factions/strigoi/noble-strigoi/) | Damage Dealer (melee) / Support (Vampire) | 2.32 | 18.4 | 0.111 | 0.88 |
+| [Stryha Crone](/factions/strigoi/stryha-crone/) | Assassin (flying, infiltration) | 3.90 | 7.6 | 0.177 | 0.35 |
+| [Wallachian Hospodar](/factions/strigoi/wallachian-hospodar/) | Brawler (durable) | 3.10 | 35.1 | 0.148 | 1.67 |
 
 #### Summary of troops
 
@@ -219,85 +219,85 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Wallachian Impaler | 4.74 | 0.263 | ✓ | 12.4 | 0.69 | – |
-| Hulking Moroi | 3.59 | 0.256 | ✓ | 7.9 | 0.56 | – |
-| Highborn Servant | 2.68 | 0.206 | ✓ | 12.4 | 0.95 | ✓ |
-| Gibele | 3.78 | 0.199 | ✓ | 9.8 | 0.52 | – |
-| Moon Eater | 4.10 | 0.178 | – | 9.0 | 0.39 | – |
-| Zoryi | 3.31 | 0.174 | – | 16.8 | 0.88 | ✓ |
-| Varcolae | 2.60 | 0.153 | – | 8.8 | 0.52 | – |
-| Reaper | 1.75 | 0.135 | – | 7.6 | 0.58 | – |
-| Strige | 1.75 | 0.125 | – | 6.3 | 0.45 | – |
-| Strigoi Sluger | 2.13 | 0.118 | – | 10.3 | 0.57 | – |
+| [Wallachian Impaler](/factions/strigoi/wallachian-impaler/) | 4.74 | 0.263 | ✓ | 12.4 | 0.69 | – |
+| [Hulking Moroi](/factions/strigoi/hulking-moroi/) | 3.59 | 0.256 | ✓ | 7.9 | 0.56 | – |
+| [Highborn Servant](/factions/strigoi/highborn-servant/) | 2.68 | 0.206 | ✓ | 12.4 | 0.95 | ✓ |
+| [Gibele](/factions/strigoi/gibele/) | 3.78 | 0.199 | ✓ | 9.8 | 0.52 | – |
+| [Moon Eater](/factions/strigoi/moon-eater/) | 4.10 | 0.178 | – | 9.0 | 0.39 | – |
+| [Zoryi](/factions/strigoi/zoryi/) | 3.31 | 0.174 | – | 16.8 | 0.88 | ✓ |
+| [Varcolae](/factions/strigoi/varcolae/) | 2.60 | 0.153 | – | 8.8 | 0.52 | – |
+| [Reaper](/factions/strigoi/reaper/) | 1.75 | 0.135 | – | 7.6 | 0.58 | – |
+| [Strige](/factions/strigoi/strige/) | 1.75 | 0.125 | – | 6.3 | 0.45 | – |
+| [Strigoi Sluger](/factions/strigoi/strigoi-sluger/) | 2.13 | 0.118 | – | 10.3 | 0.57 | – |
 
 #### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Strzyga | 3.52 | 0.196 | – | 10.0 | 0.56 | – |
-| Monstrous Stryx | 5.31 | 0.133 | – | 17.0 | 0.42 | – |
-| Ceres | 1.75 | 0.092 | – | 9.8 | 0.52 | – |
+| [Strzyga](/factions/strigoi/strzyga/) | 3.52 | 0.196 | – | 10.0 | 0.56 | – |
+| [Monstrous Stryx](/factions/strigoi/monstrous-stryx/) | 5.31 | 0.133 | – | 17.0 | 0.42 | – |
+| [Ceres](/factions/strigoi/ceres/) | 1.75 | 0.092 | – | 9.8 | 0.52 | – |
 
 #### Canal Fighter  *(bars: E/Duc 0.151, ATK2K/Duc 0.8)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Sinker | 2.93 | 0.293 | ✓ | 6.7 | 0.67 | – |
-| Rotter | 3.10 | 0.258 | ✓ | 8.0 | 0.67 | – |
-| Aquatic Strigoi | 2.13 | 0.152 | ✓ | 7.6 | 0.54 | – |
-| Cetean Upiór | 3.10 | 0.148 | – | 12.5 | 0.60 | – |
+| [Sinker](/factions/strigoi/sinker/) | 2.93 | 0.293 | ✓ | 6.7 | 0.67 | – |
+| [Rotter](/factions/strigoi/rotter/) | 3.10 | 0.258 | ✓ | 8.0 | 0.67 | – |
+| [Aquatic Strigoi](/factions/strigoi/aquatic-strigoi/) | 2.13 | 0.152 | ✓ | 7.6 | 0.54 | – |
+| [Cetean Upiór](/factions/strigoi/cetean-upi-r/) | 3.10 | 0.148 | – | 12.5 | 0.60 | – |
 
 #### Tank  *(bars: E/Duc 0.154, ATK2K/Duc 1.53)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Spatar | 3.10 | 0.194 | ✓ | 22.9 | 1.43 | – |
+| [Spatar](/factions/strigoi/spatar/) | 3.10 | 0.194 | ✓ | 22.9 | 1.43 | – |
 
 #### Disruptor  *(bars: E/Duc 0.113, ATK2K/Duc 0.82)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Strigoi Priest | 1.75 | 0.125 | ✓ | 13.0 | 0.93 | ✓ |
+| [Strigoi Priest](/factions/strigoi/strigoi-priest/) | 1.75 | 0.125 | ✓ | 13.0 | 0.93 | ✓ |
 
 #### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Leech | 1.50 | 0.125 | ✓ | 5.0 | 0.42 | – |
-| Harpy | 0.62 | 0.103 | – | 4.4 | 0.73 | – |
+| [Leech](/factions/strigoi/leech/) | 1.50 | 0.125 | ✓ | 5.0 | 0.42 | – |
+| [Harpy](/factions/strigoi/harpy/) | 0.62 | 0.103 | – | 4.4 | 0.73 | – |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Tarot Reader | 4.38 | 0.274 | ✓ | 9.7 | 0.61 | – |
-| Thrall | 1.32 | 0.147 | ✓ | 8.8 | 0.98 | ✓ |
-| Nosferatu | 1.89 | 0.145 | ✓ | 8.8 | 0.68 | – |
-| Seer | 1.75 | 0.117 | ✓ | 9.7 | 0.65 | – |
-| Miriam | 1.75 | 0.092 | – | 9.8 | 0.52 | – |
+| [Tarot Reader](/factions/strigoi/tarot-reader/) | 4.38 | 0.274 | ✓ | 9.7 | 0.61 | – |
+| [Thrall](/factions/strigoi/thrall/) | 1.32 | 0.147 | ✓ | 8.8 | 0.98 | ✓ |
+| [Nosferatu](/factions/strigoi/nosferatu/) | 1.89 | 0.145 | ✓ | 8.8 | 0.68 | – |
+| [Seer](/factions/strigoi/seer/) | 1.75 | 0.117 | ✓ | 9.7 | 0.65 | – |
+| [Miriam](/factions/strigoi/miriam/) | 1.75 | 0.092 | – | 9.8 | 0.52 | – |
 
 #### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Poenari Scout | 1.13 | 0.094 | ✓ | 8.8 | 0.73 | – |
+| [Poenari Scout](/factions/strigoi/poenari-scout/) | 1.13 | 0.094 | ✓ | 8.8 | 0.73 | – |
 
 #### Line Fighter  *(bars: E/Duc 0.15, ATK2K/Duc 0.97)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Targoveti | 1.99 | 0.199 | ✓ | 12.6 | 1.26 | ✓ |
-| Common Strigoi | 2.17 | 0.167 | ✓ | 11.9 | 0.92 | – |
-| Starved Dhampir | 1.13 | 0.161 | ✓ | 5.7 | 0.81 | – |
-| Giurgiu Guard | 1.99 | 0.153 | ✓ | 23.3 | 1.79 | ✓ |
-| Romani | 1.33 | 0.148 | – | 6.7 | 0.74 | – |
-| Newborn Strigoi | 1.13 | 0.141 | – | 5.3 | 0.66 | – |
+| [Targoveti](/factions/strigoi/targoveti/) | 1.99 | 0.199 | ✓ | 12.6 | 1.26 | ✓ |
+| [Common Strigoi](/factions/strigoi/common-strigoi/) | 2.17 | 0.167 | ✓ | 11.9 | 0.92 | – |
+| [Starved Dhampir](/factions/strigoi/starved-dhampir/) | 1.13 | 0.161 | ✓ | 5.7 | 0.81 | – |
+| [Giurgiu Guard](/factions/strigoi/giurgiu-guard/) | 1.99 | 0.153 | ✓ | 23.3 | 1.79 | ✓ |
+| [Romani](/factions/strigoi/romani/) | 1.33 | 0.148 | – | 6.7 | 0.74 | – |
+| [Newborn Strigoi](/factions/strigoi/newborn-strigoi/) | 1.13 | 0.141 | – | 5.3 | 0.66 | – |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Strigoi Jude | 3.58 | 0.199 | ✓ | 10.6 | 0.59 | – |
-| Ferryman | 1.63 | 0.181 | ✓ | 9.7 | 1.08 | ✓ |
-| Al Naibii | 1.50 | 0.136 | ✓ | 7.3 | 0.66 | – |
+| [Strigoi Jude](/factions/strigoi/strigoi-jude/) | 3.58 | 0.199 | ✓ | 10.6 | 0.59 | – |
+| [Ferryman](/factions/strigoi/ferryman/) | 1.63 | 0.181 | ✓ | 9.7 | 1.08 | ✓ |
+| [Al Naibii](/factions/strigoi/al-naibii/) | 1.50 | 0.136 | ✓ | 7.3 | 0.66 | – |
 

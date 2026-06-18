@@ -7,7 +7,7 @@ faction_title: The Doctors
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Henchman · Discipline(<span class="disc-runes-sovereignty">Runes of Sovereignty</span>)</strong><span>Size 30 · 13 Ducats</span></p>
+<p class="model-meta"><strong>Henchman · Discipline(<a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>)</strong><span>Size 30 · 13 Ducats</span></p>
 
 <div class="model-stats">
 

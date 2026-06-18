@@ -38,10 +38,10 @@ Replaces the entire roll — not a bonus, complete control. Use to deny the oppo
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| Fate (Hero) | Mage(2) + Expert Sorcerer(2) | Runes of Sovereignty, Blood Rites, Fateweaving | |
-| Maria Fioritura (Hero) | Mage(2) + Expert Sorcerer(1) | Runes of Sovereignty, Fateweaving, Wild Magic | Unique summoning spell |
-| Fadhila (Hero) | Mage(2) + Expert Sorcerer(1) | Divinity, Fateweaving | Protective Bubble non-spell ability |
-| Francisco De Lorme (Hero) | Mage(1) + Expert Sorcerer(1) | Blood Rites, Wild Magic | WP-sharing Mask mechanic |
+| [Fate (Hero)](/factions/gifted/fate/) | Mage(2) + Expert Sorcerer(2) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | |
+| [Maria Fioritura (Hero)](/factions/gifted/maria-fioritura/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Unique summoning spell |
+| [Fadhila (Hero)](/factions/gifted/fadhila/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Protective Bubble non-spell ability |
+| [Francisco De Lorme (Hero)](/factions/gifted/francisco-de-lorme/) | Mage(1) + Expert Sorcerer(1) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | WP-sharing Mask mechanic |
 
 ## Roster
 
@@ -157,9 +157,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
-| Il Capitano | Damage Dealer (melee) / Support | 4.29 | 8.7 | 0.226 | 0.46 |
-| La Signora | Support (re-roll engine) | 1.50 | 17.7 | 0.083 | 0.98 |
-| The Duke | Assassin (infiltration) / Damage Dealer | 4.14 | 18.4 | 0.188 | 0.84 |
+| [Il Capitano](/factions/gifted/il-capitano/) | Damage Dealer (melee) / Support | 4.29 | 8.7 | 0.226 | 0.46 |
+| [La Signora](/factions/gifted/la-signora/) | Support (re-roll engine) | 1.50 | 17.7 | 0.083 | 0.98 |
+| [The Duke](/factions/gifted/the-duke/) | Assassin (infiltration) / Damage Dealer | 4.14 | 18.4 | 0.188 | 0.84 |
 
 #### Summary of troops
 
@@ -180,70 +180,70 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Zovena Vela | 3.99 | 0.266 | ✓ | 10.9 | 0.73 | ✓ |
-| Justice | 3.90 | 0.217 | ✓ | 12.4 | 0.69 | – |
-| Fate | 3.80 | 0.211 | ✓ | 12.4 | 0.69 | – |
-| Innamorati | 2.68 | 0.206 | ✓ | 9.7 | 0.75 | ✓ |
-| Mezzetino | 1.99 | 0.181 | – | 11.3 | 1.03 | ✓ |
-| Burattino | 2.32 | 0.155 | – | 5.3 | 0.35 | – |
-| Brighella | 1.80 | 0.139 | – | 7.3 | 0.56 | – |
-| The Aberration | 2.90 | 0.126 | – | 19.4 | 0.84 | ✓ |
-| The Demolitionist | 1.58 | 0.121 | – | 9.7 | 0.75 | ✓ |
-| Black Spectre | 3.08 | 0.103 | – | 20.0 | 0.67 | – |
-| White Dove | 1.34 | 0.064 | – | 15.2 | 0.72 | – |
+| [Zovena Vela](/factions/gifted/zovena-vela/) | 3.99 | 0.266 | ✓ | 10.9 | 0.73 | ✓ |
+| [Justice](/factions/gifted/justice/) | 3.90 | 0.217 | ✓ | 12.4 | 0.69 | – |
+| [Fate](/factions/gifted/fate/) | 3.80 | 0.211 | ✓ | 12.4 | 0.69 | – |
+| [Innamorati](/factions/gifted/innamorati/) | 2.68 | 0.206 | ✓ | 9.7 | 0.75 | ✓ |
+| [Mezzetino](/factions/gifted/mezzetino/) | 1.99 | 0.181 | – | 11.3 | 1.03 | ✓ |
+| [Burattino](/factions/gifted/burattino/) | 2.32 | 0.155 | – | 5.3 | 0.35 | – |
+| [Brighella](/factions/gifted/brighella/) | 1.80 | 0.139 | – | 7.3 | 0.56 | – |
+| [The Aberration](/factions/gifted/the-aberration/) | 2.90 | 0.126 | – | 19.4 | 0.84 | ✓ |
+| [The Demolitionist](/factions/gifted/the-demolitionist/) | 1.58 | 0.121 | – | 9.7 | 0.75 | ✓ |
+| [Black Spectre](/factions/gifted/black-spectre/) | 3.08 | 0.103 | – | 20.0 | 0.67 | – |
+| [White Dove](/factions/gifted/white-dove/) | 1.34 | 0.064 | – | 15.2 | 0.72 | – |
 
 #### Brawler  *(bars: E/Duc 0.196, ATK2K/Duc 1.32)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Starspawn | 2.68 | 0.179 | – | 19.8 | 1.32 | ✓ |
+| [Starspawn](/factions/gifted/starspawn/) | 2.68 | 0.179 | – | 19.8 | 1.32 | ✓ |
 
 #### Assassin  *(bars: E/Duc 0.198, ATK2K/Duc 0.59)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Senshi the Undying | 3.99 | 0.200 | ✓ | 16.6 | 0.83 | ✓ |
+| [Senshi the Undying](/factions/gifted/senshi-the-undying/) | 3.99 | 0.200 | ✓ | 16.6 | 0.83 | ✓ |
 
 #### Control  *(bars: E/Duc 0.111, ATK2K/Duc 0.67)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Escaped Madman | 2.29 | 0.143 | ✓ | 9.3 | 0.58 | – |
-| Il Dottore | 1.13 | 0.094 | – | 8.0 | 0.67 | – |
+| [Escaped Madman](/factions/gifted/escaped-madman/) | 2.29 | 0.143 | ✓ | 9.3 | 0.58 | – |
+| [Il Dottore](/factions/gifted/il-dottore/) | 1.13 | 0.094 | – | 8.0 | 0.67 | – |
 
 #### Harasser  *(bars: E/Duc 0.121, ATK2K/Duc 0.76)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Harlequin | 2.68 | 0.149 | ✓ | 15.0 | 0.83 | ✓ |
+| [Harlequin](/factions/gifted/harlequin/) | 2.68 | 0.149 | ✓ | 15.0 | 0.83 | ✓ |
 
 #### Support  *(bars: E/Duc 0.111, ATK2K/Duc 0.75)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Maria Fioritura | 3.73 | 0.207 | ✓ | 10.6 | 0.59 | – |
-| Colombina | 1.13 | 0.113 | ✓ | 7.3 | 0.73 | – |
-| Fadhila | 0.87 | 0.046 | – | 17.0 | 0.89 | ✓ |
+| [Maria Fioritura](/factions/gifted/maria-fioritura/) | 3.73 | 0.207 | ✓ | 10.6 | 0.59 | – |
+| [Colombina](/factions/gifted/colombina/) | 1.13 | 0.113 | ✓ | 7.3 | 0.73 | – |
+| [Fadhila](/factions/gifted/fadhila/) | 0.87 | 0.046 | – | 17.0 | 0.89 | ✓ |
 
 #### Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Coviello | 1.13 | 0.103 | ✓ | 6.7 | 0.61 | – |
-| Scapino | 0.44 | 0.044 | – | 8.1 | 0.81 | ✓ |
-| Pantaleone | 0.04 | 0.004 | – | 6.7 | 0.67 | – |
+| [Coviello](/factions/gifted/coviello/) | 1.13 | 0.103 | ✓ | 6.7 | 0.61 | – |
+| [Scapino](/factions/gifted/scapino/) | 0.44 | 0.044 | – | 8.1 | 0.81 | ✓ |
+| [Pantaleone](/factions/gifted/pantaleone/) | 0.04 | 0.004 | – | 6.7 | 0.67 | – |
 
 #### Specialist  *(bars: E/Duc 0.123, ATK2K/Duc 0.69)*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| Francisco De Lorme | 2.69 | 0.168 | ✓ | 8.1 | 0.51 | – |
-| The Mask Maker | 1.75 | 0.125 | ✓ | 12.6 | 0.90 | ✓ |
-| Pierrot | 0.87 | 0.109 | – | 5.3 | 0.66 | – |
-| Master Gerhard | 1.70 | 0.106 | – | 13.7 | 0.86 | ✓ |
-| Il Mentore | 1.63 | 0.102 | – | 10.6 | 0.66 | – |
-| Artisan Elena | 1.50 | 0.088 | – | 10.6 | 0.62 | – |
-| Harbinger's Reflection | 1.47 | 0.086 | – | 7.3 | 0.43 | – |
-| Marco Leontus | 1.23 | 0.082 | – | 10.6 | 0.71 | ✓ |
-| Solus Hydraea | 1.13 | 0.067 | – | 9.7 | 0.57 | – |
+| [Francisco De Lorme](/factions/gifted/francisco-de-lorme/) | 2.69 | 0.168 | ✓ | 8.1 | 0.51 | – |
+| [The Mask Maker](/factions/gifted/the-mask-maker/) | 1.75 | 0.125 | ✓ | 12.6 | 0.90 | ✓ |
+| [Pierrot](/factions/gifted/pierrot/) | 0.87 | 0.109 | – | 5.3 | 0.66 | – |
+| [Master Gerhard](/factions/gifted/master-gerhard/) | 1.70 | 0.106 | – | 13.7 | 0.86 | ✓ |
+| [Il Mentore](/factions/gifted/il-mentore/) | 1.63 | 0.102 | – | 10.6 | 0.66 | – |
+| [Artisan Elena](/factions/gifted/artisan-elena/) | 1.50 | 0.088 | – | 10.6 | 0.62 | – |
+| [Harbinger's Reflection](/factions/gifted/harbinger-s-reflection/) | 1.47 | 0.086 | – | 7.3 | 0.43 | – |
+| [Marco Leontus](/factions/gifted/marco-leontus/) | 1.23 | 0.082 | – | 10.6 | 0.71 | ✓ |
+| [Solus Hydraea](/factions/gifted/solus-hydraea/) | 1.13 | 0.067 | – | 9.7 | 0.57 | – |
 

@@ -7,7 +7,7 @@ faction_title: Patricians
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Hero · Councillor · Discipline(<span class="disc-wild-magic">Wild Magic</span>)</strong><span>Size 30 · 16 Ducats</span></p>
+<p class="model-meta"><strong>Hero · Councillor · Discipline(<a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 16 Ducats</span></p>
 
 <div class="model-stats">
 

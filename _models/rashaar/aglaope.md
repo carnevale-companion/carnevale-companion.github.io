@@ -7,7 +7,7 @@ faction_title: Rashaar
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Henchman · Monster · Discipline(<span class="disc-fateweaving">Fateweaving</span>, <span class="disc-wild-magic">Wild Magic</span>)</strong><span>Size 30 · 12 Ducats</span></p>
+<p class="model-meta"><strong>Henchman · Monster · Discipline(<a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 12 Ducats</span></p>
 
 <div class="model-stats">
 

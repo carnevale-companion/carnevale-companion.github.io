@@ -7,7 +7,7 @@ faction_title: The Guild
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Hero · Unique · Discipline(<span class="disc-blood-rites">Blood Rites</span>, <span class="disc-wild-magic">Wild Magic</span>)</strong><span>Size 40 · 19 Ducats</span></p>
+<p class="model-meta"><strong>Hero · Unique · Discipline(<a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 40 · 19 Ducats</span></p>
 
 <div class="model-stats">
 

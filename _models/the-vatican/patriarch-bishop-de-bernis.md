@@ -8,7 +8,7 @@ faction_title: The Vatican
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Leader · Unique · Discipline(<span class="disc-divinity">Divinity</span>, <span class="disc-fateweaving">Fateweaving</span>, <span class="disc-wild-magic">Wild Magic</span>)</strong><span>Size 30 · 24 Ducats</span></p>
+<p class="model-meta"><strong>Leader · Unique · Discipline(<a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a>)</strong><span>Size 30 · 24 Ducats</span></p>
 
 <div class="model-stats">
 

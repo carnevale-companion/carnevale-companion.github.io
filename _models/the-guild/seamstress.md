@@ -7,7 +7,7 @@ faction_title: The Guild
 nav_section: Factions
 ---
 
-<p class="model-meta"><strong>Hero · House of Virtue · Discipline(<span class="disc-divinity">Divinity</span>, <span class="disc-fateweaving">Fateweaving</span>)</strong><span>Size 30 · 14 Ducats</span></p>
+<p class="model-meta"><strong>Hero · House of Virtue · Discipline(<a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>)</strong><span>Size 30 · 14 Ducats</span></p>
 
 <div class="model-stats">
 
