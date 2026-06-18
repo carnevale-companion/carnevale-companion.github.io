@@ -104,7 +104,7 @@ Dealer quality is shown both raw and **per-Ducat (value)**; the value column is 
 
 | Faction | DD EDPA (raw) | DD EDPA/Duc (value) | above value bar | snipers | median ATK2K | tanks | top offense |
 |---|---|---|---|---|---|---|---|
-| The Guild | 3.4 (+15%) | 0.23 (+21%) | 9/12 | 1 | 9.7 | 0 | Baba-Yaga 5.46 |
+| The Guild | 3.4 (+15%) | 0.23 (+21%) | 9/12 | 1 | 9.7 | 0 | Ostrich Chariot?! 5.96 |
 | The Vatican | 3.29 (+12%) | 0.22 (+18%) | 6/7 | 2 | 11.5 | 1 | Venator of Devotion 4.7 |
 | Rashaar | 2.96 (+0%) | 0.22 (+14%) | 3/4 | 0 | 9.7 | 2 | Morgraur 5.06 |
 | The Doctors | 2.77 (-6%) | 0.19 (+0%) | 6/13 | 0 | 9.8 | 2 | Doctor of the Firmament 4.71 |

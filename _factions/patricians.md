@@ -3,6 +3,17 @@ layout: doc
 title: Patricians
 description: Patricians faction presentation and analysis
 nav_section: Factions
+toc:
+  - title: Faction Overview
+    anchor: faction-overview
+  - title: Faction Command
+    anchor: faction-command
+  - title: Magic Access
+    anchor: magic-access
+  - title: Roster
+    anchor: roster
+  - title: Roster value
+    anchor: roster-value
 ---
 
 ## Faction Overview
@@ -31,15 +42,17 @@ The Patricians have the weakest magic in the game. Adventuring Noble's Arcane To
 
 ## Roster
 
+See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
+
 <div class="table-fixed">
 
-| Line Fighter | Damage Dealer | Assassin | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|
-| 7 | 9 | 2 | 3 | 0 | 1 |
+| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
+|---|---|---|---|---|---|---|
+| 7 | 9 | 2 | 3 | 3 | 0 | 1 |
 
-| Sniper | Support | Harasser | Disruptor | Objective Runner | Specialist |
+| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
 |---|---|---|---|---|---|
-| 3 | 6 | 2 | 0 | 1 | 2 |
+| 6 | 2 | 0 | 0 | 1 | 2 |
 
 </div>
 
@@ -75,45 +88,91 @@ Cheapest leader; only 2 AP and low command, but a WP battery that can move Soldi
 
 ### Heroes
 
-- [Don Gregorio Morisini](don-gregorio-morisini) is an Artifact objective specialist. Its niche is to carry an Artifact for scenario value. Also steals WP/objectives on disengage; slips out of melee freely.
+**Mages**
+
 - [Moon](moon) is a spellcasting assassin that doubles as a support piece, bringing damage & life-drain, stat buffs & dice manipulation. It's Mindless (can't score primaries). Also flies over terrain.
-- [Sun](sun) is a ranged armour-piercing assassin. It's cost-efficient, but Mindless (can't score primaries).
 - [Adventuring Noble](adventuring-noble) is an Arcane Totem specialist. Its niche is to drop an Arcane Totem zone. Also extra Penetration vs bigger bases.
-- [Captain of the Guard](captain-of-the-guard) is a support piece that doubles as a damage dealer.
-- [Cat Burglar](cat-burglar) is a harasser. Also steals WP/objectives on disengage; deploys forward.
-- [Fencing Master](fencing-master) is a melee armour-piercing damage dealer. It's tough for its role. Also pins fleeing enemies.
-- [Foreign Dignitary](foreign-dignitary) is a support piece that doubles as a damage dealer.
-- [Gourmand Noble](gourmand-noble) is a support piece. It's Mindless (can't score primaries). Also pins fleeing enemies; rattles low-Mind foes.
-- [Naval Lieutenant](naval-lieutenant) is a mid-range sniper. It's high-output and cost-efficient. Also fast through water; crews boats for WP.
-- [Janissary Sapper](janissary-sapper) is a mid-range area-effect damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's tough for its role, but one shot per turn (Reload).
-- [Ottoman Cannoneer](ottoman-cannoneer) is an area-effect armour-piercing damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload).
-- [Ottoman Janissary](ottoman-janissary) is a brawler.
-- [Seven Years Veteran](seven-years-veteran) is a damage dealer.
+
+**Damage Dealer**
+
 - [Submissive Noble](submissive-noble) is a melee damage dealer. It brings a Frenzy burst (+53%).
+- [Janissary Sapper](janissary-sapper) is a mid-range area-effect damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's tough for its role, but one shot per turn (Reload).
+- [Fencing Master](fencing-master) is a melee armour-piercing damage dealer. It's tough for its role. Also pins fleeing enemies.
+- [Seven Years Veteran](seven-years-veteran) is a damage dealer.
+- [Ottoman Cannoneer](ottoman-cannoneer) is an area-effect armour-piercing damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload).
 - [Syphilitic Noble](syphilitic-noble) is a melee damage dealer. It's Mindless (can't score primaries). Also pins fleeing enemies.
+
+**Brawler**
+
+- [Ottoman Janissary](ottoman-janissary) is a brawler.
 - [Venetian Heavy Guard](venetian-heavy-guard) is a brawler. It's tough for its role.
+
+**Assassin**
+
+- [Sun](sun) is a ranged armour-piercing assassin. It's cost-efficient, but Mindless (can't score primaries).
+
+**Sniper**
+
 - [Venetian Spy](venetian-spy) is a long-range sniper. Also deploys forward.
+- [Naval Lieutenant](naval-lieutenant) is a mid-range sniper. It's high-output and cost-efficient. Also fast through water; crews boats for WP.
+
+**Harasser**
+
+- [Cat Burglar](cat-burglar) is a harasser. Also steals WP/objectives on disengage; deploys forward.
+
+**Support**
+
+- [Foreign Dignitary](foreign-dignitary) is a support piece that doubles as a damage dealer.
+- [Captain of the Guard](captain-of-the-guard) is a support piece that doubles as a damage dealer.
+- [Gourmand Noble](gourmand-noble) is a support piece. It's Mindless (can't score primaries). Also pins fleeing enemies; rattles low-Mind foes.
 - [Wayfinder](wayfinder) is a support piece.
+
+**Specialist**
+
+- [Don Gregorio Morisini](don-gregorio-morisini) is an Artifact objective specialist. Its niche is to carry an Artifact for scenario value. Also steals WP/objectives on disengage; slips out of melee freely.
 
 ### Henchmen
 
-- [Barnabotti](barnabotti) is a line fighter. It's high-output.
-- [Butler](butler) is a mid-range damage dealer. It's low on damage.
-- [Cannibal Cultist](cannibal-cultist) is a line fighter. It's Mindless (can't score primaries).
-- [Cortigiane](cortigiane) is a support line fighter. It's tough for its role, but pricey for its output.
-- [City Guard](city-guard) is a line fighter. It's high-output and tough for its role.
-- [Guard Marksman](guard-marksman) is a long-range sniper.
-- [Guard Sentry](guard-sentry) is a support piece.
-- [Hired Muscle](hired-muscle) is a brawler. Also a strong grappler/drowner.
-- [Household Staff](household-staff) is a line fighter. It's pricey for its output.
-- [Hunting Hound](hunting-hound) is a harasser. It's Mindless (can't score primaries). Also pins fleeing enemies.
-- [Merchant](merchant) is a support piece.
-- [Naval Ensign](naval-ensign) is a canal fighter. Also extra Penetration vs bigger bases; fast through water.
-- [Naval Recruit](naval-recruit) is a line fighter. Also fast through water.
+**Damage Dealer**
+
 - [Noble Seafarer](noble-seafarer) is a mid-range damage dealer. It's one shot per turn (Reload). Also fast through water; crews boats for WP.
 - [Ottoman Archer](ottoman-archer) is a mid-range damage dealer. It's low on damage and pricey for its output. Also crews boats for WP.
-- [Ottoman Pirate](ottoman-pirate) is a line fighter. It's high-output. Also crews boats for WP.
+- [Butler](butler) is a mid-range damage dealer. It's low on damage.
+
+**Brawler**
+
+- [Hired Muscle](hired-muscle) is a brawler. Also a strong grappler/drowner.
+
+**Sniper**
+
+- [Guard Marksman](guard-marksman) is a long-range sniper.
+
+**Canal Fighter**
+
+- [Naval Ensign](naval-ensign) is a canal fighter. Also extra Penetration vs bigger bases; fast through water.
+
+**Harasser**
+
+- [Hunting Hound](hunting-hound) is a harasser. It's Mindless (can't score primaries). Also pins fleeing enemies.
+
+**Support**
+
+- [Merchant](merchant) is a support piece.
+- [Guard Sentry](guard-sentry) is a support piece.
+
+**Objective Runner**
+
 - [Ottoman Rigger](ottoman-rigger) is an objective runner. Also crews boats for WP.
+
+**Line Fighter**
+
+- [Cortigiane](cortigiane) is a support line fighter. It's tough for its role, but pricey for its output.
+- [Barnabotti](barnabotti) is a line fighter. It's high-output.
+- [Ottoman Pirate](ottoman-pirate) is a line fighter. It's high-output. Also crews boats for WP.
+- [City Guard](city-guard) is a line fighter. It's high-output and tough for its role.
+- [Naval Recruit](naval-recruit) is a line fighter. Also fast through water.
+- [Household Staff](household-staff) is a line fighter. It's pricey for its output.
+- [Cannibal Cultist](cannibal-cultist) is a line fighter. It's Mindless (can't score primaries).
 
 ## Roster value
 

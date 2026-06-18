@@ -3,6 +3,17 @@ layout: doc
 title: Strigoi
 description: Strigoi faction presentation and analysis
 nav_section: Factions
+toc:
+  - title: Faction Overview
+    anchor: faction-overview
+  - title: Faction Command
+    anchor: faction-command
+  - title: Magic Access
+    anchor: magic-access
+  - title: Roster
+    anchor: roster
+  - title: Roster value
+    anchor: roster-value
 ---
 
 ## Faction Overview
@@ -35,15 +46,17 @@ Blood Crone is the primary caster: Mage(3) across three disciplines with a cantr
 
 ## Roster
 
+See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
+
 <div class="table-fixed">
 
-| Line Fighter | Damage Dealer | Assassin | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|
-| 6 | 10 | 3 | 0 | 1 | 4 |
+| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
+|---|---|---|---|---|---|---|
+| 6 | 10 | 3 | 0 | 0 | 1 | 4 |
 
-| Sniper | Support | Harasser | Disruptor | Objective Runner | Specialist |
+| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
 |---|---|---|---|---|---|
-| 0 | 5 | 2 | 1 | 1 | 3 |
+| 5 | 2 | 0 | 1 | 1 | 3 |
 
 </div>
 
@@ -71,45 +84,88 @@ Tanky fighter; small incentive to play Soldiers.
 
 ### Heroes
 
-- [Ceres](ceres) is a melee infiltrating assassin. It's low on damage and pricey for its output. Also slips out of melee freely.
+**Mages**
+
 - [Gibele](gibele) is a spellcasting damage dealer. It brings a Frenzy burst (+76%).
-- [Miriam](miriam) is a Bride support piece.
-- [Monstrous Stryx](monstrous-stryx) is a melee flying assassin. It's high-output and tough for its role, with a Frenzy burst (+26%), but pricey for its output and Mindless (can't score primaries). Also slips out of melee freely; area attack — multi-target upside not counted.
-- [Aquatic Strigoi](aquatic-strigoi) is a canal fighter. It brings a Frenzy burst (+65%).
-- [Cetean Upiór](cetean-upi-r) is a canal fighter. It brings a Frenzy burst (+38%). Also a strong grappler/drowner; fast through water.
-- [Highborn Servant](highborn-servant) is a melee/ranged damage dealer.
-- [Hulking Moroi](hulking-moroi) is a melee damage dealer. It's cost-efficient, with a Frenzy burst (+40%), but Mindless (can't score primaries).
-- [Leech](leech) is an aquatic harasser. It's self-stun-prone (Primitive).
-- [Moon Eater](moon-eater) is a melee damage dealer. It's high-output, but Mindless (can't score primaries). Also rattles low-Mind foes.
-- [Reaper](reaper) is a melee damage dealer. It's low on damage and Mindless (can't score primaries).
-- [Seer](seer) is a spellcasting support piece, bringing stat buffs & dice manipulation. Also slips out of melee freely.
-- [Spatar](spatar) is a tank. It's extremely durable and hits back hard.
-- [Strige](strige) is a melee damage dealer. It's low on damage, fragile for its role and pricey for its output. Also extra Penetration vs bigger bases; flies over terrain.
 - [Strigoi Jude](strigoi-jude) is a target-locking anti-mage specialist that doubles as a spellcasting damage dealer. Its niche is to hunt and tax enemy Mages — dead weight vs magic-free gangs.
-- [Strigoi Priest](strigoi-priest) is a WP lockout melee anti-mage disruptor.
-- [Strigoi Sluger](strigoi-sluger) is a melee grappling damage dealer. It's pricey for its output.
-- [Strzyga](strzyga) is a melee armour-piercing assassin. It brings a Frenzy burst (+48%). Also flies over terrain.
 - [Tarot Reader](tarot-reader) is a spellcasting support piece that doubles as a Summon Vermin damage dealer, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.
-- [Varcolae](varcolae) is a melee damage dealer. It's Mindless (can't score primaries).
-- [Wallachian Impaler](wallachian-impaler) is a melee damage dealer. It's high-output and cost-efficient, with a Frenzy burst (+36%). Also rattles low-Mind foes.
+- [Seer](seer) is a spellcasting support piece, bringing stat buffs & dice manipulation. Also slips out of melee freely.
+
+**Damage Dealer**
+
+- [Moon Eater](moon-eater) is a melee damage dealer. It's high-output, but Mindless (can't score primaries). Also rattles low-Mind foes.
 - [Zoryi](zoryi) is a melee damage dealer. It's tough for its role, with a Frenzy burst (+48%), but coverless (no cover). Also rattles low-Mind foes.
+- [Wallachian Impaler](wallachian-impaler) is a melee damage dealer. It's high-output and cost-efficient, with a Frenzy burst (+36%). Also rattles low-Mind foes.
+- [Strigoi Sluger](strigoi-sluger) is a melee grappling damage dealer. It's pricey for its output.
+- [Varcolae](varcolae) is a melee damage dealer. It's Mindless (can't score primaries).
+- [Strige](strige) is a melee damage dealer. It's low on damage, fragile for its role and pricey for its output. Also extra Penetration vs bigger bases; flies over terrain.
+- [Hulking Moroi](hulking-moroi) is a melee damage dealer. It's cost-efficient, with a Frenzy burst (+40%), but Mindless (can't score primaries).
+- [Reaper](reaper) is a melee damage dealer. It's low on damage and Mindless (can't score primaries).
+- [Highborn Servant](highborn-servant) is a melee/ranged damage dealer.
+
+**Assassin**
+
+- [Monstrous Stryx](monstrous-stryx) is a melee flying assassin. It's high-output and tough for its role, with a Frenzy burst (+26%), but pricey for its output and Mindless (can't score primaries). Also slips out of melee freely; area attack — multi-target upside not counted.
+- [Ceres](ceres) is a melee infiltrating assassin. It's low on damage and pricey for its output. Also slips out of melee freely.
+- [Strzyga](strzyga) is a melee armour-piercing assassin. It brings a Frenzy burst (+48%). Also flies over terrain.
+
+**Canal Fighter**
+
+- [Cetean Upiór](cetean-upi-r) is a canal fighter. It brings a Frenzy burst (+38%). Also a strong grappler/drowner; fast through water.
+- [Aquatic Strigoi](aquatic-strigoi) is a canal fighter. It brings a Frenzy burst (+65%).
+
+**Tank**
+
+- [Spatar](spatar) is a tank. It's extremely durable and hits back hard.
+
+**Disruptor**
+
+- [Strigoi Priest](strigoi-priest) is a WP lockout melee anti-mage disruptor.
+
+**Harasser**
+
+- [Leech](leech) is an aquatic harasser. It's self-stun-prone (Primitive).
+
+**Support**
+
+- [Miriam](miriam) is a Bride support piece.
 
 ### Henchmen
 
-- [Al Naibii](al-naibii) is a scaling versatile specialist. Its niche is to grow stronger as the game goes on.
-- [Common Strigoi](common-strigoi) is a line fighter. It's high-output, with a Frenzy burst (+68%).
-- [Ferryman](ferryman) is a Gondola water transport specialist. Its niche is to ferry the gang by boat. Also rattles low-Mind foes.
-- [Giurgiu Guard](giurgiu-guard) is a line fighter. It's high-output and tough for its role, with a Frenzy burst (+70%).
-- [Harpy](harpy) is a harasser. It's Mindless (can't score primaries). Also flies over terrain.
-- [Newborn Strigoi](newborn-strigoi) is a line fighter. It's fragile for its role and Mindless (can't score primaries).
-- [Nosferatu](nosferatu) is a repositioning support piece.
+**Mages**
+
 - [Romani](romani) is a line fighter that doubles as a spellcasting cantrip support piece, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.
+
+**Canal Fighter**
+
 - [Rotter](rotter) is a canal fighter. It's cost-efficient, with a Frenzy burst (+46%). Also fast through water; at home in water.
 - [Sinker](sinker) is a canal fighter. It's cost-efficient, with a Frenzy burst (+49%), but fragile for its role and slow. Also at home in water.
-- [Starved Dhampir](starved-dhampir) is a line fighter. It's fragile for its role.
-- [Poenari Scout](poenari-scout) is an objective runner that doubles as a mid-range damage dealer. Also deploys forward.
-- [Targoveti](targoveti) is a line fighter. It's high-output.
+
+**Harasser**
+
+- [Harpy](harpy) is a harasser. It's Mindless (can't score primaries). Also flies over terrain.
+
+**Support**
+
+- [Nosferatu](nosferatu) is a repositioning support piece.
 - [Thrall](thrall) is a Vampire AP battery support piece.
+
+**Objective Runner**
+
+- [Poenari Scout](poenari-scout) is an objective runner that doubles as a mid-range damage dealer. Also deploys forward.
+
+**Line Fighter**
+
+- [Giurgiu Guard](giurgiu-guard) is a line fighter. It's high-output and tough for its role, with a Frenzy burst (+70%).
+- [Common Strigoi](common-strigoi) is a line fighter. It's high-output, with a Frenzy burst (+68%).
+- [Targoveti](targoveti) is a line fighter. It's high-output.
+- [Newborn Strigoi](newborn-strigoi) is a line fighter. It's fragile for its role and Mindless (can't score primaries).
+- [Starved Dhampir](starved-dhampir) is a line fighter. It's fragile for its role.
+
+**Specialist**
+
+- [Al Naibii](al-naibii) is a scaling versatile specialist. Its niche is to grow stronger as the game goes on.
+- [Ferryman](ferryman) is a Gondola water transport specialist. Its niche is to ferry the gang by boat. Also rattles low-Mind foes.
 
 ## Roster value
 

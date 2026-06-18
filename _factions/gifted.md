@@ -3,6 +3,17 @@ layout: doc
 title: Gifted
 description: Gifted faction presentation and analysis
 nav_section: Factions
+toc:
+  - title: Faction Overview
+    anchor: faction-overview
+  - title: Faction Command
+    anchor: faction-command
+  - title: Magic Access
+    anchor: magic-access
+  - title: Roster
+    anchor: roster
+  - title: Roster value
+    anchor: roster-value
 ---
 
 ## Faction Overview
@@ -33,15 +44,17 @@ Replaces the entire roll — not a bonus, complete control. Use to deny the oppo
 
 ## Roster
 
+See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
+
 <div class="table-fixed">
 
-| Line Fighter | Damage Dealer | Assassin | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|
-| 0 | 11 | 1 | 1 | 0 | 0 |
+| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
+|---|---|---|---|---|---|---|
+| 0 | 11 | 1 | 0 | 1 | 0 | 0 |
 
-| Sniper | Support | Harasser | Disruptor | Objective Runner | Specialist |
+| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
 |---|---|---|---|---|---|
-| 0 | 3 | 1 | 0 | 3 | 9 |
+| 3 | 1 | 2 | 0 | 3 | 9 |
 
 </div>
 
@@ -61,39 +74,70 @@ High-mobility assassin.
 
 ### Heroes
 
-- [The Aberration](the-aberration) is a melee damage dealer. It's tough for its role, but pricey for its output and Mindless (can't score primaries).
-- [Artisan Elena](artisan-elena) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
-- [Black Spectre](black-spectre) is a melee damage dealer. It's tough for its role, but pricey for its output and Mindless (can't score primaries). Also flies over terrain; rattles low-Mind foes.
-- [Burattino](burattino) is a melee damage dealer. It's fragile for its role and Mindless (can't score primaries). Also extra Penetration vs bigger bases; pins fleeing enemies.
+**Mages**
+
 - [Fadhila](fadhila) is a spellcasting support piece, bringing healing & shielding, stat buffs & dice manipulation.
+- [Maria Fioritura](maria-fioritura) is a spellcasting invocation support piece that doubles as a Summon Vermin damage dealer, flexible across disciplines (its spell pick sets the role).
 - [Fate](fate) is a spellcasting damage dealer that doubles as a WP drain disruptor.
 - [Francisco De Lorme](francisco-de-lorme) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
-- [Harbinger's Reflection](harbinger-s-reflection) is a WP regeneration Agenda specialist. Its niche is to act as a Will Point engine for the gang. Also Mindless (can't score primaries).
-- [Harlequin](harlequin) is a harasser. Also slips out of melee freely.
-- [Il Mentore](il-mentore) is a Mask giver objective specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile. Also steals WP/objectives on disengage; slips out of melee freely.
-- [Innamorati](innamorati) is a melee/mid-range damage dealer.
-- [Justice](justice) is a melee armour-piercing damage dealer. It's high-output.
-- [Marco Leontus](marco-leontus) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
-- [Maria Fioritura](maria-fioritura) is a spellcasting invocation support piece that doubles as a Summon Vermin damage dealer, flexible across disciplines (its spell pick sets the role).
-- [Master Gerhard](master-gerhard) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
-- [Senshi the Undying](senshi-the-undying) is a melee assassin. It's tough for its role.
-- [Solus Hydraea](solus-hydraea) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile. Also at home in water; rattles low-Mind foes.
-- [The Mask Maker](the-mask-maker) is an adaptive specialist. Its niche is to adapt or copy into whatever role the gang needs.
+
+**Damage Dealer**
+
+- [Black Spectre](black-spectre) is a melee damage dealer. It's tough for its role, but pricey for its output and Mindless (can't score primaries). Also flies over terrain; rattles low-Mind foes.
+- [The Aberration](the-aberration) is a melee damage dealer. It's tough for its role, but pricey for its output and Mindless (can't score primaries).
 - [White Dove](white-dove) is a mid-range damage dealer. It's tough for its role, but low on damage and pricey for its output. Also flies over terrain.
+- [Justice](justice) is a melee armour-piercing damage dealer. It's high-output.
 - [Zovena Vela](zovena-vela) is a mid-range area-effect armour-piercing damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload). Also steals WP/objectives on disengage; slips out of melee freely.
+- [Burattino](burattino) is a melee damage dealer. It's fragile for its role and Mindless (can't score primaries). Also extra Penetration vs bigger bases; pins fleeing enemies.
+- [Innamorati](innamorati) is a melee/mid-range damage dealer.
+
+**Assassin**
+
+- [Senshi the Undying](senshi-the-undying) is a melee assassin. It's tough for its role.
+
+**Harasser**
+
+- [Harlequin](harlequin) is a harasser. Also slips out of melee freely.
+
+**Specialist**
+
+- [Solus Hydraea](solus-hydraea) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile. Also at home in water; rattles low-Mind foes.
+- [Harbinger's Reflection](harbinger-s-reflection) is a WP regeneration Agenda specialist. Its niche is to act as a Will Point engine for the gang. Also Mindless (can't score primaries).
+- [Artisan Elena](artisan-elena) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
+- [Master Gerhard](master-gerhard) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
+- [Il Mentore](il-mentore) is a Mask giver objective specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile. Also steals WP/objectives on disengage; slips out of melee freely.
+- [Marco Leontus](marco-leontus) is a Mask giver specialist. Its niche is to hand a Mask to a friendly hero, unlocking its masked profile.
+- [The Mask Maker](the-mask-maker) is an adaptive specialist. Its niche is to adapt or copy into whatever role the gang needs.
 
 ### Henchmen
 
-- [Brighella](brighella) is a long-range damage dealer.
-- [Colombina](colombina) is a support piece.
-- [Coviello](coviello) is an objective runner.
+**Damage Dealer**
+
 - [The Demolitionist](the-demolitionist) is a mid-range area-effect damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's Mindless (can't score primaries) and one shot per turn (Reload).
+- [Brighella](brighella) is a long-range damage dealer.
+- [Mezzetino](mezzetino) is a melee damage dealer.
+
+**Brawler**
+
+- [Starspawn](starspawn) is a brawler. It's Mindless (can't score primaries).
+
+**Control**
+
 - [Escaped Madman](escaped-madman) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also Mindless (can't score primaries); a strong grappler/drowner.
 - [Il Dottore](il-dottore) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also pins fleeing enemies.
-- [Mezzetino](mezzetino) is a melee damage dealer.
-- [Pantaleone](pantaleone) is an objective runner. Also steals WP/objectives on disengage; area attack — multi-target upside not counted.
+
+**Support**
+
+- [Colombina](colombina) is a support piece.
+
+**Objective Runner**
+
+- [Coviello](coviello) is an objective runner.
 - [Scapino](scapino) is an objective runner. Also slips out of melee freely.
-- [Starspawn](starspawn) is a brawler. It's Mindless (can't score primaries).
+- [Pantaleone](pantaleone) is an objective runner. Also steals WP/objectives on disengage; area attack — multi-target upside not counted.
+
+**Specialist**
+
 - [Pierrot](pierrot) is a charge redirect specialist. Its niche is to redirect enemy charges away from allies.
 
 ## Roster value

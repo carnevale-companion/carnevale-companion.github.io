@@ -3,6 +3,17 @@ layout: doc
 title: The Vatican
 description: Vatican faction presentation and analysis
 nav_section: Factions
+toc:
+  - title: Faction Overview
+    anchor: faction-overview
+  - title: Faction Command
+    anchor: faction-command
+  - title: Magic Access
+    anchor: magic-access
+  - title: Roster
+    anchor: roster
+  - title: Roster value
+    anchor: roster-value
 ---
 
 ## Faction Overview
@@ -38,15 +49,17 @@ The Vatican is the most WP-rich magic faction. Patriarch Bishop has 8 WP (highes
 
 ## Roster
 
+See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
+
 <div class="table-fixed">
 
-| Line Fighter | Damage Dealer | Assassin | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|
-| 7 | 7 | 1 | 8 | 1 | 1 |
+| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
+|---|---|---|---|---|---|---|
+| 7 | 7 | 1 | 2 | 8 | 1 | 1 |
 
-| Sniper | Support | Harasser | Disruptor | Objective Runner | Specialist |
+| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
 |---|---|---|---|---|---|
-| 2 | 12 | 0 | 3 | 1 | 4 |
+| 12 | 0 | 0 | 3 | 1 | 4 |
 
 </div>
 
@@ -74,56 +87,111 @@ Really strong all-round fighter; small incentive to play Hospitallers (too elite
 
 ### Heroes
 
-- [Angel of the Blooded Rose](angel-of-the-blooded-rose) is a melee assassin. It's pricey for its output. Also flies over terrain.
-- [Felix Baumgartner](felix-baumgartner) is a melee damage dealer.
-- [Gethsemane](gethsemane) is a brawler. It's pricey for its output and Mindless (can't score primaries). Also area attack — multi-target upside not counted.
-- [Eater of Sin](eater-of-sin) is a WP strip disruptor.
-- [Avignon Guard](avignon-guard) is a brawler. It's cost-efficient.
-- [Baptist](baptist) is a support piece, bringing healing & shielding.
-- [Burning Saint](burning-saint) is a brawler.
-- [Conventual Chaplain](conventual-chaplain) is a support piece.
-- [Cross-bearing Deacon](cross-bearing-deacon) is a support piece. It's unusually durable.
-- [Divine Seraphim](divine-seraphim) is an AoE template attacker anti-status aura specialist. Its niche is to scrub status effects off allies. Also flies over terrain; rattles low-Mind foes; area attack — multi-target upside not counted.
-- [Executioner](executioner) is a melee damage dealer. It's cost-efficient.
+**Mages**
+
 - [Galilean Priest](galilean-priest) is a support piece that doubles as a Summon Vermin damage dealer, bringing stat buffs & dice manipulation, versatile utility magic. Also fast through water.
-- [Golgotha](golgotha) is a brawler. It's high-output and cost-efficient, but Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Silere Priest](silere-priest) is an offensive support piece, bringing stat buffs & dice manipulation, control & action economy.
+- [Summoner Priest](summoner-priest) is a support piece, bringing stat buffs & dice manipulation, control & action economy.
+- [Baptist](baptist) is a support piece, bringing healing & shielding.
+- [Stigmatist](stigmatist) is a magic/melee damage dealer. It's cost-efficient, with a Frenzy burst (+80%).
+
+**Damage Dealer**
+
+- [Felix Baumgartner](felix-baumgartner) is a melee damage dealer.
 - [Inquisition Commissioner](inquisition-commissioner) is a melee/mid-range damage dealer.
+- [Prelate of the Flaming Sword](prelate-of-the-flaming-sword) is a melee armour-piercing damage dealer. It's high-output, tough for its role and cost-efficient, but Mindless (can't score primaries).
+- [Templar Marshal](templar-marshal) is a melee/mid-range damage dealer. It's one shot per turn (Reload). Also pins fleeing enemies.
+- [Executioner](executioner) is a melee damage dealer. It's cost-efficient.
+
+**Brawler**
+
+- [Gethsemane](gethsemane) is a brawler. It's pricey for its output and Mindless (can't score primaries). Also area attack — multi-target upside not counted.
+- [Golgotha](golgotha) is a brawler. It's high-output and cost-efficient, but Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Venator of Devotion](venator-of-devotion) is a brawler. It's high-output and cost-efficient. Also extra Penetration vs bigger bases.
 - [Knight of the Holy Sepulchre](knight-of-the-holy-sepulchre) is a brawler. It's Mindless (can't score primaries).
 - [Paladin of St Lazarus](paladin-of-st-lazarus) is a brawler.
-- [Prelate of the Flaming Sword](prelate-of-the-flaming-sword) is a melee armour-piercing damage dealer. It's high-output, tough for its role and cost-efficient, but Mindless (can't score primaries).
+- [Burning Saint](burning-saint) is a brawler.
+- [Avignon Guard](avignon-guard) is a brawler. It's cost-efficient.
+
+**Assassin**
+
+- [Angel of the Blooded Rose](angel-of-the-blooded-rose) is a melee assassin. It's pricey for its output. Also flies over terrain.
+
+**Sniper**
+
 - [Scorpio Marksman](scorpio-marksman) is a long-range sniper. It's high-output, tough for its role and cost-efficient.
+
+**Tank**
+
 - [Sepulchral Vanguard](sepulchral-vanguard) is a tank that doubles as a WP lockout disruptor. It's extremely durable and cheap for the staying power, but Mindless (can't score primaries).
+
+**Disruptor**
+
 - [Seraph](seraph) is a tank disruptor. It's Mindless (can't score primaries). Also flies over terrain; rattles low-Mind foes.
-- [Silere Priest](silere-priest) is an offensive support piece, bringing stat buffs & dice manipulation, control & action economy.
-- [Stigmatist](stigmatist) is a magic/melee damage dealer. It's cost-efficient, with a Frenzy burst (+80%).
-- [Summoner Priest](summoner-priest) is a support piece, bringing stat buffs & dice manipulation, control & action economy.
-- [Templar Marshal](templar-marshal) is a melee/mid-range damage dealer. It's one shot per turn (Reload). Also pins fleeing enemies.
+- [Eater of Sin](eater-of-sin) is a WP strip disruptor.
+
+**Support**
+
+- [Cross-bearing Deacon](cross-bearing-deacon) is a support piece. It's unusually durable.
+- [Conventual Chaplain](conventual-chaplain) is a support piece.
+
+**Specialist**
+
 - [Throne](throne) is a flying control/support specialist. Its niche is to fly around as a control/support piece. Also rattles low-Mind foes.
-- [Venator of Devotion](venator-of-devotion) is a brawler. It's high-output and cost-efficient. Also extra Penetration vs bigger bases.
+- [Divine Seraphim](divine-seraphim) is an AoE template attacker anti-status aura specialist. Its niche is to scrub status effects off allies. Also flies over terrain; rattles low-Mind foes; area attack — multi-target upside not counted.
 
 ### Henchmen
 
-- [Thomas Thieme](thomas-thieme) is an anti-vampire bodyguard specialist. Its niche is to counter Vampire/Strigoi gangs specifically. Also extra Penetration vs bigger bases.
-- [Altar Boy](altar-boy) is a support piece.
-- [Bishop Guard](bishop-guard) is a line fighter. It's high-output and tough for its role.
+**Mages**
+
+- [Lacrimosa](lacrimosa) is a support piece, bringing healing & shielding.
+
+**Damage Dealer**
+
+- [Theophant of Sinai](theophant-of-sinai) is a mid-range high-burst damage dealer. It's Mindless (can't score primaries) and one shot per turn (Reload).
+
+**Brawler**
+
+- [Knight of Malta](knight-of-malta) is a brawler.
+
+**Sniper**
+
+- [Maltese Squire](maltese-squire) is a long-range sniper. It's low on damage and pricey for its output.
+
+**Canal Fighter**
+
+- [Thalassic Messenger](thalassic-messenger) is a drown canal fighter. It's tough for its role, but self-stun-prone (Primitive). Also fast through water; at home in water.
+
+**Disruptor**
+
+- [Witch Finder](witch-finder) is a WP lockout disruptor. Also a strong grappler/drowner; pins fleeing enemies.
+
+**Support**
+
 - [Celestial Congregation](celestial-congregation) is an offensive support piece. It's Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Altar Boy](altar-boy) is a support piece.
 - [Celestial Spirit](celestial-spirit) is a support piece. It's Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Reliquary Page](reliquary-page) is a support piece. Also slips out of melee freely.
 - [Cherubim](cherubim) is a Companion chain extender support piece. It's fragile and Mindless (can't score primaries). Also rattles low-Mind foes.
+
+**Objective Runner**
+
+- [Inquisitorial Spy](inquisitorial-spy) is an objective runner. Also steals WP/objectives on disengage; deploys forward.
+
+**Line Fighter**
+
+- [Bishop Guard](bishop-guard) is a line fighter. It's high-output and tough for its role.
+- [Redemptionist](redemptionist) is a line fighter. It's pricey for its output.
 - [Chevaleresse](chevaleresse) is a line fighter. It's high-output and tough for its role.
+- [Priest](priest) is a disruptive line fighter.
 - [Crucifier](crucifier) is an armour-piercing line fighter.
 - [French Infantryman](french-infantryman) is a line fighter. It's pricey for its output and Mindless (can't score primaries).
-- [Inquisitorial Spy](inquisitorial-spy) is an objective runner. Also steals WP/objectives on disengage; deploys forward.
-- [Knight of Malta](knight-of-malta) is a brawler.
-- [Lacrimosa](lacrimosa) is a support piece, bringing healing & shielding.
-- [Maltese Squire](maltese-squire) is a long-range sniper. It's low on damage and pricey for its output.
 - [Martyr](martyr) is a line fighter. It's Mindless (can't score primaries).
-- [Priest](priest) is a disruptive line fighter.
-- [Redemptionist](redemptionist) is a line fighter. It's pricey for its output.
-- [Reliquary Page](reliquary-page) is a support piece. Also slips out of melee freely.
+
+**Specialist**
+
+- [Thomas Thieme](thomas-thieme) is an anti-vampire bodyguard specialist. Its niche is to counter Vampire/Strigoi gangs specifically. Also extra Penetration vs bigger bases.
 - [Stalker](stalker) is a ranged Counter trigger specialist. Its niche is to make reactive, out-of-sequence attacks (Counter). Also deploys forward.
-- [Thalassic Messenger](thalassic-messenger) is a drown canal fighter. It's tough for its role, but self-stun-prone (Primitive). Also fast through water; at home in water.
-- [Theophant of Sinai](theophant-of-sinai) is a mid-range high-burst damage dealer. It's Mindless (can't score primaries) and one shot per turn (Reload).
-- [Witch Finder](witch-finder) is a WP lockout disruptor. Also a strong grappler/drowner; pins fleeing enemies.
 
 ## Roster value
 

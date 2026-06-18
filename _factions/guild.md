@@ -44,15 +44,17 @@ The Guild has reasonable magic access with Baba-Yaga as primary caster. Baba-Yag
 
 ## Roster
 
+See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
+
 <div class="table-fixed">
 
-| Line Fighter | Damage Dealer | Assassin | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|
-| 5 | 12 | 2 | 1 | 0 | 2 |
+| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
+|---|---|---|---|---|---|---|
+| 5 | 12 | 2 | 1 | 1 | 0 | 2 |
 
-| Sniper | Support | Harasser | Disruptor | Objective Runner | Specialist |
+| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
 |---|---|---|---|---|---|
-| 1 | 7 | 3 | 1 | 3 | 4 |
+| 7 | 3 | 0 | 1 | 3 | 4 |
 
 </div>
 
@@ -84,50 +86,102 @@ Flexible aggressive hero-leader with good CP.
 
 ### Heroes
 
+**Mages**
+
 - [Baba-Yaga](baba-yaga) is a spellcasting damage dealer that doubles as a support piece, bringing damage & life-drain, versatile utility magic. It's high-output and cost-efficient, with Vampiric self-healing, but coverless (no cover).
-- [Black Lamp](black-lamp) is a WP lockout disruptor.
-- [Ebenezer Chummage](ebenezer-chummage) is an anti-monster specialist. Its niche is to punch up against large-base monsters; ordinary otherwise. Also a strong grappler/drowner; extra Penetration vs bigger bases.
-- [Ostrich Chariot?!](ostrich-chariot) is a melee damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's tough for its role, but Mindless (can't score primaries).
-- [Rialto Assassin](rialto-assassin) is a ranged assassin. It's high-output and cost-efficient, but one shot per turn (Reload). Also deploys forward; slips out of melee freely; area attack — multi-target upside not counted.
-- [Bloodletter](bloodletter) is a spellcasting damage dealer. It's cost-efficient.
-- [Blood Matron](blood-matron) is a target-locking permanent-lockdown specialist. Its niche is to lock onto one enemy and keep it debuffed/stunned all game. Also Mindless (can't score primaries).
-- [Barber](barber) is a melee armour-piercing damage dealer. It's cost-efficient. Also pins fleeing enemies.
-- [Baroni](baroni) is a long-range damage dealer. It's one shot per turn (Reload). Also steals WP/objectives on disengage.
-- [Brewer](brewer) is an End of Days conditional specialist. Its niche is to build toward a slow-burn wincon — pays off only late. Also Mindless (can't score primaries).
-- [Brute](brute) is a melee damage dealer. It's Mindless (can't score primaries).
-- [Butcher](butcher) is a brawler. Also a strong grappler/drowner.
-- [Dancer](dancer) is an objective runner. Also slips out of melee freely.
-- [Death Duellist](death-duellist) is a melee damage dealer. Also pins fleeing enemies.
-- [Fisherman](fisherman) is a canal fighter. It's cost-efficient, but one shot per turn (Reload). Also extra Penetration vs bigger bases; fast through water.
-- [Recruiter](recruiter) is a support piece.
-- [Seamstress](seamstress) is a spellcasting support piece, bringing healing & shielding, stat buffs & dice manipulation.
-- [Shadow Assassin](shadow-assassin) is a melee assassin that doubles as an objective runner. Also slips out of melee freely.
-- [Smuggler](smuggler) is a support piece. Also crews boats for WP; area attack — multi-target upside not counted.
-- [Thief](thief) is a harasser. Also steals WP/objectives on disengage; deploys forward; area attack — multi-target upside not counted.
-- [Very Loud Ostrich](very-loud-ostrich) is a support piece. It's Mindless (can't score primaries). Also slips out of melee freely.
-- [Whaler](whaler) is a mid-range Hunter damage dealer. It's high-output and cost-efficient. Also fast through water; crews boats for WP.
 - [Witch](witch) is a spellcasting damage dealer that doubles as a support piece, flexible across disciplines (its spell pick sets the role). It's high-output and cost-efficient. Also slips out of melee freely.
+- [Bloodletter](bloodletter) is a spellcasting damage dealer. It's cost-efficient.
+- [Seamstress](seamstress) is a spellcasting support piece, bringing healing & shielding, stat buffs & dice manipulation.
+
+**Damage Dealer**
+
+- [Ostrich Chariot?!](ostrich-chariot) is a melee damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's tough for its role, but Mindless (can't score primaries).
+- [Whaler](whaler) is a mid-range Hunter damage dealer. It's high-output and cost-efficient. Also fast through water; crews boats for WP.
+- [Baroni](baroni) is a long-range damage dealer. It's one shot per turn (Reload). Also steals WP/objectives on disengage.
+- [Death Duellist](death-duellist) is a melee damage dealer. Also pins fleeing enemies.
+- [Brute](brute) is a melee damage dealer. It's Mindless (can't score primaries).
+- [Barber](barber) is a melee armour-piercing damage dealer. It's cost-efficient. Also pins fleeing enemies.
+
+**Brawler**
+
+- [Butcher](butcher) is a brawler. Also a strong grappler/drowner.
+
+**Assassin**
+
+- [Rialto Assassin](rialto-assassin) is a ranged assassin. It's high-output and cost-efficient, but one shot per turn (Reload). Also deploys forward; slips out of melee freely; area attack — multi-target upside not counted.
+- [Shadow Assassin](shadow-assassin) is a melee assassin that doubles as an objective runner. Also slips out of melee freely.
+
+**Canal Fighter**
+
+- [Fisherman](fisherman) is a canal fighter. It's cost-efficient, but one shot per turn (Reload). Also extra Penetration vs bigger bases; fast through water.
+
+**Disruptor**
+
+- [Black Lamp](black-lamp) is a WP lockout disruptor.
+
+**Harasser**
+
+- [Thief](thief) is a harasser. Also steals WP/objectives on disengage; deploys forward; area attack — multi-target upside not counted.
+
+**Support**
+
+- [Very Loud Ostrich](very-loud-ostrich) is a support piece. It's Mindless (can't score primaries). Also slips out of melee freely.
+- [Recruiter](recruiter) is a support piece.
+- [Smuggler](smuggler) is a support piece. Also crews boats for WP; area attack — multi-target upside not counted.
+
+**Objective Runner**
+
+- [Dancer](dancer) is an objective runner. Also slips out of melee freely.
+
+**Specialist**
+
+- [Ebenezer Chummage](ebenezer-chummage) is an anti-monster specialist. Its niche is to punch up against large-base monsters; ordinary otherwise. Also a strong grappler/drowner; extra Penetration vs bigger bases.
+- [Brewer](brewer) is an End of Days conditional specialist. Its niche is to build toward a slow-burn wincon — pays off only late. Also Mindless (can't score primaries).
+- [Blood Matron](blood-matron) is a target-locking permanent-lockdown specialist. Its niche is to lock onto one enemy and keep it debuffed/stunned all game. Also Mindless (can't score primaries).
 
 ### Henchmen
 
-- [Arbalest](arbalest) is a long-range sniper. It's low on damage and pricey for its output.
-- [Beggar](beggar) is an objective runner.
-- [Blooded](blooded) is a support piece. It's fragile and Mindless (can't score primaries).
-- [Blood Courier](blood-courier) is a support piece. Also slips out of melee freely.
-- [Citizen](citizen) is a line fighter. It's pricey for its output.
-- [Dog Keeper](dog-keeper) is a support piece. Also pins fleeing enemies.
-- [Dog](dog) is a harasser. It's Mindless (can't score primaries). Also pins fleeing enemies.
-- [Escort](escort) is a bodyguard grappler line fighter. It's high-output.
-- [Firebreather](firebreather) is an AoE/template damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's fragile for its role, Mindless (can't score primaries) and one shot per turn (Reload).
-- [Gondolier](gondolier) is a Gondola specialist. Its niche is to ferry the gang by gondola. Also fast through water.
-- [Harlot](harlot) is a line fighter. Also slips out of melee freely.
-- [Indebted](indebted) is a line fighter. It's pricey for its output.
-- [Mariner](mariner) is a canal fighter. It's low on damage. Also fast through water; crews boats for WP.
-- [Ostrich Rider](ostrich-rider) is a harasser. It's Mindless (can't score primaries). Also slips out of melee freely.
-- [Pilferer](pilferer) is an objective runner. Also steals WP/objectives on disengage.
-- [Poacher](poacher) is a ranged damage dealer that doubles as an objective runner. It's low on damage and pricey for its output. Also deploys forward.
-- [Pulcinella](pulcinella) is a disruptive line fighter. It's Mindless (can't score primaries).
+**Damage Dealer**
+
 - [Shipwright](shipwright) is a melee damage dealer. It's cost-efficient.
+- [Poacher](poacher) is a ranged damage dealer that doubles as an objective runner. It's low on damage and pricey for its output. Also deploys forward.
+- [Firebreather](firebreather) is an AoE/template damage dealer. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's fragile for its role, Mindless (can't score primaries) and one shot per turn (Reload).
+
+**Sniper**
+
+- [Arbalest](arbalest) is a long-range sniper. It's low on damage and pricey for its output.
+
+**Canal Fighter**
+
+- [Mariner](mariner) is a canal fighter. It's low on damage. Also fast through water; crews boats for WP.
+
+**Harasser**
+
+- [Ostrich Rider](ostrich-rider) is a harasser. It's Mindless (can't score primaries). Also slips out of melee freely.
+- [Dog](dog) is a harasser. It's Mindless (can't score primaries). Also pins fleeing enemies.
+
+**Support**
+
+- [Blood Courier](blood-courier) is a support piece. Also slips out of melee freely.
+- [Dog Keeper](dog-keeper) is a support piece. Also pins fleeing enemies.
+- [Blooded](blooded) is a support piece. It's fragile and Mindless (can't score primaries).
+
+**Objective Runner**
+
+- [Pilferer](pilferer) is an objective runner. Also steals WP/objectives on disengage.
+- [Beggar](beggar) is an objective runner.
+
+**Line Fighter**
+
+- [Escort](escort) is a bodyguard grappler line fighter. It's high-output.
+- [Indebted](indebted) is a line fighter. It's pricey for its output.
+- [Harlot](harlot) is a line fighter. Also slips out of melee freely.
+- [Citizen](citizen) is a line fighter. It's pricey for its output.
+- [Pulcinella](pulcinella) is a disruptive line fighter. It's Mindless (can't score primaries).
+
+**Specialist**
+
+- [Gondolier](gondolier) is a Gondola specialist. Its niche is to ferry the gang by gondola. Also fast through water.
 
 ## Roster value
 

@@ -3,6 +3,17 @@ layout: doc
 title: Rashaar
 description: Rashaar faction presentation and analysis
 nav_section: Factions
+toc:
+  - title: Faction Overview
+    anchor: faction-overview
+  - title: Faction Command
+    anchor: faction-command
+  - title: Magic Access
+    anchor: magic-access
+  - title: Roster
+    anchor: roster
+  - title: Roster value
+    anchor: roster-value
 ---
 
 ## Faction Overview
@@ -35,15 +46,17 @@ Magi-Rashaar remains the highest raw magic level in the game: Mage(3)+ES(2) = 5 
 
 ## Roster
 
+See [Role Tags page](/mechanics/role-tags) for details about each role and how they are attributed.
+
 <div class="table-fixed">
 
-| Line Fighter | Damage Dealer | Assassin | Brawler | Tank | Canal Fighter |
-|---|---|---|---|---|---|
-| 4 | 4 | 0 | 3 | 2 | 9 |
+| Line Fighter | Damage Dealer | Assassin | Sniper | Brawler | Tank | Canal Fighter |
+|---|---|---|---|---|---|---|
+| 4 | 4 | 0 | 0 | 3 | 2 | 9 |
 
-| Sniper | Support | Harasser | Disruptor | Objective Runner | Specialist |
+| Support | Harasser | Control | Disruptor | Objective Runner | Specialist |
 |---|---|---|---|---|---|
-| 0 | 6 | 0 | 0 | 3 | 9 |
+| 6 | 0 | 1 | 0 | 3 | 9 |
 
 </div>
 
@@ -75,50 +88,96 @@ One of the highest effective Command outputs in the game; modest combat but a go
 
 ### Heroes
 
-- [Morgraur](morgraur) is a brawler. It's high-output and tough for its role, but pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
-- [Emissary of Mother Hydra](emissary-of-mother-hydra) is a canal fighter. It's high-output and tough for its role, with Vampiric self-healing, but pricey for its output and slow. Also fast through water; at home in water.
+**Mages**
+
+- [Paliaa](paliaa) is a spellcasting support piece, bringing control & action economy. Also fast through water; at home in water.
 - [The Drowned Nun](the-drowned-nun) is a spellcasting support canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
-- [Brachyura](brachyura) is a brawler. It's tough for its role, but Mindless (can't score primaries). Also at home in water.
-- [Caandru Eel](caandru-eel) is a canal fighter. It's cost-efficient, but Mindless (can't score primaries). Also a strong grappler/drowner; fast through water.
-- [Cult Enforcer](cult-enforcer) is a brawler.
+- [Sirena](sirena) is a spellcasting damage support canal fighter. It's high-output and cost-efficient. Also fast through water; at home in water.
 - [Dagonite Priest](dagonite-priest) is a spellcasting damage dealer that doubles as a support piece, bringing damage & life-drain, versatile utility magic. It's cost-efficient. Also pins fleeing enemies.
+
+**Damage Dealer**
+
+- [Raadru](raadru) is a melee damage dealer. It's high-output and tough for its role. Also fast through water; at home in water.
+
+**Brawler**
+
+- [Morgraur](morgraur) is a brawler. It's high-output and tough for its role, but pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
+- [Brachyura](brachyura) is a brawler. It's tough for its role, but Mindless (can't score primaries). Also at home in water.
+- [Cult Enforcer](cult-enforcer) is a brawler.
+
+**Canal Fighter**
+
+- [Emissary of Mother Hydra](emissary-of-mother-hydra) is a canal fighter. It's high-output and tough for its role, with Vampiric self-healing, but pricey for its output and slow. Also fast through water; at home in water.
+- [Karcharos](karcharos) is a canal fighter. It's high-output and cost-efficient, but Mindless (can't score primaries). Also fast through water; at home in water.
+- [Salaacia](salaacia) is a drown canal fighter. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload). Also fast through water; at home in water.
+- [Caandru Eel](caandru-eel) is a canal fighter. It's cost-efficient, but Mindless (can't score primaries). Also a strong grappler/drowner; fast through water.
+
+**Tank**
+
+- [Secreting Myxin](secreting-myxin) is a stun debuff aura tank. It's very durable, but costly for what it soaks and Mindless (can't score primaries). Also at home in water; slips out of melee freely.
+
+**Control**
+
+- [Mature Kraken](mature-kraken) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also a strong grappler/drowner; at home in water.
+
+**Support**
+
 - [Demagogue](demagogue) is a support piece. Also rattles low-Mind foes.
 - [Handler](handler) is a support piece. Also extra Penetration vs bigger bases.
-- [Karcharos](karcharos) is a canal fighter. It's high-output and cost-efficient, but Mindless (can't score primaries). Also fast through water; at home in water.
-- [Krakenhost](krakenhost) is a Kraken spawner specialist. Its niche is to spawn extra Kraken bodies over the game. Also Mindless (can't score primaries); a strong grappler/drowner.
-- [Mature Kraken](mature-kraken) is a control piece. Its niche is to lock down or reposition enemies — weigh its control, not its stats. Also a strong grappler/drowner; at home in water.
-- [Paliaa](paliaa) is a spellcasting support piece, bringing control & action economy. Also fast through water; at home in water.
-- [Raadru](raadru) is a melee damage dealer. It's high-output and tough for its role. Also fast through water; at home in water.
-- [Salaacia](salaacia) is a drown canal fighter. Its single-target EDPA above undersells it — the template/blast hits every model in the area, so real value scales with the cluster it catches. It's one shot per turn (Reload). Also fast through water; at home in water.
-- [Secreting Myxin](secreting-myxin) is a stun debuff aura tank. It's very durable, but costly for what it soaks and Mindless (can't score primaries). Also at home in water; slips out of melee freely.
-- [Sirena](sirena) is a spellcasting damage support canal fighter. It's high-output and cost-efficient. Also fast through water; at home in water.
+
+**Specialist**
+
 - [Tainted Maw](tainted-maw) is a water pull specialist. Its niche is to drag enemies around near water (needs canals). Also a strong grappler/drowner; fast through water.
+- [Krakenhost](krakenhost) is a Kraken spawner specialist. Its niche is to spawn extra Kraken bodies over the game. Also Mindless (can't score primaries); a strong grappler/drowner.
 
 ### Henchmen
 
+**Mages**
+
+- [Aglaope](aglaope) is a spellcasting support piece, bringing stat buffs & dice manipulation, versatile utility magic. Also fast through water; at home in water.
+
+**Damage Dealer**
+
+- [Dagonite Zealot](dagonite-zealot) is a melee damage dealer. It's Mindless (can't score primaries).
+- [Dagon Officiant](dagon-officiant) is a melee damage dealer.
+
+**Canal Fighter**
+
+- [Half-Breed](half-breed) is a grappler canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
+- [Lesser Ugdru](lesser-ugdru) is a canal fighter. It's cost-efficient. Also fast through water; at home in water.
+- [Bulbous Toad](bulbous-toad) is a pull canal fighter. It's low on damage, pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
+
+**Tank**
+
+- [Cymothoan Crusher](cymothoan-crusher) is a knockback stun tank. It's very durable, but Mindless (can't score primaries). Also at home in water.
+
+**Support**
+
+- [Dagonite Page](dagonite-page) is a support piece. Also at home in water.
+- [Wet Nurse](wet-nurse) is a support piece.
+
+**Objective Runner**
+
+- [Advanced Hybrid](advanced-hybrid) is an objective runner. It's fragile. Also at home in water.
+- [Bounding Telchine](bounding-telchine) is an objective runner. It's self-stun-prone (Primitive). Also at home in water.
+- [Urchin](urchin) is an objective runner. It's fragile and Mindless (can't score primaries). Also steals WP/objectives on disengage.
+
+**Line Fighter**
+
+- [Lesser Rhyll](lesser-rhyll) is a disruptive line fighter. It's pricey for its output. Also fast through water; at home in water.
+- [Encrusted Squire](encrusted-squire) is a bodyguard line fighter. It's high-output. Also at home in water.
+- [Hellhound](hellhound) is a line fighter. It's high-output, but Mindless (can't score primaries). Also at home in water.
+- [Hybrid](hybrid) is a line fighter. It's pricey for its output. Also fast through water.
+
+**Specialist**
+
+- [Infant Kraken](infant-kraken) is a permanent-lockdown sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also self-stun-prone (Primitive); at home in water.
+- [Crybaby](crybaby) is a debuff sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
+- [Slave](slave) is a Monster sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
+- [Thorn Tentacle](thorn-tentacle) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
 - [Maw Tentacle](maw-tentacle) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); a strong grappler/drowner.
 - [Lash Tentacle](lash-tentacle) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
 - [Dagger Tentacle](dagger-tentacle) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
-- [Thorn Tentacle](thorn-tentacle) is an Emissary extension specialist. Its niche is to act as a body-part of the Emissary of Mother Hydra, extending its reach (that gang only). Also Mindless (can't score primaries); at home in water.
-- [Advanced Hybrid](advanced-hybrid) is an objective runner. It's fragile. Also at home in water.
-- [Aglaope](aglaope) is a spellcasting support piece, bringing stat buffs & dice manipulation, versatile utility magic. Also fast through water; at home in water.
-- [Bounding Telchine](bounding-telchine) is an objective runner. It's self-stun-prone (Primitive). Also at home in water.
-- [Bulbous Toad](bulbous-toad) is a pull canal fighter. It's low on damage, pricey for its output and Mindless (can't score primaries). Also fast through water; at home in water.
-- [Crybaby](crybaby) is a debuff sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
-- [Cymothoan Crusher](cymothoan-crusher) is a knockback stun tank. It's very durable, but Mindless (can't score primaries). Also at home in water.
-- [Dagon Officiant](dagon-officiant) is a melee damage dealer.
-- [Dagonite Page](dagonite-page) is a support piece. Also at home in water.
-- [Dagonite Zealot](dagonite-zealot) is a melee damage dealer. It's Mindless (can't score primaries).
-- [Encrusted Squire](encrusted-squire) is a bodyguard line fighter. It's high-output. Also at home in water.
-- [Half-Breed](half-breed) is a grappler canal fighter. It's low on damage and pricey for its output. Also fast through water; at home in water.
-- [Hellhound](hellhound) is a line fighter. It's high-output, but Mindless (can't score primaries). Also at home in water.
-- [Hybrid](hybrid) is a line fighter. It's pricey for its output. Also fast through water.
-- [Infant Kraken](infant-kraken) is a permanent-lockdown sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also self-stun-prone (Primitive); at home in water.
-- [Lesser Rhyll](lesser-rhyll) is a disruptive line fighter. It's pricey for its output. Also fast through water; at home in water.
-- [Lesser Ugdru](lesser-ugdru) is a canal fighter. It's cost-efficient. Also fast through water; at home in water.
-- [Slave](slave) is a Monster sacrifice specialist. Its niche is to be expendable fuel — cash it in for a bigger effect. Also Mindless (can't score primaries).
-- [Urchin](urchin) is an objective runner. It's fragile and Mindless (can't score primaries). Also steals WP/objectives on disengage.
-- [Wet Nurse](wet-nurse) is a support piece.
 
 ## Roster value
 
