@@ -14,14 +14,6 @@ toc:
     anchor: "balance-changes"
 ---
 
-Welcome to the official Carnevale FAQ & Errata.
-
-In this document you will find all the answers to your burning Carnevale questions, along with small changes to the rules to help the game flow better.
-
-This document will be periodically updated to answer questions or make changes as they come up. As such, each update will have a number and date of publishing.
-
-Every change or question that is new to that edition of the rules will be marked with a lion symbol.
-
 ## Current Edition
 
 - Version 1.0 - published 6th June 2019
@@ -35,25 +27,37 @@ Every change or question that is new to that edition of the rules will be marked
 
 **How does dice rolling work?**
 
-Hopefully the Errata rules above clarify a bit, but here are some examples:
+Here are some examples:
 
 **Success**
 
-The top roll has 2 dice that are Aces, so is a success.
+*Roll: 2 - 5 - 7 - 9 - DD 5*
 
-The bottom roll has 0 dice that are Aces, so is a Fail.
+The roll has 2 dice that are Aces, so is a success.
+
+*Roll: 1 - 2 - 4 - 5 - DD 5*
+
+The roll has 0 dice that are Aces, so is a Fail.
 
 **Critical**
 
-The top roll has a 10 on the Destiny dice and at least 1 other Ace, so is a Critical.
+*Roll: 2 - 5 - 7 - 9 - DD 10*
 
-The bottom roll has a 10 on the Destiny dice, but no other Aces, so is not a Critical, just a Success.
+The roll has a 10 on the Destiny dice and at least 1 other Ace, so is a Critical.
+
+*Roll: 1 - 2 - 4 - 5 - DD 10*
+
+The roll has a 10 on the Destiny dice, but no other Aces, so is not a Critical, just a Success.
 
 **Fumble**
 
-The top roll has a 1 on the Destiny Dice and no other Aces, so is a Fumble.
+*Roll: 1 - 2 - 4 - 5 - DD 1*
 
-The bottom roll has a 1 on the Destiny Dice but at least 1 other Ace, so is a Success, not a Fumble.
+The roll has a 1 on the Destiny Dice and no other Aces, so is a Fumble.
+
+*Roll: 1 - 4 - 5 - 8 - DD 1*
+
+The roll has a 1 on the Destiny Dice but at least 1 other Ace, so is a Success, not a Fumble.
 
 **What happens if I Critical or Fumble on an Opposed Roll as the defender?**
 
