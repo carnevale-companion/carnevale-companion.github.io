@@ -810,6 +810,12 @@ a:hover { text-decoration: underline; }
   margin-bottom: 1rem;
 }
 
+/* Game term highlights */
+.cp-term { color: #1a7a35; font-weight: 600; }
+.ap-term { color: #c06418; font-weight: 600; }
+.lp-term { color: #b83232; font-weight: 600; }
+.wp-term { color: #2878a8; font-weight: 600; }
+
 /* Magic discipline colours — apply to both <span> and <a> */
 .disc-blood-rites,
 a.disc-blood-rites       { color: #b83232; font-weight: 500; }
