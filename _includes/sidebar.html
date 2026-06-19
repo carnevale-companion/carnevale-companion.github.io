@@ -30,7 +30,7 @@
     {% assign comp_detailed = site.compendium | where: "sidebar_group", "detailed"        | sort: "nav_order" %}
     {% assign comp_official = site.compendium | where: "sidebar_group", "official"        | sort: "nav_order" %}
     <div class="sidebar-section">
-      <p class="sidebar-section-title">Quick Reference</p>
+      <p class="sidebar-section-title">Compendium</p>
       <ul>
         {% for p in comp_quick %}
         <li>
