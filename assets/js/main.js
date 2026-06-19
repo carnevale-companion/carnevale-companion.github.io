@@ -1,13 +1,13 @@
 // ── AP / CP / command-name highlighter ─────────────────────────────────
 (function () {
   // Named groups determine which class to apply:
-  //   cp: Command Point(s), CP, PLAN, ORDER, COUNTER, Cast Off  → green
+  //   cp: Command Point(s), CP, PLAN, ORDER, COUNTER, ABILITY, AURA, PULSE, Cast Off  → green
   //   ap: Action Point(s), AP                                   → orange
   // Each group: optional-sign+number before full word · full word alone ·
   //             optional-sign+number before abbreviation · abbreviation before number · standalone abbreviation
   var N = '\\d+(?:\\.\\d+)?'; // integer or decimal, e.g. 2 or 2.6
   var PATTERN = new RegExp(
-    '(?<cp>(?:(?:[+-]?' + N + '|\\(X\\))\\s+)?Command Points?|(?<!\\w)[+-]?' + N + '[-\\s]*CP\\b|\\bCP\\s+' + N + '\\b|\\bCP\\b|\\bPLAN\\b|\\bORDER\\b|\\bCOUNTER\\b|Cast Off)|' +
+    '(?<cp>(?:(?:[+-]?' + N + '|\\(X\\))\\s+)?Command Points?|(?<!\\w)[+-]?' + N + '[-\\s]*CP\\b|\\bCP\\s+' + N + '\\b|\\bCP\\b|\\bPLAN\\b|\\bORDER\\b|\\bCOUNTER\\b|\\bABILITY\\b|\\bAURA\\b|\\bPULSE\\b|Cast Off)|' +
     '(?<ap>(?:(?:[+-]?' + N + '|\\(X\\))\\s+)?Action Points?|(?<!\\w)[+-]?' + N + '[-\\s]*AP\\b|\\bAP\\s+' + N + '\\b|\\bAP\\b)|' +
     '(?<lp>(?:(?:[+-]?' + N + '|\\(X\\))\\s+)?Life Points?|(?<!\\w)[+-]?' + N + '[-\\s]*LP\\b|\\bLP\\s+' + N + '\\b|\\bLP\\b)|' +
     '(?<wp>(?:(?:[+-]?' + N + '|\\(X\\))\\s+)?Will Points?|(?<!\\w)[+-]?' + N + '[-\\s]*WP\\b|\\bWP\\s+' + N + '\\b|\\bWP\\b)',
