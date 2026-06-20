@@ -19,7 +19,7 @@ toc:
 
 ## Faction Overview
 
-Crusading knights, exorcists, holy mages, and angelic constructs. The Vatican is built around Universal Shielding (reducing incoming Damage) and WP recovery, with a strong Hospitaller heavy-armour sub-faction and an Invoker/Construct pairing for summoned angels. Multiple mage leaders with broad discipline access.
+Crusading knights, exorcists, holy mages, and angelic constructs. The Vatican is built around very durable knights or strong and fast constructs, with a lot of mages and diverse support models behind. They have great WP generation capabilities, good tech pieces, but Full Plate makes a lot of their elite brawlers vulnerable to water.
 
 ## Faction Command
 
@@ -28,7 +28,7 @@ Crusading knights, exorcists, holy mages, and angelic constructs. The Vatican is
 <div class="callout">
 <p class="callout-title">Tactical note</p>
 
-WP generation scales with clustering — 3 friendlies within 3" generates +2+1+1+1 = +5 WP total across the group. With Patriarch Bishop De Bernis' Heavenly Vision passive (all friendly WP replenishments in LOS +1): each bystander gains +2 WP instead of +1, making large formations extremely WP-efficient. Core engine for the Vatican's magic and Universal Shielding pressure; use at the start of a round before mages spend on spells.
+WP replenishment scales with clustering, making it the most efficient WP generation tool in the game. Combo with Angel of the Blooded Rose's Heavenly Vision passive to give each bystander +2 WP instead of +1.
 
 </div>
 
@@ -36,17 +36,17 @@ WP generation scales with clustering — 3 friendlies within 3" generates +2+1+1
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| [Patriarch Bishop de Bernis (Leader)](/factions/the-vatican/patriarch-bishop-de-bernis/) | Mage(3) + Expert Sorcerer(1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Highest WP (8) in any profile seen |
-| [Father Cesta (Leader)](/factions/the-vatican/father-cesta/) | Mage(2) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | |
-| [Inquisitor (Leader)](/factions/the-vatican/inquisitor/) | Mage(3) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Frenzied — uses LP as WP |
-| [Baptist (Hero)](/factions/the-vatican/baptist/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a> | Unique Blessed Water ability |
-| [Galilean Priest (Hero)](/factions/the-vatican/galilean-priest/) | Mage(2) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Always knows Waves of Force; can cast in water |
-| [Stigmatist (Hero)](/factions/the-vatican/stigmatist/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a> | Frenzied — LP re-rolls on action equal to LP spent; Pen-3 on Combat |
-| [Summoner Priest (Hero, Invoker)](/factions/the-vatican/summoner-priest/) | Mage(2) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | |
-| [Silere Priest (Hero)](/factions/the-vatican/silere-priest/) | Mage(1) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Keeper of the Fire aura (+1 Dmg to nearby allies) |
-| [Lacrimosa (Henchman)](/factions/the-vatican/lacrimosa/) | Mage(2) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a> | Frenzied; Candid Soul: each LP used as WP → nearby friendlies replenish 1LP |
+| [Patriarch Bishop de Bernis](/factions/the-vatican/patriarch-bishop-de-bernis/) | Mage (3) + Expert Sorcerer (1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | High WP mage that gives Companion (*Leader*) to the whole gang |
+| [Father Cesta](/factions/the-vatican/father-cesta/) | Mage (2) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | The commander for a Construct oriented gang |
+| [Inquisitor](/factions/the-vatican/inquisitor/) | Mage (3) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Very offensive but fragile Frenzied mage |
+| [Baptist](/factions/the-vatican/baptist/) | Mage (2) + Expert Sorcerer (1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a> | Can prevent allies from being drowned or make Water Creatures vulnerable to it |
+| [Galilean Priest](/factions/the-vatican/galilean-priest/) | Mage (2) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Very versatile mage that can cast in water |
+| [Stigmatist](/factions/the-vatican/stigmatist/) | Mage (2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a> | Frenzied mage |
+| [Summoner Priest](/factions/the-vatican/summoner-priest/) | Mage (2) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Support mage that can teleport Constructs to him |
+| [Silere Priest](/factions/the-vatican/silere-priest/) | Mage (1) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Support mage with a +1 Dmg aura |
+| [Lacrimosa](/factions/the-vatican/lacrimosa/) | Mage (2) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a> | Support Frenzied mage that heals each time she uses LP instead of WP |
 
-The Vatican is the most WP-rich magic faction. Patriarch Bishop has 8 WP (highest seen), the Faction Command replenishes WP, and several non-mage chars provide WP via auras. <a href="/magic/divinity/" class="disc-divinity">Divinity</a> is the primary discipline; Inquisitor is the only non-healing mage type.
+The Vatican is a strong magic faction: they have the best WP economy, and almost every mage is at least **Mage (2)**.
 
 ## Roster
 
@@ -72,7 +72,7 @@ Best mage of the faction that gives gang-wide WP regen via **Companion (*Leader*
 
 #### [Father Cesta - Support (mage, Constructs)](/factions/the-vatican/father-cesta/)
 
-Flighing mage with lots of buffs for Constructs, notably removing their Mindless attribute.
+Flighing mage with lots of buffs for Constructs, notably removing their **Mindless** attribute.
 
 #### [Exorcist - Disruptor](/factions/the-vatican/exorcist/)
 
@@ -104,11 +104,11 @@ Really strong all-round fighter with high damage and high protection but with a 
 
 **Mages**
 
-- [Galilean Priest](/factions/the-vatican/galilean-priest/) is a support/control caster that can double as a damage dealer with Summon Vermin. He's also not hindered at all by water, he's a fast swimmer and can cast spells while in water.
+- [Galilean Priest](/factions/the-vatican/galilean-priest/) is a support/control caster that can double as a damage dealer with Summon Vermin. He's also not hindered at all by water, he's a **Fast Swimmer** and can cast spells while in water.
 - [Silere Priest](/factions/the-vatican/silere-priest/) is an expensive offensive support piece, bringing a +Damage aura in addition to its spells.
 - [Summoner Priest](/factions/the-vatican/summoner-priest/) is a support mage that can teleport near him constructs from anywhere on the board.
 - [Baptist](/factions/the-vatican/baptist/) is a support mage that can bless water, preventing allies to be drowned and allowing ennemy water creatures to be drowned inside an area.
-- [Stigmatist](/factions/the-vatican/stigmatist/) is a cost-efficient but fragile Frenzied mage damage dealer.
+- [Stigmatist](/factions/the-vatican/stigmatist/) is a cost-efficient but fragile **Frenzied** mage damage dealer.
 
 **Damage Dealer**
 
@@ -143,17 +143,17 @@ Really strong all-round fighter with high damage and high protection but with a 
 **Disruptor**
 
 - [Seraph](/factions/the-vatican/seraph/) is an expensive fast, tanky Disruptor.
-- [Eater of Sin](/factions/the-vatican/eater-of-sin/) is a unique Disruptor: Enemy characters in LOS cannot use the MIND value of other characters, making him a great tech pick against low mind Primitive monsters.
+- [Eater of Sin](/factions/the-vatican/eater-of-sin/) is a unique Disruptor: Enemy characters in LOS cannot use the MIND value of other characters, making him a great tech pick against low mind **Primitive** monsters.
 
 **Support**
 
-- [Cross-bearing Deacon](/factions/the-vatican/cross-bearing-deacon/) is a very resistant support with a WP replenishment aura. He also gives every friendly model in LOS Brave, making it a good tech piece against heavy Fear factions.
+- [Cross-bearing Deacon](/factions/the-vatican/cross-bearing-deacon/) is a very resistant support with a WP replenishment aura. He also gives every friendly model in LOS **Brave**, making it a good tech piece against heavy **Fear** factions.
 - [Conventual Chaplain](/factions/the-vatican/conventual-chaplain/) is High command support piece.
 
 **Specialist**
 
 - [Throne](/factions/the-vatican/throne/) is a very expensive flying construct but with a strong and rare ability to make friendly models regenerate their CP.
-- [Divine Seraphim](/factions/the-vatican/divine-seraphim/) is an expensive flying construct. He has low combat stats but a good armor-piercing Template attack and an aura protecting allies from Stun, Poisoned, and Full Plate.
+- [Divine Seraphim](/factions/the-vatican/divine-seraphim/) is an expensive flying construct. He has low combat stats but a good armor-piercing **Template** attack and an aura protecting allies from **Stun**, **Poisoned**, and Full Plate.
 
 ### Henchmen
 
@@ -163,7 +163,7 @@ Really strong all-round fighter with high damage and high protection but with a 
 
 **Damage Dealer**
 
-- [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) is a mid-range high-burst damage dealer. It's Mindless (can't score primaries) and one shot per turn (Reload).
+- [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) is a mid-range high-burst damage dealer. It's **Mindless** (can't score primaries) and one shot per turn (**Reload**).
 
 **Brawler**
 
@@ -175,7 +175,7 @@ Really strong all-round fighter with high damage and high protection but with a 
 
 **Canal Fighter**
 
-- [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/) is a drown canal fighter. It's tough for its role, but self-stun-prone (Primitive). Also fast through water; at home in water.
+- [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/) is a drown canal fighter. It's tough for its role, but self-stun-prone (**Primitive**). Also fast through water; at home in water.
 
 **Disruptor**
 
@@ -183,11 +183,11 @@ Really strong all-round fighter with high damage and high protection but with a 
 
 **Support**
 
-- [Celestial Congregation](/factions/the-vatican/celestial-congregation/) is an offensive support piece. It's Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Celestial Congregation](/factions/the-vatican/celestial-congregation/) is an offensive support piece. It's **Mindless** (can't score primaries). Also rattles low-Mind foes.
 - [Altar Boy](/factions/the-vatican/altar-boy/) is a support piece.
-- [Celestial Spirit](/factions/the-vatican/celestial-spirit/) is a support piece. It's Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Celestial Spirit](/factions/the-vatican/celestial-spirit/) is a support piece. It's **Mindless** (can't score primaries). Also rattles low-Mind foes.
 - [Reliquary Page](/factions/the-vatican/reliquary-page/) is a support piece. Also slips out of melee freely.
-- [Cherubim](/factions/the-vatican/cherubim/) is a Companion chain extender support piece. It's fragile and Mindless (can't score primaries). Also rattles low-Mind foes.
+- [Cherubim](/factions/the-vatican/cherubim/) is a **Companion** chain extender support piece. It's fragile and **Mindless** (can't score primaries). Also rattles low-Mind foes.
 
 **Objective Runner**
 
@@ -200,8 +200,8 @@ Really strong all-round fighter with high damage and high protection but with a 
 - [Chevaleresse](/factions/the-vatican/chevaleresse/) is a line fighter. It's high-output and tough for its role.
 - [Priest](/factions/the-vatican/priest/) is a disruptive line fighter.
 - [Crucifier](/factions/the-vatican/crucifier/) is an armour-piercing line fighter.
-- [French Infantryman](/factions/the-vatican/french-infantryman/) is a line fighter. It's pricey for its output and Mindless (can't score primaries).
-- [Martyr](/factions/the-vatican/martyr/) is a line fighter. It's Mindless (can't score primaries).
+- [French Infantryman](/factions/the-vatican/french-infantryman/) is a line fighter. It's pricey for its output and **Mindless** (can't score primaries).
+- [Martyr](/factions/the-vatican/martyr/) is a line fighter. It's **Mindless** (can't score primaries).
 
 **Specialist**
 

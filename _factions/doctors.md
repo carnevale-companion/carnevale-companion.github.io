@@ -19,23 +19,16 @@ toc:
 
 ## Faction Overview
 
-Mad scientists fusing arcane surgery with eldritch experimentation. The Doctors' defining mechanic is **Nexus**: characters with the Doctor keyword can share WP pools within 6". Multiple mage types across four disciplines. Unique access to Ethereal characters and a heavy-armour tank leader. Wide roster of diverse specialists.
+Mad scientists fusing humans, animals, and eldritch abominations. The Doctors' defining mechanic is **Nexus**: characters with the Doctor keyword can draw WP from Nexus battery models within 6". It allows great burst of WP spending, but they have very little WP generation. They are the second best faction in water, have great mages, very diverse specialists, and unique weapons, making for a very diverse and complete.
 
 ## Faction Command
 
 **Nexus Link Reconfiguration** (PULSE): Pick 2 friendly characters within 6" (including self). One loses all WP. For every WP lost, the other replenishes 2 WP.
 
 <div class="callout">
-<p class="callout-title">Note</p>
-
-the Master of Necromantic Studies modifies this command — whenever it mentions WP, change to LP.
-
-</div>
-
-<div class="callout">
 <p class="callout-title">Tactical note</p>
 
-Net WP generation — 1 WP sacrificed becomes 2 WP on another character (+100% efficiency). Best when a full Nexus character (Madman WP6, Carrion WP4) funds a mage or key combat model: Madman sacrifices 6 WP → target replenishes 12 WP (capped at their starting value). With Master of Necromantic Studies: LP replaces WP throughout — any character loses LP to double-fund another, effectively a Frenzied+ conversion. Pairs with Blood Nexus (Hollowman) for LP→WP cycling mid-combat.
+A great way to recharge Nexus batteries. With Master of Necromantic Studies LP replaces WP throughout: we kill a model to heal another. It can be the most potent healing of the game but needs low value targets to be useful.
 
 </div>
 
@@ -43,15 +36,13 @@ Net WP generation — 1 WP sacrificed becomes 2 WP on another character (+100% e
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| [Doctor of the Mind (Leader)](/factions/the-doctors/doctor-of-the-mind/) | Mage(3) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | |
-| [Master of Necromantic Studies (Leader)](/factions/the-doctors/master-of-necromantic-studies/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/divinity/" class="disc-divinity">Divinity</a> | |
-| [Plague Doctor (Leader)](/factions/the-doctors/plague-doctor/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | |
-| [Doctor of Blood (Hero)](/factions/the-doctors/doctor-of-blood/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a> | Vampiric Attack activates on Cast Spell |
-| [Doctor of the Firmament (Hero)](/factions/the-doctors/doctor-of-the-firmament/) | Mage(2) + Expert Sorcerer(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Aetheric Gaze: can pick from 2 disciplines |
-| [Morgue Doctor (Hero)](/factions/the-doctors/morgue-doctor/) | Mage(2) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | |
-| [Mermaid (Henchman)](/factions/the-doctors/mermaid/) | Mage(0) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Cantrip only |
-
-The Doctors have the widest magic access of any faction: <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, and <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> are all reachable. Doctor of the Firmament's Aetheric Gaze (picks from 2 disciplines) is unique in the game.
+| [Doctor of the Mind](/factions/the-doctors/doctor-of-the-mind/) | Mage(3) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Unusally tanky mage with lots of CP to spend |
+| [Master of Necromantic Studies](/factions/the-doctors/master-of-necromantic-studies/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/divinity/" class="disc-divinity">Divinity</a> | A leader that transforms the whole faction |
+| [Plague Doctor](/factions/the-doctors/plague-doctor/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Support mage with an anti-stun aura |
+| [Doctor of Blood](/factions/the-doctors/doctor-of-blood/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a> | Frenzied mage with Vampiric Attack (2) on its spells |
+| [Doctor of the Firmament](/factions/the-doctors/doctor-of-the-firmament/) | Mage(2) + Expert Sorcerer(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Can pick spells from 2 disciplines |
+| [Morgue Doctor](/factions/the-doctors/morgue-doctor/) | Mage(2) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Support mage with a chance to save allies from death |
+| [Mermaid](/factions/the-doctors/mermaid/) | Mage(0) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Cantrip caster |
 
 ## Roster
 
@@ -77,7 +68,7 @@ Durable caster leader with high Command points to spend.
 
 #### [Master of Necromantic Studies - Damage Dealer (magic)](/factions/the-doctors/master-of-necromantic-studies/)
 
-Low-LP Frenzied offensive caster. She turns the whole faction into a fully Frenzied one without any WP (even the Nexus batteries), which is the most impactful gang-wide ability of any leader.
+Low-LP **Frenzied** offensive caster. She turns the whole faction into a fully **Frenzied** one without any WP (even the Nexus batteries), which is the most impactful gang-wide ability of any leader.
 
 #### [Master of Arcane Security - Brawler](/factions/the-doctors/master-of-arcane-security/)
 
@@ -85,7 +76,7 @@ Expensive and strong versatile combattant but with a Full Plate (weak near water
 
 #### [Master of Zoology - Support (Beast Master) / Tank](/factions/the-doctors/master-of-zoology/)
 
-Very durable Hunter with a good armor-piercing Stun weapon. Build around Beasts, giving them **Companion (*Doctor*)**.
+Very durable **Hunter** with a good armor-piercing **Stun** weapon. Build around Beasts, giving them **Companion (*Doctor*)**.
 
 #### [Plague Doctor - Support (magic)](/factions/the-doctors/plague-doctor/)
 

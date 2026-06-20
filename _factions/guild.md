@@ -19,7 +19,7 @@ toc:
 
 ## Faction Overview
 
-Venice's criminal underworld: thieves, courtesans, and merchants. The Guild has three internal sub-factions with very different playstyles: **Trade** (good all-around models), **House of Virtue** (agile assassins), and **End of Days** (fast, fragile, and disruptive). Six leaders and a wide hero roster make the Guild highly versatile.
+Venice's criminal underworld: thieves, courtesans, and merchants. The Guild's leaders encourage the player to build their lists around the three sub-factions: **Trade**, **House of Virtue**, and **End of Days**. The Guild is highly versatile with six leaders, a wide roster, and a good access to magic. It has quick models on average and the best damage dealers of the game, but no Tanks and fragile characters overall.
 
 ## Faction Command
 
@@ -37,17 +37,12 @@ Unlike WP, re-rolls are applied after rolling so they are less punishing to use,
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| [Baba-Yaga (Hero)](/factions/the-guild/baba-yaga/) | Mage(3) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Most cost-effective damage dealer in the game with Summon Vermin. Can trade nearby model LP for WP |
-| [Bloodletter (Hero)](/factions/the-guild/bloodletter/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a> | Self-sustaining mage: gains LP on successful cast and can spend LP for WP |
-| [Witch (Hero)](/factions/the-guild/witch/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Can trade nearby model LP for WP. House of Virtue |
-| [Seamstress (Hero)](/factions/the-guild/seamstress/) | Mage(1) + Expert Sorcerer(1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Can learn spells from both disciplines at the same time |
+| [Baba-Yaga](/factions/the-guild/baba-yaga/) | Mage (3) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Most cost-effective damage dealer in the game with Summon Vermin. Can trade nearby model LP for WP |
+| [Bloodletter](/factions/the-guild/bloodletter/) | Mage (2) + Expert Sorcerer (1) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a> | Self-sustaining mage: gains LP on successful cast and can spend LP for WP |
+| [Witch](/factions/the-guild/witch/) | Mage (2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Can trade nearby model LP for WP. House of Virtue |
+| [Seamstress](/factions/the-guild/seamstress/) | Mage (1) + Expert Sorcerer (1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Can learn spells from both disciplines at the same time |
 
-<div class="callout">
-<p class="callout-title">Tactical note</p>
-
-Black Lamp functions as anti-magic support (Dispel as Mage(3)+Expert Sorcerer(3)) without casting, and also blocks enemy WP use within 3".
-
-</div>
+Black Lamp functions as anti-magic support with Dispel as **Mage (3)** + **Expert Sorcerer (3)**, the highest of the game.
 
 ## Roster
 
@@ -73,11 +68,11 @@ Fast infiltrating assassin-leader. Build around the Trade sub-faction, notably g
 
 #### [Harbourmaster - Brawler (water)](/factions/the-guild/harbourmaster/)
 
-Durable Parry frontline fighter. She has a Fast Swimmer gang buff.
+Durable **Parry** frontline fighter. She has a **Fast Swimmer** gang buff.
 
 #### [King For a Day - Damage Dealer (anti-armor)](/factions/the-guild/king-for-a-day/)
 
-Cheap anti-armor damage dealer, but he only has AP2 and low command. Build around the End of Days sub-faction, notably removing their Mindless attribute.
+Cheap anti-armor damage dealer, but he only has AP2 and low command. Build around the End of Days sub-faction, notably removing their **Mindless** attribute.
 
 #### [Madame - Support (House of Virtue)](/factions/the-guild/madame/)
 
@@ -85,7 +80,7 @@ Fast evasive support with little personal combat. She has strong abilities but t
 
 #### [Ostrich King?! - Damage Dealer (anti-armor, fast)](/factions/the-guild/ostrich-king/)
 
-Very fast anti-armor damage dealer, but he only has AP2 and low command. Build around the End of Days sub-faction, notably removing their Mindless attribute.
+Very fast anti-armor damage dealer, but he only has AP2 and low command. Build around the End of Days sub-faction, notably removing their **Mindless** attribute.
 
 #### [Prince of Thieves - Damage Dealer (melee/short-range) / Objective Runner](/factions/the-guild/prince-of-thieves/)
 
@@ -117,7 +112,7 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 **Damage Dealer**
 
 - [Ostrich Chariot?!](/factions/the-guild/ostrich-chariot/) is a very expensive, high mobility, very high damage model. Even with its size 75 and the classic limitations that implies, it can freely move over other characters and ignores the normal rules for disengaging. Moreover, it has the highest raw damage output of the game.
-- [Whaler](/factions/the-guild/whaler/) is an expensive short-range Hunter. It's high-output, cost-efficient, and its weapon's Knockback can move the target in any direction.
+- [Whaler](/factions/the-guild/whaler/) is an expensive short-range **Hunter**. It's high-output, cost-efficient, and its weapon's **Knockback** can move the target in any direction.
 - [Death Duellist](/factions/the-guild/death-duellist/) is a glass cannon that replenishes resources on kill.
 - [Brute](/factions/the-guild/brute/) is a melee knockback character without anything fancy.
 - [Barber](/factions/the-guild/barber/) is a cost-efficient armour-piercing option.
@@ -137,29 +132,29 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 
 **Canal Fighter**
 
-- [Fisherman](/factions/the-guild/fisherman/) must choose between an aquatic weapon or a 12" Harpoon gun at the start of the game, changing its role from a canal fighter to a mid-range hunter. It can give Hunter to any one friendly model until the end of the game, making it a good tech piece against Rashaar or the Doctors.
+- [Fisherman](/factions/the-guild/fisherman/) must choose between an aquatic weapon or a 12" Harpoon gun at the start of the game, changing its role from a canal fighter to a mid-range hunter. It can give **Hunter** to any one friendly model until the end of the game, making it a good tech piece against Rashaar or the Doctors.
 
 **Disruptor**
 
-- [Black Lamp](/factions/the-guild/black-lamp/) is an expensive but very good disruptor as he has the best Dispel of the game. He's very resistant, has good Will, and can give every friendly character Companion (Black Lamp), allowing a more diverse list building.
+- [Black Lamp](/factions/the-guild/black-lamp/) is an expensive but very good disruptor as he has the best Dispel of the game. He's very resistant, has good Will, and can give every friendly character **Companion (*Black Lamp*)**, allowing a more diverse list building.
 
 **Harasser**
 
-- [Thief](/factions/the-guild/thief/) is an infiltrator that has a lot of possibilities to harass the enemy: Smoke, Pickpocket, a bit of damage. It's a good objective runner.
+- [Thief](/factions/the-guild/thief/) is an infiltrator that has a lot of possibilities to harass the enemy: **Smoke**, **Pickpocket**, a bit of damage. It's a good objective runner.
 
 **Support**
 
 - [Very Loud Ostrich](/factions/the-guild/very-loud-ostrich/) has the statline of an Ostrich Rider without the stunning weapon, but it costs a lot more. In exchange, it can make allies charge, and it regenerates their WP when it hits. It's a very fast and offensive support piece.
 - [Recruiter](/factions/the-guild/recruiter/) mainly supports *Trade* models. It also has a good-range armor-piercing weapon.
-- [Smuggler](/factions/the-guild/smuggler/) regenerates the CP of allies when you achieve an Agenda. It also has a strong but once per turn Template attack.
+- [Smuggler](/factions/the-guild/smuggler/) regenerates the CP of allies when you achieve an Agenda. It also has a strong but once per turn **Template** attack.
 
 **Objective Runner**
 
-- [Dancer](/factions/the-guild/dancer/) is a fast model with insane Dexterity. Its speed comes from a command ability allowing two choos two allies (including itself) and make them do a free Run/Climb action. It also has a rare Poisoned weapon.
+- [Dancer](/factions/the-guild/dancer/) is a fast model with insane Dexterity. Its speed comes from a command ability allowing two choos two allies (including itself) and make them do a free Run/Climb action. It also has a rare **Poisoned** weapon.
 
 **Specialist**
 
-- [Ebenezer Chummage](/factions/the-guild/ebenezer-chummage/) is an expensive anti-monster specialist. He has Hunter but a size 40, so it's only usefull against big monsters. But he can get Brave, and regenerate CP when killing a monster. Otherwise he's a really good grappler, and can heal allies in base contact.
+- [Ebenezer Chummage](/factions/the-guild/ebenezer-chummage/) is an expensive anti-monster specialist. He has **Hunter** but a size 40, so it's only usefull against big monsters. But he can get **Brave**, and regenerate CP when killing a monster. Otherwise he's a really good grappler, and can heal allies in base contact.
 - [Brewer](/factions/the-guild/brewer/) has two strong conditional abilities: Any enemy character in base contact with it can be the target of a Drown action, and it has a short-range high armor piercing attack that cannot be used unless it's within 3" of a Pulcinella Firebreather, making it a very strong pick against armor.
 - [Blood Matron](/factions/the-guild/blood-matron/) doesn't have strong stats for its cost, but it can permanently stun its attack target on a critical strike.
 
@@ -176,11 +171,11 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 
 **Canal Fighter**
 
-- [Mariner](/factions/the-guild/mariner/) doesn't have good damage but it's a fast swimmer.
+- [Mariner](/factions/the-guild/mariner/) doesn't have good damage but it's a **Fast Swimmer**.
 
 **Harasser**
 
-- [Ostrich Rider](/factions/the-guild/ostrich-rider/) is a very fast but fragile model. Its Slippery + First Strike + Stun weapon makes it a really good disruption tool.
+- [Ostrich Rider](/factions/the-guild/ostrich-rider/) is a very fast but fragile model. Its **Slippery** + **First Strike** + **Stun** weapon makes it a really good disruption tool.
 - [Poacher](/factions/the-guild/poacher/) is a mid-ranged Infiltrator with great repositioning capabilities. It can make a good Objective runner too.
 - [Dog](/factions/the-guild/dog/) is a very cheap and fast body that exists to rush and engage enemies.
 
@@ -197,9 +192,9 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 
 **Line Fighter**
 
-- [Escort](/factions/the-guild/escort/) is a polyvalent model: Bodyguard, good grappler, ok attack for its cost.
+- [Escort](/factions/the-guild/escort/) is a polyvalent model: **Bodyguard**, good grappler, ok attack for its cost.
 - [Indebted](/factions/the-guild/indebted/) generates **Mob Mentality** dice on kill, it's offence oriented but pricey for its damage output.
-- [Harlot](/factions/the-guild/harlot/) is on the agile side with concealment and slippery.
+- [Harlot](/factions/the-guild/harlot/) is on the agile side with **Concealment** and **Slippery**.
 - [Citizen](/factions/the-guild/citizen/) is as basic as a model can get.
 - [Pulcinella](/factions/the-guild/pulcinella/) is fast, disruptive, but fragile.
 

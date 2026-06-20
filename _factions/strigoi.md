@@ -19,7 +19,7 @@ toc:
 
 ## Faction Overview
 
-Undead vampire lords and their monstrous progeny. Most vampires have Frenzied (use LP as WP) and Vampiric Attack, making them self-sustaining melee predators. A heavily combat-focused faction with one dedicated mage sub-type (Blood Crone).
+Undead vampire lords and their mortal servants. Most vampires have the **Frenzied** and **Vampiric Attack** combo, and they need to take advantage of it to be competitive with other factions' damage dealers. They have a fast and hard-hitting melee roster built around elite vampires with a few cheap thralls to support them.
 
 ## Faction Command
 
@@ -28,7 +28,7 @@ Undead vampire lords and their monstrous progeny. Most vampires have Frenzied (u
 <div class="callout">
 <p class="callout-title">Tactical note</p>
 
-Grants the standard cover protection bonus to all friendlies within 6" for the entire round. Critical for a faction where most profiles have Prot 1–4 — even +1 PROT saves 0.40 expected LP per Damage. Stacks with Concealment(+2): characters with Concealment gain double the cover bonus while Mist is active. Best used reactively (before the opponent's activations in a round) to protect the cluster from incoming Combat. 6" radius rewards the tight formation play that Vampiric Attack and Aura abilities already incentivise.
+Grants the standard cover protection in addition to any **Concealment** bonus (-1.2 average damage per hit with **Concealment (2)**). This ability is costly in resources and forces you to play in tight formation, but can make some characters way more tanky than they seem.
 
 </div>
 
@@ -36,14 +36,12 @@ Grants the standard cover protection bonus to all friendlies within 6" for the e
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| [Blood Crone (Leader)](/factions/strigoi/blood-crone/) | Mage(3) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Major Arcana: knows all Cantrips from all Disciplines; Minor Incanta: free 0AP Cantrip once per turn |
-| [Seer (Hero)](/factions/strigoi/seer/) | Mage(2) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | |
-| [Gibele (Hero)](/factions/strigoi/gibele/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | WP0 + Frenzied: all spell costs paid in LP; African Bewitching PULSE: Bride chars gain Stun on weapons |
-| [Strigoi Jude (Hero)](/factions/strigoi/strigoi-jude/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Judgement PULSE: Judged char → friendlies re-roll full Attack Roll; Dispel vs Judged counts Mage(X) as 1 higher |
-| [Tarot Reader (Hero)](/factions/strigoi/tarot-reader/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Minor Arcana: must know extra Cantrip from different Discipline; Cartomancy: successful Cantrip → 1 WP replenished |
-| [Romani (Henchman)](/factions/strigoi/romani/) | Mage(0) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Tarot: multiple Romani must each pick a different Discipline until all represented |
-
-Blood Crone is the primary caster: Mage(3) across three disciplines with a cantrip from each if using Major Arcana. Seer is a secondary <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>-only caster with strong command support.
+| [Blood Crone](/factions/strigoi/blood-crone/) | Mage (3) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Knows all Cantrips from all Disciplines and can cast one free of AP per turn |
+| [Seer](/factions/strigoi/seer/) | Mage (2) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Support mage that can generate a reroll pool |
+| [Cibele](/factions/strigoi/cibele/) | Mage (2) + Expert Sorcerer (1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Frenzied caster *Bride* |
+| [Strigoi Jude](/factions/strigoi/strigoi-jude/) | Mage (2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Frenzied mage that can make an enemy vulnerable to all allied attacks and dispel attempts |
+| [Tarot Reader](/factions/strigoi/tarot-reader/) | Mage (2) + Expert Sorcerer (1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Must learn two Cantrips, but make allies regen 1 WP on a successful cantrip cast |
+| [Romani](/factions/strigoi/romani/) | Mage (0) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Cantrip caster, multiple Romani must each pick a different Discipline |
 
 ## Roster
 
@@ -65,7 +63,7 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 #### [Vlad Dracula - Brawler](/factions/strigoi/vlad-dracula/)
 
-Strong versatile fighter with very high mobility, but he only has a conditionnal Vampiric Attack. He can play as an assassin or sit with Vampires to become near-unkillable as every Vampire gains Bodyguard (*Leader*). He allows his Brides to be fielded as Henchmen.
+Strong versatile fighter with very high mobility, but he only has a conditionnal **Vampiric Attack**. He can play as an assassin or sit with Vampires to become near-unkillable as every Vampire gains **Bodyguard (*Leader*)**. He allows his Brides to be fielded as Henchmen.
 
 #### [Blood Crone - Support (mage) / Damage Dealer (magic)](/factions/strigoi/blood-crone/)
 
@@ -77,7 +75,7 @@ Modest fighter, but brings short-range Command denial and buffs Vampires, notabl
 
 #### [Stryha Crone - Assassin (flying, infiltration)](/factions/strigoi/stryha-crone/)
 
-Fragile anti-armor alpha-striker. She gives 3 models Infiltration to enable a strong alpha strike or terrain control.
+Fragile anti-armor alpha-striker. She gives 3 models **Infiltration** to enable a strong alpha strike or terrain control.
 
 #### [Wallachian Hospodar - Brawler (durable)](/factions/strigoi/wallachian-hospodar/)
 
@@ -87,7 +85,7 @@ Very durable fighter but with a Full Plate (weak near water). He also gives a sm
 
 **Bride**
 
-[Ceres](/factions/strigoi/ceres/), [Gibele](/factions/strigoi/gibele/), [Miriam](/factions/strigoi/miriam/)
+[Ceres](/factions/strigoi/ceres/), [Cibele](/factions/strigoi/cibele/), [Miriam](/factions/strigoi/miriam/)
 
 **Soldier**
 
@@ -95,13 +93,13 @@ Very durable fighter but with a Full Plate (weak near water). He also gives a sm
 
 **Vampire**
 
-**[Noble Strigoi](/factions/strigoi/noble-strigoi/)** , **[Stryha Crone](/factions/strigoi/stryha-crone/)** , **[Vlad Dracula](/factions/strigoi/vlad-dracula/)** , **[Wallachian Hospodar](/factions/strigoi/wallachian-hospodar/)** , [Aquatic Strigoi](/factions/strigoi/aquatic-strigoi/), [Ceres](/factions/strigoi/ceres/), [Cetean Upiór](/factions/strigoi/cetean-upi-r/), [Common Strigoi](/factions/strigoi/common-strigoi/), [Gibele](/factions/strigoi/gibele/), [Giurgiu Guard](/factions/strigoi/giurgiu-guard/), [Hulking Moroi](/factions/strigoi/hulking-moroi/), [Leech](/factions/strigoi/leech/), [Miriam](/factions/strigoi/miriam/), [Monstrous Stryx](/factions/strigoi/monstrous-stryx/), [Newborn Strigoi](/factions/strigoi/newborn-strigoi/), [Nosferatu](/factions/strigoi/nosferatu/), [Poenari Scout](/factions/strigoi/poenari-scout/), [Reaper](/factions/strigoi/reaper/), [Sinker](/factions/strigoi/sinker/), [Spatar](/factions/strigoi/spatar/), [Starved Dhampir](/factions/strigoi/starved-dhampir/), [Strige](/factions/strigoi/strige/), [Strigoi Jude](/factions/strigoi/strigoi-jude/), [Strigoi Priest](/factions/strigoi/strigoi-priest/), [Strigoi Sluger](/factions/strigoi/strigoi-sluger/), [Strzyga](/factions/strigoi/strzyga/), [Wallachian Impaler](/factions/strigoi/wallachian-impaler/), [Zoryi](/factions/strigoi/zoryi/)
+**[Noble Strigoi](/factions/strigoi/noble-strigoi/)** , **[Stryha Crone](/factions/strigoi/stryha-crone/)** , **[Vlad Dracula](/factions/strigoi/vlad-dracula/)** , **[Wallachian Hospodar](/factions/strigoi/wallachian-hospodar/)** , [Aquatic Strigoi](/factions/strigoi/aquatic-strigoi/), [Ceres](/factions/strigoi/ceres/), [Cetean Upiór](/factions/strigoi/cetean-upi-r/), [Cibele](/factions/strigoi/cibele/), [Common Strigoi](/factions/strigoi/common-strigoi/), [Giurgiu Guard](/factions/strigoi/giurgiu-guard/), [Hulking Moroi](/factions/strigoi/hulking-moroi/), [Leech](/factions/strigoi/leech/), [Miriam](/factions/strigoi/miriam/), [Monstrous Stryx](/factions/strigoi/monstrous-stryx/), [Newborn Strigoi](/factions/strigoi/newborn-strigoi/), [Nosferatu](/factions/strigoi/nosferatu/), [Poenari Scout](/factions/strigoi/poenari-scout/), [Reaper](/factions/strigoi/reaper/), [Sinker](/factions/strigoi/sinker/), [Spatar](/factions/strigoi/spatar/), [Starved Dhampir](/factions/strigoi/starved-dhampir/), [Strige](/factions/strigoi/strige/), [Strigoi Jude](/factions/strigoi/strigoi-jude/), [Strigoi Priest](/factions/strigoi/strigoi-priest/), [Strigoi Sluger](/factions/strigoi/strigoi-sluger/), [Strzyga](/factions/strigoi/strzyga/), [Wallachian Impaler](/factions/strigoi/wallachian-impaler/), [Zoryi](/factions/strigoi/zoryi/)
 
 ### Heroes
 
 **Mages**
 
-- [Gibele](/factions/strigoi/gibele/) is a spellcasting damage dealer. It brings a Frenzy burst (+76%).
+- [Cibele](/factions/strigoi/cibele/) is a spellcasting damage dealer. It brings a Frenzy burst (+76%).
 - [Strigoi Jude](/factions/strigoi/strigoi-jude/) is a target-locking anti-mage specialist that doubles as a spellcasting damage dealer. Its niche is to hunt and tax enemy Mages — dead weight vs magic-free gangs.
 - [Tarot Reader](/factions/strigoi/tarot-reader/) is a spellcasting support piece that doubles as a Summon Vermin damage dealer, flexible across disciplines (its spell pick sets the role). Also slips out of melee freely.
 - [Seer](/factions/strigoi/seer/) is a spellcasting support piece, bringing stat buffs & dice manipulation. Also slips out of melee freely.
@@ -222,7 +220,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Wallachian Impaler](/factions/strigoi/wallachian-impaler/) | 4.74 | 0.263 | ✓ | 12.4 | 0.69 | – |
 | [Hulking Moroi](/factions/strigoi/hulking-moroi/) | 3.59 | 0.256 | ✓ | 7.9 | 0.56 | – |
 | [Highborn Servant](/factions/strigoi/highborn-servant/) | 2.68 | 0.206 | ✓ | 12.4 | 0.95 | ✓ |
-| [Gibele](/factions/strigoi/gibele/) | 3.78 | 0.199 | ✓ | 9.8 | 0.52 | – |
+| [Cibele](/factions/strigoi/cibele/) | 3.78 | 0.199 | ✓ | 9.8 | 0.52 | – |
 | [Moon Eater](/factions/strigoi/moon-eater/) | 4.10 | 0.178 | – | 9.0 | 0.39 | – |
 | [Zoryi](/factions/strigoi/zoryi/) | 3.31 | 0.174 | – | 16.8 | 0.88 | ✓ |
 | [Varcolae](/factions/strigoi/varcolae/) | 2.60 | 0.153 | – | 8.8 | 0.52 | – |

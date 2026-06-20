@@ -21,9 +21,9 @@ toc:
 
 ## Faction Overview
 
-A mercenary/allied faction of unique individuals who can join **any gang**. The Gifted have no henchmen — every model is a Leader or Hero. Their Faction Command provides the single most powerful strategic ability in the game: choosing who goes first each round.
+A mercenary faction of unique individuals who can join **any gang**. They are an eclectic group with unique abilities, which gives them tactical depth.
 
-**Special Rule:** Any character with the Faction(Gifted) keyword can be taken in any gang.
+**Special Rule:** Any character with the **Faction (*Gifted*)** keyword can be taken in any gang.
 
 ## Faction Command
 
@@ -32,32 +32,34 @@ A mercenary/allied faction of unique individuals who can join **any gang**. The 
 <div class="callout">
 <p class="callout-title">Tactical note</p>
 
-Replaces the entire roll — not a bonus, complete control. Use to deny the opponent a key activation window (protect an exposed model, secure a double-activation before they can respond, or pre-empt a charge). Costs 1 CP with no refund mechanic. Arguably the strongest Faction Command in the game because initiative sequencing determines who gets to act first out of every round.
+It is a very strong ability, but Gifted has really low Command Points in general and strong Command actions, making this ability costly to use.
 
 </div>
 
 ## Faction special ability: Masks
 
-Several Gifted characters grant **Masks** to other friendly chars at game start:
+At the beginning of the game, before deployment, several Gifted characters can select another friendly character to wear one of their **Masks**.
 
-| Mask Giver | Options |
-|-----------|---------|
-| Artisan Elena | (A) Frenzied + Vampiric Attack(2) + WP→0; or (B) First Strike(1) + Vampiric Attack(1) |
-| Francisco De Lorme | Target: +2 starting WP + Companion(Francisco De Lorme); chars in LOS within 6" may use that char's WP |
-| Il Mentore | (A) Pickpocket + Slippery(2); or (B) Aerial Attack + Infiltrate |
-| Marco Leontus | (A) +2 starting CP; or (B) Boat Crew + Bodyguard(Leader) |
-| Master Gerhard | Universal Shielding(2) on target |
+A character can only be given a single Mask. *Unique* characters without **Faction (*Gifted*)** and **Mindless** characters cannot be given a Mask.
 
-Rules: one Mask per char; Unique Gifted chars without Mindless cannot receive a Mask. (Mindless can.) Masks from Painted Protector's creator (Maria Fioritura) are a separate mechanic.
+These characters are pricey and have really low stats, their value comes from the ability they can give to any model.
+
+| Mask Giver | Option A | Option B |
+|-----------|---------|---------|
+| Artisan Elena | Frenzied + Vampiric Attack (2) but reduce WP to 0 | First Strike (1) + Vampiric Attack (1) |
+| Francisco De Lorme | +2 starting WP + Companion (*Francisco De Lorme*) + Nexus | - |
+| Il Mentore | Pickpocket + Slippery (2) | Aerial Attack + Infiltration |
+| Marco Leontus | +2 starting CP | Boat Crew + Bodyguard (Leader) |
+| Master Gerhard | Universal Shielding (2) | +1 damage if target has 0 WP |
 
 ## Magic Access
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| [Fate (Hero)](/factions/gifted/fate/) | Mage(2) + Expert Sorcerer(2) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | |
-| [Maria Fioritura (Hero)](/factions/gifted/maria-fioritura/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Unique summoning spell |
-| [Fadhila (Hero)](/factions/gifted/fadhila/) | Mage(2) + Expert Sorcerer(1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Protective Bubble non-spell ability |
-| [Francisco De Lorme (Hero)](/factions/gifted/francisco-de-lorme/) | Mage(1) + Expert Sorcerer(1) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | WP-sharing Mask mechanic |
+| [Fate](/factions/gifted/fate/) | Mage (2) + Expert Sorcerer (2) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Has a strong WP drain short range ability |
+| [Maria Fioritura](/factions/gifted/maria-fioritura/) | Mage (2) + Expert Sorcerer (1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Has the unique ability to summon Painted Protectors |
+| [Fadhila](/factions/gifted/fadhila/) | Mage (2) + Expert Sorcerer (1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Has a strong but unreliable defense aura |
+| [Francisco De Lorme](/factions/gifted/francisco-de-lorme/) | Mage (1) + Expert Sorcerer (1) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Mask giver |
 
 ## Roster
 

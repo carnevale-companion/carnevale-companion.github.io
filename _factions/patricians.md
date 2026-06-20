@@ -19,7 +19,7 @@ toc:
 
 ## Faction Overview
 
-Venice's ruling nobility — wealthy merchants, military officers, Ottoman mercenaries, and monstrous pets. The faction command grants 1AP (free on 7+ for Councillor chars), creating flexible activation economy. Four distinct sub-factions (Councillor, Officer/Soldier, Ottoman, Boat Crew) give the Patricians unusual versatility. The faction has 7 Leaders — the most of any faction.
+Venice's ruling nobility and their private army, composed of the Venetian city guard and Ottoman mercenaries. The faction is built around heavy ranged burst damage with low sustain. They have the most choice of leaders, strong but expensive synergy between some of their models, making it an interesting faction for list building. Their models don't have a lot of diverse abilities and little access to magic, but are generally strong, with good stats, and lots of WP and CP across the faction.
 
 ## Faction Command
 
@@ -30,7 +30,7 @@ If this character has the *Councillor* keyword, roll a dice. On a 7+, this Comma
 <div class="callout">
 <p class="callout-title">Tactical note</p>
 
-+1 AP on the leader using the command (subject to 3 AP cap). The Councillor refund (40% on 7+) makes this effectively free roughly half the turns it's used — most Patrician leaders have Councillor, so this is often a near-free action extension. Best spent to squeeze a 3rd action out of a 2-AP leader mid-fight (extra Combat, reposition, or Guard), or to give a leader an extra activation in a key round.
+Most leaders won't benefit from this command, since it can't take them past the 3 AP per turn maximum. The Councillor refund (40% on 7+) makes this effectively free roughly half the turns it's used.
 
 </div>
 
@@ -38,10 +38,10 @@ If this character has the *Councillor* keyword, roll a dice. On a 7+, this Comma
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| [Adventuring Noble (Hero)](/factions/patricians/adventuring-noble/) | Mage(2) | <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Arcane Totem: all spells free but once per game each; failed cast = lose random additional spell |
-| [Moon (Hero)](/factions/patricians/moon/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Mindless; Companion(Sun); AP2 |
+| [Adventuring Noble](/factions/patricians/adventuring-noble/) | Mage (2) | <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Knows all spells of its Discipline, they cost 0 WP but can only be cast once per game |
+| [Moon](/factions/patricians/moon/) | Mage (2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Swift flying mage with low WP for a mage |
 
-The Patricians have the weakest magic in the game. Adventuring Noble's Arcane Totem gives access to all <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> spells at 0WP cost, but the once-per-game limit and cascade-failure risk make it unreliable for sustained use. Moon is a fragile mage who must stay paired with Sun (Companion mechanic).
+The Patricians have the weakest magic in the game: only 2 mages, with one being unreliable and the other having low resources.
 
 ## Roster
 
@@ -63,11 +63,11 @@ See [Role Tags page](/mechanics/role-tags) for details about each role and how t
 
 #### [Pinnacle of Affluence - Support (command)](/factions/patricians/pinnacle-of-affluence/)
 
-The most expensive leader of the game. His cost is justified by being the highest command output character over the course of the game. He has weak stats but has a Poisoned template attack and gives every friendly models **Bodyguard (*Pinnacle of Affluence*)**.
+The most expensive leader of the game. His cost is justified by being the highest command output character over the course of the game. He has weak stats but has a **Poisoned** template attack and gives every friendly models **Bodyguard (*Pinnacle of Affluence*)**.
 
 #### [Guard Commander - Brawler / Support (Officer)](/factions/patricians/guard-commander/)
 
-Durable Parry fighter that buffs Soldiers.
+Durable **Parry** fighter that buffs Soldiers.
 
 #### [Noble Admiral - Sniper (mid-range)](/factions/patricians/noble-admiral/)
 

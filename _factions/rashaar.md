@@ -19,7 +19,7 @@ toc:
 
 ## Faction Overview
 
-Deep-sea horrors, cultist worshippers, and their monstrous spawn. The Rashaar are the most aquatic faction — the majority have Water Creature, most have Fast Swimmer, and their creatures have Aquatic weapons. The faction features the game's highest raw magic character (Magi-Rashaar), the highest Protection stat (Brachyura, Prot7), the highest Attack stat (Emissary of Mother Hydra, Atk7), and the most expensive/durable model (Morgraur, LP45, Size120, 68d). The faction command converts LP from engaged enemies into WP via a Mind Roll.
+Cultist worshippers, deep-sea horrors, and their monstrous spawn. The Rashaar are the uncontested masters of the canal, but that's a double edged sword: a lot of their models need to be in or near water to be efficient. The faction features the game's highest raw magic character (Magi-Rashaar), the highest Protection stat (Brachyura, Prot7), the highest Attack stat (Emissary of Mother Hydra, Atk7), and the most expensive/durable model (Morgraur, LP45, Size120, 68d). Rashaar is built around strong and expensive monsters and magic, supported by high quality cultists and cheap fodder.
 
 ## Faction Command
 
@@ -28,7 +28,7 @@ Deep-sea horrors, cultist worshippers, and their monstrous spawn. The Rashaar ar
 <div class="callout">
 <p class="callout-title">Tactical note</p>
 
-Dual-purpose — direct LP removal (no Protection Roll) and WP replenishment in one command. Value scales with MIND: MIND 5 base → 2.0 expected Aces; with +2 WP on the roll (7 dice) → 2.8 expected Aces. Requires base contact, so it rewards aggressive leader positioning — a Magi-Rashaar or Thalidraur already in combat can drain a target and fund the next round of spells or commands simultaneously.
+0.4 expected aces per MIND value. So with MIND 3 base and +2 boost from WP: 2.0 expected Aces. For pure damage purpose, it refund itself on average.
 
 </div>
 
@@ -36,14 +36,14 @@ Dual-purpose — direct LP removal (no Protection Roll) and WP replenishment in 
 
 | Mage | Level | Discipline(s) | Notes |
 |------|-------|---------------|-------|
-| [Magi-Rashaar (Leader)](/factions/rashaar/magi-rashaar/) | Mage(3) + Expert Sorcerer(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Can cast while in water; Rent-born reduces 1 spell's cost per round; Mind6 |
-| [The Drowned Nun (Hero)](/factions/rashaar/the-drowned-nun/) | Mage(2) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Unique spell Dagonite Baptism (scales with Aces); can cast while in water |
-| [Dagonite Priest (Hero)](/factions/rashaar/dagonite-priest/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Self-sustaining via Sacrifice (LP dealt = WP back); can combat friendlies |
-| [Sirena (Hero)](/factions/rashaar/sirena/) | Mage(2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Hydra; Hypnotic Song AURA (-2 Mind to enemies); Dragging Down |
-| [Paliaa (Hero)](/factions/rashaar/paliaa/) | Mage(1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Monster; Gift of the Elder Gods PULSE (+1 Atk to Henchmen near Monsters) |
-| [Aglaope (Henchman)](/factions/rashaar/aglaope/) | Mage(1) + Expert Sorcerer(1) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Monster; Water Creature; Dragging Down |
+| [Magi-Rashaar](/factions/rashaar/magi-rashaar/) | Mage (3) + Expert Sorcerer (2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Best mage of the game |
+| [The Drowned Nun](/factions/rashaar/the-drowned-nun/) | Mage (2) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Unique damage spell that can stun, gives a chance to stun opponents when drowning them |
+| [Dagonite Priest](/factions/rashaar/dagonite-priest/) | Mage (2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Can attack friendly or enemy models to regain WP |
+| [Sirena](/factions/rashaar/sirena/) | Mage (2) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Really fast in water, once per game -2 MIND aura |
+| [Paliaa](/factions/rashaar/paliaa/) | Mage (1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a> | Aura that buffs Henchmen attack |
+| [Aglaope](/factions/rashaar/aglaope/) | Mage (1) + Expert Sorcerer (1) | <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Cheap support mage |
 
-Magi-Rashaar remains the highest raw magic level in the game: Mage(3)+ES(2) = 5 spells + Cantrip across 3 disciplines, with Mind6 and Water Creature. The Drowned Nun's Dagonite Baptism is a unique scaling damage spell usable in water within 3" — combo with Fanaticism (gives nearby allies Frenzied for 1LP each) enables a denial/buff loop.
+The Drowned Nun's **Dagonite Baptism** is a unique damage spell scaling with Aces. Paired with **Fanaticism for Dagon** that gives her **Frenzied**, she can reliably cast it boosted for 2 LP, making it an ok damage spell against lightly armored foes but at a huge cost (1WP + 1CP + 2LP).
 
 ## Roster
 
@@ -73,7 +73,7 @@ Simply the best caster of the game, but very fragile.
 
 #### [Paartul Matriarch - Specialist (spawner)](/factions/rashaar/paartul-matriarch/)
 
-She has weak stats but the unique ability to summon one Crybaby per turn, small annoying bodies that can be attacked by allies to loose Mindless. Build around Feral monsters, notably giving them **Companion (*Leader*)**.
+She has weak stats but the unique ability to summon one Crybaby per turn, small annoying bodies that can be attacked by allies to loose **Mindless**. Build around Feral monsters, notably giving them **Companion (*Leader*)**.
 
 #### [Sir Tiburcio - Tank](/factions/rashaar/sir-tiburcio/)
 
@@ -85,7 +85,7 @@ Big expensive melee monster that's very slow unless he's in water. He has very l
 
 #### [Voice of Dagon - Support (CP, control)](/factions/rashaar/voice-of-dagon/)
 
-One of the highest effective Command outputs in the game, otherwise a modest combattant but with a good armor-piercing Stun template attack.
+One of the highest effective Command outputs in the game, otherwise a modest combattant but with a good armor-piercing **Stun** template attack.
 
 ### Sub-factions
 
