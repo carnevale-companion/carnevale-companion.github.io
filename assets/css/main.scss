@@ -463,7 +463,7 @@ a:hover { text-decoration: underline; }
   margin-bottom: 1.25rem;
 }
 .page-inner a { color: var(--accent); }
-.page-inner strong { color: var(--ink); font-weight: 500; }
+.page-inner strong:not(.cp-term) { color: var(--ink); font-weight: 500; }
 
 
 /* ===========================================
@@ -660,8 +660,8 @@ a:hover { text-decoration: underline; }
   margin-bottom: 1rem;
   font-weight: 300;
 }
-.doc-content p strong,
-.doc-content li strong { color: var(--ink); font-weight: 500; }
+.doc-content p strong:not(.cp-term),
+.doc-content li strong:not(.cp-term) { color: var(--ink); font-weight: 500; }
 .doc-content em { font-style: italic; }
 
 .doc-content ul,

@@ -7,7 +7,7 @@
   //             optional-sign+number before abbreviation · abbreviation before number · standalone abbreviation
   var N = '\\d+(?:\\.\\d+)?'; // integer or decimal, e.g. 2 or 2.6
   var PATTERN = new RegExp(
-    '(?<cp>(?:(?:[+-]?' + N + '|\\(X\\))\\s+)?Command Points?|(?<!\\w)[+-]?' + N + '[-\\s]*CP\\b|\\bCP\\s+' + N + '\\b|\\bCP\\b|\\bPLAN\\b|\\bORDER\\b|\\bCOUNTER\\b|\\bABILITY\\b|\\bAURA\\b|\\bPULSE\\b|Cast Off)|' +
+    '(?<cp>(?:(?:[+-]?' + N + '|\\(X\\))\\s+)?Command Points?|(?<!\\w)[+-]?' + N + '[-\\s]*CP\\b|\\bCP\\s+' + N + '\\b|\\bCP\\b|\\bPLAN\\b|\\bORDER\\b|\\(COUNTER\\)|\\bCOUNTER\\b|\\(ABILITY\\)|\\bABILITY\\b|\\(AURA\\)|\\bAURA\\b|\\(PULSE\\)|\\bPULSE\\b|Cast Off)|' +
     '(?<ap>(?:(?:[+-]?' + N + '|\\(X\\))\\s+)?Action Points?|(?<!\\w)[+-]?' + N + '[-\\s]*AP\\b|\\bAP\\s+' + N + '\\b|\\bAP\\b)|' +
     '(?<lp>(?:(?:[+-]?' + N + '|\\(X\\))\\s+)?Life Points?|(?<!\\w)[+-]?' + N + '[-\\s]*LP\\b|\\bLP\\s+' + N + '\\b|\\bLP\\b)|' +
     '(?<wp>(?:(?:[+-]?' + N + '|\\(X\\))\\s+)?Will Points?|(?<!\\w)[+-]?' + N + '[-\\s]*WP\\b|\\bWP\\s+' + N + '\\b|\\bWP\\b)',
@@ -47,6 +47,20 @@
 
     var content = document.querySelector('.doc-content');
     if (!content) return;
+
+    // Highlight faction command names: **Name** (PULSE/AURA/COUNTER/ABILITY)
+    content.querySelectorAll('strong').forEach(function (el) {
+      var sib = el.nextSibling;
+      var val = '';
+      while (sib) {
+        if (sib.nodeType === 3) { val += sib.nodeValue; }
+        else if (sib.nodeType === 1) { break; }
+        sib = sib.nextSibling;
+      }
+      if (/^\s*\((?:PULSE|AURA|COUNTER|ABILITY)\)/.test(val)) {
+        el.classList.add('cp-term');
+      }
+    });
 
     var walker = document.createTreeWalker(
       content,
