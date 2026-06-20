@@ -42,6 +42,8 @@ EDPA **2.48** · EDPA/Duc **0.138** · ATK2K **14.9** · ATK2K/Duc **0.83**
 
 ### EDPA by target
 
+*Sustained: divine flamex2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.79 | 2.50 |
@@ -51,12 +53,13 @@ EDPA **2.48** · EDPA/Duc **0.138** · ATK2K **14.9** · ATK2K/Duc **0.83**
 | Tank (Dex4/Prot5/US5) | 0.98 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 1.87 | 0.96 |
 
-*Sustained: divine flamex2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 13 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

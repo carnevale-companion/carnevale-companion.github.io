@@ -42,6 +42,8 @@ EDPA **3.24** · EDPA/Duc **0.191** · ATK2K **9.7** · ATK2K/Duc **0.57**
 
 ### EDPA by target
 
+*Best spell: Summon Vermin*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.14 | 2.49 |
@@ -51,12 +53,13 @@ EDPA **3.24** · EDPA/Duc **0.191** · ATK2K **9.7** · ATK2K/Duc **0.57**
 | Tank (Dex4/Prot5/US5) | 2.43 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 3.24 | 0.92 |
 
-*Spell:summon vermin*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 11 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

@@ -46,6 +46,8 @@ EDPA **5.96** · EDPA/Duc **0.175** · ATK2K **17.0** · ATK2K/Duc **0.50**
 
 ### EDPA by target
 
+*Sustained: bird kickx2 +bottle burner(free aoo/ap)*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 8.49 | 4.01 |
@@ -55,12 +57,13 @@ EDPA **5.96** · EDPA/Duc **0.175** · ATK2K **17.0** · ATK2K/Duc **0.50**
 | Tank (Dex4/Prot5/US5) | 4.09 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 4.43 | 2.13 |
 
-*Sustained: bird kickx2 +bottle burner(free aoo/ap)*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 30 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

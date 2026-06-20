@@ -40,6 +40,8 @@ EDPA **3.08** · EDPA/Duc **0.162** · ATK2K **7.9** · ATK2K/Duc **0.42**
 
 ### EDPA by target
 
+*Sustained: hoof stompx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.40 | 3.79 |
@@ -49,12 +51,13 @@ EDPA **3.08** · EDPA/Duc **0.162** · ATK2K **7.9** · ATK2K/Duc **0.42**
 | Tank (Dex4/Prot5/US5) | 2.27 | 1.50 |
 | Parry (Dex5/Prot3/Parry2) | 2.17 | 1.69 |
 
-*Sustained: hoof stompx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 14 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

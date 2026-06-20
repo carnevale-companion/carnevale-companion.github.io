@@ -40,23 +40,25 @@ EDPA **2.69** · EDPA/Duc **0.168** · ATK2K **8.1** · ATK2K/Duc **0.51**
 <div class="model-pairs">
 <div>
 
-### EDPA by target
+### Blood Rites EDPA by target
+
+*Best spell: Mother Hydra's Claws* · EDPA/Duc **0.168**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 2.95 | 2.50 |
-| Balanced (Dex4/Prot3) | 2.69 | 1.56 |
-| Evasive (Dex6/Prot2) | 2.69 | 1.35 |
-| Armoured (Dex4/Prot5) | 2.69 | 1.05 |
-| Tank (Dex4/Prot5/US5) | 2.69 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 2.69 | 0.96 |
-
-*Spell:mother hydra's claws*
+| Soft (Dex3/Prot1) | 2.89 | 4.07 |
+| Balanced (Dex4/Prot3) | 2.69 | 3.80 |
+| Evasive (Dex6/Prot2) | 2.69 | 4.07 |
+| Armoured (Dex4/Prot5) | 2.69 | 2.90 |
+| Tank (Dex4/Prot5/US5) | 2.69 | 2.69 |
+| Parry (Dex5/Prot3/Parry2) | 2.69 | 3.80 |
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 11 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
@@ -64,6 +66,25 @@ EDPA **2.69** · EDPA/Duc **0.168** · ATK2K **8.1** · ATK2K/Duc **0.51**
 | Elite (Atk5, Dmg+1) | 3.87 | 2.8 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 2.50 | 4.4 | 5.0 |
 | Drown (Atk3) | 2.30 | 4.8 | 5.8 |
+
+</div>
+</div>
+
+<div class="model-pairs">
+<div>
+
+### Wild Magic EDPA by target
+
+*Best spell: Summon Vermin* · EDPA/Duc **0.131**
+
+| Target | EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 2.95 | 5.63 |
+| Balanced (Dex4/Prot3) | 2.10 | 4.71 |
+| Evasive (Dex6/Prot2) | 2.48 | 5.17 |
+| Armoured (Dex4/Prot5) | 1.38 | 3.87 |
+| Tank (Dex4/Prot5/US5) | 1.38 | 3.87 |
+| Parry (Dex5/Prot3/Parry2) | 2.10 | 4.71 |
 
 </div>
 </div>

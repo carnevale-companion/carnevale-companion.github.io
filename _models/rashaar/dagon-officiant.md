@@ -40,6 +40,8 @@ EDPA **1.86** · EDPA/Duc **0.169** · ATK2K **13.7** · ATK2K/Duc **1.25**
 
 ### EDPA by target
 
+*Sustained: khopesh daggersx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.83 | 4.01 |
@@ -49,12 +51,13 @@ EDPA **1.86** · EDPA/Duc **0.169** · ATK2K **13.7** · ATK2K/Duc **1.25**
 | Tank (Dex4/Prot5/US5) | 0.88 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 1.07 | 2.13 |
 
-*Sustained: khopesh daggersx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 12 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

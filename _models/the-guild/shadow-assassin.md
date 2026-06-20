@@ -42,6 +42,8 @@ EDPA **2.66** · EDPA/Duc **0.190** · ATK2K **11.9** · ATK2K/Duc **0.85**
 
 ### EDPA by target
 
+*Sustained: dual stilettosx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.90 | 4.15 |
@@ -51,12 +53,13 @@ EDPA **2.66** · EDPA/Duc **0.190** · ATK2K **11.9** · ATK2K/Duc **0.85**
 | Tank (Dex4/Prot5/US5) | 2.27 | 2.05 |
 | Parry (Dex5/Prot3/Parry2) | 1.81 | 2.77 |
 
-*Sustained: dual stilettosx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 11 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

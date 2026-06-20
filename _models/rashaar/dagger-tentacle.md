@@ -42,6 +42,8 @@ EDPA **1.80** · EDPA/Duc **—** · ATK2K **2.6** · ATK2K/Duc **—**
 
 ### EDPA by target
 
+*Sustained: rending spinex2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.80 | 2.50 |
@@ -51,12 +53,13 @@ EDPA **1.80** · EDPA/Duc **—** · ATK2K **2.6** · ATK2K/Duc **—**
 | Tank (Dex4/Prot5/US5) | 0.85 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 1.55 | 0.96 |
 
-*Sustained: rending spinex2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 5 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

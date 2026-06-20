@@ -42,6 +42,8 @@ EDPA **2.60** · EDPA/Duc **0.153** · ATK2K **8.8** · ATK2K/Duc **0.52**
 
 ### EDPA by target
 
+*Sustained: canine clawsx3*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.30 | 4.01 |
@@ -51,12 +53,13 @@ EDPA **2.60** · EDPA/Duc **0.153** · ATK2K **8.8** · ATK2K/Duc **0.52**
 | Tank (Dex4/Prot5/US5) | 1.12 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 1.55 | 2.13 |
 
-*Sustained: canine clawsx3*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 14 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

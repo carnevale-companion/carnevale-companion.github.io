@@ -44,6 +44,8 @@ EDPA **2.41** · EDPA/Duc **0.161** · ATK2K **13.2** · ATK2K/Duc **0.88**
 
 ### EDPA by target
 
+*Sustained: brutal fistsx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.80 | 4.48 |
@@ -53,12 +55,13 @@ EDPA **2.41** · EDPA/Duc **0.161** · ATK2K **13.2** · ATK2K/Duc **0.88**
 | Tank (Dex4/Prot5/US5) | 1.67 | 2.45 |
 | Parry (Dex5/Prot3/Parry2) | 1.34 | 2.06 |
 
-*Sustained: brutal fistsx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 15 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

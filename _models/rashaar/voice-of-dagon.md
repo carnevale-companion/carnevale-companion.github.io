@@ -46,6 +46,8 @@ EDPA **2.50** · EDPA/Duc **0.125** · ATK2K **16.0** · ATK2K/Duc **0.80**
 
 ### EDPA by target
 
+*Sustained: voice of madnessx3*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.79 | 2.49 |
@@ -55,12 +57,13 @@ EDPA **2.50** · EDPA/Duc **0.125** · ATK2K **16.0** · ATK2K/Duc **0.80**
 | Tank (Dex4/Prot5/US5) | 0.82 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 1.76 | 0.92 |
 
-*Sustained: voice of madnessx3*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 14 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

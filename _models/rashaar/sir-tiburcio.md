@@ -47,6 +47,8 @@ EDPA **3.40** · EDPA/Duc **0.148** · ATK2K **25.6** · ATK2K/Duc **1.11**
 
 ### EDPA by target
 
+*Sustained: barnacle claymorex3*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.52 | 3.40 |
@@ -56,12 +58,13 @@ EDPA **3.40** · EDPA/Duc **0.148** · ATK2K **25.6** · ATK2K/Duc **1.11**
 | Tank (Dex4/Prot5/US5) | 2.17 | 1.32 |
 | Parry (Dex5/Prot3/Parry2) | 2.08 | 1.40 |
 
-*Sustained: barnacle claymorex3*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 16 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

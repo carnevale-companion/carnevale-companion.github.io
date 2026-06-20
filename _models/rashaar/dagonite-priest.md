@@ -40,23 +40,25 @@ EDPA **3.58** · EDPA/Duc **0.239** · ATK2K **10.6** · ATK2K/Duc **0.71**
 <div class="model-pairs">
 <div>
 
-### EDPA by target
+### Blood Rites EDPA by target
+
+*Best spell: Kraken's Breath* · EDPA/Duc **0.239**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 4.14 | 4.01 |
-| Balanced (Dex4/Prot3) | 3.58 | 2.95 |
-| Evasive (Dex6/Prot2) | 3.83 | 2.52 |
-| Armoured (Dex4/Prot5) | 2.71 | 2.17 |
-| Tank (Dex4/Prot5/US5) | 2.43 | 1.90 |
-| Parry (Dex5/Prot3/Parry2) | 3.58 | 2.13 |
-
-*Spell:kraken's breath*
+| Soft (Dex3/Prot1) | 3.83 | 4.07 |
+| Balanced (Dex4/Prot3) | 3.58 | 3.80 |
+| Evasive (Dex6/Prot2) | 3.83 | 4.07 |
+| Armoured (Dex4/Prot5) | 2.71 | 2.90 |
+| Tank (Dex4/Prot5/US5) | 1.89 | 2.69 |
+| Parry (Dex5/Prot3/Parry2) | 3.58 | 3.80 |
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 12 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
@@ -64,6 +66,25 @@ EDPA **3.58** · EDPA/Duc **0.239** · ATK2K **10.6** · ATK2K/Duc **0.71**
 | Elite (Atk5, Dmg+1) | 3.38 | 3.5 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.5 | 6.3 |
 | Drown (Atk3) | 1.90 | 6.3 | 7.4 |
+
+</div>
+</div>
+
+<div class="model-pairs">
+<div>
+
+### Wild Magic EDPA by target
+
+*Best spell: Summon Vermin* · EDPA/Duc **0.216**
+
+| Target | EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 4.14 | 5.63 |
+| Balanced (Dex4/Prot3) | 3.24 | 4.71 |
+| Evasive (Dex6/Prot2) | 3.69 | 5.17 |
+| Armoured (Dex4/Prot5) | 2.43 | 3.87 |
+| Tank (Dex4/Prot5/US5) | 2.43 | 3.87 |
+| Parry (Dex5/Prot3/Parry2) | 3.24 | 4.71 |
 
 </div>
 </div>

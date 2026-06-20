@@ -47,6 +47,8 @@ EDPA **4.94** · EDPA/Duc **0.274** · ATK2K **11.5** · ATK2K/Duc **0.64**
 
 ### EDPA by target
 
+*Best spell: Kraken's Breath*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.94 | 2.49 |
@@ -56,12 +58,13 @@ EDPA **4.94** · EDPA/Duc **0.274** · ATK2K **11.5** · ATK2K/Duc **0.64**
 | Tank (Dex4/Prot5/US5) | 2.94 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 4.94 | 0.92 |
 
-*Spell:kraken's breath*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 13 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

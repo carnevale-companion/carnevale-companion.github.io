@@ -40,6 +40,8 @@ EDPA **3.63** · EDPA/Duc **0.242** · ATK2K **9.8** · ATK2K/Duc **0.65**
 
 ### EDPA by target
 
+*Sustained: blinding flashx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.37 | 4.15 |
@@ -49,12 +51,13 @@ EDPA **3.63** · EDPA/Duc **0.242** · ATK2K **9.8** · ATK2K/Duc **0.65**
 | Tank (Dex4/Prot5/US5) | 1.94 | 2.05 |
 | Parry (Dex5/Prot3/Parry2) | 3.12 | 2.77 |
 
-*Sustained: blinding flashx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 12 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

@@ -40,6 +40,8 @@ EDPA **1.99** · EDPA/Duc **0.166** · ATK2K **8.8** · ATK2K/Duc **0.73**
 
 ### EDPA by target
 
+*Sustained: fishing spearx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.18 | 3.79 |
@@ -49,12 +51,13 @@ EDPA **1.99** · EDPA/Duc **0.166** · ATK2K **8.8** · ATK2K/Duc **0.73**
 | Tank (Dex4/Prot5/US5) | 1.32 | 1.50 |
 | Parry (Dex5/Prot3/Parry2) | 1.25 | 1.69 |
 
-*Sustained: fishing spearx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 10 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

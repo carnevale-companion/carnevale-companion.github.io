@@ -42,6 +42,8 @@ EDPA **1.33** · EDPA/Duc **0.148** · ATK2K **6.7** · ATK2K/Duc **0.74**
 
 ### EDPA by target
 
+*Best spell: Cantrip of the Devil*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.19 | 2.50 |
@@ -51,12 +53,13 @@ EDPA **1.33** · EDPA/Duc **0.148** · ATK2K **6.7** · ATK2K/Duc **0.74**
 | Tank (Dex4/Prot5/US5) | 0.67 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 1.33 | 0.81 |
 
-*Spell:cantrip of the devil*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 10 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

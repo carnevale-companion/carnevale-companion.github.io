@@ -47,6 +47,8 @@ EDPA **5.08** · EDPA/Duc **0.188** · ATK2K **50.3** · ATK2K/Duc **1.86**
 
 ### EDPA by target
 
+*Sustained: wallachian halberdx3*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 5.73 | 4.48 |
@@ -56,12 +58,13 @@ EDPA **5.08** · EDPA/Duc **0.188** · ATK2K **50.3** · ATK2K/Duc **1.86**
 | Tank (Dex4/Prot5/US5) | 3.31 | 2.45 |
 | Parry (Dex5/Prot3/Parry2) | 3.83 | 2.06 |
 
-*Sustained: wallachian halberdx3*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 15 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

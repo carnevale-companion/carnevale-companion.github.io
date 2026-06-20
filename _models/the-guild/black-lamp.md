@@ -44,6 +44,8 @@ EDPA **2.13** · EDPA/Duc **0.125** · ATK2K **16.0** · ATK2K/Duc **0.94**
 
 ### EDPA by target
 
+*Sustained: sharpened daggerx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.30 | 2.75 |
@@ -53,12 +55,13 @@ EDPA **2.13** · EDPA/Duc **0.125** · ATK2K **16.0** · ATK2K/Duc **0.94**
 | Tank (Dex4/Prot5/US5) | 1.12 | 1.05 |
 | Parry (Dex5/Prot3/Parry2) | 1.21 | 1.03 |
 
-*Sustained: sharpened daggerx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 14 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

@@ -44,6 +44,8 @@ EDPA **2.68** · EDPA/Duc **0.223** · ATK2K **9.7** · ATK2K/Duc **0.81**
 
 ### EDPA by target
 
+*Sustained: herding spearx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.01 | 2.49 |
@@ -53,12 +55,13 @@ EDPA **2.68** · EDPA/Duc **0.223** · ATK2K **9.7** · ATK2K/Duc **0.81**
 | Tank (Dex4/Prot5/US5) | 1.92 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 1.69 | 0.92 |
 
-*Sustained: herding spearx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 11 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

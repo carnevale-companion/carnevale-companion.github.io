@@ -40,6 +40,8 @@ EDPA **1.42** · EDPA/Duc **0.089** · ATK2K **13.0** · ATK2K/Duc **0.81**
 
 ### EDPA by target
 
+*Sustained: heavy tentaclesx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.60 | 3.79 |
@@ -49,12 +51,13 @@ EDPA **1.42** · EDPA/Duc **0.089** · ATK2K **13.0** · ATK2K/Duc **0.81**
 | Tank (Dex4/Prot5/US5) | 0.87 | 1.50 |
 | Parry (Dex5/Prot3/Parry2) | 0.60 | 1.69 |
 
-*Sustained: heavy tentaclesx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 12 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

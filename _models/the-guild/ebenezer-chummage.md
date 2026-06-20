@@ -47,6 +47,8 @@ EDPA **3.10** · EDPA/Duc **0.172** · ATK2K **16.0** · ATK2K/Duc **0.89**
 
 ### EDPA by target
 
+*Sustained: fishmonger's knivesx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.30 | 2.50 |
@@ -56,12 +58,13 @@ EDPA **3.10** · EDPA/Duc **0.172** · ATK2K **16.0** · ATK2K/Duc **0.89**
 | Tank (Dex4/Prot5/US5) | 1.92 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 2.05 | 0.96 |
 
-*Sustained: fishmonger's knivesx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 14 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

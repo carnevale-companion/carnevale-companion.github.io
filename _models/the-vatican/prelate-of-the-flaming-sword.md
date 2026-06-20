@@ -42,6 +42,8 @@ EDPA **4.52** · EDPA/Duc **0.301** · ATK2K **18.0** · ATK2K/Duc **1.20**
 
 ### EDPA by target
 
+*Sustained: burning longswordx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.78 | 4.01 |
@@ -51,12 +53,13 @@ EDPA **4.52** · EDPA/Duc **0.301** · ATK2K **18.0** · ATK2K/Duc **1.20**
 | Tank (Dex4/Prot5/US5) | 2.48 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 3.38 | 2.13 |
 
-*Sustained: burning longswordx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 12 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

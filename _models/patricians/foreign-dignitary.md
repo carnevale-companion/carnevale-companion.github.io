@@ -42,6 +42,8 @@ EDPA **2.56** · EDPA/Duc **0.183** · ATK2K **13.7** · ATK2K/Duc **0.98**
 
 ### EDPA by target
 
+*Sustained: sabrex2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.67 | 2.49 |
@@ -51,12 +53,13 @@ EDPA **2.56** · EDPA/Duc **0.183** · ATK2K **13.7** · ATK2K/Duc **0.98**
 | Tank (Dex4/Prot5/US5) | 1.77 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 1.81 | 0.92 |
 
-*Sustained: sabrex2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 12 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

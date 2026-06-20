@@ -40,6 +40,8 @@ EDPA **2.93** · EDPA/Duc **0.326** · ATK2K **5.0** · ATK2K/Duc **0.56**
 
 ### EDPA by target
 
+*Sustained: rusty bladex2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.17 | 4.01 |
@@ -49,12 +51,13 @@ EDPA **2.93** · EDPA/Duc **0.326** · ATK2K **5.0** · ATK2K/Duc **0.56**
 | Tank (Dex4/Prot5/US5) | 2.17 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 2.04 | 2.13 |
 
-*Sustained: rusty bladex2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 14 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

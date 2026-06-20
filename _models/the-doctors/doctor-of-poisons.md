@@ -42,6 +42,8 @@ EDPA **4.08** · EDPA/Duc **0.314** · ATK2K **9.7** · ATK2K/Duc **0.75**
 
 ### EDPA by target
 
+*Sustained: poisoned bladex2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 5.33 | 4.01 |
@@ -51,12 +53,13 @@ EDPA **4.08** · EDPA/Duc **0.314** · ATK2K **9.7** · ATK2K/Duc **0.75**
 | Tank (Dex4/Prot5/US5) | 3.09 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 2.86 | 2.13 |
 
-*Sustained: poisoned bladex2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 11 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

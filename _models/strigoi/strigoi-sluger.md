@@ -42,6 +42,8 @@ EDPA **2.13** · EDPA/Duc **0.118** · ATK2K **10.3** · ATK2K/Duc **0.57**
 
 ### EDPA by target
 
+*Sustained: meathookx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.30 | 4.01 |
@@ -51,12 +53,13 @@ EDPA **2.13** · EDPA/Duc **0.118** · ATK2K **10.3** · ATK2K/Duc **0.57**
 | Tank (Dex4/Prot5/US5) | 1.12 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 1.21 | 2.13 |
 
-*Sustained: meathookx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 14 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

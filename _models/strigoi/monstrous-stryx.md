@@ -47,6 +47,8 @@ EDPA **5.31** · EDPA/Duc **0.133** · ATK2K **17.0** · ATK2K/Duc **0.42**
 
 ### EDPA by target
 
+*Sustained: monstrous clawsx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 6.10 | 4.15 |
@@ -56,12 +58,13 @@ EDPA **5.31** · EDPA/Duc **0.133** · ATK2K **17.0** · ATK2K/Duc **0.42**
 | Tank (Dex4/Prot5/US5) | 3.52 | 2.05 |
 | Parry (Dex5/Prot3/Parry2) | 3.97 | 2.77 |
 
-*Sustained: monstrous clawsx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 30 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

@@ -44,6 +44,8 @@ EDPA **3.29** · EDPA/Duc **0.194** · ATK2K **14.9** · ATK2K/Duc **0.88**
 
 ### EDPA by target
 
+*Sustained: holy instrumentsx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.48 | 4.01 |
@@ -53,12 +55,13 @@ EDPA **3.29** · EDPA/Duc **0.194** · ATK2K **14.9** · ATK2K/Duc **0.88**
 | Tank (Dex4/Prot5/US5) | 2.48 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 2.22 | 2.13 |
 
-*Sustained: holy instrumentsx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 13 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

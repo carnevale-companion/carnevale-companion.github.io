@@ -40,6 +40,8 @@ EDPA **2.35** · EDPA/Duc **0.214** · ATK2K **7.7** · ATK2K/Duc **0.70**
 
 ### EDPA by target
 
+*Sustained: wave-blade knifex2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 3.49 | 4.01 |
@@ -49,12 +51,13 @@ EDPA **2.35** · EDPA/Duc **0.214** · ATK2K **7.7** · ATK2K/Duc **0.70**
 | Tank (Dex4/Prot5/US5) | 1.60 | 1.90 |
 | Parry (Dex5/Prot3/Parry2) | 1.47 | 2.13 |
 
-*Sustained: wave-blade knifex2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 10 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

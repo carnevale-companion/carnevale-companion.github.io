@@ -42,6 +42,8 @@ EDPA **1.01** · EDPA/Duc **0.126** · ATK2K **4.5** · ATK2K/Duc **0.56**
 
 ### EDPA by target
 
+*Sustained: feathers of holy lightx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 1.89 | 2.49 |
@@ -51,12 +53,13 @@ EDPA **1.01** · EDPA/Duc **0.126** · ATK2K **4.5** · ATK2K/Duc **0.56**
 | Tank (Dex4/Prot5/US5) | 0.37 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 0.86 | 0.92 |
 
-*Sustained: feathers of holy lightx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 8 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

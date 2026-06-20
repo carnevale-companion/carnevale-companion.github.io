@@ -42,6 +42,8 @@ EDPA **3.10** · EDPA/Duc **0.194** · ATK2K **11.2** · ATK2K/Duc **0.70**
 
 ### EDPA by target
 
+*Sustained: fire of persecutionx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.30 | 2.49 |
@@ -51,12 +53,13 @@ EDPA **3.10** · EDPA/Duc **0.194** · ATK2K **11.2** · ATK2K/Duc **0.70**
 | Tank (Dex4/Prot5/US5) | 1.92 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 2.05 | 0.92 |
 
-*Sustained: fire of persecutionx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 12 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

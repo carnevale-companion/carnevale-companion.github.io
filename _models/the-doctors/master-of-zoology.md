@@ -47,6 +47,8 @@ EDPA **3.59** · EDPA/Duc **0.179** · ATK2K **36.7** · ATK2K/Duc **1.84**
 
 ### EDPA by target
 
+*Sustained: electrified macex3*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 4.30 | 2.49 |
@@ -56,12 +58,13 @@ EDPA **3.59** · EDPA/Duc **0.179** · ATK2K **36.7** · ATK2K/Duc **1.84**
 | Tank (Dex4/Prot5/US5) | 1.92 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 2.45 | 0.92 |
 
-*Sustained: electrified macex3*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 14 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

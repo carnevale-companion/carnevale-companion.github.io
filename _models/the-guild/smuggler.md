@@ -42,6 +42,8 @@ EDPA **1.42** · EDPA/Duc **0.109** · ATK2K **10.6** · ATK2K/Duc **0.82**
 
 ### EDPA by target
 
+*Sustained: blunderbussx1*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.01 | 2.49 |
@@ -51,12 +53,13 @@ EDPA **1.42** · EDPA/Duc **0.109** · ATK2K **10.6** · ATK2K/Duc **0.82**
 | Tank (Dex4/Prot5/US5) | 1.22 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 1.04 | 0.92 |
 
-*Sustained: blunderbussx1*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 12 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
@@ -64,6 +67,25 @@ EDPA **1.42** · EDPA/Duc **0.109** · ATK2K **10.6** · ATK2K/Duc **0.82**
 | Elite (Atk5, Dmg+1) | 3.38 | 3.5 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.5 | 5.3 |
 | Drown (Atk3) | 1.90 | 6.3 | 5.8 |
+
+</div>
+</div>
+
+<div class="model-pairs">
+<div>
+
+### Burst EDPA by target
+
+*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
+
+| Target | Burst EDPA | Median |
+|---|---|---|
+| Soft (Dex3/Prot1) | 4.03 | 2.50 |
+| Balanced (Dex4/Prot3) | 2.84 | 1.50 |
+| Evasive (Dex6/Prot2) | 2.60 | 1.30 |
+| Armoured (Dex4/Prot5) | 2.08 | 0.87 |
+| Tank (Dex4/Prot5/US5) | 2.45 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 2.09 | 0.93 |
 
 </div>
 </div>

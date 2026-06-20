@@ -47,6 +47,8 @@ EDPA **4.74** · EDPA/Duc **0.226** · ATK2K **22.4** · ATK2K/Duc **1.07**
 
 ### EDPA by target
 
+*Sustained: blade of gozox3*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 5.78 | 4.48 |
@@ -56,12 +58,13 @@ EDPA **4.74** · EDPA/Duc **0.226** · ATK2K **22.4** · ATK2K/Duc **1.07**
 | Tank (Dex4/Prot5/US5) | 3.45 | 2.45 |
 | Parry (Dex5/Prot3/Parry2) | 3.58 | 2.06 |
 
-*Sustained: blade of gozox3*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 14 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|

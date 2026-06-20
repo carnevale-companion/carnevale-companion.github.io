@@ -47,6 +47,8 @@ EDPA **2.20** · EDPA/Duc **0.147** · ATK2K **7.4** · ATK2K/Duc **0.49**
 
 ### EDPA by target
 
+*Sustained: flaming bottlesx2*
+
 | Target | EDPA | Median |
 |---|---|---|
 | Soft (Dex3/Prot1) | 2.50 | 2.50 |
@@ -56,12 +58,13 @@ EDPA **2.20** · EDPA/Duc **0.147** · ATK2K **7.4** · ATK2K/Duc **0.49**
 | Tank (Dex4/Prot5/US5) | 0.67 | 0.67 |
 | Parry (Dex5/Prot3/Parry2) | 1.90 | 0.96 |
 
-*Sustained: flaming bottlesx2*
 
 </div>
 <div>
 
 ### Defence
+
+*Base: 13 LP*
 
 | Attacker | Net LP/hit | ATK2K | Median |
 |---|---|---|---|
