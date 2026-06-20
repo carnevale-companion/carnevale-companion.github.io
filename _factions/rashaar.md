@@ -93,10 +93,6 @@ One of the highest effective Command outputs in the game, otherwise a modest com
 
 [Bounding Telchine](/factions/rashaar/bounding-telchine/), [Brachyura](/factions/rashaar/brachyura/), [Bulbous Toad](/factions/rashaar/bulbous-toad/), [Caandru Eel](/factions/rashaar/caandru-eel/), [Crybaby](/factions/rashaar/crybaby/), [Cymothoan Crusher](/factions/rashaar/cymothoan-crusher/), [Hellhound](/factions/rashaar/hellhound/), [Karcharos](/factions/rashaar/karcharos/), [Salaacia](/factions/rashaar/salaacia/), [Secreting Myxin](/factions/rashaar/secreting-myxin/), [Tainted Maw](/factions/rashaar/tainted-maw/)
 
-**Henchman *(free with Emissary of Mother Hydra)***
-
-[Dagger Tentacle](/factions/rashaar/dagger-tentacle/), [Lash Tentacle](/factions/rashaar/lash-tentacle/), [Maw Tentacle](/factions/rashaar/maw-tentacle/), [Thorn Tentacle](/factions/rashaar/thorn-tentacle/)
-
 **Hydra**
 
 **[The Flame That Burns Underwater](/factions/rashaar/the-flame-that-burns-underwater/)** , [Emissary of Mother Hydra](/factions/rashaar/emissary-of-mother-hydra/), [Half-Breed](/factions/rashaar/half-breed/), [Infant Kraken](/factions/rashaar/infant-kraken/), [Mature Kraken](/factions/rashaar/mature-kraken/), [Sirena](/factions/rashaar/sirena/)
