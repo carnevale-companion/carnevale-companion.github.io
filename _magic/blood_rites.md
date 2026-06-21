@@ -78,3 +78,129 @@ Place the **Blast** marker anywhere in line of sight within 12" on solid ground.
 <div class="callout" markdown="1">
 The LoS block is immediate: place the Blast marker and sight lines close around it that turn. The Stun resolves at end-of-round and mobile opponents can simply walk out of the zone before it triggers, so don't rely on it. At Diff 8 and 2 WP this has the worst WP-economy ratio in Blood Rites (~2.6 WP per successful cast at MIND 4). Treat LoS denial as the primary value and any Stun as a bonus. Line-of-sight blocking via spell is unique to Blood Rites and rare across the whole game.
 </div>
+
+## Best damage loadout by defender and spells known
+
+Disclaimer: These calculations only account for **single target raw damage**. Range, AoE, and difficulty are essential considerations when making your choice.
+
+### Reference defenders
+
+The defender columns below are the standard capability-model archetypes:
+
+| Defender | DEX | Prot | LP | Note |
+|---|---|---|---|---|
+| balanced | 4 | 3 | 12 | median statline (calibration point) |
+| soft | 3 | 1 | 11 | fragile / low armour |
+| evasive | 6 | 2 | 11 | high DEX, dodges |
+| armoured | 4 | 5 | 12 | high Protection |
+| pen_proof_tank | 4 | 5 | 13 | high Prot + Universal Shielding (caps Penetration); Universal Shielding 5 |
+| parry | 5 | 3 | 12 | high DEX + Parry (re-rolls attacker Aces); Parry 2 |
+
+### TLDR
+
+- Caster MIND 4-5 / Mage(2) / 2 AP: Kraken's Breath > Mother Hydra's Claws
+- Caster MIND 5-6 / Mage(3) / 3 AP: Kraken's Breath > Blood Drain > Mother Hydra's Claws
+
+### Detailed presentation
+
+The **Cantrip of the Devil** is always known free (off-quota): *spells known* counts paid spells only.
+
+#### Caster MIND 4 / Mage(2) / 2 AP
+
+*low-MIND caster (Dagonite Priest, Strigoi Jude)*
+
+Per-spell EDPA (single cast):
+
+| Spell | balanced | soft | evasive | armoured | pen_proof_tank | parry |
+|---|---|---|---|---|---|---|
+| Cantrip of the Devil *(cantrip)* | 1.47 | 1.74 | 1.74 | 0.79 | 0.38 | 1.47 |
+| Boiling Veins | 0.92 | 1.14 | 1.14 | 0.44 | 0.19 | 0.92 |
+| Blood Drain | 1.82 | 1.82 | 1.82 | 1.55 | 0.43 | 1.82 |
+| Kraken's Breath | 3.58 | 3.83 | 3.83 | 2.72 | 1.91 | 3.58 |
+| Mother Hydra's Claws | 1.89 | 1.89 | 1.89 | 1.89 | 1.89 | 1.89 |
+
+Paid-spell priority by defender:
+
+| Defender | know 1 | know 2 | know 3 | know 4 |
+|---|---|---|---|---|
+| balanced | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| soft | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| evasive | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| armoured | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| pen_proof_tank | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| parry | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+
+#### Caster MIND 5 / Mage(2) / 2 AP
+
+*hero / henchman (most casters: Witch, Doctor of Blood, Cibele, …)*
+
+Per-spell EDPA (single cast):
+
+| Spell | balanced | soft | evasive | armoured | pen_proof_tank | parry |
+|---|---|---|---|---|---|---|
+| Cantrip of the Devil *(cantrip)* | 1.57 | 1.85 | 1.85 | 0.83 | 0.40 | 1.57 |
+| Boiling Veins | 1.66 | 1.91 | 1.91 | 0.96 | 0.51 | 1.66 |
+| Blood Drain | 1.94 | 1.94 | 1.94 | 1.65 | 0.46 | 1.94 |
+| Kraken's Breath | 3.70 | 3.97 | 3.97 | 2.82 | 1.99 | 3.70 |
+| Mother Hydra's Claws | 2.17 | 2.17 | 2.17 | 2.17 | 2.17 | 2.17 |
+
+Paid-spell priority by defender:
+
+| Defender | know 1 | know 2 | know 3 | know 4 |
+|---|---|---|---|---|
+| balanced | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| soft | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| evasive | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| armoured | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| pen_proof_tank | Mother Hydra's Claws | Kraken's Breath | Boiling Veins | Blood Drain |
+| parry | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+
+#### Caster MIND 5 / Mage(3) / 3 AP
+
+*leader (Inquisitor, Blood Crone — Mage 3, 3 AP)*
+
+Per-spell EDPA (single cast):
+
+| Spell | balanced | soft | evasive | armoured | pen_proof_tank | parry |
+|---|---|---|---|---|---|---|
+| Cantrip of the Devil *(cantrip)* | 1.57 | 1.85 | 1.85 | 0.83 | 0.40 | 1.57 |
+| Boiling Veins | 0.99 | 0.99 | 0.99 | 0.55 | 0.16 | 0.99 |
+| Blood Drain | 2.86 | 2.86 | 2.86 | 2.58 | 1.08 | 2.86 |
+| Kraken's Breath | 4.94 | 4.94 | 4.94 | 4.23 | 2.93 | 4.94 |
+| Mother Hydra's Claws | 1.78 | 1.78 | 1.78 | 1.78 | 1.78 | 1.78 |
+
+Paid-spell priority by defender:
+
+| Defender | know 1 | know 2 | know 3 | know 4 |
+|---|---|---|---|---|
+| balanced | Kraken's Breath | Blood Drain | Mother Hydra's Claws | Boiling Veins |
+| soft | Kraken's Breath | Blood Drain | Mother Hydra's Claws | Boiling Veins |
+| evasive | Kraken's Breath | Blood Drain | Mother Hydra's Claws | Boiling Veins |
+| armoured | Kraken's Breath | Blood Drain | Mother Hydra's Claws | Boiling Veins |
+| pen_proof_tank | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| parry | Kraken's Breath | Blood Drain | Mother Hydra's Claws | Boiling Veins |
+
+#### Caster MIND 6 / Mage(3) / 3 AP
+
+*leader, high MIND (Magi-Rashaar, Doctor of the Mind)*
+
+Per-spell EDPA (single cast):
+
+| Spell | balanced | soft | evasive | armoured | pen_proof_tank | parry |
+|---|---|---|---|---|---|---|
+| Cantrip of the Devil *(cantrip)* | 1.63 | 1.91 | 1.91 | 0.87 | 0.40 | 1.63 |
+| Boiling Veins | 1.73 | 1.73 | 1.73 | 1.14 | 0.44 | 1.73 |
+| Blood Drain | 2.95 | 2.95 | 2.95 | 2.67 | 1.10 | 2.95 |
+| Kraken's Breath | 5.02 | 5.02 | 5.02 | 4.30 | 2.97 | 5.02 |
+| Mother Hydra's Claws | 1.95 | 1.95 | 1.95 | 1.95 | 1.95 | 1.95 |
+
+Paid-spell priority by defender:
+
+| Defender | know 1 | know 2 | know 3 | know 4 |
+|---|---|---|---|---|
+| balanced | Kraken's Breath | Blood Drain | Mother Hydra's Claws | Boiling Veins |
+| soft | Kraken's Breath | Blood Drain | Mother Hydra's Claws | Boiling Veins |
+| evasive | Kraken's Breath | Blood Drain | Mother Hydra's Claws | Boiling Veins |
+| armoured | Kraken's Breath | Blood Drain | Mother Hydra's Claws | Boiling Veins |
+| pen_proof_tank | Kraken's Breath | Mother Hydra's Claws | Blood Drain | Boiling Veins |
+| parry | Kraken's Breath | Blood Drain | Mother Hydra's Claws | Boiling Veins |
