@@ -1010,8 +1010,42 @@ a:hover { text-decoration: underline; }
 }
 .jump-result.clears      .chance dd { color: #2e7a3a; }
 .jump-result.falls-short .chance dd { color: var(--accent2); }
+/* ── Range calculator result ────────────────────────────────────────── */
+.rng-result {
+  display: flex;
+  align-items: baseline;
+  gap: 0.875rem;
+  padding: 0.875rem 1.25rem 1rem;
+  border-top: 1px solid var(--border);
+  background: var(--side);
+  transition: background 0.25s;
+  margin-top: auto;
+}
+.rng-result.in-range  { background: rgba(46, 122, 58, 0.08); }
+.rng-result.out-range { background: rgba(140, 56, 32, 0.06); }
+.rng-result-number {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: var(--ink-3);
+  letter-spacing: 0.02em;
+  line-height: 1;
+  transition: color 0.25s;
+  min-width: 5ch;
+  text-align: right;
+  flex-shrink: 0;
+}
+.rng-result.in-range  .rng-result-number { color: #2e7a3a; }
+.rng-result.out-range .rng-result-number { color: var(--accent2); }
+.rng-result-desc {
+  font-size: 0.78rem;
+  color: var(--ink-3);
+  line-height: 1.4;
+  font-weight: 300;
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .los-calc-result, .los-calc-number, .jump-result { transition: none; }
+  .los-calc-result, .los-calc-number, .jump-result, .rng-result, .rng-result-number { transition: none; }
 }
 
 /* ── Diagram elements (SVG) ───────────────────────────────────────── */

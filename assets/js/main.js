@@ -476,6 +476,135 @@
   });
 }());
 
+// ── Range calculator ─────────────────────────────────────────────────
+(function () {
+  document.addEventListener('DOMContentLoaded', function () {
+    var resEl  = document.getElementById('rng-result');
+    if (!resEl) return;
+    var numEl  = document.getElementById('rng-number');
+    var descEl = document.getElementById('rng-desc');
+    var svg    = document.getElementById('rng-diagram');
+
+    var VBW = 480, VBH = 320, PAD_X = 44, PAD_TOP = 28, PAD_BOT = 40;
+
+    function pawn(X, Y, cxW, baseW, hW, cls) {
+      var bx = X(cxW), by = Y(baseW), ph = by - Y(baseW + hW);
+      if (ph < 4) {
+        return '<circle class="' + cls + '" cx="' + bx.toFixed(1) + '" cy="' + by.toFixed(1) + '" r="3"/>';
+      }
+      var hw = Math.min(ph * 0.30, 13);
+      var bodyTop = by - ph * 0.60;
+      var headCy  = by - ph * 0.80;
+      var headR   = hw * 0.62;
+      return '<ellipse class="' + cls + '" cx="' + bx.toFixed(1) + '" cy="' + by.toFixed(1) +
+               '" rx="' + (hw * 0.95).toFixed(1) + '" ry="' + (hw * 0.26).toFixed(1) + '"/>' +
+             '<path class="' + cls + '" d="M ' + (bx - hw * 0.85).toFixed(1) + ' ' + by.toFixed(1) +
+               ' L ' + (bx - hw * 0.42).toFixed(1) + ' ' + bodyTop.toFixed(1) +
+               ' L ' + (bx + hw * 0.42).toFixed(1) + ' ' + bodyTop.toFixed(1) +
+               ' L ' + (bx + hw * 0.85).toFixed(1) + ' ' + by.toFixed(1) + ' Z"/>' +
+             '<circle class="' + cls + '" cx="' + bx.toFixed(1) + '" cy="' + headCy.toFixed(1) +
+               '" r="' + headR.toFixed(1) + '"/>';
+    }
+
+    // R = weapon range (diagonal), D = height drop, H = horizontal result
+    function renderDiagram(R, D, H) {
+      if (!svg) return;
+      var worldLeft   = -1.5;
+      var worldRight  = Math.max(H, 0.5) + 1.5;
+      var worldBottom = -1.2;
+      var worldTop    = Math.max(D, 0.5) + 1.4;
+      var worldW = worldRight - worldLeft;
+      var worldH = worldTop - worldBottom;
+      var usableW = VBW - 2 * PAD_X, usableH = VBH - PAD_TOP - PAD_BOT;
+      var scale = Math.min(usableW / worldW, usableH / worldH);
+      var offX = PAD_X + (usableW - worldW * scale) / 2;
+      var offY = PAD_TOP + (usableH - worldH * scale) / 2;
+      var X = function (wx) { return offX + (wx - worldLeft) * scale; };
+      var Y = function (wy) { return offY + (worldTop - wy) * scale; };
+
+      var s = '';
+
+      // Earth bands
+      s += '<rect class="d-earth" x="0" y="' + Y(0).toFixed(1) +
+           '" width="' + VBW + '" height="' + (VBH - Y(0)).toFixed(1) + '"/>';
+      // Left (elevated) platform
+      s += '<rect class="d-building" x="' + X(worldLeft).toFixed(1) + '" y="' + Y(D).toFixed(1) +
+           '" width="' + ((-worldLeft) * scale).toFixed(1) + '" height="' + (Y(worldBottom) - Y(D)).toFixed(1) + '"/>';
+      // Right (lower) platform
+      s += '<rect class="d-building" x="' + X(H).toFixed(1) + '" y="' + Y(0).toFixed(1) +
+           '" width="' + ((worldRight - H) * scale).toFixed(1) + '" height="' + (Y(worldBottom) - Y(0)).toFixed(1) + '"/>';
+
+      // Construction right-triangle legs
+      if (H > 0.05 && D > 0.05) {
+        s += '<line class="d-dim" x1="' + X(0).toFixed(1) + '" y1="' + Y(D).toFixed(1) +
+             '" x2="' + X(H).toFixed(1) + '" y2="' + Y(D).toFixed(1) + '"/>';
+        s += '<line class="d-dim" x1="' + X(H).toFixed(1) + '" y1="' + Y(D).toFixed(1) +
+             '" x2="' + X(H).toFixed(1) + '" y2="' + Y(0).toFixed(1) + '"/>';
+        var rm = Math.min(scale * 0.18, 8);
+        s += '<polyline style="fill:none" class="d-dim" points="' +
+             X(H).toFixed(1) + ',' + (Y(D) + rm).toFixed(1) + ' ' +
+             (X(H) - rm).toFixed(1) + ',' + (Y(D) + rm).toFixed(1) + ' ' +
+             (X(H) - rm).toFixed(1) + ',' + Y(D).toFixed(1) + '"/>';
+        // D label (right of the vertical leg)
+        s += '<text class="d-label-dim" x="' + (X(H) + 6).toFixed(1) + '" y="' + (Y(D / 2) + 4).toFixed(1) +
+             '" text-anchor="start">D = ' + D + '"</text>';
+      }
+
+      // Diagonal = weapon range (teal)
+      s += '<line class="d-los-clear" x1="' + X(0).toFixed(1) + '" y1="' + Y(D).toFixed(1) +
+           '" x2="' + X(H).toFixed(1) + '" y2="' + Y(0).toFixed(1) + '"/>';
+      // Range label on diagonal
+      s += '<text class="d-label-dim" x="' + (X(H / 2) - 8).toFixed(1) + '" y="' + (Y(D / 2) - 6).toFixed(1) +
+           '" text-anchor="end">R = ' + R + '"</text>';
+
+      // Horizontal result label (strong, below the horizontal leg)
+      if (H > 0.05) {
+        s += '<text class="d-label-strong" x="' + X(H / 2).toFixed(1) + '" y="' + (Y(D) - 6).toFixed(1) +
+             '" text-anchor="middle">H = ' + H.toFixed(2) + '"</text>';
+      }
+
+      // Pawns
+      s += pawn(X, Y, -0.4, D, 1, 'd-pawn');
+      s += pawn(X, Y, H + 0.4, 0, 1, 'd-pawn');
+
+      svg.innerHTML = s;
+    }
+
+    function rngCalc() {
+      var R = parseFloat(document.getElementById('rng-R').value);
+      var D = parseFloat(document.getElementById('rng-D').value);
+
+      if (isNaN(R) || isNaN(D) || R < 0 || D < 0) {
+        numEl.textContent  = '—';
+        descEl.textContent = '';
+        resEl.className    = 'rng-result';
+        if (svg) svg.innerHTML = '';
+        return;
+      }
+
+      if (D > R) {
+        numEl.textContent  = '—';
+        descEl.textContent = 'height drop exceeds weapon range';
+        resEl.className    = 'rng-result out-range';
+        if (svg) svg.innerHTML = '';
+        return;
+      }
+
+      var H = Math.sqrt(R * R - D * D);
+      numEl.textContent  = H.toFixed(2) + '"';
+      descEl.textContent = 'max horizontal distance';
+      resEl.className    = 'rng-result in-range';
+
+      renderDiagram(R, D, H);
+    }
+
+    ['rng-R', 'rng-D'].forEach(function (id) {
+      document.getElementById(id).addEventListener('input', rngCalc);
+    });
+    rngCalc();
+  });
+}());
+
 document.addEventListener('DOMContentLoaded', function () {
 
   // ── Mobile menu toggle ──────────────────────────────────────────────

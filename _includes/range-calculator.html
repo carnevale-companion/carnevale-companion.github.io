@@ -1,0 +1,32 @@
+<div class="calc" markdown="0">
+  <p class="calc-header">Range Calculator</p>
+  <div class="calc-body">
+    <div class="calc-controls">
+      <div class="calc-fields">
+        <div class="calc-row">
+          <label for="rng-R">Weapon range</label>
+          <div class="calc-input">
+            <input id="rng-R" type="number" min="0" step="1" value="8">
+            <span class="calc-unit">"</span>
+          </div>
+        </div>
+        <div class="calc-row">
+          <label for="rng-D">Height drop</label>
+          <div class="calc-input">
+            <input id="rng-D" type="number" min="0" step="0.5" value="3">
+            <span class="calc-unit">"</span>
+          </div>
+        </div>
+      </div>
+      <div class="rng-result" id="rng-result">
+        <span class="rng-result-number" id="rng-number">—</span>
+        <span class="rng-result-desc" id="rng-desc"></span>
+      </div>
+    </div>
+    <figure class="calc-figure">
+      <svg id="rng-diagram" viewBox="0 0 480 320" preserveAspectRatio="xMidYMid meet"
+           role="img" aria-label="Side-view showing weapon range as the diagonal, height drop, and max horizontal distance"></svg>
+      <figcaption>Side-view cross-section. The diagonal is the weapon range; the horizontal leg is how far away the target can be.</figcaption>
+    </figure>
+  </div>
+</div>
