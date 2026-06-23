@@ -832,6 +832,7 @@ a:hover { text-decoration: underline; }
 .doc-content table.outcome {
   width: auto;
   max-width: 34rem;
+  background: var(--surface);   /* light panel lifts it off the warm page bg */
   /* keeps the gilded border + soft gold shadow from .doc-content table */
 }
 .doc-content table.outcome thead {        /* hidden visually, kept for screen readers */
@@ -847,6 +848,7 @@ a:hover { text-decoration: underline; }
   font-weight: 600;
   white-space: nowrap;
   width: 1%;                               /* shrink the result column to its text */
+  background: rgba(184, 146, 43, 0.20);    /* gold key band — echoes the gilded header */
 }
 .doc-content table.outcome tbody tr:nth-child(1) td:first-child { color: #2e7a3a; }      /* Critical */
 .doc-content table.outcome tbody tr:nth-child(2) td:first-child { color: var(--accent); } /* Success  */
