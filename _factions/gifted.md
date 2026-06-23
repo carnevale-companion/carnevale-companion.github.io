@@ -94,9 +94,9 @@ High-mobility assassin with a teleport action.
 
 ### Sub-factions
 
-**Commedia dell'Arte**
-
-**[Il Capitano](/factions/gifted/il-capitano/)** , **[La Signora](/factions/gifted/la-signora/)** , [Brighella](/factions/gifted/brighella/), [Colombina](/factions/gifted/colombina/), [Coviello](/factions/gifted/coviello/), [Harlequin](/factions/gifted/harlequin/), [Il Dottore](/factions/gifted/il-dottore/), [Innamorati](/factions/gifted/innamorati/), [Mezzetino](/factions/gifted/mezzetino/), [Pantaleone](/factions/gifted/pantaleone/), [Pierrot](/factions/gifted/pierrot/), [Scapino](/factions/gifted/scapino/)
+<div class="subfactions" markdown="0">
+<div class="subfaction"><div class="sf-name">Commedia dell'Arte <span class="sf-count">12</span></div><div class="chips"><a class="chip leader" href="/factions/gifted/il-capitano/">Il Capitano</a><a class="chip leader" href="/factions/gifted/la-signora/">La Signora</a><a class="chip" href="/factions/gifted/brighella/">Brighella</a><a class="chip" href="/factions/gifted/colombina/">Colombina</a><a class="chip" href="/factions/gifted/coviello/">Coviello</a><a class="chip" href="/factions/gifted/harlequin/">Harlequin</a><a class="chip" href="/factions/gifted/il-dottore/">Il Dottore</a><a class="chip" href="/factions/gifted/innamorati/">Innamorati</a><a class="chip" href="/factions/gifted/mezzetino/">Mezzetino</a><a class="chip" href="/factions/gifted/pantaleone/">Pantaleone</a><a class="chip" href="/factions/gifted/pierrot/">Pierrot</a><a class="chip" href="/factions/gifted/scapino/">Scapino</a></div></div>
+</div>
 
 ### Heroes
 

@@ -743,6 +743,18 @@ a:hover { text-decoration: underline; }
   letter-spacing: 0;
   color: var(--ink-3);
 }
+/* A linked heading should read as a heading, not a link — inherit its colour,
+   reveal the link affordance on hover only. */
+.doc-content :is(h1, h2, h3, h4) a {
+  color: inherit;
+  text-decoration: none;
+}
+.doc-content :is(h1, h2, h3, h4) a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--gold);
+}
 .doc-content p {
   font-size: 0.97rem;
   line-height: 1.78;
@@ -1273,6 +1285,56 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
 /* CP — green */
 .model-stats th:nth-child(4) { background: rgba(30,150,70,0.18); color: #0f5e28; }
 .model-stats td:nth-child(4) { background: rgba(30,150,70,0.08); }
+
+/* ── Sub-faction chip lists ───────────────────────────────────────── */
+.subfactions { margin: 0.5rem 0 1.75rem; }
+.subfaction {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 0.6rem 1rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid #ece6da;
+}
+.subfaction:last-child { border-bottom: none; }
+.sf-name {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  color: #5c3a22;
+  font-weight: 600;
+  padding-top: 0.15rem;
+}
+.sf-count { color: var(--ink-3); font-weight: 400; font-size: 0.8rem; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.doc-content .chips a {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 0.82rem;
+  line-height: 1.3;
+  padding: 0.18rem 0.6rem;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  background: var(--bg);
+  color: var(--ink-2);
+  transition: border-color 0.12s, background 0.12s, color 0.12s;
+}
+.doc-content .chips a:hover { border-color: var(--accent); color: var(--ink); background: #fff; text-decoration: none; }
+.doc-content .chips a.leader {
+  border-color: #e0cd92;
+  background: rgba(184, 146, 43, 0.13);
+  color: #6b5012;
+  font-weight: 600;
+}
+.doc-content .chips a.leader::before {
+  content: "\2666";
+  color: var(--gold);
+  margin-right: 0.35rem;
+  font-size: 0.7em;
+  vertical-align: 0.1em;
+}
+.doc-content .chips a.leader:hover { border-color: var(--gold); background: rgba(184, 146, 43, 0.2); }
+@media (max-width: 520px) {
+  .subfaction { grid-template-columns: 1fr; gap: 0.4rem; }
+}
 
 /* Side-by-side table pairs */
 .model-pairs {

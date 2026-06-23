@@ -88,17 +88,11 @@ Really strong all-round fighter with high damage and high protection but with a 
 
 ### Sub-factions
 
-**Construct**
-
-[Celestial Congregation](/factions/the-vatican/celestial-congregation/), [Celestial Spirit](/factions/the-vatican/celestial-spirit/), [Cherubim](/factions/the-vatican/cherubim/), [Divine Seraphim](/factions/the-vatican/divine-seraphim/), [Gethsemane](/factions/the-vatican/gethsemane/), [Golgotha](/factions/the-vatican/golgotha/), [Seraph](/factions/the-vatican/seraph/), [Thalassic Messenger](/factions/the-vatican/thalassic-messenger/), [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/), [Throne](/factions/the-vatican/throne/)
-
-**Hospitaller**
-
-**[Knight Commander](/factions/the-vatican/knight-commander/)** , [Angel of the Blooded Rose](/factions/the-vatican/angel-of-the-blooded-rose/), [Burning Saint](/factions/the-vatican/burning-saint/), [Chevaleresse](/factions/the-vatican/chevaleresse/), [Conventual Chaplain](/factions/the-vatican/conventual-chaplain/), [Knight of Malta](/factions/the-vatican/knight-of-malta/), [Maltese Squire](/factions/the-vatican/maltese-squire/), [Paladin of St Lazarus](/factions/the-vatican/paladin-of-st-lazarus/), [Templar Marshal](/factions/the-vatican/templar-marshal/), [Venator of Devotion](/factions/the-vatican/venator-of-devotion/)
-
-**Invoker**
-
-**[Father Cesta](/factions/the-vatican/father-cesta/)** , [Galilean Priest](/factions/the-vatican/galilean-priest/), [Summoner Priest](/factions/the-vatican/summoner-priest/)
+<div class="subfactions" markdown="0">
+<div class="subfaction"><div class="sf-name">Construct <span class="sf-count">10</span></div><div class="chips"><a class="chip" href="/factions/the-vatican/celestial-congregation/">Celestial Congregation</a><a class="chip" href="/factions/the-vatican/celestial-spirit/">Celestial Spirit</a><a class="chip" href="/factions/the-vatican/cherubim/">Cherubim</a><a class="chip" href="/factions/the-vatican/divine-seraphim/">Divine Seraphim</a><a class="chip" href="/factions/the-vatican/gethsemane/">Gethsemane</a><a class="chip" href="/factions/the-vatican/golgotha/">Golgotha</a><a class="chip" href="/factions/the-vatican/seraph/">Seraph</a><a class="chip" href="/factions/the-vatican/thalassic-messenger/">Thalassic Messenger</a><a class="chip" href="/factions/the-vatican/theophant-of-sinai/">Theophant of Sinai</a><a class="chip" href="/factions/the-vatican/throne/">Throne</a></div></div>
+<div class="subfaction"><div class="sf-name">Hospitaller <span class="sf-count">10</span></div><div class="chips"><a class="chip leader" href="/factions/the-vatican/knight-commander/">Knight Commander</a><a class="chip" href="/factions/the-vatican/angel-of-the-blooded-rose/">Angel of the Blooded Rose</a><a class="chip" href="/factions/the-vatican/burning-saint/">Burning Saint</a><a class="chip" href="/factions/the-vatican/chevaleresse/">Chevaleresse</a><a class="chip" href="/factions/the-vatican/conventual-chaplain/">Conventual Chaplain</a><a class="chip" href="/factions/the-vatican/knight-of-malta/">Knight of Malta</a><a class="chip" href="/factions/the-vatican/maltese-squire/">Maltese Squire</a><a class="chip" href="/factions/the-vatican/paladin-of-st-lazarus/">Paladin of St Lazarus</a><a class="chip" href="/factions/the-vatican/templar-marshal/">Templar Marshal</a><a class="chip" href="/factions/the-vatican/venator-of-devotion/">Venator of Devotion</a></div></div>
+<div class="subfaction"><div class="sf-name">Invoker <span class="sf-count">3</span></div><div class="chips"><a class="chip leader" href="/factions/the-vatican/father-cesta/">Father Cesta</a><a class="chip" href="/factions/the-vatican/galilean-priest/">Galilean Priest</a><a class="chip" href="/factions/the-vatican/summoner-priest/">Summoner Priest</a></div></div>
+</div>
 
 ### Heroes
 

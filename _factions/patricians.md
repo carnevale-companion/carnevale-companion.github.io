@@ -91,21 +91,12 @@ Cheapest leader of the game. He has only 2 AP and low command, but he's a WP bat
 
 ### Sub-factions
 
-**Councillor**
-
-**[Mounted Venetian Noble](/factions/patricians/mounted-venetian-noble/)** , **[Noble Admiral](/factions/patricians/noble-admiral/)** , **[Pinnacle of Affluence](/factions/patricians/pinnacle-of-affluence/)** , **[Sopracomito](/factions/patricians/sopracomito/)** , **[Venetian Noble](/factions/patricians/venetian-noble/)** , [Adventuring Noble](/factions/patricians/adventuring-noble/), [Cat Burglar](/factions/patricians/cat-burglar/), [Don Gregorio Morisini](/factions/patricians/don-gregorio-morisini/), [Gourmand Noble](/factions/patricians/gourmand-noble/), [Noble Seafarer](/factions/patricians/noble-seafarer/), [Submissive Noble](/factions/patricians/submissive-noble/), [Syphilitic Noble](/factions/patricians/syphilitic-noble/)
-
-**Officer**
-
-**[Guard Commander](/factions/patricians/guard-commander/)** , **[Noble Admiral](/factions/patricians/noble-admiral/)** , **[Sopracomito](/factions/patricians/sopracomito/)** , [Captain of the Guard](/factions/patricians/captain-of-the-guard/), [Naval Lieutenant](/factions/patricians/naval-lieutenant/)
-
-**Ottoman**
-
-**[Janissary Chorbaji](/factions/patricians/janissary-chorbaji/)** , [Janissary Sapper](/factions/patricians/janissary-sapper/), [Ottoman Archer](/factions/patricians/ottoman-archer/), [Ottoman Cannoneer](/factions/patricians/ottoman-cannoneer/), [Ottoman Janissary](/factions/patricians/ottoman-janissary/), [Ottoman Pirate](/factions/patricians/ottoman-pirate/), [Ottoman Rigger](/factions/patricians/ottoman-rigger/)
-
-**Soldier**
-
-[Captain of the Guard](/factions/patricians/captain-of-the-guard/), [City Guard](/factions/patricians/city-guard/), [Guard Marksman](/factions/patricians/guard-marksman/), [Guard Sentry](/factions/patricians/guard-sentry/), [Naval Ensign](/factions/patricians/naval-ensign/), [Naval Lieutenant](/factions/patricians/naval-lieutenant/), [Naval Recruit](/factions/patricians/naval-recruit/), [Seven Years Veteran](/factions/patricians/seven-years-veteran/), [Venetian Heavy Guard](/factions/patricians/venetian-heavy-guard/)
+<div class="subfactions" markdown="0">
+<div class="subfaction"><div class="sf-name">Councillor <span class="sf-count">12</span></div><div class="chips"><a class="chip leader" href="/factions/patricians/mounted-venetian-noble/">Mounted Venetian Noble</a><a class="chip leader" href="/factions/patricians/noble-admiral/">Noble Admiral</a><a class="chip leader" href="/factions/patricians/pinnacle-of-affluence/">Pinnacle of Affluence</a><a class="chip leader" href="/factions/patricians/sopracomito/">Sopracomito</a><a class="chip leader" href="/factions/patricians/venetian-noble/">Venetian Noble</a><a class="chip" href="/factions/patricians/adventuring-noble/">Adventuring Noble</a><a class="chip" href="/factions/patricians/cat-burglar/">Cat Burglar</a><a class="chip" href="/factions/patricians/don-gregorio-morisini/">Don Gregorio Morisini</a><a class="chip" href="/factions/patricians/gourmand-noble/">Gourmand Noble</a><a class="chip" href="/factions/patricians/noble-seafarer/">Noble Seafarer</a><a class="chip" href="/factions/patricians/submissive-noble/">Submissive Noble</a><a class="chip" href="/factions/patricians/syphilitic-noble/">Syphilitic Noble</a></div></div>
+<div class="subfaction"><div class="sf-name">Officer <span class="sf-count">5</span></div><div class="chips"><a class="chip leader" href="/factions/patricians/guard-commander/">Guard Commander</a><a class="chip leader" href="/factions/patricians/noble-admiral/">Noble Admiral</a><a class="chip leader" href="/factions/patricians/sopracomito/">Sopracomito</a><a class="chip" href="/factions/patricians/captain-of-the-guard/">Captain of the Guard</a><a class="chip" href="/factions/patricians/naval-lieutenant/">Naval Lieutenant</a></div></div>
+<div class="subfaction"><div class="sf-name">Ottoman <span class="sf-count">7</span></div><div class="chips"><a class="chip leader" href="/factions/patricians/janissary-chorbaji/">Janissary Chorbaji</a><a class="chip" href="/factions/patricians/janissary-sapper/">Janissary Sapper</a><a class="chip" href="/factions/patricians/ottoman-archer/">Ottoman Archer</a><a class="chip" href="/factions/patricians/ottoman-cannoneer/">Ottoman Cannoneer</a><a class="chip" href="/factions/patricians/ottoman-janissary/">Ottoman Janissary</a><a class="chip" href="/factions/patricians/ottoman-pirate/">Ottoman Pirate</a><a class="chip" href="/factions/patricians/ottoman-rigger/">Ottoman Rigger</a></div></div>
+<div class="subfaction"><div class="sf-name">Soldier <span class="sf-count">9</span></div><div class="chips"><a class="chip" href="/factions/patricians/captain-of-the-guard/">Captain of the Guard</a><a class="chip" href="/factions/patricians/city-guard/">City Guard</a><a class="chip" href="/factions/patricians/guard-marksman/">Guard Marksman</a><a class="chip" href="/factions/patricians/guard-sentry/">Guard Sentry</a><a class="chip" href="/factions/patricians/naval-ensign/">Naval Ensign</a><a class="chip" href="/factions/patricians/naval-lieutenant/">Naval Lieutenant</a><a class="chip" href="/factions/patricians/naval-recruit/">Naval Recruit</a><a class="chip" href="/factions/patricians/seven-years-veteran/">Seven Years Veteran</a><a class="chip" href="/factions/patricians/venetian-heavy-guard/">Venetian Heavy Guard</a></div></div>
+</div>
 
 ### Heroes
 

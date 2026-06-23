@@ -88,17 +88,11 @@ Flexible aggressive hero-leader with good command. He is a strong solo, but is a
 
 ### Sub-factions
 
-**End of Days**
-
-**[King For a Day](/factions/the-guild/king-for-a-day/)** , **[Ostrich King?!](/factions/the-guild/ostrich-king/)** , [Brewer](/factions/the-guild/brewer/), [Brute](/factions/the-guild/brute/), [Firebreather](/factions/the-guild/firebreather/), [Ostrich Chariot?!](/factions/the-guild/ostrich-chariot/), [Ostrich Rider](/factions/the-guild/ostrich-rider/), [Pulcinella](/factions/the-guild/pulcinella/), [Very Loud Ostrich](/factions/the-guild/very-loud-ostrich/)
-
-**House of Virtue**
-
-**[Madame](/factions/the-guild/madame/)** , [Blood Courier](/factions/the-guild/blood-courier/), [Blood Matron](/factions/the-guild/blood-matron/), [Bloodletter](/factions/the-guild/bloodletter/), [Dancer](/factions/the-guild/dancer/), [Death Duellist](/factions/the-guild/death-duellist/), [Escort](/factions/the-guild/escort/), [Harlot](/factions/the-guild/harlot/), [Seamstress](/factions/the-guild/seamstress/), [Shadow Assassin](/factions/the-guild/shadow-assassin/), [Witch](/factions/the-guild/witch/)
-
-**Trade**
-
-**[Capodecina](/factions/the-guild/capodecina/)** , [Arbalest](/factions/the-guild/arbalest/), [Barber](/factions/the-guild/barber/), [Black Lamp](/factions/the-guild/black-lamp/), [Butcher](/factions/the-guild/butcher/), [Citizen](/factions/the-guild/citizen/), [Ebenezer Chummage](/factions/the-guild/ebenezer-chummage/), [Gondolier](/factions/the-guild/gondolier/), [Recruiter](/factions/the-guild/recruiter/)
+<div class="subfactions" markdown="0">
+<div class="subfaction"><div class="sf-name">End of Days <span class="sf-count">9</span></div><div class="chips"><a class="chip leader" href="/factions/the-guild/king-for-a-day/">King For a Day</a><a class="chip leader" href="/factions/the-guild/ostrich-king/">Ostrich King?!</a><a class="chip" href="/factions/the-guild/brewer/">Brewer</a><a class="chip" href="/factions/the-guild/brute/">Brute</a><a class="chip" href="/factions/the-guild/firebreather/">Firebreather</a><a class="chip" href="/factions/the-guild/ostrich-chariot/">Ostrich Chariot?!</a><a class="chip" href="/factions/the-guild/ostrich-rider/">Ostrich Rider</a><a class="chip" href="/factions/the-guild/pulcinella/">Pulcinella</a><a class="chip" href="/factions/the-guild/very-loud-ostrich/">Very Loud Ostrich</a></div></div>
+<div class="subfaction"><div class="sf-name">House of Virtue <span class="sf-count">11</span></div><div class="chips"><a class="chip leader" href="/factions/the-guild/madame/">Madame</a><a class="chip" href="/factions/the-guild/blood-courier/">Blood Courier</a><a class="chip" href="/factions/the-guild/blood-matron/">Blood Matron</a><a class="chip" href="/factions/the-guild/bloodletter/">Bloodletter</a><a class="chip" href="/factions/the-guild/dancer/">Dancer</a><a class="chip" href="/factions/the-guild/death-duellist/">Death Duellist</a><a class="chip" href="/factions/the-guild/escort/">Escort</a><a class="chip" href="/factions/the-guild/harlot/">Harlot</a><a class="chip" href="/factions/the-guild/seamstress/">Seamstress</a><a class="chip" href="/factions/the-guild/shadow-assassin/">Shadow Assassin</a><a class="chip" href="/factions/the-guild/witch/">Witch</a></div></div>
+<div class="subfaction"><div class="sf-name">Trade <span class="sf-count">9</span></div><div class="chips"><a class="chip leader" href="/factions/the-guild/capodecina/">Capodecina</a><a class="chip" href="/factions/the-guild/arbalest/">Arbalest</a><a class="chip" href="/factions/the-guild/barber/">Barber</a><a class="chip" href="/factions/the-guild/black-lamp/">Black Lamp</a><a class="chip" href="/factions/the-guild/butcher/">Butcher</a><a class="chip" href="/factions/the-guild/citizen/">Citizen</a><a class="chip" href="/factions/the-guild/ebenezer-chummage/">Ebenezer Chummage</a><a class="chip" href="/factions/the-guild/gondolier/">Gondolier</a><a class="chip" href="/factions/the-guild/recruiter/">Recruiter</a></div></div>
+</div>
 
 ### Heroes
 
