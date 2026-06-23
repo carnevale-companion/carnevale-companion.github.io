@@ -42,7 +42,7 @@ meta: "Hero · Unique · Size 50"
 
 ### EDPA by target
 
-*Sustained: monstrous tentaclesx2*
+*Sustained: Monstrous Tentacles*
 
 | Target | EDPA | Median |
 |---|---|---|

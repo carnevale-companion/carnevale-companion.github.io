@@ -44,7 +44,7 @@ meta: "Hero · Size 50"
 
 ### EDPA by target
 
-*Sustained: brutal clawsx2*
+*Sustained: Brutal Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -42,7 +42,7 @@ meta: "Henchman · House of Virtue · Size 40"
 
 ### EDPA by target
 
-*Sustained: swordx2*
+*Sustained: Sword*
 
 | Target | EDPA | Median |
 |---|---|---|

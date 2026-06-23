@@ -45,7 +45,7 @@ meta: "Hero · Officer · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: officer's sabrex2*
+*Sustained: Officer's Sabre*
 
 | Target | EDPA | Median |
 |---|---|---|

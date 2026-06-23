@@ -42,7 +42,7 @@ meta: "Hero · Unique · Vampire · Size 30"
 
 ### EDPA by target
 
-*Sustained: clawsx2*
+*Sustained: Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

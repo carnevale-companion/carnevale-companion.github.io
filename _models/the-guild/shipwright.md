@@ -40,7 +40,7 @@ meta: "Henchman · Size 40"
 
 ### EDPA by target
 
-*Sustained: riveting hammerx2*
+*Sustained: Riveting Hammer*
 
 | Target | EDPA | Median |
 |---|---|---|

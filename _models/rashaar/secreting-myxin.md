@@ -43,7 +43,7 @@ meta: "Hero · Monster · Feral · Size 50"
 
 ### EDPA by target
 
-*Sustained: grasping jawsx2*
+*Sustained: Grasping Jaws*
 
 | Target | EDPA | Median |
 |---|---|---|

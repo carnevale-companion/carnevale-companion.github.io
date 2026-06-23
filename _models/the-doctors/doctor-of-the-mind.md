@@ -45,7 +45,7 @@ meta: "Leader · Doctor · Discipline(<a href=\"/magic/blood-rites/\" class=\"di
 
 ### EDPA by target
 
-*Sustained: spell:kraken's breathx1+spell:blood drainx1+spell:mother hydra's clawsx1*
+*Sustained: Kraken's Breath > Blood Drain > Mother Hydra's Claws*
 
 | Target | EDPA | Median |
 |---|---|---|
@@ -70,25 +70,6 @@ meta: "Leader · Doctor · Discipline(<a href=\"/magic/blood-rites/\" class=\"di
 | Elite (Atk5, Dmg+1) | 2.23 | 5.4 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 1.47 | 8.1 | 6.3 |
 | Drown (Atk3) | 1.90 | 6.3 | 7.7 |
-
-</div>
-</div>
-
-<div class="model-pairs">
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 5.01 | 4.02 |
-| Balanced (Dex4/Prot3) | 5.01 | 3.14 |
-| Evasive (Dex6/Prot2) | 5.01 | 2.69 |
-| Armoured (Dex4/Prot5) | 4.32 | 2.32 |
-| Tank (Dex4/Prot5/US5) | 2.97 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 5.01 | 2.23 |
 
 </div>
 </div>

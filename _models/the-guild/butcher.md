@@ -40,7 +40,7 @@ meta: "Hero · Trade · Size 30"
 
 ### EDPA by target
 
-*Sustained: butcher's knivesx2*
+*Sustained: Butcher's Knives*
 
 | Target | EDPA | Median |
 |---|---|---|

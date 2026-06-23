@@ -47,7 +47,7 @@ meta: "Leader · Doctor · Size 30"
 
 ### EDPA by target
 
-*Sustained: electrified macex3*
+*Sustained: Electrified Mace*
 
 | Target | EDPA | Median |
 |---|---|---|

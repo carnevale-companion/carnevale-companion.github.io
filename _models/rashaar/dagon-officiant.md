@@ -40,7 +40,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: khopesh daggersx2*
+*Sustained: Khopesh Daggers*
 
 | Target | EDPA | Median |
 |---|---|---|

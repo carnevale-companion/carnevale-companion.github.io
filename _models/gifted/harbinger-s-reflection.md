@@ -44,7 +44,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: shattered touchx2*
+*Sustained: Shattered Touch*
 
 | Target | EDPA | Median |
 |---|---|---|

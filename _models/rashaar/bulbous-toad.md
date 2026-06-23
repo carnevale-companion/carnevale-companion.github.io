@@ -46,7 +46,7 @@ meta: "Henchman · Monster · Feral · Size 50"
 
 ### EDPA by target
 
-*Sustained: tongue harpoonx1*
+*Sustained: Tongue Harpoon*
 
 | Target | EDPA | Median |
 |---|---|---|

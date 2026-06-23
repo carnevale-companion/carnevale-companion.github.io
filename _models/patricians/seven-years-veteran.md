@@ -43,7 +43,7 @@ meta: "Hero · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: infantry sabrex2*
+*Sustained: Infantry Sabre*
 
 | Target | EDPA | Median |
 |---|---|---|

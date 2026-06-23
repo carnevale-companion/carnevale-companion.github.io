@@ -48,7 +48,7 @@ meta: "Hero · Councillor · Size 40"
 
 ### EDPA by target
 
-*Sustained: cat o'nine tailsx2*
+*Sustained: Cat O'Nine Tails*
 
 | Target | EDPA | Median |
 |---|---|---|

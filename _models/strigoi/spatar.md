@@ -41,7 +41,7 @@ meta: "Hero · Vampire · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: coustillex2*
+*Sustained: Coustille*
 
 | Target | EDPA | Median |
 |---|---|---|

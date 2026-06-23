@@ -47,7 +47,7 @@ meta: "Leader · Ottoman · Size 30"
 
 ### EDPA by target
 
-*Sustained: flanged macex3*
+*Sustained: Flanged Mace*
 
 | Target | EDPA | Median |
 |---|---|---|

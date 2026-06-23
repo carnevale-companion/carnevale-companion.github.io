@@ -42,7 +42,7 @@ meta: "Henchman *(free with Emissary of Mother Hydra)* · Size 30"
 
 ### EDPA by target
 
-*Sustained: fanged mawx2*
+*Sustained: Fanged Maw*
 
 | Target | EDPA | Median |
 |---|---|---|

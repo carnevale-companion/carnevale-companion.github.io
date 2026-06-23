@@ -42,7 +42,7 @@ meta: "Henchman · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: hammer & stakex2*
+*Sustained: Hammer & Stake*
 
 | Target | EDPA | Median |
 |---|---|---|

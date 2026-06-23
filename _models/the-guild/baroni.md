@@ -48,7 +48,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: twin duelling pistolsx1*
+*Sustained: Twin Duelling Pistols*
 
 | Target | EDPA | Median |
 |---|---|---|

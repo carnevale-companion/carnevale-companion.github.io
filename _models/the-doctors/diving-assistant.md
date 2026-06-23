@@ -44,7 +44,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: tridentx2*
+*Sustained: Trident*
 
 | Target | EDPA | Median |
 |---|---|---|

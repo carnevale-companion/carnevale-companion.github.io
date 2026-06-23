@@ -40,7 +40,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: cast iron utensilx2*
+*Sustained: Cast Iron Utensil*
 
 | Target | EDPA | Median |
 |---|---|---|

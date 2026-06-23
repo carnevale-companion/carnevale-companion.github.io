@@ -47,7 +47,7 @@ meta: "Leader · Discipline(<a href=\"/magic/runes-of-sovereignty/\" class=\"dis
 
 ### EDPA by target
 
-*Sustained: spell:kraken's breathx1+spell:blood drainx1+spell:mother hydra's clawsx1+free-cantripx1*
+*Sustained: Kraken's Breath > Blood Drain > Mother Hydra's Claws > Free-cantrip*
 
 | Target | EDPA | Median |
 |---|---|---|
@@ -72,25 +72,6 @@ meta: "Leader · Discipline(<a href=\"/magic/runes-of-sovereignty/\" class=\"dis
 | Elite (Atk5, Dmg+1) | 3.38 | 3.8 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.9 | 5.3 |
 | Drown (Atk3) | 2.30 | 5.7 | 5.8 |
-
-</div>
-</div>
-
-<div class="model-pairs">
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 6.79 | 2.50 |
-| Balanced (Dex4/Prot3) | 6.51 | 1.50 |
-| Evasive (Dex6/Prot2) | 6.79 | 1.30 |
-| Armoured (Dex4/Prot5) | 5.05 | 0.87 |
-| Tank (Dex4/Prot5/US5) | 3.34 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 6.51 | 0.93 |
 
 </div>
 </div>

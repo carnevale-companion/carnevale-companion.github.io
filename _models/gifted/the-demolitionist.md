@@ -42,7 +42,7 @@ meta: "Henchman · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: bombx1*
+*Sustained: Bomb*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -41,7 +41,7 @@ meta: "Henchman · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: musketx1+bayonetx1*
+*Sustained: Musket > Bayonet*
 
 | Target | EDPA | Median |
 |---|---|---|

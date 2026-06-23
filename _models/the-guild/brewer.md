@@ -48,7 +48,7 @@ meta: "Hero · End of Days · Size 40"
 
 ### EDPA by target
 
-*Sustained: flaming bottlesx2*
+*Sustained: Flaming Bottles*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -43,7 +43,7 @@ meta: "Hero · Invoker · Discipline(<a href=\"/magic/fateweaving/\" class=\"dis
 
 ### EDPA by target
 
-*Sustained: unarmedx2*
+*Sustained: Unarmed*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -42,7 +42,7 @@ meta: "Hero · Hospitaller · Size 40"
 
 ### EDPA by target
 
-*Sustained: warhammerx2*
+*Sustained: Warhammer*
 
 | Target | EDPA | Median |
 |---|---|---|

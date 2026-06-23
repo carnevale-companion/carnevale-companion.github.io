@@ -47,7 +47,7 @@ meta: "Leader · Size 30"
 
 ### EDPA by target
 
-*Sustained: divine touchx3*
+*Sustained: Divine Touch*
 
 | Target | EDPA | Median |
 |---|---|---|

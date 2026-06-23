@@ -45,7 +45,7 @@ meta: "Hero · Discipline(<a href=\"/magic/fateweaving/\" class=\"disc-fateweavi
 
 ### EDPA by target
 
-*Sustained: staffx2*
+*Sustained: Staff*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -44,7 +44,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: pole spear & netx2*
+*Sustained: Pole Spear & Net*
 
 | Target | EDPA | Median |
 |---|---|---|

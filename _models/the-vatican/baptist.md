@@ -42,7 +42,7 @@ meta: "Hero · Discipline(<a href=\"/magic/divinity/\" class=\"disc-divinity\">D
 
 ### EDPA by target
 
-*Sustained: unarmedx2*
+*Sustained: Unarmed*
 
 | Target | EDPA | Median |
 |---|---|---|

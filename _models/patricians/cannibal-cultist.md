@@ -44,7 +44,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: sharpened daggerx2*
+*Sustained: Sharpened Dagger*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -44,7 +44,7 @@ meta: "Hero · Human · Size 30"
 
 ### EDPA by target
 
-*Sustained: predictive toolsx2*
+*Sustained: Predictive Tools*
 
 | Target | EDPA | Median |
 |---|---|---|

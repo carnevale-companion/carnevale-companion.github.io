@@ -40,7 +40,7 @@ meta: "Henchman · Trade · Size 30"
 
 ### EDPA by target
 
-*Sustained: crossbowx1*
+*Sustained: Crossbow*
 
 | Target | EDPA | Median |
 |---|---|---|

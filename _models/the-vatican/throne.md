@@ -44,7 +44,7 @@ meta: "Hero · Construct · Size 50"
 
 ### EDPA by target
 
-*Sustained: divine justicex2*
+*Sustained: Divine Justice*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -40,7 +40,7 @@ meta: "Hero · Monster · Feral · Size 50"
 
 ### EDPA by target
 
-*Sustained: mighty jawsx2*
+*Sustained: Mighty Jaws*
 
 | Target | EDPA | Median |
 |---|---|---|

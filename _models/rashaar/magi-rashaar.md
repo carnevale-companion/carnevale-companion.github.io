@@ -43,18 +43,18 @@ meta: "Leader · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-r
 <div class="model-pairs">
 <div>
 
-### Wild Magic EDPA by target
+### Blood Rites EDPA by target
 
-*Best spell: Summon Vermin* · EDPA/Duc **0.267**
+*Sustained: Kraken's Breath > Blood Drain > Boiling Veins* · EDPA/Duc **0.147**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 7.33 | 5.63 |
-| Balanced (Dex4/Prot3) | 6.41 | 4.71 |
-| Evasive (Dex6/Prot2) | 6.88 | 5.17 |
-| Armoured (Dex4/Prot5) | 5.55 | 3.87 |
-| Tank (Dex4/Prot5/US5) | 5.55 | 3.87 |
-| Parry (Dex5/Prot3/Parry2) | 6.41 | 4.71 |
+| Soft (Dex3/Prot1) | 3.53 | 3.22 |
+| Balanced (Dex4/Prot3) | 3.53 | 3.19 |
+| Evasive (Dex6/Prot2) | 3.53 | 3.22 |
+| Armoured (Dex4/Prot5) | 3.12 | 2.74 |
+| Tank (Dex4/Prot5/US5) | 2.14 | 2.08 |
+| Parry (Dex5/Prot3/Parry2) | 3.53 | 3.19 |
 
 </div>
 <div>
@@ -75,18 +75,18 @@ meta: "Leader · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-r
 <div class="model-pairs">
 <div>
 
-### Blood Rites EDPA by target
+### Wild Magic EDPA by target
 
-*Best spell: Kraken's Breath* · EDPA/Duc **0.212**
+*Sustained: Summon Vermin > Groundsnap* · EDPA/Duc **0.115**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 5.08 | 4.07 |
-| Balanced (Dex4/Prot3) | 5.08 | 3.80 |
-| Evasive (Dex6/Prot2) | 5.08 | 4.07 |
-| Armoured (Dex4/Prot5) | 4.36 | 2.90 |
-| Tank (Dex4/Prot5/US5) | 3.01 | 2.69 |
-| Parry (Dex5/Prot3/Parry2) | 5.08 | 3.80 |
+| Soft (Dex3/Prot1) | 3.36 | 3.23 |
+| Balanced (Dex4/Prot3) | 2.75 | 2.38 |
+| Evasive (Dex6/Prot2) | 3.05 | 2.80 |
+| Armoured (Dex4/Prot5) | 2.23 | 1.75 |
+| Tank (Dex4/Prot5/US5) | 2.23 | 1.75 |
+| Parry (Dex5/Prot3/Parry2) | 2.75 | 2.38 |
 
 </div>
 </div>

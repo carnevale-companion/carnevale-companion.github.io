@@ -40,7 +40,7 @@ meta: "Henchman · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: fishing spearx2*
+*Sustained: Fishing Spear*
 
 | Target | EDPA | Median |
 |---|---|---|

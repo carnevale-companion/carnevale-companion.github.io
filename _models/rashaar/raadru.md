@@ -44,7 +44,7 @@ meta: "Hero · Monster · Size 50"
 
 ### EDPA by target
 
-*Sustained: webbed fistsx2*
+*Sustained: Webbed Fists*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -42,7 +42,7 @@ meta: "Henchman · Vampire · Size 30"
 
 ### EDPA by target
 
-*Sustained: fangsx2*
+*Sustained: Fangs*
 
 | Target | EDPA | Median |
 |---|---|---|

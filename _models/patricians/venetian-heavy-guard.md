@@ -43,7 +43,7 @@ meta: "Hero · Soldier · Size 40"
 
 ### EDPA by target
 
-*Sustained: spiked warhammerx2*
+*Sustained: Spiked Warhammer*
 
 | Target | EDPA | Median |
 |---|---|---|

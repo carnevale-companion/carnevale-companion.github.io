@@ -42,7 +42,7 @@ meta: "Hero · Monster · Feral · Size 30"
 
 ### EDPA by target
 
-*Sustained: mauling talonsx2*
+*Sustained: Mauling Talons*
 
 | Target | EDPA | Median |
 |---|---|---|

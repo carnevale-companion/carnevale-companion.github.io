@@ -45,7 +45,7 @@ meta: "Hero · Size 50"
 
 ### EDPA by target
 
-*Sustained: flailx2*
+*Sustained: Flail*
 
 | Target | EDPA | Median |
 |---|---|---|

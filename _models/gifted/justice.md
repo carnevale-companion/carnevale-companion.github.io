@@ -44,7 +44,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: sword of balancex2*
+*Sustained: Sword Of Balance*
 
 | Target | EDPA | Median |
 |---|---|---|

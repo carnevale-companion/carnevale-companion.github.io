@@ -40,7 +40,7 @@ meta: "Hero · Councillor · Size 30"
 
 ### EDPA by target
 
-*Sustained: stilettox2*
+*Sustained: Stiletto*
 
 | Target | EDPA | Median |
 |---|---|---|

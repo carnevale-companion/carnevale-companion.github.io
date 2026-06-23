@@ -42,7 +42,7 @@ meta: "Hero · Size 40"
 
 ### EDPA by target
 
-*Sustained: greatswordx2*
+*Sustained: Greatsword*
 
 | Target | EDPA | Median |
 |---|---|---|

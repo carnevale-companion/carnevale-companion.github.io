@@ -40,7 +40,7 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc
 
 ### EDPA by target
 
-*Sustained: spell:kraken's breathx1+spell:mother hydra's clawsx1*
+*Sustained: Kraken's Breath > Mother Hydra's Claws*
 
 | Target | EDPA | Median |
 |---|---|---|
@@ -65,25 +65,6 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc
 | Elite (Atk5, Dmg+1) | 3.32 | 3.6 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 1.90 | 6.3 | 6.5 |
 | Drown (Atk3) | 1.90 | 6.3 | 8.3 |
-
-</div>
-</div>
-
-<div class="model-pairs">
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 3.97 | 4.15 |
-| Balanced (Dex4/Prot3) | 3.70 | 3.58 |
-| Evasive (Dex6/Prot2) | 3.97 | 2.79 |
-| Armoured (Dex4/Prot5) | 2.81 | 2.74 |
-| Tank (Dex4/Prot5/US5) | 2.17 | 2.05 |
-| Parry (Dex5/Prot3/Parry2) | 3.70 | 2.77 |
 
 </div>
 </div>

@@ -40,7 +40,7 @@ meta: "Hero · Size 50"
 
 ### EDPA by target
 
-*Sustained: webbed appendagesx2*
+*Sustained: Webbed Appendages*
 
 | Target | EDPA | Median |
 |---|---|---|

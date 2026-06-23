@@ -40,7 +40,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: blinding flashx2*
+*Sustained: Blinding Flash*
 
 | Target | EDPA | Median |
 |---|---|---|

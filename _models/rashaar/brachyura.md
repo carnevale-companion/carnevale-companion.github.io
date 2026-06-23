@@ -40,7 +40,7 @@ meta: "Hero · Monster · Feral · Size 50"
 
 ### EDPA by target
 
-*Sustained: crushing clawsx2*
+*Sustained: Crushing Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

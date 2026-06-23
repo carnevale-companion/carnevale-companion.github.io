@@ -40,7 +40,7 @@ meta: "Henchman · Animal · Size 40"
 
 ### EDPA by target
 
-*Sustained: beak & clawsx2*
+*Sustained: Beak & Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

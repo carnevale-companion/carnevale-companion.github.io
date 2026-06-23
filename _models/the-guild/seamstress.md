@@ -42,7 +42,7 @@ meta: "Hero · House of Virtue · Discipline(<a href=\"/magic/divinity/\" class=
 
 ### EDPA by target
 
-*Sustained: unarmedx2*
+*Sustained: Unarmed*
 
 | Target | EDPA | Median |
 |---|---|---|

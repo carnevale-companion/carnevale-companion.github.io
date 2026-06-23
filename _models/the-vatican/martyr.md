@@ -40,7 +40,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: tools of penancex2*
+*Sustained: Tools Of Penance*
 
 | Target | EDPA | Median |
 |---|---|---|

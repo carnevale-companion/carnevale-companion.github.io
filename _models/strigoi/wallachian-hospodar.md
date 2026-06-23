@@ -47,7 +47,7 @@ meta: "Leader · Vampire · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: longswordx3*
+*Sustained: Longsword*
 
 | Target | EDPA | Median |
 |---|---|---|

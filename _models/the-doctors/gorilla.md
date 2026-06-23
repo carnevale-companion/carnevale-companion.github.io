@@ -40,7 +40,7 @@ meta: "Henchman · Animal · Size 40"
 
 ### EDPA by target
 
-*Sustained: titanic fistsx2*
+*Sustained: Titanic Fists*
 
 | Target | EDPA | Median |
 |---|---|---|

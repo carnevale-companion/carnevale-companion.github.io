@@ -43,7 +43,7 @@ meta: "Hero · Monster · Discipline(<a href=\"/magic/runes-of-sovereignty/\" cl
 
 ### EDPA by target
 
-*Sustained: clawsx2*
+*Sustained: Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

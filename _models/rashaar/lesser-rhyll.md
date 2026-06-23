@@ -40,7 +40,7 @@ meta: "Henchman · Monster · Size 30"
 
 ### EDPA by target
 
-*Sustained: dementing tentaclesx2*
+*Sustained: Dementing Tentacles*
 
 | Target | EDPA | Median |
 |---|---|---|

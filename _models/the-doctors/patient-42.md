@@ -44,7 +44,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: bladed limbsx2*
+*Sustained: Bladed Limbs*
 
 | Target | EDPA | Median |
 |---|---|---|

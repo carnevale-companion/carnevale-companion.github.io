@@ -42,7 +42,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: long riflex1*
+*Sustained: Long Rifle*
 
 | Target | EDPA | Median |
 |---|---|---|

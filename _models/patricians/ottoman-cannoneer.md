@@ -41,7 +41,7 @@ meta: "Hero · Ottoman · Size 40"
 
 ### EDPA by target
 
-*Sustained: grapeshotx1+cannon barrelx1*
+*Sustained: Grapeshot > Cannon Barrel*
 
 | Target | EDPA | Median |
 |---|---|---|

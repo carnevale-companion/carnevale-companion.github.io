@@ -40,7 +40,7 @@ meta: "Hero · Vampire · Size 40"
 
 ### EDPA by target
 
-*Sustained: monstrous clawsx2*
+*Sustained: Monstrous Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

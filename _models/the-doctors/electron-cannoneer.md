@@ -44,7 +44,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: electron cannonx1*
+*Sustained: Electron Cannon*
 
 | Target | EDPA | Median |
 |---|---|---|

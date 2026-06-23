@@ -43,7 +43,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: halberdx2*
+*Sustained: Halberd*
 
 | Target | EDPA | Median |
 |---|---|---|

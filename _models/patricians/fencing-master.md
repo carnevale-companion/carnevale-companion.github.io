@@ -42,7 +42,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: balanced rapierx2*
+*Sustained: Balanced Rapier*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -42,7 +42,7 @@ meta: "Henchman · Vampire · Size 30"
 
 ### EDPA by target
 
-*Sustained: sinking weightsx2*
+*Sustained: Sinking Weights*
 
 | Target | EDPA | Median |
 |---|---|---|

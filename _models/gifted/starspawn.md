@@ -42,7 +42,7 @@ meta: "Henchman · Unique · Size 40"
 
 ### EDPA by target
 
-*Sustained: fanged tentaclesx2*
+*Sustained: Fanged Tentacles*
 
 | Target | EDPA | Median |
 |---|---|---|

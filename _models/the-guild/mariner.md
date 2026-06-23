@@ -40,7 +40,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: dive knifex2*
+*Sustained: Dive Knife*
 
 | Target | EDPA | Median |
 |---|---|---|

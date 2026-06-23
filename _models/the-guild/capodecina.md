@@ -45,7 +45,7 @@ meta: "Leader · Trade · Size 30"
 
 ### EDPA by target
 
-*Sustained: twin bladesx3*
+*Sustained: Twin Blades*
 
 | Target | EDPA | Median |
 |---|---|---|

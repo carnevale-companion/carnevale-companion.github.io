@@ -46,7 +46,7 @@ meta: "Leader · Officer · Size 30"
 
 ### EDPA by target
 
-*Sustained: gilded sabrex3*
+*Sustained: Gilded Sabre*
 
 | Target | EDPA | Median |
 |---|---|---|

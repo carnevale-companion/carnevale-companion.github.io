@@ -47,7 +47,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: burning brandx2*
+*Sustained: Burning Brand*
 
 | Target | EDPA | Median |
 |---|---|---|

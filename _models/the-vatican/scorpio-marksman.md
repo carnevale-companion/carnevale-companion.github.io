@@ -44,7 +44,7 @@ meta: "Hero · Size 50"
 
 ### EDPA by target
 
-*Sustained: scorpiox1*
+*Sustained: Scorpio*
 
 | Target | EDPA | Median |
 |---|---|---|

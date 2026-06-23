@@ -42,7 +42,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: pliersx2*
+*Sustained: Pliers*
 
 | Target | EDPA | Median |
 |---|---|---|

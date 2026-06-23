@@ -42,7 +42,7 @@ meta: "Hero · Doctor · Size 30"
 
 ### EDPA by target
 
-*Sustained: spirit cannonx1*
+*Sustained: Spirit Cannon*
 
 | Target | EDPA | Median |
 |---|---|---|

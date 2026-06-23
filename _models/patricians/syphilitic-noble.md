@@ -40,7 +40,7 @@ meta: "Hero · Councillor · Size 30"
 
 ### EDPA by target
 
-*Sustained: rapierx2*
+*Sustained: Rapier*
 
 | Target | EDPA | Median |
 |---|---|---|

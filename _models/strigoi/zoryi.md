@@ -41,7 +41,7 @@ meta: "Hero · Vampire · Size 50"
 
 ### EDPA by target
 
-*Sustained: fresh clawsx2*
+*Sustained: Fresh Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -45,7 +45,7 @@ meta: "Leader · End of Days · Size 30"
 
 ### EDPA by target
 
-*Sustained: staff of creditx2*
+*Sustained: Staff Of Credit*
 
 | Target | EDPA | Median |
 |---|---|---|

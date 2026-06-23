@@ -47,7 +47,7 @@ meta: "Hero · Councillor · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: cane swordx2*
+*Sustained: Cane Sword*
 
 | Target | EDPA | Median |
 |---|---|---|

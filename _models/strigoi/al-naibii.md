@@ -42,7 +42,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: sicax2*
+*Sustained: Sica*
 
 | Target | EDPA | Median |
 |---|---|---|

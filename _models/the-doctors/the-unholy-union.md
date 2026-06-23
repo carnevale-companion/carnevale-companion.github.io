@@ -44,7 +44,7 @@ meta: "Hero · Unique · Size 75"
 
 ### EDPA by target
 
-*Sustained: endless grasping handsx3*
+*Sustained: Endless Grasping Hands*
 
 | Target | EDPA | Median |
 |---|---|---|

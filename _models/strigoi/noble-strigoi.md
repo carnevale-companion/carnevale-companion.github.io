@@ -47,7 +47,7 @@ meta: "Leader · Vampire · Size 30"
 
 ### EDPA by target
 
-*Sustained: fangsx3*
+*Sustained: Fangs*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -40,7 +40,7 @@ meta: "Henchman · Ottoman · Size 30"
 
 ### EDPA by target
 
-*Sustained: twin bladesx2*
+*Sustained: Twin Blades*
 
 | Target | EDPA | Median |
 |---|---|---|

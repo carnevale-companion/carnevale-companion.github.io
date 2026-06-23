@@ -42,7 +42,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: encrusted handsx2*
+*Sustained: Encrusted Hands*
 
 | Target | EDPA | Median |
 |---|---|---|

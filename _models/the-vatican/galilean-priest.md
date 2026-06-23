@@ -42,7 +42,7 @@ meta: "Hero · Invoker · Discipline(<a href=\"/magic/fateweaving/\" class=\"dis
 
 ### EDPA by target
 
-*Sustained: spell:summon verminx1+spell:groundsnapx1*
+*Sustained: Summon Vermin > Groundsnap*
 
 | Target | EDPA | Median |
 |---|---|---|
@@ -67,25 +67,6 @@ meta: "Hero · Invoker · Discipline(<a href=\"/magic/fateweaving/\" class=\"dis
 | Elite (Atk5, Dmg+1) | 3.38 | 3.3 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 1.50 | 7.3 | 5.3 |
 | Drown (Atk3) | 2.30 | 4.8 | 5.8 |
-
-</div>
-</div>
-
-<div class="model-pairs">
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 4.14 | 2.50 |
-| Balanced (Dex4/Prot3) | 3.24 | 1.50 |
-| Evasive (Dex6/Prot2) | 3.69 | 1.30 |
-| Armoured (Dex4/Prot5) | 2.43 | 0.87 |
-| Tank (Dex4/Prot5/US5) | 2.43 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 3.24 | 0.93 |
 
 </div>
 </div>

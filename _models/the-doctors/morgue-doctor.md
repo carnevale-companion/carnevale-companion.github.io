@@ -43,7 +43,7 @@ meta: "Hero · Doctor · Discipline(<a href=\"/magic/divinity/\" class=\"disc-di
 
 ### EDPA by target
 
-*Sustained: surgical toolsx2*
+*Sustained: Surgical Tools*
 
 | Target | EDPA | Median |
 |---|---|---|

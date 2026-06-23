@@ -41,7 +41,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: balanced throwing knifex2*
+*Sustained: Balanced Throwing Knife*
 
 | Target | EDPA | Median |
 |---|---|---|

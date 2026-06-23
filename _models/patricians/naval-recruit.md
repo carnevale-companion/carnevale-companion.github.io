@@ -40,7 +40,7 @@ meta: "Henchman · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: naval cutlassx2*
+*Sustained: Naval Cutlass*
 
 | Target | EDPA | Median |
 |---|---|---|

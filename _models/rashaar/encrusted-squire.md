@@ -40,7 +40,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: sodden longswordx2*
+*Sustained: Sodden Longsword*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -40,7 +40,7 @@ meta: "Henchman · End of Days · Size 30"
 
 ### EDPA by target
 
-*Sustained: clubx2*
+*Sustained: Club*
 
 | Target | EDPA | Median |
 |---|---|---|

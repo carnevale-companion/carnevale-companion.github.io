@@ -40,7 +40,7 @@ meta: "Henchman · Monster · Size 40"
 
 ### EDPA by target
 
-*Sustained: clawsx2*
+*Sustained: Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

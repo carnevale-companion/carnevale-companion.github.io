@@ -40,7 +40,7 @@ meta: "Henchman · Animal · Size 50"
 
 ### EDPA by target
 
-*Sustained: ripping teethx2*
+*Sustained: Ripping Teeth*
 
 | Target | EDPA | Median |
 |---|---|---|

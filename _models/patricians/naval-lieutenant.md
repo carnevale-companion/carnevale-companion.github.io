@@ -47,7 +47,7 @@ meta: "Hero · Officer · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: nock gunx1*
+*Sustained: Nock Gun*
 
 | Target | EDPA | Median |
 |---|---|---|

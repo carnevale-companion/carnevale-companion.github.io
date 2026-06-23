@@ -40,7 +40,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: short swordx2*
+*Sustained: Short Sword*
 
 | Target | EDPA | Median |
 |---|---|---|

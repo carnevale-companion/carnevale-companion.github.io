@@ -40,7 +40,7 @@ meta: "Henchman · Trade · Size 30"
 
 ### EDPA by target
 
-*Sustained: improvised weaponx2*
+*Sustained: Improvised Weapon*
 
 | Target | EDPA | Median |
 |---|---|---|

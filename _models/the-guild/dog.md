@@ -42,7 +42,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: teethx2*
+*Sustained: Teeth*
 
 | Target | EDPA | Median |
 |---|---|---|

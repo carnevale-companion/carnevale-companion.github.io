@@ -45,7 +45,7 @@ meta: "Leader · Unique · Commedia dell'Arte · Size 30"
 
 ### EDPA by target
 
-*Sustained: greatswordx3*
+*Sustained: Greatsword*
 
 | Target | EDPA | Median |
 |---|---|---|

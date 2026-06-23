@@ -50,7 +50,7 @@ meta: "Leader · Councillor · Officer · Size 30"
 
 ### EDPA by target
 
-*Sustained: twin rifled duelling pistolsx1*
+*Sustained: Twin Rifled Duelling Pistols*
 
 | Target | EDPA | Median |
 |---|---|---|

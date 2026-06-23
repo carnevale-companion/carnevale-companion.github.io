@@ -42,7 +42,7 @@ meta: "Hero · Vampire · Size 30"
 
 ### EDPA by target
 
-*Sustained: a thousand teethx2*
+*Sustained: A Thousand Teeth*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -42,7 +42,7 @@ meta: "Hero · Vampire · Size 50"
 
 ### EDPA by target
 
-*Sustained: distended jawsx2*
+*Sustained: Distended Jaws*
 
 | Target | EDPA | Median |
 |---|---|---|

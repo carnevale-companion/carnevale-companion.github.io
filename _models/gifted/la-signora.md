@@ -50,7 +50,7 @@ meta: "Leader · Hero · Unique · Commedia dell'Arte · Size 40"
 
 ### EDPA by target
 
-*Sustained: rapierx3*
+*Sustained: Rapier*
 
 | Target | EDPA | Median |
 |---|---|---|

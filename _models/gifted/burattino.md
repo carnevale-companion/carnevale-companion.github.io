@@ -42,7 +42,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: carving knifex2*
+*Sustained: Carving Knife*
 
 | Target | EDPA | Median |
 |---|---|---|

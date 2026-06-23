@@ -44,7 +44,7 @@ meta: "Henchman *(free with Emissary of Mother Hydra)* · Size 30"
 
 ### EDPA by target
 
-*Sustained: rending spinex2*
+*Sustained: Rending Spine*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -42,7 +42,7 @@ meta: "Hero · Construct · Size 50"
 
 ### EDPA by target
 
-*Sustained: stone fistsx2*
+*Sustained: Stone Fists*
 
 | Target | EDPA | Median |
 |---|---|---|

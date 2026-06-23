@@ -42,7 +42,7 @@ meta: "Hero · House of Virtue · Size 30"
 
 ### EDPA by target
 
-*Sustained: dual stilettosx2*
+*Sustained: Dual Stilettos*
 
 | Target | EDPA | Median |
 |---|---|---|

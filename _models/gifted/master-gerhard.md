@@ -42,7 +42,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: forge hammerx2*
+*Sustained: Forge Hammer*
 
 | Target | EDPA | Median |
 |---|---|---|

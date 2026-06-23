@@ -42,7 +42,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: sabrex2*
+*Sustained: Sabre*
 
 | Target | EDPA | Median |
 |---|---|---|

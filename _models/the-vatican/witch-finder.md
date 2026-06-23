@@ -42,7 +42,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: snarex2*
+*Sustained: Snare*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -40,7 +40,7 @@ meta: "Hero · Vampire · Size 40"
 
 ### EDPA by target
 
-*Sustained: clawed handsx2*
+*Sustained: Clawed Hands*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -46,7 +46,7 @@ meta: "Hero · Feral · Size 40"
 
 ### EDPA by target
 
-*Sustained: water portalx1*
+*Sustained: Water Portal*
 
 | Target | EDPA | Median |
 |---|---|---|

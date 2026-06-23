@@ -46,7 +46,7 @@ meta: "Hero · Monster · Hydra · Unique · Size 75"
 
 ### EDPA by target
 
-*Sustained: eldritch mawx3*
+*Sustained: Eldritch Maw*
 
 | Target | EDPA | Median |
 |---|---|---|

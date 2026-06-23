@@ -46,7 +46,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: compelled confessionx2*
+*Sustained: Compelled Confession*
 
 | Target | EDPA | Median |
 |---|---|---|

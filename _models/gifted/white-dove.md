@@ -42,7 +42,7 @@ meta: "Hero · Unique · Size 40"
 
 ### EDPA by target
 
-*Sustained: dove's kissx2*
+*Sustained: Dove's Kiss*
 
 | Target | EDPA | Median |
 |---|---|---|

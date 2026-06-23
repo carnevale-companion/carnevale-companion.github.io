@@ -44,7 +44,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: oarx2*
+*Sustained: Oar*
 
 | Target | EDPA | Median |
 |---|---|---|

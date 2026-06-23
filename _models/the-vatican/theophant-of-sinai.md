@@ -44,7 +44,7 @@ meta: "Henchman · Construct · Size 40"
 
 ### EDPA by target
 
-*Sustained: hellfirex1*
+*Sustained: Hellfire*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -50,7 +50,7 @@ meta: "Hero · Unique · Construct · Size 75"
 
 ### EDPA by target
 
-*Sustained: maw pressx3*
+*Sustained: Maw Press*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -40,7 +40,7 @@ meta: "Henchman · Size 40"
 
 ### EDPA by target
 
-*Sustained: rusty bladex2*
+*Sustained: Rusty Blade*
 
 | Target | EDPA | Median |
 |---|---|---|

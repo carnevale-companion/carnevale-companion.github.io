@@ -42,7 +42,7 @@ meta: "Hero · Vampire · Soldier · Size 40"
 
 ### EDPA by target
 
-*Sustained: impaling stakex2*
+*Sustained: Impaling Stake*
 
 | Target | EDPA | Median |
 |---|---|---|

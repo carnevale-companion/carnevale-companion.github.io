@@ -42,7 +42,7 @@ meta: "Henchman · Construct · Size 30"
 
 ### EDPA by target
 
-*Sustained: heavenly graspx2*
+*Sustained: Heavenly Grasp*
 
 | Target | EDPA | Median |
 |---|---|---|

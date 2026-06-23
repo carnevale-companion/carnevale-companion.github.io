@@ -41,7 +41,7 @@ meta: "Henchman · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: bardichex2*
+*Sustained: Bardiche*
 
 | Target | EDPA | Median |
 |---|---|---|

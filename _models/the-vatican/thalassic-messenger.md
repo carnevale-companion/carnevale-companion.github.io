@@ -42,7 +42,7 @@ meta: "Henchman · Construct · Size 50"
 
 ### EDPA by target
 
-*Sustained: angelic touchx2*
+*Sustained: Angelic Touch*
 
 | Target | EDPA | Median |
 |---|---|---|

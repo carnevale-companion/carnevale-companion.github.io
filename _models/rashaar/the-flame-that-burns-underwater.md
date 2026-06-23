@@ -48,7 +48,7 @@ meta: "Leader · Hydra · Monster · Unique · Size 50"
 
 ### EDPA by target
 
-*Sustained: ornate tridentx3*
+*Sustained: Ornate Trident*
 
 | Target | EDPA | Median |
 |---|---|---|

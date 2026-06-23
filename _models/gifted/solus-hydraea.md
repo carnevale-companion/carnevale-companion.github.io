@@ -42,7 +42,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: bronze chiselx2*
+*Sustained: Bronze Chisel*
 
 | Target | EDPA | Median |
 |---|---|---|

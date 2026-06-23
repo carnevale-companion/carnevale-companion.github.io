@@ -42,7 +42,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: poisoned needlex2*
+*Sustained: Poisoned Needle*
 
 | Target | EDPA | Median |
 |---|---|---|

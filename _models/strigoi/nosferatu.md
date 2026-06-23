@@ -43,7 +43,7 @@ meta: "Henchman · Vampire · Size 30"
 
 ### EDPA by target
 
-*Sustained: ancient clawsx2*
+*Sustained: Ancient Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

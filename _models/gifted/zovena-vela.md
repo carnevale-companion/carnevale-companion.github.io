@@ -43,7 +43,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: fiery explosionx1+fireballx1*
+*Sustained: Fiery Explosion > Fireball*
 
 | Target | EDPA | Median |
 |---|---|---|

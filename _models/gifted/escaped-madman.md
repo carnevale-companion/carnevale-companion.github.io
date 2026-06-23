@@ -42,7 +42,7 @@ meta: "Henchman · Unique · Size 40"
 
 ### EDPA by target
 
-*Sustained: tentacled rebarx2*
+*Sustained: Tentacled Rebar*
 
 | Target | EDPA | Median |
 |---|---|---|

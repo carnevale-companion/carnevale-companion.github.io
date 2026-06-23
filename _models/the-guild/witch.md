@@ -40,18 +40,18 @@ meta: "Hero · House of Virtue · Discipline(<a href=\"/magic/blood-rites/\" cla
 <div class="model-pairs">
 <div>
 
-### Wild Magic EDPA by target
+### Blood Rites EDPA by target
 
-*Best spell: Summon Vermin* · EDPA/Duc **0.241**
+*Sustained: Kraken's Breath > Mother Hydra's Claws* · EDPA/Duc **0.183**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 4.80 | 5.63 |
-| Balanced (Dex4/Prot3) | 3.85 | 4.71 |
-| Evasive (Dex6/Prot2) | 4.34 | 5.17 |
-| Armoured (Dex4/Prot5) | 3.04 | 3.87 |
-| Tank (Dex4/Prot5/US5) | 3.04 | 3.87 |
-| Parry (Dex5/Prot3/Parry2) | 3.85 | 4.71 |
+| Soft (Dex3/Prot1) | 3.07 | 3.22 |
+| Balanced (Dex4/Prot3) | 2.93 | 3.19 |
+| Evasive (Dex6/Prot2) | 3.07 | 3.22 |
+| Armoured (Dex4/Prot5) | 2.49 | 2.74 |
+| Tank (Dex4/Prot5/US5) | 2.08 | 2.08 |
+| Parry (Dex5/Prot3/Parry2) | 2.93 | 3.19 |
 
 </div>
 <div>
@@ -73,18 +73,18 @@ meta: "Hero · House of Virtue · Discipline(<a href=\"/magic/blood-rites/\" cla
 <div class="model-pairs">
 <div>
 
-### Blood Rites EDPA by target
+### Wild Magic EDPA by target
 
-*Best spell: Kraken's Breath* · EDPA/Duc **0.231**
+*Sustained: Summon Vermin > Groundsnap* · EDPA/Duc **0.149**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 3.97 | 4.07 |
-| Balanced (Dex4/Prot3) | 3.70 | 3.80 |
-| Evasive (Dex6/Prot2) | 3.97 | 4.07 |
-| Armoured (Dex4/Prot5) | 2.81 | 2.90 |
-| Tank (Dex4/Prot5/US5) | 2.17 | 2.69 |
-| Parry (Dex5/Prot3/Parry2) | 3.70 | 3.80 |
+| Soft (Dex3/Prot1) | 3.23 | 3.23 |
+| Balanced (Dex4/Prot3) | 2.38 | 2.38 |
+| Evasive (Dex6/Prot2) | 2.80 | 2.80 |
+| Armoured (Dex4/Prot5) | 1.75 | 1.75 |
+| Tank (Dex4/Prot5/US5) | 1.75 | 1.75 |
+| Parry (Dex5/Prot3/Parry2) | 2.38 | 2.38 |
 
 </div>
 </div>

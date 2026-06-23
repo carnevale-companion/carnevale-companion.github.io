@@ -42,7 +42,7 @@ meta: "Henchman · Discipline(<a href=\"/magic/runes-of-sovereignty/\" class=\"d
 
 ### EDPA by target
 
-*Sustained: hidden clawsx2*
+*Sustained: Hidden Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

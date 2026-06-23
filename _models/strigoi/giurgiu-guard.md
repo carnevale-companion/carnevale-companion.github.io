@@ -42,7 +42,7 @@ meta: "Henchman · Vampire · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: spearx2*
+*Sustained: Spear*
 
 | Target | EDPA | Median |
 |---|---|---|

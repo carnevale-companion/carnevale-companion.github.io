@@ -42,7 +42,7 @@ meta: "Henchman · Animal · Size 30"
 
 ### EDPA by target
 
-*Sustained: quilled spinesx2*
+*Sustained: Quilled Spines*
 
 | Target | EDPA | Median |
 |---|---|---|

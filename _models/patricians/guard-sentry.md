@@ -42,7 +42,7 @@ meta: "Henchman · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: boot knifex2*
+*Sustained: Boot Knife*
 
 | Target | EDPA | Median |
 |---|---|---|

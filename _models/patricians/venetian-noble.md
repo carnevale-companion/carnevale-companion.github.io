@@ -46,7 +46,7 @@ meta: "Leader · Councillor · Size 30"
 
 ### EDPA by target
 
-*Sustained: cup rapierx3*
+*Sustained: Cup Rapier*
 
 | Target | EDPA | Median |
 |---|---|---|

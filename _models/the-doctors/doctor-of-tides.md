@@ -46,7 +46,7 @@ meta: "Hero · Doctor · Size 40"
 
 ### EDPA by target
 
-*Sustained: diving tridentx2*
+*Sustained: Diving Trident*
 
 | Target | EDPA | Median |
 |---|---|---|

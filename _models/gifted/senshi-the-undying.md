@@ -46,7 +46,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: daishōx2*
+*Sustained: Daishō*
 
 | Target | EDPA | Median |
 |---|---|---|

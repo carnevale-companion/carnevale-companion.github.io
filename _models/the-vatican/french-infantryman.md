@@ -40,7 +40,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: corsequex2*
+*Sustained: Corseque*
 
 | Target | EDPA | Median |
 |---|---|---|

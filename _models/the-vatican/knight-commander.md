@@ -47,7 +47,7 @@ meta: "Leader · Hospitaller · Size 30"
 
 ### EDPA by target
 
-*Sustained: blade of gozox3*
+*Sustained: Blade Of Gozo*
 
 | Target | EDPA | Median |
 |---|---|---|

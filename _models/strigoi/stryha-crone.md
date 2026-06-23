@@ -45,7 +45,7 @@ meta: "Leader · Vampire · Size 30"
 
 ### EDPA by target
 
-*Sustained: talonsx3*
+*Sustained: Talons*
 
 | Target | EDPA | Median |
 |---|---|---|

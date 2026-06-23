@@ -45,7 +45,7 @@ meta: "Hero · Doctor · Size 30"
 
 ### EDPA by target
 
-*Sustained: shock staffx2*
+*Sustained: Shock Staff*
 
 | Target | EDPA | Median |
 |---|---|---|

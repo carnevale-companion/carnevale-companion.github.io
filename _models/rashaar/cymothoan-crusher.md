@@ -40,7 +40,7 @@ meta: "Henchman · Feral · Size 50"
 
 ### EDPA by target
 
-*Sustained: crusted fistx2*
+*Sustained: Crusted Fist*
 
 | Target | EDPA | Median |
 |---|---|---|

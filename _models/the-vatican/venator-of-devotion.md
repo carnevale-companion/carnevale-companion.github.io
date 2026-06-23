@@ -45,7 +45,7 @@ meta: "Hero · Hospitaller · Size 40"
 
 ### EDPA by target
 
-*Sustained: zweihänderx2*
+*Sustained: Zweihänder*
 
 | Target | EDPA | Median |
 |---|---|---|

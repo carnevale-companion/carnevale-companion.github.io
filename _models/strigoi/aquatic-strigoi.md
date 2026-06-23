@@ -40,7 +40,7 @@ meta: "Hero · Vampire · Size 30"
 
 ### EDPA by target
 
-*Sustained: webbed talonsx2*
+*Sustained: Webbed Talons*
 
 | Target | EDPA | Median |
 |---|---|---|

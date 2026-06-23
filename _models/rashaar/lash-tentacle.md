@@ -44,7 +44,7 @@ meta: "Henchman *(free with Emissary of Mother Hydra)* · Size 30"
 
 ### EDPA by target
 
-*Sustained: lashing swipex2*
+*Sustained: Lashing Swipe*
 
 | Target | EDPA | Median |
 |---|---|---|

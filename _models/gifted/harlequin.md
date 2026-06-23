@@ -44,7 +44,7 @@ meta: "Hero · Unique · Commedia dell'Arte · Size 30"
 
 ### EDPA by target
 
-*Sustained: swordx3*
+*Sustained: Sword*
 
 | Target | EDPA | Median |
 |---|---|---|

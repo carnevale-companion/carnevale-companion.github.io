@@ -40,7 +40,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: wave-blade knifex2*
+*Sustained: Wave-blade Knife*
 
 | Target | EDPA | Median |
 |---|---|---|

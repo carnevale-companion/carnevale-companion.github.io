@@ -44,7 +44,7 @@ meta: "Hero · Size 40"
 
 ### EDPA by target
 
-*Sustained: electro gauntletx2*
+*Sustained: Electro Gauntlet*
 
 | Target | EDPA | Median |
 |---|---|---|

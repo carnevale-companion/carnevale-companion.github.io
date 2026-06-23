@@ -40,7 +40,7 @@ meta: "Henchman · Animal · Size 50"
 
 ### EDPA by target
 
-*Sustained: enhanced jawsx2*
+*Sustained: Enhanced Jaws*
 
 | Target | EDPA | Median |
 |---|---|---|

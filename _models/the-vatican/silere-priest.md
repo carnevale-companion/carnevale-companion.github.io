@@ -42,7 +42,7 @@ meta: "Hero · Discipline(<a href=\"/magic/fateweaving/\" class=\"disc-fateweavi
 
 ### EDPA by target
 
-*Sustained: fire of persecutionx2*
+*Sustained: Fire Of Persecution*
 
 | Target | EDPA | Median |
 |---|---|---|

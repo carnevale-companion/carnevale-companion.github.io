@@ -44,7 +44,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: holy iconx2*
+*Sustained: Holy Icon*
 
 | Target | EDPA | Median |
 |---|---|---|

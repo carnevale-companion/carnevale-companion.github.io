@@ -42,7 +42,7 @@ meta: "Hero · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rit
 
 ### EDPA by target
 
-*Sustained: spell:kraken's breathx1+hands of godx1*
+*Sustained: Kraken's Breath > Hands Of God*
 
 | Target | EDPA | Median |
 |---|---|---|
@@ -67,25 +67,6 @@ meta: "Hero · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rit
 | Elite (Atk5, Dmg+1) | 3.81 | 2.9 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.0 | 6.3 |
 | Drown (Atk3) | 1.90 | 5.8 | 7.7 |
-
-</div>
-</div>
-
-<div class="model-pairs">
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 3.55 | 4.02 |
-| Balanced (Dex4/Prot3) | 3.34 | 3.14 |
-| Evasive (Dex6/Prot2) | 3.55 | 2.69 |
-| Armoured (Dex4/Prot5) | 2.53 | 2.32 |
-| Tank (Dex4/Prot5/US5) | 1.78 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 3.34 | 2.23 |
 
 </div>
 </div>

@@ -43,7 +43,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: crossbowx1+clubx1*
+*Sustained: Crossbow > Club*
 
 | Target | EDPA | Median |
 |---|---|---|

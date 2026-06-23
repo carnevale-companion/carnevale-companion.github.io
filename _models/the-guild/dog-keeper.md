@@ -42,7 +42,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: training whipx2*
+*Sustained: Training Whip*
 
 | Target | EDPA | Median |
 |---|---|---|

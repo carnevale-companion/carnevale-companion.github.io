@@ -44,7 +44,7 @@ meta: "Hero · Unique · Size 40"
 
 ### EDPA by target
 
-*Sustained: brutal fistsx2*
+*Sustained: Brutal Fists*
 
 | Target | EDPA | Median |
 |---|---|---|

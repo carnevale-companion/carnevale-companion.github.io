@@ -47,7 +47,7 @@ meta: "Leader · Unique · Vampire · Size 30"
 
 ### EDPA by target
 
-*Sustained: wallachian halberdx3*
+*Sustained: Wallachian Halberd*
 
 | Target | EDPA | Median |
 |---|---|---|

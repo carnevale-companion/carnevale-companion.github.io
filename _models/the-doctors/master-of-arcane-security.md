@@ -48,7 +48,7 @@ meta: "Leader · Doctor · Size 50"
 
 ### EDPA by target
 
-*Sustained: soul burnerx1+arming bladex2*
+*Sustained: Soul Burner > Arming Blade*
 
 | Target | EDPA | Median |
 |---|---|---|

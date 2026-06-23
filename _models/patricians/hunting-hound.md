@@ -40,7 +40,7 @@ meta: "Henchman · Animal · Size 30"
 
 ### EDPA by target
 
-*Sustained: bitex2*
+*Sustained: Bite*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -45,7 +45,7 @@ meta: "Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: holy instrumentsx2*
+*Sustained: Holy Instruments*
 
 | Target | EDPA | Median |
 |---|---|---|

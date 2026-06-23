@@ -42,7 +42,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: flint daggerx2*
+*Sustained: Flint Dagger*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -44,7 +44,7 @@ meta: "Hero · Hospitaller · Size 40"
 
 ### EDPA by target
 
-*Sustained: blessed swordx2*
+*Sustained: Blessed Sword*
 
 | Target | EDPA | Median |
 |---|---|---|

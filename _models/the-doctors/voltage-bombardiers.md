@@ -48,7 +48,7 @@ meta: "Hero · Size 40"
 
 ### EDPA by target
 
-*Sustained: soul bombardx2*
+*Sustained: Soul Bombard*
 
 | Target | EDPA | Median |
 |---|---|---|

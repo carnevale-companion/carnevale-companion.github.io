@@ -42,7 +42,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: tender clawsx2*
+*Sustained: Tender Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

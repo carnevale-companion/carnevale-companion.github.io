@@ -48,7 +48,7 @@ meta: "Leader · Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: concealed pistolx1+gilded swordx2*
+*Sustained: Concealed Pistol > Gilded Sword*
 
 | Target | EDPA | Median |
 |---|---|---|

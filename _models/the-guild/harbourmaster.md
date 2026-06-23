@@ -46,7 +46,7 @@ meta: "Leader · Size 30"
 
 ### EDPA by target
 
-*Sustained: clockwork pistolx2+sailor's knifex1*
+*Sustained: Clockwork Pistol > Sailor's Knife*
 
 | Target | EDPA | Median |
 |---|---|---|

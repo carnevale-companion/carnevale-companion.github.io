@@ -44,7 +44,7 @@ meta: "Hero · Unique · Hospitaller · Size 50"
 
 ### EDPA by target
 
-*Sustained: ahlspiessx3*
+*Sustained: Ahlspiess*
 
 | Target | EDPA | Median |
 |---|---|---|

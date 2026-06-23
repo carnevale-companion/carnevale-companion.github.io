@@ -44,7 +44,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: herding spearx2*
+*Sustained: Herding Spear*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -44,7 +44,7 @@ meta: "Hero · Monster · Unique · Size 120"
 
 ### EDPA by target
 
-*Sustained: colossal jawsx3*
+*Sustained: Colossal Jaws*
 
 | Target | EDPA | Median |
 |---|---|---|

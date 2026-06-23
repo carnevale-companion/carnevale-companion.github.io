@@ -45,7 +45,7 @@ meta: "Hero · Unique · Vampire · Bride · Discipline(<a href=\"/magic/runes-o
 
 ### EDPA by target
 
-*Sustained: spell:kraken's breathx1+spell:mother hydra's clawsx1*
+*Sustained: Kraken's Breath > Mother Hydra's Claws*
 
 | Target | EDPA | Median |
 |---|---|---|
@@ -70,25 +70,6 @@ meta: "Hero · Unique · Vampire · Bride · Discipline(<a href=\"/magic/runes-o
 | Elite (Atk5, Dmg+1) | 3.32 | 3.6 | 3.7 |
 | Penetrator (Atk3, Pen−3) | 1.90 | 6.3 | 6.3 |
 | Drown (Atk3) | 1.56 | 7.7 | 7.7 |
-
-</div>
-</div>
-
-<div class="model-pairs">
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 4.03 | 4.02 |
-| Balanced (Dex4/Prot3) | 3.78 | 3.14 |
-| Evasive (Dex6/Prot2) | 4.03 | 2.69 |
-| Armoured (Dex4/Prot5) | 2.87 | 2.32 |
-| Tank (Dex4/Prot5/US5) | 2.41 | 1.92 |
-| Parry (Dex5/Prot3/Parry2) | 3.78 | 2.23 |
 
 </div>
 </div>

@@ -45,7 +45,7 @@ meta: "Leader · Hero · Unique · Size 30"
 
 ### EDPA by target
 
-*Sustained: swordx3*
+*Sustained: Sword*
 
 | Target | EDPA | Median |
 |---|---|---|

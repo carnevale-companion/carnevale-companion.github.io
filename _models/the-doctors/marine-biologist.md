@@ -42,7 +42,7 @@ meta: "Hero · Doctor · Size 30"
 
 ### EDPA by target
 
-*Sustained: tranquilliser harpoon gunx1*
+*Sustained: Tranquilliser Harpoon Gun*
 
 | Target | EDPA | Median |
 |---|---|---|

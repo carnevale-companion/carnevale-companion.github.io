@@ -42,7 +42,7 @@ meta: "Hero · Monster · Hydra · Size 50"
 
 ### EDPA by target
 
-*Sustained: barbed tentaclesx2*
+*Sustained: Barbed Tentacles*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -40,7 +40,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: encrusted weaponx2*
+*Sustained: Encrusted Weapon*
 
 | Target | EDPA | Median |
 |---|---|---|

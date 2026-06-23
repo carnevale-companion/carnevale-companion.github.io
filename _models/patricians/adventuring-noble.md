@@ -42,7 +42,7 @@ meta: "Hero · Councillor · Discipline(<a href=\"/magic/wild-magic/\" class=\"d
 
 ### EDPA by target
 
-*Sustained: swordx2*
+*Sustained: Sword*
 
 | Target | EDPA | Median |
 |---|---|---|

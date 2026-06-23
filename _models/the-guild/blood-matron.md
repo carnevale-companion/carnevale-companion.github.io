@@ -44,7 +44,7 @@ meta: "Hero · House of Virtue · Size 30"
 
 ### EDPA by target
 
-*Sustained: pithing needlex2*
+*Sustained: Pithing Needle*
 
 | Target | EDPA | Median |
 |---|---|---|

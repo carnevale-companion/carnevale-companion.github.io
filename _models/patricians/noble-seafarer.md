@@ -41,7 +41,7 @@ meta: "Henchman · Councillor · Size 30"
 
 ### EDPA by target
 
-*Sustained: coach gunx1+dive knifex1*
+*Sustained: Coach Gun > Dive Knife*
 
 | Target | EDPA | Median |
 |---|---|---|

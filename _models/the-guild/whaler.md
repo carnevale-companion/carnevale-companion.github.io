@@ -42,7 +42,7 @@ meta: "Hero · Size 40"
 
 ### EDPA by target
 
-*Sustained: whaling lancex2*
+*Sustained: Whaling Lance*
 
 | Target | EDPA | Median |
 |---|---|---|

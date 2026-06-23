@@ -42,7 +42,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: burning longswordx2*
+*Sustained: Burning Longsword*
 
 | Target | EDPA | Median |
 |---|---|---|

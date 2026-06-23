@@ -42,7 +42,7 @@ meta: "Henchman · Hydra · Size 40"
 
 ### EDPA by target
 
-*Sustained: heavy tentaclesx2*
+*Sustained: Heavy Tentacles*
 
 | Target | EDPA | Median |
 |---|---|---|

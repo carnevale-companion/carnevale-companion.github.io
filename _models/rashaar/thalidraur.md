@@ -47,7 +47,7 @@ meta: "Leader · Monster · Size 50"
 
 ### EDPA by target
 
-*Sustained: ancient clawsx3*
+*Sustained: Ancient Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

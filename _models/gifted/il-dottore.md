@@ -42,7 +42,7 @@ meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 
 ### EDPA by target
 
-*Sustained: wine bottlex2*
+*Sustained: Wine Bottle*
 
 | Target | EDPA | Median |
 |---|---|---|

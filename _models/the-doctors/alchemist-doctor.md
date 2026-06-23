@@ -43,7 +43,7 @@ meta: "Hero · Doctor · Size 30"
 
 ### EDPA by target
 
-*Sustained: alchemical bombx1+poison bombx1*
+*Sustained: Alchemical Bomb > Poison Bomb*
 
 | Target | EDPA | Median |
 |---|---|---|

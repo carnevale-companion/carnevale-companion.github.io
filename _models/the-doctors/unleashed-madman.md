@@ -42,7 +42,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: grasping tentaclesx2*
+*Sustained: Grasping Tentacles*
 
 | Target | EDPA | Median |
 |---|---|---|

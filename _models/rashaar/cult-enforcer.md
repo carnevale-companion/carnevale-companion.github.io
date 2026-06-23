@@ -43,7 +43,7 @@ meta: "Hero · Size 40"
 
 ### EDPA by target
 
-*Sustained: iron macex2*
+*Sustained: Iron Mace*
 
 | Target | EDPA | Median |
 |---|---|---|

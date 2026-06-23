@@ -42,7 +42,7 @@ meta: "Hero · End of Days · Size 40"
 
 ### EDPA by target
 
-*Sustained: big clubx2*
+*Sustained: Big Club*
 
 | Target | EDPA | Median |
 |---|---|---|

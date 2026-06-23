@@ -49,7 +49,7 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/runes-of-sovereignty/\" cla
 
 ### EDPA by target
 
-*Sustained: spell:dagonite baptismx1+staffx1*
+*Sustained: Dagonite Baptism > Staff*
 
 | Target | EDPA | Median |
 |---|---|---|
@@ -73,25 +73,6 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/runes-of-sovereignty/\" cla
 | Baseline (Atk3) | 1.13 | 8.8 | 12.6 |
 | Elite (Atk5, Dmg+1) | 3.38 | 3.0 | 4.1 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 4.6 | 6.5 |
-
-</div>
-</div>
-
-<div class="model-pairs">
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 2.93 | 3.79 |
-| Balanced (Dex4/Prot3) | 2.93 | 2.79 |
-| Evasive (Dex6/Prot2) | 2.93 | 2.30 |
-| Armoured (Dex4/Prot5) | 2.93 | 2.02 |
-| Tank (Dex4/Prot5/US5) | 2.93 | 1.79 |
-| Parry (Dex5/Prot3/Parry2) | 2.93 | 1.73 |
 
 </div>
 </div>

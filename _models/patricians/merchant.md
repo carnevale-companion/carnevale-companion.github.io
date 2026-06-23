@@ -41,7 +41,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: pistolx2*
+*Sustained: Pistol*
 
 | Target | EDPA | Median |
 |---|---|---|

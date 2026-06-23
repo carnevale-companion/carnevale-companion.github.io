@@ -27,7 +27,7 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc
 
 <div class="chips" markdown="0"><a class="chip" href="/compendium/character-abilities/#bulky">Bulky</a><a class="chip" href="/compendium/character-abilities/#mage-x">Mage(3)</a><a class="chip" href="/compendium/character-abilities/#vampiric-attack-x">Vampiric Attack(2)</a></div>
 
-**Blood Rights** - - 1AP: Pick one character within 3" (friendly or enemy). That character loses 1 Life Points, and this character replenishes 1 Will Points.
+**Blood Rights** - 1AP: Pick one character within 3" (friendly or enemy). That character loses 1 Life Points, and this character replenishes 1 Will Points.
 
 ## Capability
 
@@ -40,18 +40,18 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc
 <div class="model-pairs">
 <div>
 
-### Wild Magic EDPA by target
+### Blood Rites EDPA by target
 
-*Best spell: Summon Vermin* · EDPA/Duc **0.287**
+*Sustained: Kraken's Breath > Blood Drain* · EDPA/Duc **0.209**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 6.40 | 5.63 |
-| Balanced (Dex4/Prot3) | 5.46 | 4.71 |
-| Evasive (Dex6/Prot2) | 5.91 | 5.17 |
-| Armoured (Dex4/Prot5) | 4.63 | 3.87 |
-| Tank (Dex4/Prot5/US5) | 4.63 | 3.87 |
-| Parry (Dex5/Prot3/Parry2) | 5.46 | 4.71 |
+| Soft (Dex3/Prot1) | 3.98 | 3.22 |
+| Balanced (Dex4/Prot3) | 3.98 | 3.19 |
+| Evasive (Dex6/Prot2) | 3.98 | 3.22 |
+| Armoured (Dex4/Prot5) | 3.49 | 2.74 |
+| Tank (Dex4/Prot5/US5) | 2.46 | 2.08 |
+| Parry (Dex5/Prot3/Parry2) | 3.98 | 3.19 |
 
 </div>
 <div>
@@ -73,18 +73,18 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc
 <div class="model-pairs">
 <div>
 
-### Blood Rites EDPA by target
+### Wild Magic EDPA by target
 
-*Best spell: Kraken's Breath* · EDPA/Duc **0.264**
+*Sustained: Summon Vermin > Groundsnap* · EDPA/Duc **0.191**
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 5.01 | 4.07 |
-| Balanced (Dex4/Prot3) | 5.01 | 3.80 |
-| Evasive (Dex6/Prot2) | 5.01 | 4.07 |
-| Armoured (Dex4/Prot5) | 4.32 | 2.90 |
-| Tank (Dex4/Prot5/US5) | 2.97 | 2.69 |
-| Parry (Dex5/Prot3/Parry2) | 5.01 | 3.80 |
+| Soft (Dex3/Prot1) | 4.53 | 3.23 |
+| Balanced (Dex4/Prot3) | 3.63 | 2.38 |
+| Evasive (Dex6/Prot2) | 4.06 | 2.80 |
+| Armoured (Dex4/Prot5) | 2.86 | 1.75 |
+| Tank (Dex4/Prot5/US5) | 2.86 | 1.75 |
+| Parry (Dex5/Prot3/Parry2) | 3.63 | 2.38 |
 
 </div>
 </div>

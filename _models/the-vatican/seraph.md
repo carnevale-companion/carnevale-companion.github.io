@@ -46,7 +46,7 @@ meta: "Hero · Construct · Size 40"
 
 ### EDPA by target
 
-*Sustained: angelic touchx2*
+*Sustained: Angelic Touch*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -40,7 +40,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: shock prodx2*
+*Sustained: Shock Prod*
 
 | Target | EDPA | Median |
 |---|---|---|

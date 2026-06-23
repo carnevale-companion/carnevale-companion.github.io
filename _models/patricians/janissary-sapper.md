@@ -43,7 +43,7 @@ meta: "Hero · Ottoman · Size 30"
 
 ### EDPA by target
 
-*Sustained: black powder grenadex1+knifex1*
+*Sustained: Black Powder Grenade > Knife*
 
 | Target | EDPA | Median |
 |---|---|---|

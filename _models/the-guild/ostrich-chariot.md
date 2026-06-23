@@ -46,7 +46,7 @@ meta: "Hero · Unique · End of Days · Size 75"
 
 ### EDPA by target
 
-*Sustained: bird kickx2 +bottle burner(free aoo/ap)*
+*Sustained: Bird Kick > Bottle Burner(free AoO/AP)*
 
 | Target | EDPA | Median |
 |---|---|---|

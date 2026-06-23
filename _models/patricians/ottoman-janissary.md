@@ -44,7 +44,7 @@ meta: "Hero · Ottoman · Size 30"
 
 ### EDPA by target
 
-*Sustained: twin swordsx2*
+*Sustained: Twin Swords*
 
 | Target | EDPA | Median |
 |---|---|---|

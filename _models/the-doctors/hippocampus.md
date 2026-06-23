@@ -40,7 +40,7 @@ meta: "Henchman · Animal · Size 50"
 
 ### EDPA by target
 
-*Sustained: hoof stompx2*
+*Sustained: Hoof Stomp*
 
 | Target | EDPA | Median |
 |---|---|---|

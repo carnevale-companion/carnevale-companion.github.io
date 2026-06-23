@@ -44,7 +44,7 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/runes-of-sovereignty/\" cla
 
 ### EDPA by target
 
-*Sustained: spell:summon verminx1+spell:groundsnapx1*
+*Sustained: Summon Vermin > Groundsnap*
 
 | Target | EDPA | Median |
 |---|---|---|
@@ -69,25 +69,6 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/runes-of-sovereignty/\" cla
 | Elite (Atk5, Dmg+1) | 3.38 | 3.5 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 2.20 | 5.5 | 5.3 |
 | Drown (Atk3) | 2.30 | 5.2 | 5.8 |
-
-</div>
-</div>
-
-<div class="model-pairs">
-<div>
-
-### Burst EDPA by target
-
-*Has Reload weapons, sustained EDPA averages Reload downtime, burst shows best single-action EDPA.*
-
-| Target | Burst EDPA | Median |
-|---|---|---|
-| Soft (Dex3/Prot1) | 4.63 | 2.50 |
-| Balanced (Dex4/Prot3) | 3.73 | 1.50 |
-| Evasive (Dex6/Prot2) | 4.18 | 1.30 |
-| Armoured (Dex4/Prot5) | 2.93 | 0.87 |
-| Tank (Dex4/Prot5/US5) | 2.93 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 3.73 | 0.93 |
 
 </div>
 </div>

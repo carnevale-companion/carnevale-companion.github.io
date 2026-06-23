@@ -45,7 +45,7 @@ meta: "Hero · End of Days · Size 40"
 
 ### EDPA by target
 
-*Sustained: trumpetx2*
+*Sustained: Trumpet*
 
 | Target | EDPA | Median |
 |---|---|---|

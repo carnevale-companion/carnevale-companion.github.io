@@ -42,7 +42,7 @@ meta: "Hero · Vampire · Soldier · Size 40"
 
 ### EDPA by target
 
-*Sustained: meathookx2*
+*Sustained: Meathook*
 
 | Target | EDPA | Median |
 |---|---|---|

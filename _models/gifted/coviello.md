@@ -42,7 +42,7 @@ meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 
 ### EDPA by target
 
-*Sustained: prop swordx2*
+*Sustained: Prop Sword*
 
 | Target | EDPA | Median |
 |---|---|---|

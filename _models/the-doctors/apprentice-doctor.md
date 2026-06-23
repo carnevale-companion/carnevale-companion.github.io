@@ -42,7 +42,7 @@ meta: "Henchman · Doctor · Size 30"
 
 ### EDPA by target
 
-*Sustained: scalpelx2*
+*Sustained: Scalpel*
 
 | Target | EDPA | Median |
 |---|---|---|

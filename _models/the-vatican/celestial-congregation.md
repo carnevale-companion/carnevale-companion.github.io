@@ -42,7 +42,7 @@ meta: "Henchman · Construct · Size 50"
 
 ### EDPA by target
 
-*Sustained: heavenly clamourx2*
+*Sustained: Heavenly Clamour*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -42,7 +42,7 @@ meta: "Henchman · Construct · Size 30"
 
 ### EDPA by target
 
-*Sustained: feathers of holy lightx2*
+*Sustained: Feathers Of Holy Light*
 
 | Target | EDPA | Median |
 |---|---|---|

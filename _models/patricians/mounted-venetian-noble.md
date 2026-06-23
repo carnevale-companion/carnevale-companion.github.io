@@ -48,7 +48,7 @@ meta: "Leader · Councillor · Size 50"
 
 ### EDPA by target
 
-*Sustained: gilded sabrex3*
+*Sustained: Gilded Sabre*
 
 | Target | EDPA | Median |
 |---|---|---|

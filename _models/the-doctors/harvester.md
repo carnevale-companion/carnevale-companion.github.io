@@ -42,7 +42,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: meat hookx2*
+*Sustained: Meat Hook*
 
 | Target | EDPA | Median |
 |---|---|---|

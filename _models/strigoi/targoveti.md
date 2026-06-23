@@ -40,7 +40,7 @@ meta: "Henchman · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: battle axex2*
+*Sustained: Battle Axe*
 
 | Target | EDPA | Median |
 |---|---|---|

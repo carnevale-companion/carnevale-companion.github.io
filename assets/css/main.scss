@@ -1495,7 +1495,7 @@ a.disc-wild-magic        { color: #c06a18; font-weight: 500; }
 
 /* Role-median row: same tile format, set back (smaller, unfilled, muted) */
 .metric-median { margin: 0 0 1.4rem; }
-.metric-median-cap { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-3); font-weight: 600; margin: 0 0 0.4rem; }
+.metric-median-cap { font-size: 0.72rem; color: var(--ink-3); font-weight: 500; margin: 0 0 0.4rem; }
 .metric-tiles.is-median .tile { background: transparent; border-color: #e7e0d2; padding: 0.45rem 0.6rem; }
 .metric-tiles.is-median .v { font-size: 1.05rem; color: var(--ink-2); }
 @media (max-width: 560px) { .metric-tiles { grid-template-columns: repeat(2, 1fr); } }

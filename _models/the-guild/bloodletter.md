@@ -44,7 +44,7 @@ meta: "Hero · House of Virtue · Discipline(<a href=\"/magic/blood-rites/\" cla
 
 ### EDPA by target
 
-*Sustained: spell:boiling veinsx1+spell:kraken's breathx1*
+*Sustained: Boiling Veins > Kraken's Breath*
 
 | Target | EDPA | Median |
 |---|---|---|

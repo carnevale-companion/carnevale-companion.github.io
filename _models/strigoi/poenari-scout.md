@@ -41,7 +41,7 @@ meta: "Henchman · Vampire · Soldier · Size 30"
 
 ### EDPA by target
 
-*Sustained: short bowx2*
+*Sustained: Short Bow*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -46,7 +46,7 @@ meta: "Leader · Monster · Size 40"
 
 ### EDPA by target
 
-*Sustained: voice of madnessx3*
+*Sustained: Voice Of Madness*
 
 | Target | EDPA | Median |
 |---|---|---|

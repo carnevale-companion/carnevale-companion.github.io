@@ -44,7 +44,7 @@ meta: "Henchman · House of Virtue · Size 30"
 
 ### EDPA by target
 
-*Sustained: daggerx2*
+*Sustained: Dagger*
 
 | Target | EDPA | Median |
 |---|---|---|

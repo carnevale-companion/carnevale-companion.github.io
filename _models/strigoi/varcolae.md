@@ -42,7 +42,7 @@ meta: "Hero · Size 40"
 
 ### EDPA by target
 
-*Sustained: canine clawsx3*
+*Sustained: Canine Claws*
 
 | Target | EDPA | Median |
 |---|---|---|

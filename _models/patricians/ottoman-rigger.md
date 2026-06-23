@@ -42,7 +42,7 @@ meta: "Henchman · Ottoman · Size 30"
 
 ### EDPA by target
 
-*Sustained: knifex2*
+*Sustained: Knife*
 
 | Target | EDPA | Median |
 |---|---|---|

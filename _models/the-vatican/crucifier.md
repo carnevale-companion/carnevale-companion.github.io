@@ -42,7 +42,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: hammer & nailsx2*
+*Sustained: Hammer & Nails*
 
 | Target | EDPA | Median |
 |---|---|---|

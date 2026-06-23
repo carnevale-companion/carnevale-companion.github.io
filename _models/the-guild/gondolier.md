@@ -42,7 +42,7 @@ meta: "Henchman · Trade · Size 30"
 
 ### EDPA by target
 
-*Sustained: bladed oarx2*
+*Sustained: Bladed Oar*
 
 | Target | EDPA | Median |
 |---|---|---|

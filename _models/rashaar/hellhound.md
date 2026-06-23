@@ -42,7 +42,7 @@ meta: "Henchman · Monster · Feral · Size 30"
 
 ### EDPA by target
 
-*Sustained: gaping mawx2*
+*Sustained: Gaping Maw*
 
 | Target | EDPA | Median |
 |---|---|---|

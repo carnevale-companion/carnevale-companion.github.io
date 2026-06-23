@@ -42,7 +42,7 @@ meta: "Hero · Unique · Size 50"
 
 ### EDPA by target
 
-*Sustained: spectral touchx3*
+*Sustained: Spectral Touch*
 
 | Target | EDPA | Median |
 |---|---|---|

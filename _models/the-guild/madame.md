@@ -49,7 +49,7 @@ meta: "Leader · House of Virtue · Size 30"
 
 ### EDPA by target
 
-*Sustained: garter pistolx2+stilettox1*
+*Sustained: Garter Pistol > Stiletto*
 
 | Target | EDPA | Median |
 |---|---|---|

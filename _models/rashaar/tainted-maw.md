@@ -47,7 +47,7 @@ meta: "Hero · Feral · Size 50"
 
 ### EDPA by target
 
-*Sustained: razor mawx2*
+*Sustained: Razor Maw*
 
 | Target | EDPA | Median |
 |---|---|---|

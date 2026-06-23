@@ -40,7 +40,7 @@ meta: "Hero · Trade · Size 30"
 
 ### EDPA by target
 
-*Sustained: straight razorx2*
+*Sustained: Straight Razor*
 
 | Target | EDPA | Median |
 |---|---|---|

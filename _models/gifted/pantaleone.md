@@ -42,7 +42,7 @@ meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 
 ### EDPA by target
 
-*Sustained: smoke bombx1*
+*Sustained: Smoke Bomb*
 
 | Target | EDPA | Median |
 |---|---|---|

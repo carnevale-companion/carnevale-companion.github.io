@@ -48,7 +48,7 @@ meta: "Hero · Unique · Trade · Size 40"
 
 ### EDPA by target
 
-*Sustained: fishmonger's knivesx2*
+*Sustained: Fishmonger's Knives*
 
 | Target | EDPA | Median |
 |---|---|---|

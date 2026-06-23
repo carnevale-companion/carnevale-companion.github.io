@@ -49,7 +49,7 @@ meta: "Leader · Councillor · Unique · Size 75"
 
 ### EDPA by target
 
-*Sustained: minty fresh breathx1+strice's pawx2*
+*Sustained: Minty Fresh Breath > Strice's Paw*
 
 | Target | EDPA | Median |
 |---|---|---|

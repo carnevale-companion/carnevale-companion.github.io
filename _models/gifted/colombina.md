@@ -40,7 +40,7 @@ meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 
 ### EDPA by target
 
-*Sustained: gilded mirrorx2*
+*Sustained: Gilded Mirror*
 
 | Target | EDPA | Median |
 |---|---|---|

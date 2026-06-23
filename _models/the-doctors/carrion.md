@@ -42,7 +42,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: implanted toolsx2*
+*Sustained: Implanted Tools*
 
 | Target | EDPA | Median |
 |---|---|---|

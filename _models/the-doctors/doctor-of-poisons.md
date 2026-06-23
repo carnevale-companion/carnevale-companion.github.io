@@ -43,7 +43,7 @@ meta: "Hero · Doctor · Size 30"
 
 ### EDPA by target
 
-*Sustained: poisoned bladex2*
+*Sustained: Poisoned Blade*
 
 | Target | EDPA | Median |
 |---|---|---|

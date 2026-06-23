@@ -42,7 +42,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: flaming macex2*
+*Sustained: Flaming Mace*
 
 | Target | EDPA | Median |
 |---|---|---|

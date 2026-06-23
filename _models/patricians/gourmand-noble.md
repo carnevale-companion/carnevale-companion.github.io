@@ -45,7 +45,7 @@ meta: "Hero · Councillor · Size 40"
 
 ### EDPA by target
 
-*Sustained: carving knifex2*
+*Sustained: Carving Knife*
 
 | Target | EDPA | Median |
 |---|---|---|

@@ -49,7 +49,7 @@ meta: "Leader · Monster · Size 50"
 
 ### EDPA by target
 
-*Sustained: unarmedx3*
+*Sustained: Unarmed*
 
 | Target | EDPA | Median |
 |---|---|---|

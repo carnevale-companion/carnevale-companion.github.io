@@ -42,7 +42,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: blunderbussx1*
+*Sustained: Blunderbuss*
 
 | Target | EDPA | Median |
 |---|---|---|

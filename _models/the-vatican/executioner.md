@@ -42,7 +42,7 @@ meta: "Hero · Size 30"
 
 ### EDPA by target
 
-*Sustained: executioner's axex2*
+*Sustained: Executioner's Axe*
 
 | Target | EDPA | Median |
 |---|---|---|

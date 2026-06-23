@@ -47,7 +47,7 @@ meta: "Leader · Unique · Size 40"
 
 ### EDPA by target
 
-*Sustained: barnacle claymorex3*
+*Sustained: Barnacle Claymore*
 
 | Target | EDPA | Median |
 |---|---|---|

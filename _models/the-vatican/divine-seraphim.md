@@ -42,7 +42,7 @@ meta: "Hero · Construct · Size 40"
 
 ### EDPA by target
 
-*Sustained: divine flamex2*
+*Sustained: Divine Flame*
 
 | Target | EDPA | Median |
 |---|---|---|

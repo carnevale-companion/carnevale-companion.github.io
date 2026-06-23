@@ -40,7 +40,7 @@ meta: "Henchman · End of Days · Size 30"
 
 ### EDPA by target
 
-*Sustained: fire breathx1*
+*Sustained: Fire Breath*
 
 | Target | EDPA | Median |
 |---|---|---|

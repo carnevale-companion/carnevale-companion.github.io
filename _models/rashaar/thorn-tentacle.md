@@ -44,7 +44,7 @@ meta: "Henchman *(free with Emissary of Mother Hydra)* · Size 30"
 
 ### EDPA by target
 
-*Sustained: thorned graspx2*
+*Sustained: Thorned Grasp*
 
 | Target | EDPA | Median |
 |---|---|---|

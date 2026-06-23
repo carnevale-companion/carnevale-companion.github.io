@@ -42,7 +42,7 @@ meta: "Henchman · Animal · Size 50"
 
 ### EDPA by target
 
-*Sustained: venomous sprayx2*
+*Sustained: Venomous Spray*
 
 | Target | EDPA | Median |
 |---|---|---|
