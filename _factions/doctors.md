@@ -25,7 +25,7 @@ Mad scientists fusing humans, animals, and eldritch abominations. The Doctors' d
 
 **Nexus Link Reconfiguration** (PULSE): Pick 2 friendly characters within 6" (including self). One loses all WP. For every WP lost, the other replenishes 2 WP.
 
-<div class="callout">
+<div class="callout tactical">
 <p class="callout-title">Tactical note</p>
 
 A great way to recharge Nexus batteries. With Master of Necromantic Studies LP replaces WP throughout: we kill a model to heal another. It can be the most potent healing of the game but needs low value targets to be useful.

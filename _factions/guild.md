@@ -26,7 +26,7 @@ Venice's criminal underworld: thieves, courtesans, and merchants. The Guild's le
 **Mob Mentality** (PULSE): For every friendly character in line of sight to this character (including this character), add a re-roll to your **Mob Mentality Pool**.
 Until the end of the round, any friendly character may use these re-rolls on any roll - one re-roll per die.
 
-<div class="callout">
+<div class="callout tactical">
 <p class="callout-title">Tactical note</p>
 
 Unlike WP, re-rolls are applied after rolling so they are less punishing to use, but they can't expand the result. Each re-roll is worth ~0.40 expected Aces on 7+ rolls, and ~0.70 on Attack Rolls vs DEX 4. It's gang-size dependent: large rosters will generate more but it will have more value for elite models. It needs to be activated at the start of a round to maximise its potential use.

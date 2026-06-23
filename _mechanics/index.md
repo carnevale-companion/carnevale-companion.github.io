@@ -38,8 +38,6 @@ A normalised comparison of every defensive ability (Protection, Parry, Universal
 
 [Defense Modifiers →](/mechanics/defense/)
 
----
-
 ## Capability Analysis
 
 Meta-analysis tools built on top of the reference framework above, for comparing and classifying models.

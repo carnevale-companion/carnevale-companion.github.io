@@ -17,8 +17,6 @@ All figures use the reference engagement unless stated:
 
 P(Ace) per attack die by target Dexterity: Dex 3 = 0.8 · Dex 4 = 0.7 · Dex 5 = 0.6 · Dex 6 = 0.5 · Dex 7 = 0.4.
 
----
-
 ## Offense rules of thumb
 
 1. **+X Damage is the highest *average* output boost**, and it also raises the ceiling. Best on any model that reliably lands hits (Attack 3+ vs Dex ≤5). Its only weaknesses: it does nothing on a whiff, and a flat bonus is wasted as overkill on a hit that already kills.
@@ -41,8 +39,6 @@ P(Ace) per attack die by target Dexterity: Dex 3 = 0.8 · Dex 4 = 0.7 · Dex 5 =
 | Large-base / monster / tank target | **Poisoned** | extra LP scales with base size and ignores armour |
 | Low-MIND swarm | **Fear** | high trigger rate → frequent re-rolls of your own missed attack dice |
 | High-MIND or Brave target | **avoid relying on Fear** | trigger rate near zero / negated entirely |
-
----
 
 ## Maths
 

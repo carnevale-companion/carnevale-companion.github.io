@@ -2,6 +2,7 @@
 title: "Tools"
 nav_order: 0
 permalink: /tools/
+description: Interactive calculators for common in-game geometry questions. Each one mirrors the maths worked out in the Game Mechanics reference.
 toc:
   - title: Line of Sight
     anchor: line-of-sight
@@ -10,8 +11,6 @@ toc:
   - title: Jump
     anchor: jump
 ---
-
-Interactive calculators for common in-game geometry questions. Each one mirrors the maths worked out in the Game Mechanics reference.
 
 ## Line of Sight
 

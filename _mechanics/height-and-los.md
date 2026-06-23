@@ -21,8 +21,6 @@ The blind zone shrinks as the target gets taller and grows as the observer steps
 
 [Open the LOS Calculator →](/tools/#line-of-sight)
 
----
-
 ## How Elevation Creates a Blind Zone
 
 Carnevale uses true line of sight: draw a straight line between any part of one model's body and any part of the other. If that line is unobstructed, LOS exists.
@@ -35,8 +33,6 @@ Anything below that critical angle falls into the **blind zone**: a wedge of gro
 <p class="callout-title">True LOS in practice</p>
 The 1" observer height above terrain is an approximation for planning purposes. At the table, use the actual miniature's eye-level perspective. Terrain up to 1" high is ignored for LOS in all cases.
 </div>
-
----
 
 ## The Formula
 
@@ -59,8 +55,6 @@ LOS is symmetric. If the observer can see the top of the target, the target can 
 D = 2 × (3 − 2) / 1 = **2"**
 
 The target must be at least 2" from the building's outer wall to be in LOS. A ground-level model of the same height (1") would need to be 4" away, and a tiny 0" target would need 6".
-
----
 
 ## Blind Zone Table
 

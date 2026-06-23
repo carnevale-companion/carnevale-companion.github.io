@@ -25,7 +25,7 @@ Crusading knights, exorcists, holy mages, and angelic constructs. The Vatican is
 
 **Heavenly Father Guide Us** (PULSE): This character replenishes 2 WP. Every other friendly within 3" replenishes 1 WP.
 
-<div class="callout">
+<div class="callout tactical">
 <p class="callout-title">Tactical note</p>
 
 WP replenishment scales with clustering, making it the most efficient WP generation tool in the game. Combo with Angel of the Blooded Rose's Heavenly Vision passive to give each bystander +2 WP instead of +1.

@@ -158,8 +158,6 @@ Carnevale is a narrative led skirmish game. The core rules are designed to make 
 
 When weaving your own story on the tabletop, it's good practice to allow your opponent a little leeway, whether measuring line of sight, planning their actions, or any number of other options that come up during a game. It is much more important for a move to be cinematic than for it to stick to the letter of the rules.
 
----
-
 ## Dice Rolls
 
 Carnevale uses 10-sided dice, often referred to as D10. Whenever the rules refer to dice, always use D10s. Note that the rules use "dice" as both single and plural – the number of dice to be rolled will be specified.
@@ -224,8 +222,6 @@ Protection Rolls use a character's PROTECTION stat, and are used to save against
 | Fail | No effect. |
 | Critical | Add 1 extra Ace to this roll. For each Ace, reduce the Damage score by 1. |
 | Fumble | Increase the Damage score by 1. |
-
----
 
 ## Measuring and Line of Sight
 
@@ -321,8 +317,6 @@ Here are descriptors that define the character, such as *Doctor, Monster* etc. C
 
 All of the character's special abilities are listed here. There are universal Character Abilities listed in the [Character Abilities](#character-abilities) section of this page, but many characters have unique abilities.
 
----
-
 ## AP, WP & CP {#ap-wp-and-cp}
 
 ### Action Points (AP)
@@ -390,8 +384,6 @@ Command Abilities come in two forms:
 **Can I use a Counter command on a Mage to cast a second spell that they have already cast that round?** No.
 
 </div>
-
----
 
 ## Rounds & Turns {#rounds-and-turns}
 
@@ -753,8 +745,6 @@ If the Dispelling character rolls no Aces, it cannot attempt to Dispel any other
 
 A character cannot dispel a spell while in water unless it has the **Water Creature** Character Ability.
 
----
-
 ## Terrain
 
 If terrain in your collection is not mentioned in this section, simply agree with your opponent what rules each piece should follow – feel free to make up your own!
@@ -891,8 +881,6 @@ A Row action cannot take the Gondola out of water, but can take the Gondola fart
 | Critical | The Gondola and any characters on it move 4" plus 1" for every Ace rolled. |
 | Fumble | All characters on the Gondola move 1" directly into water. |
 
----
-
 ## Building Your Gang
 
 Individual characters in Carnevale group together into gangs. In most games you will control a single gang, but in some larger games you may have multiple gangs. Each will be comprised of a single leader and then various other characters. Each player is free to build a gang with whatever characters they like, according to the rules in this section.
@@ -918,8 +906,6 @@ Each gang must abide by the following rules:
 - You may not have more characters with the Hero keyword than you have characters with the Henchman keyword in total.
 
 In addition, no matter how many Ducats you are using, a character with the *Unique* keyword may only appear once in your gangs. The same character may appear in your opponent's gang, but any rules specifically relating to that *Unique* character will only work on your friendly one – the other is clearly an imposter, and should be treated as such!
-
----
 
 ## Equipment
 
@@ -957,8 +943,6 @@ Once per game, before rolling for a Combat action, the chosen weapon gains the P
 
 **Leather Undershirt (10 Ducats)**
 Once per game, when a friendly character has taken Damage, and before Protection rolls, roll 1 dice. Subtract that many points from the Damage received.
-
----
 
 ## Campaigns & Scenarios {#campaigns-and-scenarios}
 
@@ -1046,8 +1030,6 @@ Once all players have deployed their characters, players then proceed to make th
 
 This shows how long the scenario will last. At the end of the last character's turn in the last round, the game is over. Tally up any Victory Points and see who wins!
 
----
-
 ## Order of Play
 
 For ease of reference, here is a simple order of play. Some special situations involve a little more in-depth thinking (such as using out of sequence actions), but this is a good base to work from.
@@ -1067,8 +1049,6 @@ For ease of reference, here is a simple order of play. Some special situations i
 3. **Play:** Players continue taking character's turns going clockwise around the table.
 4. **End of Round:** Once all characters have had a turn, a new game round starts, go back to step 1.
 5. **End of Game:** At the end of the last game round, add up Victory Points to see who wins.
-
----
 
 ## Character Abilities {#character-abilities}
 
@@ -1323,8 +1303,6 @@ In addition, this character may be set up in water at the start of the game.
 <p><strong>Do Water Creatures lose Life Points when stunned in water? What about Fumbling Diving and Drown actions?</strong> Yes they do.</p>
 </div>
 
----
-
 ## Weapon Abilities
 
 Weapon Abilities are listed on a character's weapon, and will take effect any time that weapon is used.
@@ -1401,8 +1379,6 @@ This weapon uses the teardrop shaped template. Trace a line between the attacker
 ### Two-handed
 
 This weapon increases its **Evasion by +1** when making an Attack of Opportunity.
-
----
 
 ## Optionnal rule: Fortune's Favour
 

@@ -25,7 +25,7 @@ Cultist worshippers, deep-sea horrors, and their monstrous spawn. The Rashaar ar
 
 **Soul Drain** (PULSE): Make a Basic MIND Roll. The number of Aces is the number of Life Points lost by any one character (friendly or enemy) in base contact. Replenish that many Will Points.
 
-<div class="callout">
+<div class="callout tactical">
 <p class="callout-title">Tactical note</p>
 
 0.4 expected aces per MIND value. So with MIND 3 base and +2 boost from WP: 2.0 expected Aces. For pure damage purpose, it refund itself on average.

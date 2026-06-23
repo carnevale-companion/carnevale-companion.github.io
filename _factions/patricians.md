@@ -27,7 +27,7 @@ Venice's ruling nobility and their private army, composed of the Venetian city g
 
 If this character has the *Councillor* keyword, roll a dice. On a 7+, this Command Ability doesn't use a Command Point.
 
-<div class="callout">
+<div class="callout tactical">
 <p class="callout-title">Tactical note</p>
 
 Most leaders won't benefit from this command, since it can't take them past the 3 AP per turn maximum. The Councillor refund (40% on 7+) makes this effectively free roughly half the turns it's used.

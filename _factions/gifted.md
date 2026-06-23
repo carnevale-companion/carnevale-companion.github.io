@@ -29,7 +29,7 @@ A mercenary faction of unique individuals who can join **any gang**. They are an
 
 **What's My Cue?** (PULSE, use at start of round before initiative roll): Instead of rolling for initiative, you decide which player gets the first turn this round.
 
-<div class="callout">
+<div class="callout tactical">
 <p class="callout-title">Tactical note</p>
 
 It is a very strong ability, but Gifted has really low Command Points in general and strong Command actions, making this ability costly to use.

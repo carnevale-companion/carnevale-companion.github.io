@@ -25,7 +25,7 @@ Undead vampire lords and their mortal servants. Most vampires have the **Frenzie
 
 **Necrotic Mist** (PULSE): Until the end of the round, all friendly characters within 6" of this character count as being in Cover.
 
-<div class="callout">
+<div class="callout tactical">
 <p class="callout-title">Tactical note</p>
 
 Grants the standard cover protection in addition to any **Concealment** bonus (-1.2 average damage per hit with **Concealment (2)**). This ability is costly in resources and forces you to play in tight formation, but can make some characters way more tanky than they seem.
