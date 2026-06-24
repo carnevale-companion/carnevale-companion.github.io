@@ -595,6 +595,17 @@ a:hover { text-decoration: underline; }
   color: var(--ink-3);
 }
 
+/* Page name doubles as the toggle for its in-page TOC (long ability lists) */
+.sidebar-section details.sidebar-page-details > summary {
+  padding: 0.375rem 0 0.375rem 1.25rem;
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: var(--ink);
+  background: rgba(184,146,43,0.11);
+  box-shadow: inset 3px 0 0 var(--gold);
+}
+.sidebar-section details.sidebar-page-details > summary span { flex: 1; }
+
 .sidebar-toc {
   list-style: none;
   margin: 0.125rem 0 0.375rem;
@@ -693,6 +704,10 @@ a:hover { text-decoration: underline; }
 /* The structural rule under the lead stays hidden; only content `---` show. */
 .doc-content .doc-lead + hr,
 .doc-content > h1 + hr { display: none; }
+/* When a page opens straight into body text (no leading h2), keep it clear of
+   the title/description block. A leading h2 already brings its own top margin. */
+.doc-content .doc-lead + hr + :not(h2),
+.doc-content > h1 + hr + :not(h2) { margin-top: 2rem; }
 .doc-content h2 {
   font-family: var(--font-display);
   font-size: 1.42rem;

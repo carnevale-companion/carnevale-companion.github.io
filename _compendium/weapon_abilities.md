@@ -3,9 +3,30 @@ title: Weapon Abilities
 description: Weapon Abilities reference for Carnevale v2.2, with official FAQ & Errata v1.3 integrated.
 nav_order: 2
 sidebar_group: detailed
+toc:
+  - title: Aquatic
+    anchor: aquatic
+  - title: Black Powder
+    anchor: black-powder
+  - title: Blast
+    anchor: blast
+  - title: Harmless
+    anchor: harmless
+  - title: Knockback
+    anchor: knockback
+  - title: Poisoned
+    anchor: poisoned
+  - title: Reload (X)
+    anchor: reload-x
+  - title: Smoke
+    anchor: smoke
+  - title: Stun
+    anchor: stun
+  - title: Template
+    anchor: template
+  - title: Two-handed
+    anchor: two-handed
 ---
-
-## General
 
 Weapon Abilities are listed on a character's weapon, and will take effect any time that weapon is used.
 

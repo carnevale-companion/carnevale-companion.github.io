@@ -3,9 +3,76 @@ title: Character Abilities
 description: Character Abilities reference for Carnevale v2.2, with official FAQ & Errata v1.3 integrated.
 nav_order: 1
 sidebar_group: detailed
+toc:
+  - title: Acrobatic (X)
+    anchor: acrobatic-x
+  - title: Aerial Attack
+    anchor: aerial-attack
+  - title: Berserk
+    anchor: berserk
+  - title: Boat Crew
+    anchor: boat-crew
+  - title: Brave
+    anchor: brave
+  - title: Brawler (X)
+    anchor: brawler-x
+  - title: Bodyguard (X)
+    anchor: bodyguard-x
+  - title: Bulky
+    anchor: bulky
+  - title: Companion (X)
+    anchor: companion-x
+  - title: Concealment (X)
+    anchor: concealment-x
+  - title: Engage
+    anchor: engage
+  - title: Ethereal
+    anchor: ethereal
+  - title: Expert Grappler (X)
+    anchor: expert-grappler-x
+  - title: Expert Marksman (X)
+    anchor: expert-marksman-x
+  - title: Expert Offence (X)
+    anchor: expert-offence-x
+  - title: Expert Protection (X)
+    anchor: expert-protection-x
+  - title: Expert Sorcerer (X)
+    anchor: expert-sorcerer-x
+  - title: Fast Swimmer (X)
+    anchor: fast-swimmer-x
+  - title: Fear (X)
+    anchor: fear-x
+  - title: First Strike (X)
+    anchor: first-strike-x
+  - title: Flight
+    anchor: flight
+  - title: Frenzied
+    anchor: frenzied
+  - title: Hunter
+    anchor: hunter
+  - title: Infiltration
+    anchor: infiltration
+  - title: Limited Movement
+    anchor: limited-movement
+  - title: Mage (X)
+    anchor: mage-x
+  - title: Mindless
+    anchor: mindless
+  - title: Parry (X)
+    anchor: parry-x
+  - title: Pickpocket
+    anchor: pickpocket
+  - title: Primitive
+    anchor: primitive
+  - title: Slippery
+    anchor: slippery
+  - title: Universal Shielding (X)
+    anchor: universal-shielding-x
+  - title: Vampiric Attack (X)
+    anchor: vampiric-attack-x
+  - title: Water Creature
+    anchor: water-creature
 ---
-
-## General
 
 Character Abilities are listed on a character's profile, or can be acquired through other means (such as Command Abilities).
 
