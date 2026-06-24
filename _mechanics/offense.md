@@ -1,13 +1,13 @@
 ---
-title: "Offense Modifiers"
-description: Relative value of every offense and defense lever, normalized so they can be compared head-to-head.
+title: "Offence Modifiers"
+description: Relative value of every offence and defence lever, normalized so they can be compared head-to-head.
 nav_order: 3
 is_ref: true
 toc:
   - title: Reference
     anchor: reference
-  - title: Offense rules of thumb
-    anchor: offense-rules-of-thumb
+  - title: Offence rules of thumb
+    anchor: offence-rules-of-thumb
   - title: Lever details
     anchor: lever-details
   - title: Maths
@@ -23,7 +23,7 @@ All figures are **expected bonus Damage per single Combat attack** from an **Att
 - **Ceiling:** whether the lever raises the **maximum** possible Damage of one attack.
 - **Recall:** one die in every pool is the **Destiny die**, which counts toward Aces but **can never be re-rolled**, so re-roll abilities only ever touch **(stat − 1)** dice.
 
-## Offense rules of thumb
+## Offence rules of thumb
 
 | Lever | Verdict | Best against |
 |---|---|---|

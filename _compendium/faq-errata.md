@@ -270,7 +270,7 @@ No. Counter may only be used after actions made during a character turn, as the 
 What's affected by the stacking limit of 3 for Special Rules?
 {: .entry-title}
 
-All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offense (2) would gain another instance of Expert Offense (2), that character would end up with Expert Offense (3). If a character would gain a special rule with an (X) value over 3, only the highest value is used.
+All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offence (2) would gain another instance of Expert Offence (2), that character would end up with Expert Offence (3). If a character would gain a special rule with an (X) value over 3, only the highest value is used.
 {: .entry-note}
 
 A character's stats are unaffected by this rule, multiple rules may stack stats until they reach the limit of 10.
@@ -865,7 +865,7 @@ Remove **Universal Shielding (3)**
 Add **Bulky**
 {: .entry-note}
 
-Add **Expert Offense (2)**
+Add **Expert Offence (2)**
 {: .entry-note}
 
 Add **Expert Marksman (2)**

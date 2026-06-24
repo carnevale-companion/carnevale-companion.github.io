@@ -53,7 +53,7 @@ Pick one friendly character in line of sight within 6". Until the end of its nex
 Pick one enemy character in line of sight within 6". Until the end of its next turn, that character receives -(X) to be distributed by the caster between its ATTACK, DEXTERITY, and/or MIND in any combination. A character may only be affected by Curse of the Rent once at a time.
 
 <div class="callout" markdown="1">
-The mirror image of Blessing of the Sky, applied to an enemy. Subtracting −2 Attack from a key attacker is often more efficient than buffing your own model's defence: the math is identical, but targeting the source removes the threat entirely for the remainder of their turn. Combining Blessing and Curse in a single activation can swing a combat significantly. No other discipline offers a freely distributed enemy debuff.
+The mirror image of Blessing of the Sky, applied to an enemy. Subtracting −2 Attack from a key attacker is often more efficient than buffing your own model's defence: the maths is identical, but targeting the source removes the threat entirely for the remainder of their turn. Combining Blessing and Curse in a single activation can swing a combat significantly. No other discipline offers a freely distributed enemy debuff.
 </div>
 
 ### Glimpse of Glory

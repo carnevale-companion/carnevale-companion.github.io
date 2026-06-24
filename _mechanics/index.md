@@ -26,17 +26,17 @@ A full breakdown of the Will Point economy: the expected value of spending WP on
 
 [Will Points →](/mechanics/will-points/)
 
-### Offense Modifiers
+### Offence Modifiers
 
 A normalised comparison of every offensive ability (Expert Offence, First Strike, Frenzy, Vampiric Attack, etc.), expressed in expected damage gain per attack against the reference target.
 
-[Offense Modifiers →](/mechanics/offense/)
+[Offence Modifiers →](/mechanics/offence/)
 
-### Defense Modifiers
+### Defence Modifiers
 
 A normalised comparison of every defensive ability (Protection, Parry, Universal Shielding, cover, etc.), expressed in expected LP saved per incoming attack from the reference attacker.
 
-[Defense Modifiers →](/mechanics/defense/)
+[Defence Modifiers →](/mechanics/defence/)
 
 ## Capability Analysis
 

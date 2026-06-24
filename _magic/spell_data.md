@@ -39,7 +39,7 @@ toc:
 | Groundsnap | Wild Magic | 2 | 7 | 8" | 2 Dmg + forced move + impassable | Zone denial |
 | Sunder Armour | Wild Magic | 2 | 7 | 6" | -(3+X) Protection = -5 Prot | Debuff, no direct damage |
 
-### Penetration Math
+### Penetration Maths
 
 **Core formula:** each point of Penetration removes one Protection die. Each Protection die rolls at 7+, succeeding 40% of the time (reducing Damage by 1 on success).
 

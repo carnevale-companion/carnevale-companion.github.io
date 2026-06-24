@@ -14,7 +14,7 @@ An unofficial community reference site for *Carnevale*, the tabletop skirmish ga
 - **Compendium** — quick reference for actions and abilities, detailed ability lists, official FAQ & Errata
 - **Factions** — all factions with presentation and individual model profiles
 - **Magic** — all disciplines with rules reference and spell breakdowns
-- **Game Mechanics** — analysis of Will Points, offense/defense modifiers, and combat capabilities
+- **Game Mechanics** — analysis of Will Points, offence/defence modifiers, and combat capabilities
 
 ---
 

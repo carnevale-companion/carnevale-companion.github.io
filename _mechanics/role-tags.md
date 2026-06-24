@@ -47,7 +47,7 @@ Hard crowd-control: Stun, Grapple, forced movement, impassable/area denial.
 
 ### Damage Dealer
 
-Primary job is dealing damage. The default offense role.
+Primary job is dealing damage. The default offence role.
 
 - **Include:** melee, ranged, or magic dealers. Adjectives carry the flavour: `(melee)`, `(ranged)`, `(magic, <discipline>)`, `(anti-armour)`, `(Stun)`, `(anti-large)`.
 - **Exclude:** water-bound dealers (Canal Fighter), long-range Reload shooters whose value is the alpha (Sniper), models that can't reliably kill and exist to annoy (Harasser).
@@ -112,5 +112,5 @@ Buffs, heals, or enables allies: mages (buff/heal disciplines), auras, Companion
 
 High-survivability models with a way to protect allies or to annoy opponents.
 
-- **Include:** durable blockers, Bodyguards, high-Protection/Shielding anchors with modest offense.
+- **Include:** durable blockers, Bodyguards, high-Protection/Shielding anchors with modest offence.
 - **Exclude:** durable models whose *point* is output (Brawler) or water (Canal Fighter). A Tank with ATK2K below ~80% of the Tank median is a "soft tank".

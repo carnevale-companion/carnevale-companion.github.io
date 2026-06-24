@@ -76,7 +76,7 @@ If a character loses at least 1 Life Point from this weapon, that character must
 - 60mm+ models lose 6 Life Points.
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 P(poison triggers) = 0.60. Extra LP loss is direct (no Protection Roll).
 
@@ -112,7 +112,7 @@ A character with a Stunned counter reduces its MOVE, ATTACK, DEXTERITY, and MIND
 **If a character with a Stunned counter starts its turn in water it loses 2 Life Points.**
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Stun is triggered on any Damage, not LP loss (so even if all Damage is absorbed by Prot, Stun triggers).
 

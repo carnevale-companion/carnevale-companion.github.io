@@ -422,7 +422,7 @@ When abilities say they affect any or every friendly character, that does includ
 Any character can use the actions listed in this section, but individual characters may have their own unique actions with an AP cost on their character profile card.
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Actions involving a DEX roll (Climb, Jump, Dive, Fall) are **Basic DEX Rolls at threshold 7+**: 4 chances in 10 per die (p = 0.4).
 
@@ -1092,7 +1092,7 @@ Some of these special rules have an (X) listed after them. That (X) is most ofte
 <div class="callout">
 <p class="callout-title">FAQ</p>
 
-**What's affected by the stacking limit of 3 for Special Rules?** All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offense (2) would gain another instance of Expert Offense (2), that character would end up with Expert Offense (3). If a rule would grant a special rule with an (X) value over 3, only the highest value is used. A character's stats are unaffected by this rule. Multiple rules may stack stats until they reach the limit of 10.
+**What's affected by the stacking limit of 3 for Special Rules?** All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offence (2) would gain another instance of Expert Offence (2), that character would end up with Expert Offence (3). If a rule would grant a special rule with an (X) value over 3, only the highest value is used. A character's stats are unaffected by this rule. Multiple rules may stack stats until they reach the limit of 10.
 
 </div>
 

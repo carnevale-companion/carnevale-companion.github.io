@@ -59,7 +59,7 @@ These characters are pricey and have really low stats, their value comes from th
 |------|-------|---------------|-------|
 | [Fate](/factions/gifted/fate/) | Mage (2) + Expert Sorcerer (2) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Has a strong WP drain short range ability |
 | [Maria Fioritura](/factions/gifted/maria-fioritura/) | Mage (2) + Expert Sorcerer (1) | <a href="/magic/runes-of-sovereignty/" class="disc-runes-sovereignty">Runes of Sovereignty</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Has the unique ability to summon Painted Protectors |
-| [Fadhila](/factions/gifted/fadhila/) | Mage (2) + Expert Sorcerer (1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Has a strong but unreliable defense aura |
+| [Fadhila](/factions/gifted/fadhila/) | Mage (2) + Expert Sorcerer (1) | <a href="/magic/divinity/" class="disc-divinity">Divinity</a>, <a href="/magic/fateweaving/" class="disc-fateweaving">Fateweaving</a> | Has a strong but unreliable defence aura |
 | [Francisco De Lorme](/factions/gifted/francisco-de-lorme/) | Mage (1) + Expert Sorcerer (1) | <a href="/magic/blood-rites/" class="disc-blood-rites">Blood Rites</a>, <a href="/magic/wild-magic/" class="disc-wild-magic">Wild Magic</a> | Mask giver |
 
 ## Roster

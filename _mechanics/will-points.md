@@ -13,9 +13,6 @@ toc:
     anchor: all-wp-replenishment-sources
   - title: Anti-WP Effects
     anchor: anti-wp-effects
-next_doc:
-  title: Offense & Defense Modifiers
-  url: /mechanics/offense-defense/
 ---
 
 ## TL;DR: What WP is worth (best to worst)

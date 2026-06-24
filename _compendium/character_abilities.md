@@ -81,7 +81,7 @@ Some of these special rules have an (X) listed after them. That (X) is most ofte
 <div class="callout">
 <p class="callout-title">FAQ</p>
 
-**What's affected by the stacking limit of 3 for Special Rules?** All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offense (2) would gain another instance of Expert Offense (2), that character would end up with Expert Offense (3). If a rule would grant a special rule with an (X) value over 3, only the highest value is used. A character's stats are unaffected by this rule. Multiple rules may stack stats until they reach the limit of 10.
+**What's affected by the stacking limit of 3 for Special Rules?** All of the special rules in the Special Rules section that have an (X) after them are subject to this limit. If a character with Expert Offence (2) would gain another instance of Expert Offence (2), that character would end up with Expert Offence (3). If a rule would grant a special rule with an (X) value over 3, only the highest value is used. A character's stats are unaffected by this rule. Multiple rules may stack stats until they reach the limit of 10.
 
 </div>
 
@@ -160,7 +160,7 @@ While in cover this character modifies its PROTECTION by (X).
 </div>
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Standard barricade cover = +1 PROT (Light Barricade) or +2 PROT (Heavy Barricade). Concealment(X) adds X to that modifier while in cover.
 
@@ -194,7 +194,7 @@ This character may ignore all terrain while moving, but cannot end its turn or m
 This character may re-roll up to (X) dice when making or defending against a **Grapple** or **Drown** action.
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Grapple and Drown both use standard **7+ threshold** (not DEX-dependent).
 
@@ -209,7 +209,7 @@ Applies symmetrically when defending, giving the same expected gain on the Oppos
 This character may re-roll up to (X) dice when making a **Combat** action while **not** in base contact with the target.
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Ranged Combat Attack Roll threshold = target's DEX. Re-rolling 1 failed die:
 
@@ -232,7 +232,7 @@ Worked example at **Attack 4 / DEX 4** (re-rollable = 3 dice, failures ~ Binomia
 | EO/EM(2) | +1.40            | **+0.61**                                      |
 | EO/EM(3) | +2.10            | **+0.63**                                      |
 
-The overstatement is largest when X approaches or exceeds Attack − 1 (a 3-die re-rollable pool rarely produces 3 failures, and EO(3) barely beats EO(2)). The cap loosens for high-Attack models. Apply the capped value when scoring offense, not the naive product.
+The overstatement is largest when X approaches or exceeds Attack − 1 (a 3-die re-rollable pool rarely produces 3 failures, and EO(3) barely beats EO(2)). The cap loosens for high-Attack models. Apply the capped value when scoring offence, not the naive product.
 
 </div>
 
@@ -246,7 +246,7 @@ This character may re-roll up to (X) dice when making a **Combat** action while 
 </div>
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Melee Combat Attack Roll threshold = target's DEX. Same table as Expert Marksman above.
 
@@ -259,7 +259,7 @@ At DEX 4 (very common), **before** the re-roll availability cap: EO(1) = +0.70, 
 This character may re-roll up to (X) dice when making a **Protection Roll.**
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Protection Roll uses standard **7+ threshold** (P(Ace) = 0.40 per die). Re-rolling 1 failed die adds **+0.40** expected LP saved.
 
@@ -274,7 +274,7 @@ This character may re-roll up to (X) dice when making a **Cast Spell** action or
 **In addition, this character knows (X) additional magic spells.**
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Spell casting threshold = spell's Difficulty (varies per spell, commonly 6–8).
 
@@ -299,7 +299,7 @@ If this character starts a **Run/Climb** action **in water,** it adds (X) number
 When this character makes a **Combat** action, the target must first make a Basic MIND Roll, with their MIND value modified by (X), to a minimum of 1. If they roll **at least 1 Ace** (on a 7+ as normal), there is no effect. But if they roll **no Aces,** this character may re-roll any failed dice rolls for the Combat action.
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Effective MIND = max(1, target MIND + X). P(Fear triggers) = P(no Aces on N dice at 7+) = 0.60^N:
 
@@ -341,7 +341,7 @@ This character may use its Life Points as if they were Will Points. Frenzied can
 </div>
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Most Frenzied characters have WP 0, making LP their only source of bonus dice.
 
@@ -364,7 +364,7 @@ With Vampiric Attack(1) on both attacks: recover 2 LP if both connect → net co
 This character gains **Penetration -3** on its weapons (but **not** on Unarmed attacks) when targeting an enemy with a **larger base size.**
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Pen−3 reduces target's effective Prot by 3 on the Protection Roll. Each cancelled Prot die saves 1 LP per Ace (40%). E[+Damage past Protection] = 3 × 0.40 = **+1.2 expected LP** dealt vs a larger-base target. No effect vs Prot 0 targets. Most significant vs Prot 5+ (Prot 6 → effectively Prot 3 when Hunter triggers).
 
@@ -415,7 +415,7 @@ When this character becomes the target of a Combat action **while in base contac
 Note that some attackers may choose to re-roll their dice too. In this situation, don't forget that you may never re-roll a dice more than once.
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 The attacker's threshold = this character's DEX. Forcing a re-roll of an Ace:
 
@@ -445,7 +445,7 @@ At the end of the action, this character or any one friendly character within 3"
 At the start of this character's turn it must roll a Basic MIND Roll. If it rolls **no Aces,** it receives a Stunned counter.
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 P(Stun | MIND N) = 0.60^N (same formula as Fear trigger):
 
@@ -471,7 +471,7 @@ If the opposing character has **Engage** however, then both players roll to dise
 This character always has a minimum PROTECTION of (X), after all modifiers. This special rule can stack higher than 3, but cannot take a character's PROTECTION value above its starting number.
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Effective Prot = min(base\_Prot, max(X, base\_Prot + pen)).
 
@@ -502,7 +502,7 @@ If this character makes a **Combat** action while **in base contact** with its t
 </div>
 
 <div class="callout math">
-<p class="callout-title">Math</p>
+<p class="callout-title">Maths</p>
 
 Heals exactly X LP per triggering Combat action (once per action, not per Ace). Trigger requires ≥1 LP lost by target.
 

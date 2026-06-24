@@ -1,13 +1,13 @@
 ---
-title: "Defense Modifiers"
-description: Relative value of every defense lever, normalized so they can be compared head-to-head.
+title: "Defence Modifiers"
+description: Relative value of every defence lever, normalized so they can be compared head-to-head.
 nav_order: 4
 is_ref: true
 toc:
   - title: Reference
     anchor: reference
-  - title: Defense rules of thumb
-    anchor: defense-rules-of-thumb
+  - title: Defence rules of thumb
+    anchor: defence-rules-of-thumb
   - title: Lever details
     anchor: lever-details
   - title: Maths
@@ -22,7 +22,7 @@ All figures are **Life Points saved per incoming Combat attack**, computed throu
 - **Drown** and **direct LP-loss** (Mother Hydra's Claws, Holy Light, Blood Drain, and similar) bypass the Protection roll entirely and do not use Dexterity, so every rolled or Dex-based defence is worth **zero** against them. Only +X LP helps.
 - X = the ability's value (X=1 unless noted).
 
-## Defense rules of thumb
+## Defence rules of thumb
 
 | Lever | Verdict | Best against |
 |---|---|---|
