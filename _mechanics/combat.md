@@ -2,6 +2,25 @@
 title: Combat Capabilities Calculations
 nav_order: 2
 is_analysis: true
+toc:
+  - title: Purpose
+    anchor: purpose
+  - title: "Common unit: Life Points"
+    anchor: common-unit-life-points
+  - title: The engine
+    anchor: the-engine
+  - title: Magic sub-engine
+    anchor: magic-sub-engine
+  - title: Reference targets
+    anchor: reference-targets
+  - title: Annotation layers
+    anchor: annotation-layers-not-in-the-cold-standard
+  - title: Assumptions & limitations
+    anchor: assumptions--limitations
+  - title: Offence & defence at a glance
+    anchor: offence--defence-at-a-glance
+  - title: Resource economy
+    anchor: resource-economy-wp--cp--magic
 ---
 
 ## Purpose
@@ -109,8 +128,8 @@ is clean. The following are surfaced only in comparison:
   best-scoring quota-sized loadout). A support mage usually spends its slots on buffs/heals instead, so
   the flag reads as "could deal this", not "is mis-tagged". The once-per-round cap, AP, and quota are the
   limiters, not WP cost (own-pool sustainability is a separate annotation).
-- **Vampiric Attack, Hunter, conditional offence** (Fear / First Strike / Berserk / Brawler), and
-  **weapon riders** (Stun / Knockback / Template / Reload) are recorded per model, not scored.
+- **Hunter**, **conditional offence** (Fear / First Strike / Berserk / Brawler), and the **weapon riders** Stun / Knockback /
+  Template are recorded per model, not scored. Reload also appears as a rider flag, but unlike these its firing cap is already folded into the Reload-aware EDPA.
 
 ## Assumptions & limitations
 
@@ -122,15 +141,15 @@ is clean. The following are surfaced only in comparison:
   a distinct role (`Sniper`), judged on **alpha**, not sustained, so they neither look like weak
   Damage Dealers nor drag the Damage Dealer standard down. A sniper below the Sniper alpha/Ducat
   median is weak even for its cost.
-- **Melee vs ranged routing.** Weapons with range ≤ 2" are treated as melee (Parry, Poison, and Expert
-  Offence apply), range > 2" as ranged (Expert Marksman, no Parry).
-- **Hunter** (Pen-3 vs larger base) is inactive against the 30mm reference targets, annotated only.
+- **Melee vs ranged routing.** A weapon counts as melee at range ≤ 2" and ranged above. Parry and Expert
+  Offence are really base-contact (0") abilities, the 2" cutoff just captures the 0-2" band that melee and
+  reach weapons are listed at. The split only decides which to-hit re-roll applies (**Expert Offence**
+  melee vs **Expert Marksman** ranged) and whether the defender's **Parry** can trigger.
+- **Hunter** (Pen-3 vs larger base) is annotated only.
 - **Hard-to-parse abilities** get a per-model defence override: Stoneskin (flat −3 Damage, min 1) on the
   Protection-0 Constructs Golgotha and Gethsemane, and Secreting Myxin's Mucus (+4 Dexterity in melee).
 - **AoE/template** spells are scored single-target, with multi-target upside as annotation.
-- **Excluded:** Cover, terrain, scenario/objective value, and
-  hard-to-quantify control/support utility. A low EDPA for a Support/Objective Runner is expected,
-  not a defect.
+- **Excluded:** Cover, terrain, scenario/objective value, and hard-to-quantify control/support utility. A low EDPA for a Support/Objective Runner is expected, not a defect.
 
 ## Offence & defence at a glance
 
@@ -157,17 +176,3 @@ Dealer quality is shown both raw and **per-Ducat (value)**. The value column is 
 | The Vatican | 115 | 30 (11 models) | 9 | 5 |
 | The Doctors | 73 | 27 (11 models) | 7 | 5 |
 | Gifted | 97 | 10 (4 models) | 4 | 5 |
-
-## Build shape & scenario
-
-| Faction | cost range | premium ≥18 | Mindless | obj-runners | mobile |
-|---|---|---|---|---|---|
-| Patricians | 5–32 (med 14) | 16% | 14% | 1 | 9 |
-| Strigoi | 6–40 (med 14) | 39% | 17% | 1 | 16 |
-| Gifted | 8–30 (med 16.0) | 35% | 21% | 3 | 8 |
-| The Vatican | 8–37 (med 15.0) | 21% | 23% | 1 | 10 |
-| The Guild | 5–34 (med 14) | 19% | 26% | 3 | 20 |
-| Rashaar | 4–68 (med 15) | 40% | 36% | 3 | 36 |
-| The Doctors | 4–45 (med 13) | 19% | 40% | 0 | 11 |
-
-Mindless can't score Primary Objectives, so a high % is a scoring liability. Cost spread shows elite-vs-fodder disparity (Rashaar 4–68 is the widest).
