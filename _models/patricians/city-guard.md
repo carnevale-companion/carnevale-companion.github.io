@@ -22,7 +22,7 @@ meta: "Henchman · Soldier · Size 30"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Bardiche | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
-| Infantry Sabre | melee | +1 | — | — |
+| Infantry Sabre | 0" | +1 | — | — |
 
 ### Abilities
 

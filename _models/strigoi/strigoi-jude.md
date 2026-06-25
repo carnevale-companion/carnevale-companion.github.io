@@ -21,7 +21,7 @@ meta: "Hero · Vampire · Soldier · Discipline(<a href=\"/magic/blood-rites/\" 
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Gavel | melee | — | — | — |
+| Gavel | 0" | — | — | — |
 
 ### Abilities
 

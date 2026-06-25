@@ -21,7 +21,7 @@ meta: "Leader · Doctor · Discipline(<a href=\"/magic/fateweaving/\" class=\"di
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Scalpel | melee | — | −1 | — |
+| Scalpel | 0" | — | −1 | — |
 
 ### Abilities
 

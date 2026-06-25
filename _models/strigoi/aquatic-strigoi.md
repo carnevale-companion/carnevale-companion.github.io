@@ -21,7 +21,7 @@ meta: "Hero · Vampire · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Webbed Talons | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
+| Webbed Talons | 0" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 

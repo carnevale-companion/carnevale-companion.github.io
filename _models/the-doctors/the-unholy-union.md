@@ -21,7 +21,7 @@ meta: "Hero · Unique · Size 75"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Endless Grasping Hands | melee | — | +1 | — |
+| Endless Grasping Hands | 0" | — | +1 | — |
 
 ### Abilities
 

@@ -22,7 +22,7 @@ meta: "Henchman · Size 30"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Crossbow | 30" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
-| Club | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
+| Club | 0" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Hero · End of Days · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Trumpet | melee | — | — | — |
+| Trumpet | 0" | — | — | — |
 
 ### Abilities
 

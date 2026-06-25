@@ -22,7 +22,7 @@ meta: "Leader · Hero · Unique · Commedia dell'Arte · Size 40"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Costume Pistol | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
-| Rapier | melee | — | −1 | — |
+| Rapier | 0" | — | −1 | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/runes-of-sovereignty/\" cla
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Book of Destiny | melee | — | — | — |
+| Book of Destiny | 0" | — | — | — |
 
 ### Abilities
 

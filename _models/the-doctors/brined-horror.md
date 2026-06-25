@@ -21,7 +21,7 @@ meta: "Hero · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Webbed Appendages | melee | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
+| Webbed Appendages | 0" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 

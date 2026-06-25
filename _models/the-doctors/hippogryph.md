@@ -21,7 +21,7 @@ meta: "Henchman · Animal · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Beak & Claws | melee | — | −1 | — |
+| Beak & Claws | 0" | — | −1 | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Hero · Vampire · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Clawed Hands | melee | +1 | −2 | — |
+| Clawed Hands | 0" | +1 | −2 | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Hero · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Poisoned Needle | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> |
+| Poisoned Needle | 0" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> |
 
 ### Abilities
 

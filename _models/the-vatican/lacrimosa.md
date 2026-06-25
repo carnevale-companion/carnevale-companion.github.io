@@ -21,7 +21,7 @@ meta: "Henchman · Discipline(<a href=\"/magic/divinity/\" class=\"disc-divinity
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Unarmed | melee | — | +1 | — |
+| Unarmed | 0" | — | +1 | — |
 
 ### Abilities
 

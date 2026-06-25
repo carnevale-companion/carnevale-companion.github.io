@@ -21,7 +21,7 @@ meta: "Henchman · Animal · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Titanic Fists | melee | +1 | — | — |
+| Titanic Fists | 0" | +1 | — | — |
 
 ### Abilities
 

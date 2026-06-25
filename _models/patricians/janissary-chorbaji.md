@@ -21,7 +21,7 @@ meta: "Leader · Ottoman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Flanged Mace | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
+| Flanged Mace | 0" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 
 ### Abilities
 

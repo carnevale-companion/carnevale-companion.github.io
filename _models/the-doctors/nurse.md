@@ -21,7 +21,7 @@ meta: "Henchman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Rusty Knife | melee | — | — | — |
+| Rusty Knife | 0" | — | — | — |
 
 ### Abilities
 

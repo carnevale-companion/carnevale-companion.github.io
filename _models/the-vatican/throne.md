@@ -21,7 +21,7 @@ meta: "Hero · Construct · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Divine Justice | melee | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
+| Divine Justice | 0" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 

@@ -21,8 +21,8 @@ meta: "Leader · Monster · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Golden Tipped Claws | melee | — | −2 | — |
-| Voice of Madness | melee | — | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
+| Golden Tipped Claws | 0" | — | −2 | — |
+| Voice of Madness | 0" | — | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
 
 ### Abilities
 

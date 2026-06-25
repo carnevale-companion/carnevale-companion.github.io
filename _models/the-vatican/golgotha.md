@@ -21,7 +21,7 @@ meta: "Hero · Construct · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Stone Fists | melee | +2 | — | — |
+| Stone Fists | 0" | +2 | — | — |
 
 ### Abilities
 

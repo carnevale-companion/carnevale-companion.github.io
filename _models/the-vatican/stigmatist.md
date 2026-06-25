@@ -21,7 +21,7 @@ meta: "Hero · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rit
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Hands of God | melee | +1 | +1 | — |
+| Hands of God | 0" | +1 | +1 | — |
 
 ### Abilities
 

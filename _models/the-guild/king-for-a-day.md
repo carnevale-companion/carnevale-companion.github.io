@@ -21,7 +21,7 @@ meta: "Leader · End of Days · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Staff of Credit | melee | — | −3 | — |
+| Staff of Credit | 0" | — | −3 | — |
 
 ### Abilities
 

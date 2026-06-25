@@ -22,7 +22,7 @@ meta: "Leader · Hero · Unique · Size 30"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Concealed Pistol | 4" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
-| Gilded Sword | melee | +1 | −1 | — |
+| Gilded Sword | 0" | +1 | −1 | — |
 
 ### Abilities
 

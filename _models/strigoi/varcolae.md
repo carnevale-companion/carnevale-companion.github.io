@@ -21,7 +21,7 @@ meta: "Hero · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Canine Claws | melee | — | −2 | — |
+| Canine Claws | 0" | — | −2 | — |
 
 ### Abilities
 

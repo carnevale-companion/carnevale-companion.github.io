@@ -21,7 +21,7 @@ meta: "Henchman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Tender Claws | melee | — | — | — |
+| Tender Claws | 0" | — | — | — |
 
 ### Abilities
 

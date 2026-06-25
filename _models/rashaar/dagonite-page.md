@@ -21,7 +21,7 @@ meta: "Henchman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Encrusted Hands | melee | — | — | — |
+| Encrusted Hands | 0" | — | — | — |
 
 ### Abilities
 

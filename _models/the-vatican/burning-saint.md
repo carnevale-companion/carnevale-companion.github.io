@@ -21,7 +21,7 @@ meta: "Hero · Hospitaller · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Blessed Sword | melee | +1 | −1 | — |
+| Blessed Sword | 0" | +1 | −1 | — |
 
 ### Abilities
 

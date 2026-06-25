@@ -21,7 +21,7 @@ meta: "Leader · Monster · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Ancient Claws | melee | +1 | −1 | — |
+| Ancient Claws | 0" | +1 | −1 | — |
 
 ### Abilities
 

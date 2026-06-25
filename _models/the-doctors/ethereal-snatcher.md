@@ -21,7 +21,7 @@ meta: "Hero · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Electro Gauntlet | melee | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
+| Electro Gauntlet | 0" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 

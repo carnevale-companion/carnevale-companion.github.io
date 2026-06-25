@@ -21,7 +21,7 @@ meta: "Leader · Hero · Councillor · Officer · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Naval Cutlass | melee | — | −1 | — |
+| Naval Cutlass | 0" | — | −1 | — |
 
 ### Abilities
 

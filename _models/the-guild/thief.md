@@ -21,7 +21,7 @@ meta: "Hero · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Stiletto | melee | +1 | +1 | — |
+| Stiletto | 0" | +1 | +1 | — |
 | Smoke Bomb | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#smoke">Smoke</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities

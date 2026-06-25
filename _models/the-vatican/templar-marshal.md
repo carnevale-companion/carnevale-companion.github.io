@@ -22,7 +22,7 @@ meta: "Hero · Hospitaller · Size 30"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Crossbow | 30" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
-| Sword | melee | +1 | — | — |
+| Sword | 0" | +1 | — | — |
 
 ### Abilities
 

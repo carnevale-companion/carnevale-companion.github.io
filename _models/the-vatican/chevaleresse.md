@@ -21,7 +21,7 @@ meta: "Henchman · Hospitaller · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Sword | melee | +1 | — | — |
+| Sword | 0" | +1 | — | — |
 
 ### Abilities
 

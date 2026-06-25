@@ -21,7 +21,7 @@ meta: "Hero · Vampire · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| A Thousand Teeth | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
+| A Thousand Teeth | 0" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 

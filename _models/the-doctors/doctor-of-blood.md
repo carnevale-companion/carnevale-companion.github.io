@@ -21,7 +21,7 @@ meta: "Hero · Doctor · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Knife | melee | — | — | — |
+| Knife | 0" | — | — | — |
 
 ### Abilities
 

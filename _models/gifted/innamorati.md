@@ -22,7 +22,7 @@ meta: "Hero · Unique · Commedia dell'Arte · Size 30"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Pistol | 8" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
-| Sword | melee | +1 | — | — |
+| Sword | 0" | +1 | — | — |
 
 ### Abilities
 

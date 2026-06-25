@@ -21,7 +21,7 @@ meta: "Henchman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Wave-blade Knife | melee | +1 | — | — |
+| Wave-blade Knife | 0" | +1 | — | — |
 
 ### Abilities
 

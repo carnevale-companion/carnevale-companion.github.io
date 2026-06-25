@@ -22,7 +22,7 @@ meta: "Henchman · Vampire · Soldier · Size 30"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Short Bow | 12" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(3)</a> |
-| Fangs | melee | — | — | — |
+| Fangs | 0" | — | — | — |
 
 ### Abilities
 

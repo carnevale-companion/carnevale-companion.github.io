@@ -21,7 +21,7 @@ meta: "Hero · House of Virtue · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Pithing Needle | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
+| Pithing Needle | 0" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Hero · Ottoman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Twin Swords | melee | +1 | — | — |
+| Twin Swords | 0" | +1 | — | — |
 | Battle Axe | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
 
 ### Abilities

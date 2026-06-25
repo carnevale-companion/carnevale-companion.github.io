@@ -21,7 +21,7 @@ meta: "Hero · Councillor · Unique · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Cane Sword | melee | +1 | −1 | — |
+| Cane Sword | 0" | +1 | −1 | — |
 | Cornelius' Bite | 6" | — | −1 | — |
 
 ### Abilities

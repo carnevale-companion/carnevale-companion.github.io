@@ -21,7 +21,7 @@ meta: "Hero · Unique · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Shattered Touch | melee | — | −4 | — |
+| Shattered Touch | 0" | — | −4 | — |
 
 ### Abilities
 

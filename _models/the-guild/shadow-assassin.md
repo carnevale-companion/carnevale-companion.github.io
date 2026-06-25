@@ -21,7 +21,7 @@ meta: "Hero · House of Virtue · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Dual Stilettos | None" | +1 | +1 | — |
+| Dual Stilettos | - | +1 | +1 | — |
 
 ### Abilities
 

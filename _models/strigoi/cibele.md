@@ -21,7 +21,7 @@ meta: "Hero · Unique · Vampire · Bride · Discipline(<a href=\"/magic/runes-o
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Fangs | melee | — | — | — |
+| Fangs | 0" | — | — | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Hero · Unique · Trade · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Stiletto | melee | +1 | +1 | — |
+| Stiletto | 0" | +1 | +1 | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Henchman · Animal · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Enhanced Jaws | melee | — | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
+| Enhanced Jaws | 0" | — | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 

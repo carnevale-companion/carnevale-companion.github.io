@@ -21,7 +21,7 @@ meta: "Hero · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc-blood-rit
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Sacrificial Dagger | melee | — | −1 | — |
+| Sacrificial Dagger | 0" | — | −1 | — |
 
 ### Abilities
 

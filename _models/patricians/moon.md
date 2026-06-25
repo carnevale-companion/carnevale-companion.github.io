@@ -21,7 +21,7 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Shadow Touch | melee | — | +1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
+| Shadow Touch | 0" | — | +1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 

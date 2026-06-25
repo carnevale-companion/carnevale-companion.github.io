@@ -21,7 +21,7 @@ meta: "Hero · Unique · Vampire · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Claws | melee | — | −1 | — |
+| Claws | 0" | — | −1 | — |
 
 ### Abilities
 

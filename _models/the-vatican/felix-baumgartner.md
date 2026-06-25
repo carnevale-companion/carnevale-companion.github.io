@@ -21,7 +21,7 @@ meta: "Hero · Unique · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Holy Instruments | melee | +1 | — | — |
+| Holy Instruments | 0" | +1 | — | — |
 
 ### Abilities
 

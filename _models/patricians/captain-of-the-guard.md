@@ -21,7 +21,7 @@ meta: "Hero · Officer · Soldier · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Officer's Sabre | melee | +1 | −1 | — |
+| Officer's Sabre | 0" | +1 | −1 | — |
 
 ### Abilities
 

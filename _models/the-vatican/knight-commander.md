@@ -21,7 +21,7 @@ meta: "Leader · Hospitaller · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Blade of Gozo | melee | +2 | −1 | — |
+| Blade of Gozo | 0" | +2 | −1 | — |
 
 ### Abilities
 

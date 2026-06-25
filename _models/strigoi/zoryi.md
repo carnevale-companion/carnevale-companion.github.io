@@ -21,8 +21,8 @@ meta: "Hero · Vampire · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Calcified Fists | melee | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
-| Fresh Claws | melee | — | −1 | — |
+| Calcified Fists | 0" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
+| Fresh Claws | 0" | — | −1 | — |
 
 ### Abilities
 

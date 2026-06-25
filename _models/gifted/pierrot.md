@@ -21,7 +21,7 @@ meta: "Henchman · Commedia dell'Arte · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Unarmed | melee | — | +1 | — |
+| Unarmed | 0" | — | +1 | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Henchman · Discipline(<a href=\"/magic/runes-of-sovereignty/\" class=\"d
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Hidden Claws | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
+| Hidden Claws | 0" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 

@@ -22,7 +22,7 @@ meta: "Leader · Size 30"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Clockwork Pistol | 6" | +1 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
-| Sailor's Knife | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
+| Sailor's Knife | 0" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 

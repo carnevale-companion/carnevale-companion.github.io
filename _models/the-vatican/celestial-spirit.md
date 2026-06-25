@@ -21,7 +21,7 @@ meta: "Henchman · Construct · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Heavenly Grasp | melee | — | −1 | — |
+| Heavenly Grasp | 0" | — | −1 | — |
 
 ### Abilities
 

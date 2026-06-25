@@ -21,7 +21,7 @@ meta: "Leader · Vampire · Soldier · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Longsword | melee | +1 | −1 | — |
+| Longsword | 0" | +1 | −1 | — |
 
 ### Abilities
 

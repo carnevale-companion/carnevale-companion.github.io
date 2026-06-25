@@ -21,7 +21,7 @@ meta: "Leader · Trade · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Twin Blades | melee | +1 | — | — |
+| Twin Blades | 0" | +1 | — | — |
 
 ### Abilities
 

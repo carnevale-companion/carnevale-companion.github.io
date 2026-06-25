@@ -21,7 +21,7 @@ meta: "Henchman · Ottoman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Knife | melee | — | — | — |
+| Knife | 0" | — | — | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Henchman · Animal · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Venomous Spray | melee | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
+| Venomous Spray | 0" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Hero · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Soul Bombard | melee | +2 | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> |
+| Soul Bombard | 0" | +2 | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> |
 
 ### Abilities
 

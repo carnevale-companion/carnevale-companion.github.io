@@ -21,7 +21,7 @@ meta: "Leader · Discipline(<a href=\"/magic/runes-of-sovereignty/\" class=\"dis
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Unarmed | melee | — | — | — |
+| Unarmed | 0" | — | — | — |
 
 ### Abilities
 

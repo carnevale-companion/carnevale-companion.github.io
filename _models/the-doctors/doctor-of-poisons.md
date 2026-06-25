@@ -21,7 +21,7 @@ meta: "Hero · Doctor · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Poisoned Blade | melee | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> |
+| Poisoned Blade | 0" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> |
 
 ### Abilities
 

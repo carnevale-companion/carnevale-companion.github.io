@@ -22,7 +22,7 @@ meta: "Hero · Monster · Feral · Size 50"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Sticky Burst | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
-| Grasping Jaws | melee | — | −2 | — |
+| Grasping Jaws | 0" | — | −2 | — |
 
 ### Abilities
 

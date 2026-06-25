@@ -21,7 +21,7 @@ meta: "Hero · Monster · Discipline(<a href=\"/magic/runes-of-sovereignty/\" cl
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Claws | melee | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
+| Claws | 0" | — | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> |
 
 ### Abilities
 

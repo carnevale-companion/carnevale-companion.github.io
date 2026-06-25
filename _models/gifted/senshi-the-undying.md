@@ -21,7 +21,7 @@ meta: "Hero · Unique · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Daishō | melee | +1 | −1 | — |
+| Daishō | 0" | +1 | −1 | — |
 
 ### Abilities
 

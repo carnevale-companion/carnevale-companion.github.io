@@ -21,7 +21,7 @@ meta: "Hero · Councillor · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Cat O'Nine Tails | melee | — | −2 | — |
+| Cat O'Nine Tails | 0" | — | −2 | — |
 
 ### Abilities
 

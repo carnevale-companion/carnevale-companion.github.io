@@ -21,7 +21,7 @@ meta: "Henchman · Soldier · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Boot Knife | melee | — | — | — |
+| Boot Knife | 0" | — | — | — |
 
 ### Abilities
 

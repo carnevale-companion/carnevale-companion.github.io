@@ -21,7 +21,7 @@ meta: "Hero · Trade · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Butcher's Knives | melee | +1 | — | — |
+| Butcher's Knives | 0" | +1 | — | — |
 
 ### Abilities
 

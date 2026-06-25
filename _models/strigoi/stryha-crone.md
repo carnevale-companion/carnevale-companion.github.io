@@ -21,7 +21,7 @@ meta: "Leader · Vampire · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Talons | melee | +1 | −3 | — |
+| Talons | 0" | +1 | −3 | — |
 
 ### Abilities
 

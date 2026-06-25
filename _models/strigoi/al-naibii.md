@@ -21,7 +21,7 @@ meta: "Henchman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Sica | melee | — | −1 | — |
+| Sica | 0" | — | −1 | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Hero · Unique · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Carving Knife | melee | — | — | — |
+| Carving Knife | 0" | — | — | — |
 
 ### Abilities
 

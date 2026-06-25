@@ -21,8 +21,8 @@ meta: "Hero · Vampire · Soldier · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Flanged Mace | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
-| Coustille | melee | +1 | −1 | — |
+| Flanged Mace | 0" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
+| Coustille | 0" | +1 | −1 | — |
 
 ### Abilities
 

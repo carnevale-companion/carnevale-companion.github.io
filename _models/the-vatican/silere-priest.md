@@ -21,7 +21,7 @@ meta: "Hero · Discipline(<a href=\"/magic/fateweaving/\" class=\"disc-fateweavi
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Fire of Persecution | melee | +1 | −1 | — |
+| Fire of Persecution | 0" | +1 | −1 | — |
 
 ### Abilities
 

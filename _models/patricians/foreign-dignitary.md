@@ -21,7 +21,7 @@ meta: "Hero · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Sabre | melee | — | — | — |
+| Sabre | 0" | — | — | — |
 
 ### Abilities
 

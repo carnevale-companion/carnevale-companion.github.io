@@ -21,7 +21,7 @@ meta: "Hero · Unique · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Bladed Limbs | melee | — | −1 | — |
+| Bladed Limbs | 0" | — | −1 | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Hero · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Flaming Mace | melee | +1 | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
+| Flaming Mace | 0" | +1 | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 

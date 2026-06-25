@@ -22,7 +22,7 @@ meta: "Leader · Councillor · Size 50"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Garter Pistol | 6" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
-| Gilded Sabre | melee | +1 | −1 | — |
+| Gilded Sabre | 0" | +1 | −1 | — |
 
 ### Abilities
 

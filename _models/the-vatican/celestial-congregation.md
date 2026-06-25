@@ -21,7 +21,7 @@ meta: "Henchman · Construct · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Heavenly Clamour | melee | — | −3 | — |
+| Heavenly Clamour | 0" | — | −3 | — |
 
 ### Abilities
 

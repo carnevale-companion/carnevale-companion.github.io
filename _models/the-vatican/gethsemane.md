@@ -23,7 +23,7 @@ meta: "Hero · Unique · Construct · Size 75"
 |---|---|---|---|---|
 | Agonising Strike | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> |
 | Claw of Anguish | 2" | +1 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
-| Maw Press | melee | — | −4 | — |
+| Maw Press | 0" | — | −4 | — |
 
 ### Abilities
 

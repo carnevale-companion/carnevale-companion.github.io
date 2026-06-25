@@ -21,7 +21,7 @@ meta: "Hero · Unique · Trade · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Fishmonger's Knives | melee | +1 | −1 | — |
+| Fishmonger's Knives | 0" | +1 | −1 | — |
 | Thrown Harpoon | 4" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities

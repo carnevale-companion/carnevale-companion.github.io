@@ -22,7 +22,7 @@ meta: "Hero · Ottoman · Size 30"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Black Powder Grenade | 6" | +2 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
-| Knife | melee | — | — | — |
+| Knife | 0" | — | — | — |
 
 ### Abilities
 

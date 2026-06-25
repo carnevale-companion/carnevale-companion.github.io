@@ -21,7 +21,7 @@ meta: "Hero · Unique · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Forge Hammer | melee | +1 | — | — |
+| Forge Hammer | 0" | +1 | — | — |
 
 ### Abilities
 

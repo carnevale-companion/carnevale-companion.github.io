@@ -22,7 +22,7 @@ meta: "Hero · Soldier · Size 30"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Service Pistol | 8" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
-| Infantry Sabre | melee | +1 | — | — |
+| Infantry Sabre | 0" | +1 | — | — |
 
 ### Abilities
 

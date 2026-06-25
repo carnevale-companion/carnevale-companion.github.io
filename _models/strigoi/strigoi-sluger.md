@@ -21,7 +21,7 @@ meta: "Hero · Vampire · Soldier · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Meathook | melee | — | −1 | — |
+| Meathook | 0" | — | −1 | — |
 
 ### Abilities
 

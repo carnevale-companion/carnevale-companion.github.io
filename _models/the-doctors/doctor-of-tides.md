@@ -22,7 +22,7 @@ meta: "Hero · Doctor · Size 40"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Diving Trident | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#aquatic">Aquatic</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
-| Underwater Limelight | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
+| Underwater Limelight | 0" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
 
 ### Abilities
 

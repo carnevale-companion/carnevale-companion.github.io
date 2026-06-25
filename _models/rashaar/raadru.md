@@ -21,7 +21,7 @@ meta: "Hero · Monster · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Webbed Fists | melee | +2 | — | — |
+| Webbed Fists | 0" | +2 | — | — |
 
 ### Abilities
 

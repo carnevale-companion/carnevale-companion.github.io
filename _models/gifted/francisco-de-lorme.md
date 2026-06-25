@@ -21,7 +21,7 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/blood-rites/\" class=\"disc
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Scalpel | melee | — | — | — |
+| Scalpel | 0" | — | — | — |
 
 ### Abilities
 

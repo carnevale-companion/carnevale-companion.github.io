@@ -22,7 +22,7 @@ meta: "Leader · Councillor · Size 30"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Rifled Duelling Pistol | 12" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(2)</a> |
-| Cup Rapier | melee | +1 | −1 | — |
+| Cup Rapier | 0" | +1 | −1 | — |
 
 ### Abilities
 

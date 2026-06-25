@@ -21,7 +21,7 @@ meta: "Henchman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Khopesh Daggers | melee | — | −1 | — |
+| Khopesh Daggers | 0" | — | −1 | — |
 
 ### Abilities
 

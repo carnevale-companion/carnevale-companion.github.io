@@ -21,9 +21,9 @@ meta: "Hero · Unique · End of Days · Size 75"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Club | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
+| Club | 0" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 | Bottle Burner | 5" | +1 | −1 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#black-powder">Black Powder</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> |
-| Bird Kick | melee | +2 | — | — |
+| Bird Kick | 0" | +2 | — | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Hero · Invoker · Discipline(<a href=\"/magic/fateweaving/\" class=\"dis
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Unarmed | melee | — | +1 | — |
+| Unarmed | 0" | — | +1 | — |
 
 ### Abilities
 

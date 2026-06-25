@@ -21,7 +21,7 @@ meta: "Henchman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Short Sword | melee | — | — | — |
+| Short Sword | 0" | — | — | — |
 
 ### Abilities
 

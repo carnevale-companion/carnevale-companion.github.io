@@ -21,7 +21,7 @@ meta: "Henchman · Construct · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Angelic Touch | melee | +1 | — | — |
+| Angelic Touch | 0" | +1 | — | — |
 
 ### Abilities
 

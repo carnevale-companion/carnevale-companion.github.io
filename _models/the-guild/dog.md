@@ -21,7 +21,7 @@ meta: "Henchman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Teeth | melee | +1 | −1 | — |
+| Teeth | 0" | +1 | −1 | — |
 
 ### Abilities
 

@@ -21,7 +21,7 @@ meta: "Henchman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Tools of Penance | melee | — | — | — |
+| Tools of Penance | 0" | — | — | — |
 
 ### Abilities
 

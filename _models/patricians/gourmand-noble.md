@@ -21,7 +21,7 @@ meta: "Hero · Councillor · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Carving Knife | melee | — | −1 | — |
+| Carving Knife | 0" | — | −1 | — |
 
 ### Abilities
 

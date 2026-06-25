@@ -21,7 +21,7 @@ meta: "Henchman · Vampire · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Ancient Claws | melee | — | −2 | — |
+| Ancient Claws | 0" | — | −2 | — |
 
 ### Abilities
 

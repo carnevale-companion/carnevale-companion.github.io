@@ -21,7 +21,7 @@ meta: "Henchman · Animal · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Ripping Teeth | melee | — | −1 | — |
+| Ripping Teeth | 0" | — | −1 | — |
 
 ### Abilities
 

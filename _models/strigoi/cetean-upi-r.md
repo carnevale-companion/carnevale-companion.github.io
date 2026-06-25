@@ -21,7 +21,7 @@ meta: "Hero · Vampire · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Distended Jaws | melee | — | −3 | — |
+| Distended Jaws | 0" | — | −3 | — |
 
 ### Abilities
 

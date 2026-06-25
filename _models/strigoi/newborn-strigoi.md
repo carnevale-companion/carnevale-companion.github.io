@@ -21,7 +21,7 @@ meta: "Henchman · Vampire · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Fangs | melee | — | — | — |
+| Fangs | 0" | — | — | — |
 
 ### Abilities
 

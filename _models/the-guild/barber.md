@@ -21,7 +21,7 @@ meta: "Hero · Trade · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Straight Razor | melee | — | −3 | — |
+| Straight Razor | 0" | — | −3 | — |
 
 ### Abilities
 

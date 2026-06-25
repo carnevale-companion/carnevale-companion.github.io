@@ -21,7 +21,7 @@ meta: "Hero · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Balanced Rapier | melee | — | −2 | — |
+| Balanced Rapier | 0" | — | −2 | — |
 
 ### Abilities
 

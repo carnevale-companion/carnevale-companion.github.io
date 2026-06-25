@@ -21,7 +21,7 @@ meta: "Henchman · Trade · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Improvised Weapon | melee | — | — | — |
+| Improvised Weapon | 0" | — | — | — |
 
 ### Abilities
 

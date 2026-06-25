@@ -21,7 +21,7 @@ meta: "Hero · Construct · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Divine Flame | melee | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
+| Divine Flame | 0" | — | −2 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
 
 ### Abilities
 

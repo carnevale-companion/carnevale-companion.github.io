@@ -21,7 +21,7 @@ meta: "Hero · Unique · Trade · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Sharpened Dagger | melee | — | −1 | — |
+| Sharpened Dagger | 0" | — | −1 | — |
 
 ### Abilities
 

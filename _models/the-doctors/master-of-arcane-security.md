@@ -22,7 +22,7 @@ meta: "Leader · Doctor · Size 50"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Arming Blade | 2" | +1 | — | — |
-| Soul Burner | melee | — | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
+| Soul Burner | 0" | — | −3 | <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 

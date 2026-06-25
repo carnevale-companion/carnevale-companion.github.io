@@ -21,9 +21,9 @@ meta: "Leader · Councillor · Unique · Size 75"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Strice's Paw | melee | — | −1 | — |
-| Gilded Table Scraps | melee | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
-| Minty Fresh Breath | melee | — | — | <span class="chip chip-sm">Pen-1</span> <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
+| Strice's Paw | 0" | — | −1 | — |
+| Gilded Table Scraps | 0" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
+| Minty Fresh Breath | 0" | — | — | <span class="chip chip-sm">Pen-1</span> <a class="chip chip-sm" href="/compendium/weapon-abilities/#poisoned">Poisoned</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#reload-x">Reload(1)</a> |
 
 ### Abilities
 

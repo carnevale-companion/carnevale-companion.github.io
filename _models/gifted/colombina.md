@@ -21,7 +21,7 @@ meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Gilded Mirror | melee | — | — | — |
+| Gilded Mirror | 0" | — | — | — |
 
 ### Abilities
 

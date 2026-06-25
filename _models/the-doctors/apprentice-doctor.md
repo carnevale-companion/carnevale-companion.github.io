@@ -21,7 +21,7 @@ meta: "Henchman · Doctor · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Scalpel | melee | — | −1 | — |
+| Scalpel | 0" | — | −1 | — |
 
 ### Abilities
 

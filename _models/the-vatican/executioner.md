@@ -21,7 +21,7 @@ meta: "Hero · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Executioner's Axe | melee | +1 | — | — |
+| Executioner's Axe | 0" | +1 | — | — |
 
 ### Abilities
 

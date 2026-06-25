@@ -21,7 +21,7 @@ meta: "Hero · Unique · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Pliers | melee | — | — | — |
+| Pliers | 0" | — | — | — |
 
 ### Abilities
 

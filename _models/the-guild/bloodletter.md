@@ -21,7 +21,7 @@ meta: "Hero · House of Virtue · Discipline(<a href=\"/magic/blood-rites/\" cla
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Dagger | melee | — | — | — |
+| Dagger | 0" | — | — | — |
 
 ### Abilities
 

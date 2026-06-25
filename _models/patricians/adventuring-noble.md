@@ -21,7 +21,7 @@ meta: "Hero · Councillor · Discipline(<a href=\"/magic/wild-magic/\" class=\"d
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Sword | melee | +1 | — | — |
+| Sword | 0" | +1 | — | — |
 
 ### Abilities
 

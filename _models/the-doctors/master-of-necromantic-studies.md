@@ -21,7 +21,7 @@ meta: "Leader · Doctor · Discipline(<a href=\"/magic/blood-rites/\" class=\"di
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Surgical Tools | melee | — | −1 | — |
+| Surgical Tools | 0" | — | −1 | — |
 
 ### Abilities
 

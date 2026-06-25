@@ -21,7 +21,7 @@ meta: "Hero · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Brutal Claws | melee | — | −3 | — |
+| Brutal Claws | 0" | — | −3 | — |
 
 ### Abilities
 

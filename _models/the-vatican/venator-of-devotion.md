@@ -22,7 +22,7 @@ meta: "Hero · Hospitaller · Size 40"
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
 | Zweihänder | 2" | +3 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#knockback">Knockback</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
-| Sword | melee | +1 | — | — |
+| Sword | 0" | +1 | — | — |
 
 ### Abilities
 

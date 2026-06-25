@@ -21,7 +21,7 @@ meta: "Hero · Unique · Vampire · Size 75"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Monstrous Claws | melee | +2 | −2 | — |
+| Monstrous Claws | 0" | +2 | −2 | — |
 | Baleful Screech | 6" | — | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#blast">Blast</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#harmless">Harmless</a> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities

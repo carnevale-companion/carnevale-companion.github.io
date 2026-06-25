@@ -21,7 +21,7 @@ meta: "Henchman · Monster · Feral · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Gaping Maw | melee | +1 | — | — |
+| Gaping Maw | 0" | +1 | — | — |
 
 ### Abilities
 

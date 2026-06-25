@@ -21,7 +21,7 @@ meta: "Leader · Officer · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Gilded Sabre | melee | +1 | −1 | — |
+| Gilded Sabre | 0" | +1 | −1 | — |
 
 ### Abilities
 

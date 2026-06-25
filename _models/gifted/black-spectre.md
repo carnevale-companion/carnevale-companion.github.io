@@ -21,7 +21,7 @@ meta: "Hero · Unique · Size 50"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Spectral Touch | melee | — | — | — |
+| Spectral Touch | 0" | — | — | — |
 
 ### Abilities
 

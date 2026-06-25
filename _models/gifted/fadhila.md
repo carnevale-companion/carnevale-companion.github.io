@@ -21,7 +21,7 @@ meta: "Hero · Unique · Discipline(<a href=\"/magic/divinity/\" class=\"disc-di
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Unarmed | melee | — | +1 | — |
+| Unarmed | 0" | — | +1 | — |
 
 ### Abilities
 

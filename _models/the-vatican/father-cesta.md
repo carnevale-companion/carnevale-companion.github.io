@@ -21,7 +21,7 @@ meta: "Leader · Unique · Invoker · Discipline(<a href=\"/magic/runes-of-sover
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Divine Winds | melee | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
+| Divine Winds | 0" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#template">Template</a> |
 
 ### Abilities
 
