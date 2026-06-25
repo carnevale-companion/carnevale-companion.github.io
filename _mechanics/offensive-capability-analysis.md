@@ -44,6 +44,7 @@ Median EDPA per role vs each reference defender, showing what each role is good 
 | Line Fighter | 1.46 | 2.5 | 1.29 | 0.86 | 0.67 | 0.81 |
 | Support | 1.46 | 2.41 | 1.3 | 0.87 | 0.67 | 0.92 |
 | Objective Runner | 1.13 | 2.19 | 0.97 | 0.67 | 0.67 | 0.6 |
+{: .sortable}
 
 ### Per Ducat
 
@@ -64,6 +65,7 @@ Median EDPA/Ducat vs each defender, the fair cross-role comparison.
 | Control | 0.111 | 0.175 | 0.093 | 0.069 | 0.05 | 0.062 |
 | Support | 0.111 | 0.181 | 0.096 | 0.066 | 0.057 | 0.071 |
 | Objective Runner | 0.094 | 0.182 | 0.081 | 0.056 | 0.056 | 0.05 |
+{: .sortable}
 
 ## Alpha vs sustained
 
@@ -84,6 +86,7 @@ A Sniper fires one Reload-limited shot per turn from range, its value is the sin
 | [Guard Marksman](/factions/patricians/guard-marksman/) | [Patricians](/factions/patricians/) | 12 | 2.1 | 1.62 | 0.175 |
 | [Maltese Squire](/factions/the-vatican/maltese-squire/) | [The Vatican](/factions/the-vatican/) | 10 | 1.5 | 0.75 | 0.15 |
 | [Arbalest](/factions/the-guild/arbalest/) | [The Guild](/factions/the-guild/) | 10 | 1.5 | 0.75 | 0.15 |
+{: .sortable}
 
 ### Burst over sustained
 
@@ -106,6 +109,7 @@ Models whose single-shot **alpha** far exceeds their **sustained** EDPA, from on
 | [The Drowned Nun](/factions/rashaar/the-drowned-nun/) | [Rashaar](/factions/rashaar/) | Canal Fighter | 2.93 | 1.77 | 1.16 |
 | [Aglaope](/factions/rashaar/aglaope/) | [Rashaar](/factions/rashaar/) | Support | 2.75 | 1.59 | 1.16 |
 | [Firebreather](/factions/the-guild/firebreather/) | [The Guild](/factions/the-guild/) | Damage Dealer | 2.2 | 1.1 | 1.1 |
+{: .sortable}
 
 ## By faction
 
@@ -128,6 +132,7 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 | [Patricians](/factions/patricians/) | 8 | 2.5 | -15% | 0.171 | -10% |
 | [Strigoi](/factions/strigoi/) | 10 | 2.88 | -1% | 0.168 | -12% |
 | [Gifted](/factions/gifted/) | 11 | 2.68 | -8% | 0.155 | -18% |
+{: .sortable}
 
 **Brawlers** (global median EDPA 3.25, EDPA/Ducat 0.2):
 
@@ -139,6 +144,7 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 | [Patricians](/factions/patricians/) | 3 | 3.01 | -7% | 0.194 | -3% |
 | [Gifted](/factions/gifted/) | 1 | 2.68 | -18% | 0.179 | -11% |
 | [The Doctors](/factions/the-doctors/) | 1 | 2.41 | -26% | 0.161 | -20% |
+{: .sortable}
 
 **Assassins** (global median EDPA 3.23, EDPA/Ducat 0.19):
 
@@ -150,6 +156,7 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 | [Gifted](/factions/gifted/) | 1 | 3.99 | +24% | 0.2 | +5% |
 | [The Vatican](/factions/the-vatican/) | 1 | 2.68 | -17% | 0.134 | -29% |
 | [Strigoi](/factions/strigoi/) | 3 | 3.52 | +9% | 0.133 | -30% |
+{: .sortable}
 
 **Line Fighters** (global median EDPA 1.46, EDPA/Ducat 0.15):
 
@@ -161,6 +168,7 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 | [The Vatican](/factions/the-vatican/) | 7 | 1.43 | -2% | 0.142 | -5% |
 | [The Guild](/factions/the-guild/) | 5 | 1.13 | -23% | 0.141 | -6% |
 | [The Doctors](/factions/the-doctors/) | 5 | 1.13 | -23% | 0.126 | -16% |
+{: .sortable}
 
 **Canal Fighters** (global median EDPA 2.68, EDPA/Ducat 0.15):
 
@@ -172,6 +180,7 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 | [The Doctors](/factions/the-doctors/) | 7 | 2.68 | +0% | 0.149 | -1% |
 | [The Vatican](/factions/the-vatican/) | 1 | 2.68 | +0% | 0.149 | -1% |
 | [Rashaar](/factions/rashaar/) | 9 | 2.68 | +0% | 0.098 | -35% |
+{: .sortable}
 
 ### Frenzy burst
 
@@ -186,6 +195,7 @@ EDPA above is **cold** (no WP, no Frenzy). Frenzied models spend LP as bonus dic
 | [The Doctors](/factions/the-doctors/) | 22 | 1 (5%) | 2.73 | 2.41 | +113% |
 | [The Guild](/factions/the-guild/) | 15 | 0 (0%) | 3.38 | - | - |
 | [The Vatican](/factions/the-vatican/) | 16 | 4 (25%) | 3.27 | 4.26 | +45% |
+{: .sortable}
 
 ### WP-boost
 
@@ -200,6 +210,7 @@ Cold EDPA excludes WP. Spending up to 2 WP on a roll adds dice (~+50% raw Aces o
 | [The Guild](/factions/the-guild/) | Medium (many small sources) | 13/15 (87%) | 4.29 | +45% |
 | [Rashaar](/factions/rashaar/) | Medium (Soul Drain, close-range) | 7/7 (100%) | 4.31 | +32% |
 | [Strigoi](/factions/strigoi/) | Low (uses Frenzy/LP instead) | 3/13 (23%) | 4.06 | +52% |
+{: .sortable}
 
 ## Best models
 
@@ -226,6 +237,7 @@ The offensive models delivering the most EDPA per Ducat. Capped at cost ≥ 6 to
 | [Avignon Guard](/factions/the-vatican/avignon-guard/) | [The Vatican](/factions/the-vatican/) | Brawler | 14 | 3.66 | 3.66 | 0.261 |
 | [Rotter](/factions/strigoi/rotter/) | [Strigoi](/factions/strigoi/) | Canal Fighter | 12 | 3.1 | 3.1 | 0.258 |
 | [Hulking Moroi](/factions/strigoi/hulking-moroi/) | [Strigoi](/factions/strigoi/) | Damage Dealer | 14 | 3.59 | 3.59 | 0.256 |
+{: .sortable}
 
 ### Top 20 by EDPA
 
@@ -253,3 +265,4 @@ The 20 highest sustained-EDPA models.
 | [Zovena Vela](/factions/gifted/zovena-vela/) | [Gifted](/factions/gifted/) | Damage Dealer | 15 | 3.99 | 4.14 | 0.266 |
 | [Baba-Yaga](/factions/the-guild/baba-yaga/) | [The Guild](/factions/the-guild/) | Damage Dealer | 19 | 3.98 | 5.01 | 0.209 |
 | [Justice](/factions/gifted/justice/) | [Gifted](/factions/gifted/) | Damage Dealer | 18 | 3.9 | 3.9 | 0.217 |
+{: .sortable}

@@ -635,3 +635,67 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
 });
+
+// ── Sortable data tables (opt-in via {: .sortable}) ──────────────────
+(function () {
+  document.addEventListener('DOMContentLoaded', function () {
+    var tables = document.querySelectorAll('.doc-content table.sortable');
+    if (!tables.length) return;
+
+    // Parse a cell into a sortable value. Handles linked name cells (visible
+    // text via textContent), plain / signed numbers, percentages (+103%, -29%),
+    // inch values (5"), "n (xx%)" cells (leading count), and blanks (—, -).
+    function parse(td) {
+      var t = td.textContent.replace(/\s+/g, ' ').trim();
+      var blank = (t === '' || t === '—' || t === '–' || t === '-');
+      var m = blank ? null : t.match(/^[+-]?\d+(?:[.,]\d+)?/);
+      var num = m ? parseFloat(m[0].replace(',', '.')) : NaN;
+      return { num: num, str: t.toLowerCase(), blank: blank };
+    }
+
+    function sortBy(table, idx, th) {
+      var tbody = table.tBodies[0];
+      if (!tbody) return;
+      var dir = th.getAttribute('aria-sort') === 'descending' ? 'ascending' : 'descending';
+      Array.prototype.forEach.call(th.parentNode.cells, function (c) {
+        c.removeAttribute('aria-sort');
+      });
+      th.setAttribute('aria-sort', dir);
+      var sign = dir === 'ascending' ? 1 : -1;
+
+      var rows = Array.prototype.map.call(tbody.rows, function (r, i) {
+        return { r: r, v: parse(r.cells[idx]), i: i };
+      });
+      var nonblank = rows.filter(function (d) { return !d.v.blank; });
+      var nums = nonblank.filter(function (d) { return !isNaN(d.v.num); }).length;
+      var numeric = nonblank.length > 0 && nums >= nonblank.length * 0.6;
+
+      rows.sort(function (a, b) {
+        if (a.v.blank && b.v.blank) return a.i - b.i;  // blanks keep order
+        if (a.v.blank) return 1;                        // blanks always last
+        if (b.v.blank) return -1;
+        var c;
+        if (numeric && !isNaN(a.v.num) && !isNaN(b.v.num)) {
+          c = a.v.num - b.v.num;
+        } else {
+          c = a.v.str < b.v.str ? -1 : a.v.str > b.v.str ? 1 : 0;
+        }
+        return c === 0 ? a.i - b.i : sign * c;          // stable on ties
+      });
+      rows.forEach(function (d) { tbody.appendChild(d.r); });
+    }
+
+    Array.prototype.forEach.call(tables, function (table) {
+      var head = table.tHead;
+      if (!head || !head.rows.length) return;
+      Array.prototype.forEach.call(head.rows[0].cells, function (th, idx) {
+        th.setAttribute('role', 'button');
+        th.setAttribute('tabindex', '0');
+        th.addEventListener('click', function () { sortBy(table, idx, th); });
+        th.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); sortBy(table, idx, th); }
+        });
+      });
+    });
+  });
+}());

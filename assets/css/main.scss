@@ -870,6 +870,22 @@ a:hover { text-decoration: underline; }
 /* Row hover on data tables only — not character cards, not simple outcome tables */
 .doc-layout:not(.doc-layout--model) .doc-content table:not(.outcome) tbody tr:hover td { background: rgba(38, 123, 140, 0.06); }
 
+/* Sortable tables: clickable headers with a sort-direction indicator */
+.doc-content table.sortable th {
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+.doc-content table.sortable th:hover { background: rgba(184, 146, 43, 0.22); }
+.doc-content table.sortable th::after {
+  content: "\2195";          /* ↕ unsorted */
+  margin-left: 0.35em;
+  font-size: 0.85em;
+  opacity: 0.3;
+}
+.doc-content table.sortable th[aria-sort="ascending"]::after  { content: "\25B2"; opacity: 0.85; }
+.doc-content table.sortable th[aria-sort="descending"]::after { content: "\25BC"; opacity: 0.85; }
+
 /* Outcome tables (Critical · Success · Fail · Fumble → effect):
    header hidden, only as wide as their content, with a best→worst colour key.
    Rows are authored in fixed order, so the colour can key off row position. */

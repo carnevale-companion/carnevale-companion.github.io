@@ -43,6 +43,7 @@ Median ATK2K per role vs each reference attacker, how many hits of each type a r
 | Support | 9.7 | 3.3 | 5.3 | 5.8 |
 | Harasser | 8.75 | 3.15 | 5.2 | 5.8 |
 | Objective Runner | 7.7 | 2.85 | 4.85 | 5.3 |
+{: .sortable}
 
 ### Per Ducat
 
@@ -63,6 +64,7 @@ Median ATK2K/Ducat vs each attacker, the fair cross-role comparison.
 | Specialist | 0.694 | 0.25 | 0.418 | 0.442 |
 | Control | 0.669 | 0.248 | 0.429 | 0.525 |
 | Assassin | 0.587 | 0.224 | 0.397 | 0.475 |
+{: .sortable}
 
 ## By faction
 
@@ -80,6 +82,7 @@ Global Tank median ATK2K = **23.7**, median ATK2K/Ducat = **1.532**.
 | [The Doctors](/factions/the-doctors/) | 2 | 24.9 | +5% | 1.79 | +17% |
 | [Strigoi](/factions/strigoi/) | 1 | 22.9 | -3% | 1.431 | -7% |
 | [Rashaar](/factions/rashaar/) | 2 | 21.4 | -10% | 1.089 | -29% |
+{: .sortable}
 
 ### Brawler
 
@@ -93,6 +96,7 @@ Global Brawler median ATK2K = **21.0**, median ATK2K/Ducat = **1.318**.
 | [The Vatican](/factions/the-vatican/) | 8 | 22.9 | +9% | 1.315 | +0% |
 | [The Guild](/factions/the-guild/) | 1 | 14.9 | -29% | 1.146 | -13% |
 | [The Doctors](/factions/the-doctors/) | 1 | 13.2 | -37% | 0.88 | -33% |
+{: .sortable}
 
 ### Damage Dealer
 
@@ -107,6 +111,7 @@ Global Damage Dealer median ATK2K = **10.8**, median ATK2K/Ducat = **0.72**.
 | [Gifted](/factions/gifted/) | 11 | 11.3 | +5% | 0.724 | +1% |
 | [The Guild](/factions/the-guild/) | 10 | 9.6 | -11% | 0.603 | -16% |
 | [Strigoi](/factions/strigoi/) | 10 | 9.4 | -13% | 0.568 | -21% |
+{: .sortable}
 
 ### Assassin
 
@@ -120,6 +125,7 @@ Global Assassin median ATK2K = **10.3**, median ATK2K/Ducat = **0.587**.
 | [The Doctors](/factions/the-doctors/) | 1 | 7.3 | -29% | 0.562 | -4% |
 | [The Vatican](/factions/the-vatican/) | 1 | 10.6 | +3% | 0.53 | -10% |
 | [Strigoi](/factions/strigoi/) | 3 | 10.0 | -3% | 0.516 | -12% |
+{: .sortable}
 
 ### Line Fighter
 
@@ -133,6 +139,7 @@ Global Line Fighter median ATK2K = **9.7**, median ATK2K/Ducat = **0.974**.
 | [The Doctors](/factions/the-doctors/) | 5 | 9.8 | +1% | 0.885 | -9% |
 | [Strigoi](/factions/strigoi/) | 6 | 9.3 | -4% | 0.865 | -11% |
 | [Rashaar](/factions/rashaar/) | 4 | 9.6 | -1% | 0.765 | -21% |
+{: .sortable}
 
 ### Canal Fighter
 
@@ -146,6 +153,7 @@ Global Canal Fighter median ATK2K = **12.6**, median ATK2K/Ducat = **0.797**.
 | [Rashaar](/factions/rashaar/) | 9 | 14.9 | +18% | 0.812 | +2% |
 | [Patricians](/factions/patricians/) | 1 | 8.8 | -30% | 0.733 | -8% |
 | [Strigoi](/factions/strigoi/) | 4 | 7.8 | -38% | 0.631 | -21% |
+{: .sortable}
 
 ### Disruptor
 
@@ -157,6 +165,7 @@ Global Disruptor median ATK2K = **12.2**, median ATK2K/Ducat = **0.824**.
 | [Strigoi](/factions/strigoi/) | 1 | 13.0 | +7% | 0.929 | +13% |
 | [The Vatican](/factions/the-vatican/) | 3 | 11.5 | -6% | 0.719 | -13% |
 | [The Doctors](/factions/the-doctors/) | 1 | 4.0 | -67% | 0.667 | -19% |
+{: .sortable}
 
 ## Best models
 
@@ -183,6 +192,7 @@ The 15 highest-ATK2K models, with the statline driving it.
 | [Knight of Malta](/factions/the-vatican/knight-of-malta/) | [The Vatican](/factions/the-vatican/) | Brawler | 12 | 4 | 4 | 23.3 | 1.66 |
 | [Giurgiu Guard](/factions/strigoi/giurgiu-guard/) | [Strigoi](/factions/strigoi/) | Line Fighter | 12 | 4 | 4 | 23.3 | 1.79 |
 | [Spatar](/factions/strigoi/spatar/) | [Strigoi](/factions/strigoi/) | Tank | 12 | 4 | 5 | 22.9 | 1.43 |
+{: .sortable}
 
 ### Best value
 
@@ -205,3 +215,4 @@ The per-Ducat counterpart, most survivability per point spent.
 | [Cult Enforcer](/factions/rashaar/cult-enforcer/) | [Rashaar](/factions/rashaar/) | Brawler | 14 | 19.5 | 1.39 |
 | [City Guard](/factions/patricians/city-guard/) | [Patricians](/factions/patricians/) | Line Fighter | 10 | 13.7 | 1.37 |
 | [Hired Muscle](/factions/patricians/hired-muscle/) | [Patricians](/factions/patricians/) | Brawler | 11 | 14.9 | 1.35 |
+{: .sortable}
