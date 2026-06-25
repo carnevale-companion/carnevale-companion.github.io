@@ -21,8 +21,8 @@ meta: "Hero · Soldier · Size 40"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Spiked Warhammer | - | — | −2 | <span class="chip chip-sm">thrust) (1"</span> |
-| Spiked Warhammer | - | +1 | — | <span class="chip chip-sm">swing) (0"</span> <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
+| Spiked Warhammer (thrust) | 1" | — | −2 | — |
+| Spiked Warhammer (swing) | 0" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#stun">Stun</a> |
 
 ### Abilities
 
@@ -43,7 +43,7 @@ meta: "Hero · Soldier · Size 40"
 
 ### EDPA by target
 
-*Sustained: Spiked Warhammer*
+*Sustained: Spiked Warhammer (thrust)*
 
 | Target | EDPA | Median |
 |---|---|---|

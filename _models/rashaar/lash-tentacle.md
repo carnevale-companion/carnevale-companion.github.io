@@ -21,7 +21,7 @@ meta: "Henchman *(free with Emissary of Mother Hydra)* · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Lashing Swipe | - | — | −1 | — |
+| Lashing Swipe | 0" | — | −1 | — |
 
 ### Abilities
 

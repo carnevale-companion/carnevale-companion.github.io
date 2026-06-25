@@ -21,8 +21,8 @@ meta: "Henchman · Size 30"
 
 | Name | Range | Damage | Pen | Special |
 |---|---|---|---|---|
-| Halberd | - | +1 | — | <span class="chip chip-sm">swing) (2"</span> <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
-| Halberd | - | — | −2 | <span class="chip chip-sm">thrust) (2"</span> |
+| Halberd (swing) | 2" | +1 | — | <a class="chip chip-sm" href="/compendium/weapon-abilities/#two-handed">Two-handed</a> |
+| Halberd (thrust) | 2" | — | −2 | — |
 
 ### Abilities
 
@@ -43,7 +43,7 @@ meta: "Henchman · Size 30"
 
 ### EDPA by target
 
-*Sustained: Halberd*
+*Sustained: Halberd (swing)*
 
 | Target | EDPA | Median |
 |---|---|---|
