@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 1 60 40" role="img" aria-label="Venetian mask">
+  <path fill="#b8922b" fill-rule="evenodd" d="
+    M3 24
+    C4 14, 8 8, 14 7
+    C20 5, 27 6, 30 4
+    C33 6, 40 5, 46 7
+    C52 8, 56 14, 57 24
+    C53 28, 48 30, 44 33
+    C38 36, 33 37, 30 38
+    C27 37, 22 36, 16 33
+    C12 30, 7 28, 3 24
+    Z
+    M15 19 a5 3 0 1 0 10 0 a5 3 0 1 0 -10 0 Z
+    M35 19 a5 3 0 1 0 10 0 a5 3 0 1 0 -10 0 Z
+  "/>
+</svg>
