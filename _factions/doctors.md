@@ -9,6 +9,8 @@ toc:
     anchor: faction-overview
   - title: Faction Command
     anchor: faction-command
+  - title: "Faction special ability: Nexus"
+    anchor: faction-special-ability-nexus
   - title: Magic Access
     anchor: magic-access
   - title: Roster
@@ -31,6 +33,17 @@ Mad scientists fusing humans, animals, and eldritch abominations. The Doctors' d
 A great way to recharge Nexus batteries. With Master of Necromantic Studies LP replaces WP throughout: we kill a model to heal another. It can be the most potent healing of the game but needs low value targets to be useful.
 
 </div>
+
+## Faction special ability: Nexus
+
+Several Doctors carry the **Nexus** ability and act as Will Point batteries: any character with the *Doctor* keyword within 6" and line of sight may spend that model's Will Points as if its own. The faction makes very little Will of its own, so draining these batteries is how it powers heavy spending. The battery models are grouped in the roster's Nexus synergy index.
+
+A few abilities feed the network in return, recharging the batteries:
+
+| Model | Ability | Effect |
+|-------|---------|--------|
+| The Being | Locomotive Nexus Link | On a Combat action, as many Nexus models within 6" as the Damage dealt (before Protection) each replenish 1 Will Point. |
+| Hollowman | Blood Nexus | When it loses Life Points (including to Frenzied), replenish that many Will Points across Nexus models within 6". |
 
 ## Magic Access
 
@@ -86,6 +99,12 @@ Flexible support caster-leader with an anti-**Stun** aura.
 <div class="subfactions" markdown="0">
 <div class="subfaction"><div class="sf-name">Animal <span class="sf-count">8</span></div><div class="chips"><a class="chip" href="/factions/the-doctors/basilisk/">Basilisk</a><a class="chip" href="/factions/the-doctors/crocodile/">Crocodile</a><a class="chip" href="/factions/the-doctors/gorilla/">Gorilla</a><a class="chip" href="/factions/the-doctors/hippocampus/">Hippocampus</a><a class="chip" href="/factions/the-doctors/hippogryph/">Hippogryph</a><a class="chip" href="/factions/the-doctors/lion/">Lion</a><a class="chip" href="/factions/the-doctors/manticore/">Manticore</a><a class="chip" href="/factions/the-doctors/rhino/">Rhino</a></div></div>
 <div class="subfaction"><div class="sf-name">Doctor <span class="sf-count">15</span></div><div class="chips"><a class="chip leader" href="/factions/the-doctors/doctor-of-the-mind/">Doctor of the Mind</a><a class="chip leader" href="/factions/the-doctors/master-of-arcane-security/">Master of Arcane Security</a><a class="chip leader" href="/factions/the-doctors/master-of-necromantic-studies/">Master of Necromantic Studies</a><a class="chip leader" href="/factions/the-doctors/master-of-zoology/">Master of Zoology</a><a class="chip leader" href="/factions/the-doctors/plague-doctor/">Plague Doctor</a><a class="chip" href="/factions/the-doctors/alchemist-doctor/">Alchemist Doctor</a><a class="chip" href="/factions/the-doctors/apprentice-doctor/">Apprentice Doctor</a><a class="chip" href="/factions/the-doctors/doctor-of-blood/">Doctor of Blood</a><a class="chip" href="/factions/the-doctors/doctor-of-poisons/">Doctor of Poisons</a><a class="chip" href="/factions/the-doctors/doctor-of-tides/">Doctor of Tides</a><a class="chip" href="/factions/the-doctors/doctor-of-the-beasts/">Doctor of the Beasts</a><a class="chip" href="/factions/the-doctors/doctor-of-the-firmament/">Doctor of the Firmament</a><a class="chip" href="/factions/the-doctors/marine-biologist/">Marine Biologist</a><a class="chip" href="/factions/the-doctors/morgue-doctor/">Morgue Doctor</a><a class="chip" href="/factions/the-doctors/ordnance-doctor/">Ordnance Doctor</a></div></div>
+</div>
+
+#### Synergy-based index
+
+<div class="subfactions" markdown="0">
+<div class="subfaction"><div class="sf-name">Nexus <span class="sf-count">5</span></div><div class="chips"><a class="chip" href="/factions/the-doctors/carrion/">Carrion</a><a class="chip" href="/factions/the-doctors/madman/">Madman</a><a class="chip" href="/factions/the-doctors/patient-42/">Patient 42</a><a class="chip" href="/factions/the-doctors/unleashed-madman/">Unleashed Madman</a><a class="chip" href="/factions/the-doctors/voltage-bombardiers/">Voltage Bombardiers</a></div></div>
 </div>
 ### Heroes
 
