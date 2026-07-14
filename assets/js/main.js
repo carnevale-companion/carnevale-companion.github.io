@@ -615,6 +615,222 @@
   });
 }());
 
+// ── Dice roll probability calculator ─────────────────────────────────
+(function () {
+  document.addEventListener('DOMContentLoaded', function () {
+    var resEl = document.getElementById('dice-result');
+    if (!resEl) return;
+
+    var svg = document.getElementById('dice-diagram');
+    var VBW = 480, VBH = 320, PAD_L = 34, PAD_R = 14, PAD_TOP = 20, PAD_BOT = 34;
+
+    // Binomial PMF for `n` dice each Acing with probability `p`.
+    function binomPMF(n, p) {
+      var pmf = [1];
+      for (var d = 0; d < n; d++) {
+        var nx = new Array(pmf.length + 1);
+        for (var i = 0; i < nx.length; i++) nx[i] = 0;
+        for (var i = 0; i < pmf.length; i++) {
+          nx[i]     += pmf[i] * (1 - p);
+          nx[i + 1] += pmf[i] * p;
+        }
+        pmf = nx;
+      }
+      return pmf;
+    }
+
+    // Exact outcome probabilities.
+    //   n  total dice rolled (one of them is the Destiny die)
+    //   r  dice you may re-roll, applied to failed dice, once each
+    //   fate  may the Destiny die be re-rolled if it failed?
+    //   p  per-die chance of an Ace = (11 − threshold)/10
+    // A die of 10 is always an Ace, a die of 1 never is, so p ∈ [0.1, 0.9].
+    // Destiny die splits into: 10 (0.1), other Ace (p−0.1), 1 (0.1), other fail (0.9−p).
+    // Re-roll policy: only ever re-roll a *failed* die. When fate re-roll is on and
+    // the Destiny die failed, it takes the first re-roll; the rest go to failed normals.
+    function compute(n, r, fate, p) {
+      var m = n - 1;                       // normal (non-Destiny) dice
+      var pTen = 0.1, pAceHi = p - 0.1, pOne = 0.1, pFailHi = 0.9 - p;
+      var dCat = [pTen, pAceHi, pOne, pFailHi];   // 0:ten 1:aceHi 2:one 3:failHi
+      var dFailed = [false, false, true, true];
+
+      var normFirst = binomPMF(m, p);      // aces among normals, first roll
+      var ace = [], fail = 0, crit = 0, fumble = 0, ev = 0;
+      for (var a = 0; a <= n; a++) ace[a] = 0;
+
+      for (var j = 0; j <= m; j++) {       // j = normal aces kept from first roll
+        var k = m - j;                     // failed normals available to re-roll
+        for (var c = 0; c < 4; c++) {
+          var wc = dCat[c];
+          if (wc <= 0) continue;
+          // Decide re-rolls: Destiny first (if allowed & failed), then normals.
+          var rerollD = fate && dFailed[c] && r >= 1;
+          var remain  = r - (rerollD ? 1 : 0);
+          var reN     = Math.min(remain, k);
+          var extra   = binomPMF(reN, p);  // fresh aces from re-rolled normals
+
+          // Destiny-final categories after its optional re-roll.
+          var dFinal;
+          if (rerollD) dFinal = dCat;                       // fresh die
+          else { dFinal = [0, 0, 0, 0]; dFinal[c] = 1; }    // stays as rolled
+
+          for (var b = 0; b < extra.length; b++) {
+            var other = j + b;             // Aces from all normal dice
+            var wJoint = normFirst[j] * wc * extra[b];
+            for (var df = 0; df < 4; df++) {
+              var wd = dFinal[df];
+              if (wd <= 0) continue;
+              var w = wJoint * wd;
+              var dAce = (df === 0 || df === 1);
+              var total = other + (dAce ? 1 : 0);
+              ace[total] += w;
+              ev += w * total;
+              if (total === 0) {
+                fail += w;
+                if (df === 2) fumble += w;                  // Destiny 1, no Aces
+              } else if (df === 0 && other >= 1) {
+                crit += w;                                  // Destiny 10 + another Ace
+              }
+            }
+          }
+        }
+      }
+      return { ace: ace, fail: fail, success: 1 - fail, crit: crit, fumble: fumble, ev: ev, n: n };
+    }
+
+    function pct(x) {
+      if (x <= 0) return '0%';
+      if (x < 0.001) return '<0.1%';
+      if (x > 0.999 && x < 1) return '>99.9%';
+      return (x * 100).toFixed(1) + '%';
+    }
+
+    function renderChart(ace, n) {
+      var innerW = VBW - PAD_L - PAD_R, innerH = VBH - PAD_TOP - PAD_BOT;
+      var bx0 = PAD_L, by0 = VBH - PAD_BOT;
+      var maxP = 0.001;
+      for (var i = 0; i < ace.length; i++) if (ace[i] > maxP) maxP = ace[i];
+      // Round the axis top up to a tidy value.
+      var top = Math.min(1, Math.ceil(maxP / 0.1) * 0.1);
+      var Y = function (p) { return by0 - (p / top) * innerH; };
+
+      var cols = n + 1, gap = 6;
+      var bw = (innerW - gap * (cols - 1)) / cols;
+      var s = '';
+
+      // Gridlines + y labels
+      for (var g = 0; g <= top + 1e-9; g += (top <= 0.2 ? 0.05 : 0.1)) {
+        var gy = Y(g).toFixed(1);
+        s += '<line class="d-grid" x1="' + bx0 + '" y1="' + gy + '" x2="' + (VBW - PAD_R) + '" y2="' + gy + '"/>';
+        s += '<text class="d-axis" x="' + (bx0 - 5) + '" y="' + (Y(g) + 3).toFixed(1) +
+             '" text-anchor="end">' + Math.round(g * 100) + '%</text>';
+      }
+
+      for (var a = 0; a < cols; a++) {
+        var x = bx0 + a * (bw + gap);
+        var h = by0 - Y(ace[a] || 0);
+        if (h < 0.3) h = 0.3;
+        s += '<rect class="d-bar" x="' + x.toFixed(1) + '" y="' + Y(ace[a] || 0).toFixed(1) +
+             '" width="' + bw.toFixed(1) + '" height="' + h.toFixed(1) + '" rx="1.5"/>';
+        if ((ace[a] || 0) >= 0.005) {
+          s += '<text class="d-barval" x="' + (x + bw / 2).toFixed(1) + '" y="' +
+               (Y(ace[a]) - 3).toFixed(1) + '" text-anchor="middle">' +
+               Math.round(ace[a] * 100) + '</text>';
+        }
+        s += '<text class="d-axis" x="' + (x + bw / 2).toFixed(1) + '" y="' + (by0 + 14) +
+             '" text-anchor="middle">' + a + '</text>';
+      }
+      s += '<text class="d-axis-title" x="' + (bx0 + innerW / 2).toFixed(1) + '" y="' + (VBH - 4) +
+           '" text-anchor="middle">Number of Aces</text>';
+      svg.innerHTML = s;
+    }
+
+    // Read the controls back as clamped, valid values.
+    function readInputs() {
+      var n = parseInt(document.getElementById('dice-n').value, 10);
+      var r = parseInt(document.getElementById('dice-r').value, 10);
+      var fate = document.getElementById('dice-fate').checked;
+      var t = parseInt(document.getElementById('dice-t').value, 10);
+
+      if (isNaN(n) || n < 1) n = 1; if (n > 10) n = 10;
+      if (isNaN(r) || r < 0) r = 0; if (r > n) r = n;
+      if (isNaN(t) || t < 2) t = 2; if (t > 10) t = 10;
+      return { n: n, r: r, fate: fate, t: t };
+    }
+
+    // Preset the controls from ?n=&r=&fate=&t= query parameters.
+    function applyQuery() {
+      var qp = new URLSearchParams(window.location.search);
+      function num(key, id) {
+        var v = qp.get(key);
+        if (v !== null && v !== '' && !isNaN(v)) document.getElementById(id).value = v;
+      }
+      num('n', 'dice-n');
+      num('r', 'dice-r');
+      num('t', 'dice-t');
+      var f = qp.get('fate');
+      if (f !== null) document.getElementById('dice-fate').checked = (f === '1' || f === 'true' || f === 'yes');
+    }
+
+    function diceCalc() {
+      var inp = readInputs();
+      var n = inp.n, r = inp.r, fate = inp.fate, t = inp.t;
+      var p = (11 - t) / 10;
+
+      var res = compute(n, r, fate, p);
+      // Show the four outcomes as a mutually exclusive partition summing to 100%:
+      // Fumble and Critical are carved out of the plain Fail and Success bands.
+      document.getElementById('dice-fumble').textContent  = pct(res.fumble);
+      document.getElementById('dice-fail').textContent    = pct(res.fail - res.fumble);
+      document.getElementById('dice-success').textContent = pct(res.success - res.crit);
+      document.getElementById('dice-crit').textContent    = pct(res.crit);
+      document.getElementById('dice-ev').textContent      = res.ev.toFixed(2);
+      renderChart(res.ace, n);
+    }
+
+    // Share button: copy a link that reproduces the current settings.
+    var shareBtn = document.getElementById('dice-share');
+    if (shareBtn) {
+      var shareTimer = null;
+      shareBtn.addEventListener('click', function () {
+        var inp = readInputs();
+        var qs = 'n=' + inp.n + '&r=' + inp.r + '&fate=' + (inp.fate ? 1 : 0) + '&t=' + inp.t;
+        var url = window.location.origin + window.location.pathname + '?' + qs + '#dice-roll';
+
+        function done() {
+          shareBtn.classList.add('is-copied');
+          shareBtn.setAttribute('title', 'Link copied');
+          clearTimeout(shareTimer);
+          shareTimer = setTimeout(function () {
+            shareBtn.classList.remove('is-copied');
+            shareBtn.setAttribute('title', 'Copy link to these settings');
+          }, 1600);
+        }
+
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(url).then(done, done);
+        } else {
+          var ta = document.createElement('textarea');
+          ta.value = url;
+          ta.style.position = 'fixed';
+          ta.style.opacity = '0';
+          document.body.appendChild(ta);
+          ta.select();
+          try { document.execCommand('copy'); } catch (e) {}
+          document.body.removeChild(ta);
+          done();
+        }
+      });
+    }
+
+    ['dice-n', 'dice-r', 'dice-fate', 'dice-t'].forEach(function (id) {
+      document.getElementById(id).addEventListener('input', diceCalc);
+    });
+    applyQuery();
+    diceCalc();
+  });
+}());
+
 document.addEventListener('DOMContentLoaded', function () {
 
   // ── Mobile menu toggle ──────────────────────────────────────────────

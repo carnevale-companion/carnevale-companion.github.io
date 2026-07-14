@@ -980,6 +980,51 @@ a:hover { text-decoration: underline; }
   border-bottom: 1px solid var(--border);
   background: var(--side);
 }
+.calc-header-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding-top: 0.45rem;
+  padding-bottom: 0.35rem;
+}
+.calc-share {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.28rem 0.4rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--bg);
+  color: var(--ink-3);
+  cursor: pointer;
+  line-height: 0;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+.calc-share:hover { color: var(--accent); border-color: var(--accent); }
+.calc-share:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(38, 123, 140, 0.15);
+}
+.calc-share svg { display: block; }
+.calc-share .calc-share-check,
+.calc-share .calc-share-label { display: none; }
+.calc-share-label {
+  font-family: var(--font-display);
+  font-size: 0.55rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  line-height: 1;
+}
+.calc-share.is-copied {
+  color: #2e7a3a;
+  border-color: #2e7a3a;
+}
+.calc-share.is-copied .calc-share-link { display: none; }
+.calc-share.is-copied .calc-share-check,
+.calc-share.is-copied .calc-share-label { display: inline-block; }
+
 .calc-body {
   display: grid;
   grid-template-columns: 1fr;
@@ -1030,6 +1075,13 @@ a:hover { text-decoration: underline; }
   text-align: right;
 }
 .calc-input select { cursor: pointer; }
+.calc-input .calc-check {
+  width: 18px;
+  height: 18px;
+  margin: 0 20px;
+  cursor: pointer;
+  accent-color: var(--accent);
+}
 .calc-input input[type="number"]:focus,
 .calc-input select:focus {
   outline: none;
@@ -1222,6 +1274,59 @@ a:hover { text-decoration: underline; }
   line-height: 1.4;
   font-weight: 300;
 }
+
+/* ── Dice calculator result ─────────────────────────────────────────── */
+.dice-result {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  border-top: 1px solid var(--border);
+  background: var(--border);
+  margin-top: auto;
+}
+.dice-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+  padding: 0.7rem 0.5rem 0.75rem;
+  background: var(--side);
+}
+.dice-stat-label {
+  font-family: var(--font-display);
+  font-size: 0.58rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+.dice-stat-value {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--ink-2);
+}
+.dice-stat.is-fumble .dice-stat-value  { color: var(--accent2); }
+.dice-stat.is-fail   .dice-stat-value  { color: var(--ink-3); }
+.dice-stat.is-success .dice-stat-value { color: #2e7a3a; }
+.dice-stat.is-crit   .dice-stat-value  { color: var(--gold); }
+.dice-note {
+  font-size: 0.72rem;
+  color: var(--ink-3);
+  font-weight: 300;
+  line-height: 1.5;
+  padding: 0.6rem 1.25rem 0.7rem;
+  margin: 0;
+}
+.dice-note strong { color: var(--ink-2); font-weight: 600; }
+
+/* Dice chart (SVG) */
+.d-grid    { stroke: var(--border); stroke-width: 0.8; }
+.d-bar     { fill: var(--accent); }
+.d-barval  { font-family: var(--font-mono); font-size: 10px; fill: var(--ink-2); }
+.d-axis    { font-family: var(--font-mono); font-size: 10px; fill: var(--ink-3); }
+.d-axis-title { font-family: var(--font-display); font-size: 11px; font-weight: 600; fill: var(--ink-2); }
 
 @media (prefers-reduced-motion: reduce) {
   .los-calc-result, .los-calc-number, .jump-result, .rng-result, .rng-result-number { transition: none; }

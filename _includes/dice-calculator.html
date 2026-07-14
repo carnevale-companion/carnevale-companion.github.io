@@ -1,0 +1,72 @@
+<div class="calc" markdown="0">
+  <div class="calc-header calc-header-bar">
+    <span>Dice Roll Calculator</span>
+    <button type="button" class="calc-share" id="dice-share"
+            aria-label="Copy a link to these settings" title="Copy link to these settings">
+      <svg class="calc-share-link" viewBox="0 0 24 24" width="15" height="15" fill="none"
+           stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+      </svg>
+      <svg class="calc-share-check" viewBox="0 0 24 24" width="15" height="15" fill="none"
+           stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M20 6 9 17l-5-5"/>
+      </svg>
+      <span class="calc-share-label">Copied</span>
+    </button>
+  </div>
+  <div class="calc-body">
+    <div class="calc-controls">
+      <div class="calc-fields">
+        <div class="calc-row">
+          <label for="dice-n">Dice rolled</label>
+          <div class="calc-input">
+            <input id="dice-n" type="number" min="1" max="10" step="1" value="3">
+          </div>
+        </div>
+        <div class="calc-row">
+          <label for="dice-r">Dice re-rolls</label>
+          <div class="calc-input">
+            <input id="dice-r" type="number" min="0" max="10" step="1" value="0">
+          </div>
+        </div>
+        <div class="calc-row">
+          <label for="dice-fate">Re-roll the Destiny die?</label>
+          <div class="calc-input">
+            <input id="dice-fate" type="checkbox" class="calc-check">
+          </div>
+        </div>
+        <div class="calc-row">
+          <label for="dice-t">Ace on (DEX / Difficulty)</label>
+          <div class="calc-input">
+            <input id="dice-t" type="number" min="2" max="10" step="1" value="7">
+          </div>
+        </div>
+      </div>
+      <div class="dice-result" id="dice-result">
+        <div class="dice-stat is-fumble">
+          <span class="dice-stat-label">Fumble</span>
+          <span class="dice-stat-value" id="dice-fumble">—</span>
+        </div>
+        <div class="dice-stat is-fail">
+          <span class="dice-stat-label">Fail</span>
+          <span class="dice-stat-value" id="dice-fail">—</span>
+        </div>
+        <div class="dice-stat is-success">
+          <span class="dice-stat-label">Success</span>
+          <span class="dice-stat-value" id="dice-success">—</span>
+        </div>
+        <div class="dice-stat is-crit">
+          <span class="dice-stat-label">Critical</span>
+          <span class="dice-stat-value" id="dice-crit">—</span>
+        </div>
+      </div>
+      <p class="dice-note">The four outcomes are exclusive and add up to 100%. Fail leaves out Fumbles and Success leaves out Criticals. Expected Aces: <strong id="dice-ev">—</strong>.</p>
+    </div>
+    <figure class="calc-figure">
+      <svg id="dice-diagram" viewBox="0 0 480 320" preserveAspectRatio="xMidYMid meet"
+           role="img" aria-label="Bar chart of the probability of each number of Aces"></svg>
+      <figcaption>Distribution of the number of Aces rolled. Updates as you change the values.</figcaption>
+    </figure>
+  </div>
+</div>
