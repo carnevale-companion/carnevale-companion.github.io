@@ -55,12 +55,12 @@ Median EDPA/Ducat vs each defender, the fair cross-role comparison.
 | Brawler | 0.196 | 0.284 | 0.172 | 0.145 | 0.145 | 0.128 |
 | Assassin | 0.193 | 0.229 | 0.175 | 0.146 | 0.12 | 0.135 |
 | Damage Dealer | 0.186 | 0.254 | 0.173 | 0.145 | 0.121 | 0.136 |
-| Sniper | 0.156 | 0.194 | 0.132 | 0.106 | 0.104 | 0.119 |
+| Sniper | 0.156 | 0.21 | 0.132 | 0.106 | 0.104 | 0.119 |
 | Tank | 0.154 | 0.222 | 0.131 | 0.105 | 0.088 | 0.089 |
+| Line Fighter | 0.153 | 0.263 | 0.137 | 0.096 | 0.084 | 0.092 |
 | Canal Fighter | 0.151 | 0.223 | 0.129 | 0.108 | 0.091 | 0.094 |
-| Line Fighter | 0.148 | 0.255 | 0.135 | 0.095 | 0.084 | 0.09 |
 | Specialist | 0.123 | 0.194 | 0.103 | 0.072 | 0.066 | 0.067 |
-| Harasser | 0.121 | 0.221 | 0.105 | 0.074 | 0.091 | 0.08 |
+| Harasser | 0.121 | 0.216 | 0.105 | 0.074 | 0.091 | 0.076 |
 | Disruptor | 0.113 | 0.188 | 0.097 | 0.071 | 0.064 | 0.069 |
 | Control | 0.111 | 0.175 | 0.093 | 0.069 | 0.05 | 0.062 |
 | Support | 0.111 | 0.181 | 0.096 | 0.066 | 0.057 | 0.071 |
@@ -77,9 +77,9 @@ A Sniper fires one Reload-limited shot per turn from range, its value is the sin
 
 | Model | Faction | cost | alpha | sustained | alpha/Ducat |
 |---|---|---|---|---|---|
+| [Baroni](/factions/the-guild/baroni/) | [The Guild](/factions/the-guild/) | 15 | 5.74 | 2.87 | 0.383 |
 | [Naval Lieutenant](/factions/patricians/naval-lieutenant/) | [Patricians](/factions/patricians/) | 15 | 5.08 | 2.54 | 0.339 |
 | [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) | [The Vatican](/factions/the-vatican/) | 15 | 4.87 | 2.44 | 0.325 |
-| [Baroni](/factions/the-guild/baroni/) | [The Guild](/factions/the-guild/) | 15 | 4.83 | 2.41 | 0.322 |
 | [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) | [The Vatican](/factions/the-vatican/) | 13 | 4.81 | 2.4 | 0.37 |
 | [Venetian Spy](/factions/patricians/venetian-spy/) | [Patricians](/factions/patricians/) | 16 | 3.74 | 1.87 | 0.234 |
 | [Noble Seafarer](/factions/patricians/noble-seafarer/) | [Patricians](/factions/patricians/) | 12 | 2.6 | 1.87 | 0.217 |
@@ -94,9 +94,9 @@ Models whose single-shot **alpha** far exceeds their **sustained** EDPA, from on
 
 | Model | Faction | Role | alpha | sustained | drop |
 |---|---|---|---|---|---|
+| [Baroni](/factions/the-guild/baroni/) | [The Guild](/factions/the-guild/) | Sniper | 5.74 | 2.87 | 2.87 |
 | [Naval Lieutenant](/factions/patricians/naval-lieutenant/) | [Patricians](/factions/patricians/) | Sniper | 5.08 | 2.54 | 2.54 |
 | [Scorpio Marksman](/factions/the-vatican/scorpio-marksman/) | [The Vatican](/factions/the-vatican/) | Sniper | 4.87 | 2.44 | 2.43 |
-| [Baroni](/factions/the-guild/baroni/) | [The Guild](/factions/the-guild/) | Sniper | 4.83 | 2.41 | 2.42 |
 | [Theophant of Sinai](/factions/the-vatican/theophant-of-sinai/) | [The Vatican](/factions/the-vatican/) | Sniper | 4.81 | 2.4 | 2.41 |
 | [Venetian Spy](/factions/patricians/venetian-spy/) | [Patricians](/factions/patricians/) | Sniper | 3.74 | 1.87 | 1.87 |
 | [Tarot Reader](/factions/strigoi/tarot-reader/) | [Strigoi](/factions/strigoi/) | Support | 4.38 | 2.66 | 1.72 |
@@ -121,6 +121,8 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 
 **Small-n roles (1-2 models) are effectively a single statline, not a distribution.**
 
+#### Damage Dealers
+
 **Damage Dealers** (global median EDPA 2.92, EDPA/Ducat 0.19):
 
 | Faction | n | median EDPA | vs global (raw) | median EDPA/ducat | vs global (value) |
@@ -134,6 +136,8 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 | [Gifted](/factions/gifted/) | 11 | 2.68 | -8% | 0.155 | -18% |
 {: .sortable}
 
+#### Brawlers
+
 **Brawlers** (global median EDPA 3.25, EDPA/Ducat 0.2):
 
 | Faction | n | median EDPA | vs global (raw) | median EDPA/ducat | vs global (value) |
@@ -145,6 +149,8 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 | [Gifted](/factions/gifted/) | 1 | 2.68 | -18% | 0.179 | -11% |
 | [The Doctors](/factions/the-doctors/) | 1 | 2.41 | -26% | 0.161 | -20% |
 {: .sortable}
+
+#### Assassins
 
 **Assassins** (global median EDPA 3.23, EDPA/Ducat 0.19):
 
@@ -158,6 +164,8 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 | [Strigoi](/factions/strigoi/) | 3 | 3.52 | +9% | 0.133 | -30% |
 {: .sortable}
 
+#### Line Fighters
+
 **Line Fighters** (global median EDPA 1.46, EDPA/Ducat 0.15):
 
 | Faction | n | median EDPA | vs global (raw) | median EDPA/ducat | vs global (value) |
@@ -165,10 +173,12 @@ Per-faction median EDPA for each primary offensive role, vs that role's global m
 | [Patricians](/factions/patricians/) | 7 | 1.5 | +3% | 0.167 | +11% |
 | [Rashaar](/factions/rashaar/) | 4 | 1.68 | +15% | 0.162 | +8% |
 | [Strigoi](/factions/strigoi/) | 6 | 1.61 | +10% | 0.157 | +5% |
-| [The Vatican](/factions/the-vatican/) | 7 | 1.43 | -2% | 0.142 | -5% |
+| [The Vatican](/factions/the-vatican/) | 7 | 1.43 | -2% | 0.143 | -5% |
 | [The Guild](/factions/the-guild/) | 5 | 1.13 | -23% | 0.141 | -6% |
-| [The Doctors](/factions/the-doctors/) | 5 | 1.13 | -23% | 0.126 | -16% |
+| [The Doctors](/factions/the-doctors/) | 5 | 1.13 | -23% | 0.113 | -25% |
 {: .sortable}
+
+#### Canal Fighters
 
 **Canal Fighters** (global median EDPA 2.68, EDPA/Ducat 0.15):
 
@@ -188,12 +198,12 @@ EDPA above is **cold** (no WP, no Frenzy). Frenzied models spend LP as bonus dic
 
 | Faction | n dealers/asn/brl | Frenzied | median cold EDPA | median burst EDPA | burst uplift |
 |---|---|---|---|---|---|
-| [Gifted](/factions/gifted/) | 13 | 0 (0%) | 2.68 | - | - |
+| [Gifted](/factions/gifted/) | 13 | 0 (0%) | 2.68 | — | — |
 | [Patricians](/factions/patricians/) | 14 | 2 (14%) | 2.9 | 4.22 | +59% |
-| [Rashaar](/factions/rashaar/) | 16 | 0 (0%) | 2.83 | - | - |
+| [Rashaar](/factions/rashaar/) | 16 | 0 (0%) | 2.83 | — | — |
 | [Strigoi](/factions/strigoi/) | 17 | 14 (82%) | 3.09 | 4.33 | +48% |
 | [The Doctors](/factions/the-doctors/) | 22 | 1 (5%) | 2.73 | 2.41 | +113% |
-| [The Guild](/factions/the-guild/) | 15 | 0 (0%) | 3.38 | - | - |
+| [The Guild](/factions/the-guild/) | 15 | 0 (0%) | 3.38 | — | — |
 | [The Vatican](/factions/the-vatican/) | 16 | 4 (25%) | 3.27 | 4.26 | +45% |
 {: .sortable}
 
@@ -203,8 +213,8 @@ Cold EDPA excludes WP. Spending up to 2 WP on a roll adds dice (~+50% raw Aces o
 
 | Faction | WP economy | offensive models w/ own WP | median boosted atk | median uplift |
 |---|---|---|---|---|
-| [The Vatican](/factions/the-vatican/) | Highest (most WP-rich) | 15/18 (83%) | 4.63 | +48% |
-| [Patricians](/factions/patricians/) | High (combat rewards + Sopracomito battery) | 17/17 (100%) | 4.08 | +38% |
+| [The Vatican](/factions/the-vatican/) | Highest (most WP-rich) | 14/18 (78%) | 4.81 | +48% |
+| [Patricians](/factions/patricians/) | High (combat rewards + Sopracomito battery) | 16/17 (94%) | 4.09 | +42% |
 | [The Doctors](/factions/the-doctors/) | High (Nexus pool sharing) | 9/15 (60%) | 4.12 | +53% |
 | [Gifted](/factions/gifted/) | Situational (most models self-fund) | 12/13 (92%) | 4.08 | +50% |
 | [The Guild](/factions/the-guild/) | Medium (many small sources) | 13/15 (87%) | 4.29 | +45% |

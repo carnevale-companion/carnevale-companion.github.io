@@ -243,9 +243,9 @@ Flexible support caster-leader with an anti-**Stun** aura.
 <summary markdown="span">Line Fighter <span class="role-count">5</span></summary>
 
 - [Gorilla](/factions/the-doctors/gorilla/) is a high-output flying *Animal* that bodyguards the *Doctors*.
+- [Shackled Feaster](/factions/the-doctors/shackled-feaster/) is a vampiric line fighter that heals past full and hits harder once gorged.
 - [Lab Assistant](/factions/the-doctors/lab-assistant/) is a stunning line fighter, though pricey for its damage.
 - [Doctor of Venesection](/factions/the-doctors/doctor-of-venesection/) is a slow vampiric line fighter, underwhelming for its cost but with the **Frenzy** + **Vampiric Attack** combo.
-- [Shackled Feaster](/factions/the-doctors/shackled-feaster/) is a vampiric line fighter that heals past full and hits harder once gorged.
 - [Husk](/factions/the-doctors/husk/) is 4-point grappling chaff, fragile and easily finished off.
 
 </details>
@@ -253,8 +253,8 @@ Flexible support caster-leader with an anti-**Stun** aura.
 <details class="role-group" markdown="1">
 <summary markdown="span">Specialist <span class="role-count">5</span></summary>
 
-- [Harvester](/factions/the-doctors/harvester/) is a cheap grappler built to drag down larger models.
 - [Apprentice Doctor](/factions/the-doctors/apprentice-doctor/) copies one ability, spell, or weapon from a chosen Doctor mentor, cheaply plugging whatever gap the gang needs filled.
+- [Harvester](/factions/the-doctors/harvester/) is a cheap grappler built to drag down larger models.
 - [Carrion](/factions/the-doctors/carrion/) is a very fast infiltrating Nexus.
 - [Hollowman](/factions/the-doctors/hollowman/) is a cheap Will Point engine that regenerates nearby Nexus when it bleeds itself.
 - [Madman](/factions/the-doctors/madman/) is the gang's cheapest Nexus, carrying six Will Points for five Ducats but unable to do much else.
@@ -296,7 +296,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Control | 1 | 1.89 | 0.126 | 1/1 | 16.0 | 1.07 | 1/1 |
 | Harasser | 1 | 1.77 | 0.253 | 1/1 | 9.8 | 1.40 | 1/1 |
 | Support | 3 | 1.50 | 0.100 | 1/3 | 10.6 | 0.90 | 2/3 |
-| Line Fighter | 5 | 1.13 | 0.126 | 2/5 | 9.8 | 0.88 | 2/5 |
+| Line Fighter | 5 | 1.13 | 0.113 | 2/5 | 9.8 | 0.88 | 1/5 |
 | Specialist | 7 | 1.13 | 0.113 | 3/7 | 6.7 | 0.73 | 4/7 |
 
 </details>
@@ -406,7 +406,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.153, ATK2K/Duc 0.97)*</summary>
 
 *ATK2K median overstates this role: typical 9.8, average 8.3, with 1 model well below the pack (down to 2.9), so the durability floor is lower than the median suggests.*
 
@@ -414,9 +414,9 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [Husk](/factions/the-doctors/husk/) | 0.87 | 0.217 | ✓ | 2.9 | 0.72 | – |
 | [Gorilla](/factions/the-doctors/gorilla/) | 1.99 | 0.153 | ✓ | 11.5 | 0.88 | – |
-| [Shackled Feaster](/factions/the-doctors/shackled-feaster/) | 1.13 | 0.126 | – | 9.8 | 1.09 | ✓ |
 | [Doctor of Venesection](/factions/the-doctors/doctor-of-venesection/) | 1.13 | 0.113 | – | 9.8 | 0.98 | ✓ |
 | [Lab Assistant](/factions/the-doctors/lab-assistant/) | 1.13 | 0.113 | – | 7.3 | 0.73 | – |
+| [Shackled Feaster](/factions/the-doctors/shackled-feaster/) | 1.13 | 0.103 | – | 9.8 | 0.89 | – |
 
 </details>
 
@@ -430,8 +430,8 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Voltage Bombardiers](/factions/the-doctors/voltage-bombardiers/) | 4.14 | 0.345 | ✓ | 6.7 | 0.56 | – |
+| [Harvester](/factions/the-doctors/harvester/) | 1.50 | 0.136 | ✓ | 9.7 | 0.88 | ✓ |
 | [Apprentice Doctor](/factions/the-doctors/apprentice-doctor/) | 1.50 | 0.125 | ✓ | 8.8 | 0.73 | ✓ |
-| [Harvester](/factions/the-doctors/harvester/) | 1.50 | 0.125 | ✓ | 9.7 | 0.81 | ✓ |
 | [Carrion](/factions/the-doctors/carrion/) | 1.13 | 0.113 | – | 6.5 | 0.65 | – |
 | [Hollowman](/factions/the-doctors/hollowman/) | 0.44 | 0.073 | – | 4.0 | 0.67 | – |
 | [Doctor of Divine Probabilities](/factions/the-doctors/doctor-of-divine-probabilities/) | 0.62 | 0.041 | – | 18.4 | 1.23 | ✓ |

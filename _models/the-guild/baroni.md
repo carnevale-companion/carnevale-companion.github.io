@@ -13,7 +13,7 @@ meta: "Hero · Size 30"
 
 | AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
 |---|---|---|---|---|---|---|---|---|
-| 2 | 13 | 3 | 2 | 4 | 4 | 3 | 4 | 4 |
+| 2 | 13 | 3 | 2 | 4 | 4 | 4 | 4 | 4 |
 
 </div>
 
@@ -37,7 +37,7 @@ meta: "Hero · Size 30"
 
 ## Capability
 
-<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.41</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.161</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div>
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.191</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">14.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div>
 
 <div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Sniper median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.87</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.156</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">11.5</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.99</span><span class="k">ATK2K/Duc</span></div></div></div>
 
@@ -52,12 +52,12 @@ meta: "Hero · Size 30"
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 2.91 | 2.74 |
-| Balanced (Dex4/Prot3) | 2.41 | 1.87 |
-| Evasive (Dex6/Prot2) | 2.34 | 1.74 |
-| Armoured (Dex4/Prot5) | 1.97 | 1.44 |
-| Tank (Dex4/Prot5/US5) | 1.78 | 1.27 |
-| Parry (Dex5/Prot3/Parry2) | 2.27 | 1.70 |
+| Soft (Dex3/Prot1) | 3.78 | 2.74 |
+| Balanced (Dex4/Prot3) | 2.87 | 1.87 |
+| Evasive (Dex6/Prot2) | 2.72 | 1.74 |
+| Armoured (Dex4/Prot5) | 2.43 | 1.44 |
+| Tank (Dex4/Prot5/US5) | 2.22 | 1.27 |
+| Parry (Dex5/Prot3/Parry2) | 2.70 | 1.70 |
 
 
 </div>
@@ -72,7 +72,7 @@ meta: "Hero · Size 30"
 | Baseline (Atk3) | 0.87 | 14.9 | 11.5 |
 | Elite (Atk5, Dmg+1) | 2.94 | 4.4 | 3.8 |
 | Penetrator (Atk3, Pen−3) | 1.89 | 6.9 | 6.3 |
-| Drown (Atk3) | 1.90 | 6.9 | 6.9 |
+| Drown (Atk3) | 1.56 | 8.3 | 6.9 |
 
 </div>
 </div>
@@ -86,12 +86,12 @@ meta: "Hero · Size 30"
 
 | Target | Burst EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 5.83 | 4.78 |
-| Balanced (Dex4/Prot3) | 4.83 | 3.74 |
-| Evasive (Dex6/Prot2) | 4.68 | 3.48 |
-| Armoured (Dex4/Prot5) | 3.94 | 2.88 |
-| Tank (Dex4/Prot5/US5) | 3.55 | 2.48 |
-| Parry (Dex5/Prot3/Parry2) | 4.55 | 3.40 |
+| Soft (Dex3/Prot1) | 6.78 | 4.78 |
+| Balanced (Dex4/Prot3) | 5.74 | 3.74 |
+| Evasive (Dex6/Prot2) | 5.44 | 3.48 |
+| Armoured (Dex4/Prot5) | 4.86 | 2.88 |
+| Tank (Dex4/Prot5/US5) | 4.45 | 2.48 |
+| Parry (Dex5/Prot3/Parry2) | 5.39 | 3.40 |
 
 </div>
 </div>

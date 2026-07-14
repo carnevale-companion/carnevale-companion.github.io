@@ -51,7 +51,7 @@ The weaknesses are structural: A third of the gang is Mindless and cannot score 
 
 *An alpha-strike gunline with the game's best command economy and the cleanest scoring. Its cold sustained damage looks low because its damage is front-loaded into snipers and one-turn bursts.*
 
-Patricians has the most Command Points in the game with a faction command that grants +1 Action Point. Its offence is built around alpha strikes: snipers, including the single hardest-hitting shoter in the game, and burst gunners fuelled by a rich Will-Point economy. It is also the cleanest scoring faction in the game, with the widest range of leaders, from the cheapest support leader in the game to a premium command hub.
+Patricians has the most Command Points in the game with a faction command that grants +1 Action Point. Its offence is built around alpha strikes: snipers, including the single hardest-hitting long range shooter in the game, and burst gunners fuelled by a rich Will-Point economy. It is also the cleanest scoring faction in the game, with the widest range of leaders, from the cheapest support leader in the game to a premium command hub.
 
 The downside is low sustained damage. The roster is heavily range-dependent and susceptible to rush tactics, and its shooting is reload-gated, often limited to one shot per turn. Most models are slow on foot. Certain model combinations are very powerful but expensive, though costs are otherwise well-balanced across the roster.
 

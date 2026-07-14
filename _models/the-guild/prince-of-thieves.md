@@ -13,7 +13,7 @@ meta: "Leader · Hero · Unique · Size 30"
 
 | AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
 |---|---|---|---|---|---|---|---|---|
-| 3 | 13 | 5 | 5 | 5 | 5 | 5 | 4 | 5 |
+| 3 | 13 | 2 | 5 | 5 | 5 | 5 | 4 | 5 |
 
 </div>
 

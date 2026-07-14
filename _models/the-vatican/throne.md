@@ -13,7 +13,7 @@ meta: "Hero · Construct · Size 50"
 
 | AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
 |---|---|---|---|---|---|---|---|---|
-| 2 | 16 | 1 | 0 | 6 | 3 | 4 | 4 | 1 |
+| 2 | 16 | 0 | 1 | 6 | 3 | 4 | 4 | 1 |
 
 </div>
 

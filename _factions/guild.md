@@ -142,7 +142,7 @@ Flexible, aggressive hero-leader with good Command. He is a strong solo, but a l
 <details class="role-group" markdown="1">
 <summary markdown="span">Sniper <span class="role-count">1</span></summary>
 
-- [Baroni](/factions/the-guild/baroni/) is a short-range sniper with 2 Command Points for extra utility.
+- [Baroni](/factions/the-guild/baroni/) is a hard-hitting short-range sniper, among the top shooter alphas in the game, with 2 Command Points for extra utility.
 
 </details>
 
@@ -274,7 +274,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|
 | [Capodecina](/factions/the-guild/capodecina/) | Assassin (melee, infiltrator) | 3.29 | 13.4 | 0.165 | 0.67 |
 | [Harbourmaster](/factions/the-guild/harbourmaster/) | Brawler (water) | 2.51 | 22.7 | 0.119 | 1.08 |
-| [King For a Day](/factions/the-guild/king-for-a-day/) | Damage Dealer (anti-armour) | 2.20 | 8.0 | 0.100 | 0.36 |
+| [King For a Day](/factions/the-guild/king-for-a-day/) | Damage Dealer (anti-armour) | 2.91 | 8.0 | 0.182 | 0.50 |
 | [Madame](/factions/the-guild/madame/) | Support (House of Virtue) | 1.80 | 20.1 | 0.090 | 1.01 |
 | [Ostrich King?!](/factions/the-guild/ostrich-king/) | Damage Dealer (anti-armour, fast) | 2.91 | 10.0 | 0.153 | 0.53 |
 | [Prince of Thieves](/factions/the-guild/prince-of-thieves/) | Damage Dealer (melee/short-range) / Objective Runner | 3.92 | 18.4 | 0.170 | 0.80 |
@@ -291,13 +291,13 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Damage Dealer | 10 | 3.40 | 0.208 | 7/10 | 9.6 | 0.60 | 2/10 |
 | Brawler | 1 | 2.68 | 0.206 | 1/1 | 14.9 | 1.15 | 0/1 |
 | Assassin | 2 | 3.70 | 0.243 | 1/2 | 13.0 | 0.87 | 2/2 |
-| Sniper | 2 | 1.58 | 0.118 | 1/2 | 13.2 | 1.07 | 2/2 |
+| Sniper | 2 | 1.81 | 0.133 | 1/2 | 13.2 | 1.07 | 2/2 |
 | Canal Fighter | 2 | 2.29 | 0.180 | 1/2 | 11.7 | 0.97 | 2/2 |
 | Disruptor | 1 | 2.13 | 0.125 | 1/1 | 16.0 | 0.94 | 1/1 |
-| Harasser | 4 | 1.38 | 0.115 | 1/4 | 8.8 | 0.74 | 2/4 |
+| Harasser | 4 | 1.38 | 0.110 | 1/4 | 8.8 | 0.74 | 2/4 |
 | Support | 7 | 1.13 | 0.088 | 1/7 | 9.7 | 0.76 | 5/7 |
 | Objective Runner | 3 | 0.62 | 0.073 | 1/3 | 8.3 | 0.83 | 3/3 |
-| Line Fighter | 5 | 1.13 | 0.141 | 2/5 | 9.7 | 0.96 | 1/5 |
+| Line Fighter | 5 | 1.13 | 0.141 | 2/5 | 9.7 | 0.88 | 1/5 |
 | Specialist | 4 | 2.31 | 0.159 | 3/4 | 10.1 | 0.79 | 3/4 |
 
 </details>
@@ -344,7 +344,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Baroni](/factions/the-guild/baroni/) | 2.41 | 0.161 | ✓ | 14.9 | 0.99 | ✓ |
+| [Baroni](/factions/the-guild/baroni/) | 2.87 | 0.191 | ✓ | 14.9 | 0.99 | ✓ |
 | [Arbalest](/factions/the-guild/arbalest/) | 0.75 | 0.075 | – | 11.4 | 1.14 | ✓ |
 
 </details>
@@ -377,7 +377,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 |---|---|---|---|---|---|---|
 | [Dog](/factions/the-guild/dog/) | 1.68 | 0.336 | ✓ | 3.8 | 0.76 | ✓ |
 | [Thief](/factions/the-guild/thief/) | 1.63 | 0.116 | – | 8.9 | 0.64 | – |
-| [Poacher](/factions/the-guild/poacher/) | 1.13 | 0.113 | – | 8.8 | 0.88 | ✓ |
+| [Poacher](/factions/the-guild/poacher/) | 1.13 | 0.103 | – | 8.8 | 0.80 | ✓ |
 | [Ostrich Rider](/factions/the-guild/ostrich-rider/) | 1.13 | 0.094 | – | 8.7 | 0.72 | – |
 
 </details>
@@ -398,7 +398,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.75)*</summary>
 
 *EDPA median understates this role: typical 0.62, average 1.08, with 1 model well above the pack (up to 2.19), so the offensive ceiling is higher than the median suggests.*
 
@@ -411,7 +411,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.153, ATK2K/Duc 0.97)*</summary>
 
 *EDPA median understates this role: typical 1.13, average 1.40, with 1 model well above the pack (up to 1.99), so the offensive ceiling is higher than the median suggests.*
 
@@ -421,7 +421,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Harlot](/factions/the-guild/harlot/) | 1.63 | 0.163 | ✓ | 7.3 | 0.73 | – |
 | [Pulcinella](/factions/the-guild/pulcinella/) | 1.13 | 0.141 | – | 6.0 | 0.75 | – |
 | [Citizen](/factions/the-guild/citizen/) | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
-| [Indebted](/factions/the-guild/indebted/) | 1.13 | 0.113 | – | 9.7 | 0.97 | – |
+| [Indebted](/factions/the-guild/indebted/) | 1.13 | 0.103 | – | 9.7 | 0.88 | – |
 
 </details>
 

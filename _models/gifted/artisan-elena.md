@@ -13,7 +13,7 @@ meta: "Hero · Unique · Vampire · Size 30"
 
 | AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
 |---|---|---|---|---|---|---|---|---|
-| 2 | 12 | 2 | 0 | 4 | 4 | 3 | 3 | 1 |
+| 2 | 12 | 0 | 0 | 4 | 4 | 3 | 3 | 1 |
 
 </div>
 

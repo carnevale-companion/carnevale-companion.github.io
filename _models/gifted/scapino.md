@@ -5,7 +5,7 @@ permalink: /factions/gifted/scapino/
 faction: gifted
 faction_title: Gifted
 nav_section: Factions
-cost: 10
+cost: 11
 meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 ---
 
@@ -31,9 +31,9 @@ meta: "Henchman · Unique · Commedia dell'Arte · Size 30"
 
 ## Capability
 
-<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.044</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.1</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.81</span><span class="k">ATK2K/Duc</span></div></div>
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">0.44</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.040</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.1</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.74</span><span class="k">ATK2K/Duc</span></div></div>
 
-<div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Objective Runner median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.79</span><span class="k">ATK2K/Duc</span></div></div></div>
+<div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Objective Runner median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.094</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">7.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
 
 [How these metrics are computed →](/mechanics/combat/)
 

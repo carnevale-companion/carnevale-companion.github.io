@@ -169,10 +169,10 @@ Dealer quality is shown both raw and **per-Ducat (value)**. The value column is 
 
 | Faction | WP total | CP (models) | mages | disciplines |
 |---|---|---|---|---|
-| Patricians | 110 | 47 (23 models) | 2 | 3 |
-| The Guild | 120 | 41 (19 models) | 4 | 5 |
-| Rashaar | 110 | 33 (12 models) | 6 | 4 |
-| Strigoi | 27 | 31 (12 models) | 6 | 4 |
-| The Vatican | 115 | 30 (11 models) | 9 | 5 |
-| The Doctors | 73 | 27 (11 models) | 7 | 5 |
-| Gifted | 97 | 10 (4 models) | 4 | 5 |
+| Patricians | 109 | 47 (23 models) | 2 | 3 |
+| The Guild | 114 | 43 (19 models) | 4 | 5 |
+| The Vatican | 104 | 33 (13 models) | 9 | 5 |
+| Rashaar | 106 | 33 (12 models) | 6 | 4 |
+| Strigoi | 26 | 31 (12 models) | 6 | 4 |
+| The Doctors | 67 | 27 (11 models) | 7 | 5 |
+| Gifted | 98 | 10 (4 models) | 4 | 5 |

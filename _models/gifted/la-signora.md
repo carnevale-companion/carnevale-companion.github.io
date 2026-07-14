@@ -13,7 +13,7 @@ meta: "Leader · Hero · Unique · Commedia dell'Arte · Size 40"
 
 | AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
 |---|---|---|---|---|---|---|---|---|
-| 3 | 15 | 5 | 3 | 4 | 4 | 3 | 3 | 3 |
+| 3 | 15 | 5 | 3 | 4 | 4 | 4 | 3 | 3 |
 
 </div>
 
@@ -37,9 +37,11 @@ meta: "Leader · Hero · Unique · Commedia dell'Arte · Size 40"
 
 ## Capability
 
-<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.50</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.083</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">17.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.98</span><span class="k">ATK2K/Duc</span></div></div>
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">2.13</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.118</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">17.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.98</span><span class="k">ATK2K/Duc</span></div></div>
 
 <div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Support median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.46</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.111</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">9.7</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.75</span><span class="k">ATK2K/Duc</span></div></div></div>
+
+*Upper EDPA outlier: among this faction's Supports the median is 1.13, but this model reaches 2.13, so the role median understates models like this.*
 
 *Upper ATK2K outlier: among this faction's Supports the median is 10.6, but this model reaches 17.7, so the role median understates models like this.*
 
@@ -54,12 +56,12 @@ meta: "Leader · Hero · Unique · Commedia dell'Arte · Size 40"
 
 | Target | EDPA | Median |
 |---|---|---|
-| Soft (Dex3/Prot1) | 2.50 | 2.41 |
-| Balanced (Dex4/Prot3) | 1.50 | 1.46 |
-| Evasive (Dex6/Prot2) | 1.30 | 1.30 |
-| Armoured (Dex4/Prot5) | 0.87 | 0.87 |
-| Tank (Dex4/Prot5/US5) | 0.67 | 0.67 |
-| Parry (Dex5/Prot3/Parry2) | 0.81 | 0.92 |
+| Soft (Dex3/Prot1) | 3.30 | 2.41 |
+| Balanced (Dex4/Prot3) | 2.13 | 1.46 |
+| Evasive (Dex6/Prot2) | 1.81 | 1.30 |
+| Armoured (Dex4/Prot5) | 1.40 | 0.87 |
+| Tank (Dex4/Prot5/US5) | 1.12 | 0.67 |
+| Parry (Dex5/Prot3/Parry2) | 1.21 | 0.92 |
 
 
 </div>
@@ -74,7 +76,7 @@ meta: "Leader · Hero · Unique · Commedia dell'Arte · Size 40"
 | Baseline (Atk3) | 0.85 | 17.7 | 9.7 |
 | Elite (Atk5, Dmg+1) | 2.80 | 5.4 | 3.3 |
 | Penetrator (Atk3, Pen−3) | 1.76 | 8.5 | 5.3 |
-| Drown (Atk3) | 1.90 | 7.9 | 5.8 |
+| Drown (Atk3) | 1.56 | 9.6 | 5.8 |
 
 </div>
 </div>

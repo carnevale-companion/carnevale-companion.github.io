@@ -112,7 +112,7 @@ Very durable fighter, but with a Full Plate (weak near water). He also gives a s
 - [Zoryi](/factions/strigoi/zoryi/) is an expensive, tough brawler that stuns what it hits.
 - [Wallachian Impaler](/factions/strigoi/wallachian-impaler/) is an expensive, high-output, cost-efficient reach fighter that grows scarier and thirstier with every enemy that dies near it.
 - [Strigoi Sluger](/factions/strigoi/strigoi-sluger/) is a grappling bruiser that heals nearby *Vampires* whenever it scores a kill, though pricey for its damage.
-- [Varcolae](/factions/strigoi/varcolae/) is a fast but fragile melee brawler that grows stronger at the start or the end of the game.
+- [Varcolac](/factions/strigoi/varcolac/) is a fast but fragile melee brawler that grows stronger at the start or the end of the game.
 - [Strige](/factions/strigoi/strige/) is a fragile, flying melee **Hunter**.
 - [Hulking Moroi](/factions/strigoi/hulking-moroi/) is a cost-efficient melee damage dealer that hits hard even without using **Frenzy**.
 - [Reaper](/factions/strigoi/reaper/) is a basic melee striker.
@@ -274,7 +274,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | [Moon Eater](/factions/strigoi/moon-eater/) | 4.10 | 0.178 | – | 9.0 | 0.39 | – |
 | [Zoryi](/factions/strigoi/zoryi/) | 3.31 | 0.174 | – | 16.8 | 0.88 | ✓ |
 | [Cibele](/factions/strigoi/cibele/) | 3.09 | 0.163 | – | 9.8 | 0.52 | – |
-| [Varcolae](/factions/strigoi/varcolae/) | 2.60 | 0.153 | – | 8.8 | 0.52 | – |
+| [Varcolac](/factions/strigoi/varcolac/) | 2.60 | 0.153 | – | 8.8 | 0.52 | – |
 | [Reaper](/factions/strigoi/reaper/) | 1.75 | 0.135 | – | 7.6 | 0.58 | – |
 | [Strige](/factions/strigoi/strige/) | 1.75 | 0.125 | – | 6.3 | 0.45 | – |
 | [Strigoi Sluger](/factions/strigoi/strigoi-sluger/) | 2.13 | 0.118 | – | 10.3 | 0.57 | – |
@@ -348,7 +348,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.75)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -357,7 +357,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.153, ATK2K/Duc 0.97)*</summary>
 
 *ATK2K median understates this role: typical 9.3, average 10.9, with 1 model well above the pack (up to 23.3), so the durability ceiling is higher than the median suggests.*
 

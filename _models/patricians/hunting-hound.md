@@ -5,7 +5,7 @@ permalink: /factions/patricians/hunting-hound/
 faction: patricians
 faction_title: Patricians
 nav_section: Factions
-cost: 5
+cost: 6
 meta: "Henchman · Animal · Size 30"
 ---
 
@@ -29,7 +29,7 @@ meta: "Henchman · Animal · Size 30"
 
 ## Capability
 
-<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.336</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">4.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.98</span><span class="k">ATK2K/Duc</span></div></div>
+<div class="metric-tiles" markdown="0"><div class="tile"><span class="v">1.68</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.280</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">4.9</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.82</span><span class="k">ATK2K/Duc</span></div></div>
 
 <div class="metric-median" markdown="0"><p class="metric-median-cap muted-note">Harasser median</p><div class="metric-tiles is-median"><div class="tile"><span class="v">1.63</span><span class="k">EDPA</span></div><div class="tile"><span class="v">0.121</span><span class="k">EDPA/Duc</span></div><div class="tile"><span class="v">8.8</span><span class="k">ATK2K</span></div><div class="tile"><span class="v">0.76</span><span class="k">ATK2K/Duc</span></div></div></div>
 

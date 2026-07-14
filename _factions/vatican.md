@@ -234,9 +234,9 @@ Really strong all-round fighter with high damage and high protection, but with a
 <details class="role-group" markdown="1">
 <summary markdown="span">Line Fighter <span class="role-count">7</span></summary>
 
-- [Bishop Guard](/factions/the-vatican/bishop-guard/) is a cost-effective line fighter with **Bodyguard (*Leader*)**.
 - [Redemptionist](/factions/the-vatican/redemptionist/) is a **Frenzied** line fighter that needs a little healing to reach its full potential.
 - [Chevaleresse](/factions/the-vatican/chevaleresse/) is a cost-effective line fighter with **Bodyguard (*Henchman*)**.
+- [Bishop Guard](/factions/the-vatican/bishop-guard/) is one of the best-value line fighters in the game: a cheap, durable body with **Bodyguard (*Leader*)**.
 - [Priest](/factions/the-vatican/priest/) is a cheap line fighter with a **Stun** weapon.
 - [Crucifier](/factions/the-vatican/crucifier/) is an armour-piercing line fighter.
 - [French Infantryman](/factions/the-vatican/french-infantryman/) is a cheap line fighter with a **Knockback** reach weapon, though not very cost-effective.
@@ -287,7 +287,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Disruptor | 3 | 1.63 | 0.102 | 1/3 | 11.5 | 0.72 | 1/3 |
 | Support | 12 | 1.25 | 0.122 | 7/12 | 9.7 | 0.72 | 4/12 |
 | Objective Runner | 1 | 1.50 | 0.136 | 1/1 | 10.9 | 0.99 | 1/1 |
-| Line Fighter | 7 | 1.43 | 0.142 | 2/7 | 9.7 | 1.08 | 5/7 |
+| Line Fighter | 7 | 1.43 | 0.143 | 3/7 | 9.7 | 1.08 | 7/7 |
 | Specialist | 4 | 2.23 | 0.131 | 3/4 | 13.4 | 0.82 | 3/4 |
 
 </details>
@@ -400,7 +400,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.75)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -409,16 +409,16 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.153, ATK2K/Duc 0.97)*</summary>
 
 *ATK2K median understates this role: typical 9.7, average 11.9, with 1 model well above the pack (up to 18.0), so the durability ceiling is higher than the median suggests.*
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Crucifier](/factions/the-vatican/crucifier/) | 1.89 | 0.189 | ✓ | 9.7 | 0.97 | – |
-| [Chevaleresse](/factions/the-vatican/chevaleresse/) | 1.99 | 0.166 | ✓ | 14.1 | 1.18 | ✓ |
-| [Priest](/factions/the-vatican/priest/) | 1.43 | 0.143 | – | 9.7 | 0.97 | – |
-| [Bishop Guard](/factions/the-vatican/bishop-guard/) | 1.99 | 0.142 | – | 18.0 | 1.29 | ✓ |
+| [Crucifier](/factions/the-vatican/crucifier/) | 1.89 | 0.189 | ✓ | 9.7 | 0.97 | ✓ |
+| [Bishop Guard](/factions/the-vatican/bishop-guard/) | 1.99 | 0.181 | ✓ | 18.0 | 1.64 | ✓ |
+| [Chevaleresse](/factions/the-vatican/chevaleresse/) | 1.99 | 0.181 | ✓ | 14.1 | 1.28 | ✓ |
+| [Priest](/factions/the-vatican/priest/) | 1.43 | 0.143 | – | 9.7 | 0.97 | ✓ |
 | [Martyr](/factions/the-vatican/martyr/) | 1.13 | 0.141 | – | 9.7 | 1.21 | ✓ |
 | [French Infantryman](/factions/the-vatican/french-infantryman/) | 1.13 | 0.126 | – | 9.7 | 1.08 | ✓ |
 | [Redemptionist](/factions/the-vatican/redemptionist/) | 1.13 | 0.094 | – | 12.6 | 1.05 | ✓ |

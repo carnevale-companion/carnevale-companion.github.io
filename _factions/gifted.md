@@ -181,8 +181,8 @@ High-mobility assassin with a teleport action.
 <details class="role-group" markdown="1">
 <summary markdown="span">Objective Runner <span class="role-count">3</span></summary>
 
-- [Coviello](/factions/gifted/coviello/) is a cheap, fragile objective runner with a little **Acrobatic (2)** mobility.
 - [Scapino](/factions/gifted/scapino/) is a cheap, fast objective runner with **Slippery**.
+- [Coviello](/factions/gifted/coviello/) is a cheap, fragile objective runner with a little **Acrobatic (2)** mobility.
 - [Pantaleone](/factions/gifted/pantaleone/) is a slower objective runner that trades speed for utility: a **Smoke** bomb and **Pickpocket**.
 
 </details>
@@ -206,7 +206,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Model | Tag | EDPA | ATK2K | Off/Duc | Def/Duc |
 |---|---|---|---|---|---|
 | [Il Capitano](/factions/gifted/il-capitano/) | Damage Dealer (melee) / Support | 4.29 | 8.7 | 0.226 | 0.46 |
-| [La Signora](/factions/gifted/la-signora/) | Support (re-roll engine) | 1.50 | 17.7 | 0.083 | 0.98 |
+| [La Signora](/factions/gifted/la-signora/) | Support (re-roll engine) | 2.13 | 17.7 | 0.118 | 0.98 |
 | [The Duke](/factions/gifted/the-duke/) | Assassin (infiltration) / Damage Dealer | 4.14 | 18.4 | 0.188 | 0.84 |
 
 </details>
@@ -224,7 +224,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Control | 2 | 1.71 | 0.119 | 1/2 | 8.7 | 0.62 | 0/2 |
 | Harasser | 1 | 2.68 | 0.149 | 1/1 | 15.0 | 0.83 | 1/1 |
 | Support | 3 | 1.13 | 0.113 | 2/3 | 10.6 | 0.73 | 1/3 |
-| Objective Runner | 3 | 0.44 | 0.044 | 1/3 | 6.7 | 0.67 | 1/3 |
+| Objective Runner | 3 | 0.44 | 0.040 | 1/3 | 6.7 | 0.67 | 0/3 |
 | Specialist | 9 | 1.50 | 0.102 | 2/9 | 10.6 | 0.66 | 3/9 |
 
 </details>
@@ -301,12 +301,12 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.75)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Coviello](/factions/gifted/coviello/) | 1.13 | 0.103 | ✓ | 6.7 | 0.61 | – |
-| [Scapino](/factions/gifted/scapino/) | 0.44 | 0.044 | – | 8.1 | 0.81 | ✓ |
+| [Scapino](/factions/gifted/scapino/) | 0.44 | 0.040 | – | 8.1 | 0.74 | – |
 | [Pantaleone](/factions/gifted/pantaleone/) | 0.04 | 0.004 | – | 6.7 | 0.67 | – |
 
 </details>

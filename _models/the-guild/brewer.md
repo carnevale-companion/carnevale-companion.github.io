@@ -13,7 +13,7 @@ meta: "Hero · End of Days · Size 40"
 
 | AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
 |---|---|---|---|---|---|---|---|---|
-| 2 | 13 | 3 | 2 | 4 | 3 | 3 | 2 | 2 |
+| 2 | 13 | 2 | 2 | 4 | 3 | 3 | 2 | 2 |
 
 </div>
 

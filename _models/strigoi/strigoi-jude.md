@@ -13,7 +13,7 @@ meta: "Hero · Vampire · Soldier · Discipline(<a href=\"/magic/blood-rites/\" 
 
 | AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
 |---|---|---|---|---|---|---|---|---|
-| 2 | 12 | 1 | 1 | 4 | 4 | 3 | 3 | 4 |
+| 2 | 12 | 0 | 1 | 4 | 4 | 3 | 3 | 4 |
 
 </div>
 

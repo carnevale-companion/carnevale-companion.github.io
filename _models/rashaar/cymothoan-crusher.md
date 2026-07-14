@@ -13,7 +13,7 @@ meta: "Henchman · Feral · Size 50"
 
 | AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
 |---|---|---|---|---|---|---|---|---|
-| 2 | 17 | 2 | 0 | 4 | 3 | 2 | 5 | 1 |
+| 2 | 17 | 0 | 0 | 4 | 3 | 2 | 5 | 1 |
 
 </div>
 

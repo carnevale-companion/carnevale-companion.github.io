@@ -258,7 +258,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Tank | 2 | 1.97 | 0.096 | 0/2 | 21.4 | 1.09 | 0/2 |
 | Control | 1 | 2.32 | 0.097 | 0/1 | 16.1 | 0.67 | 1/1 |
 | Support | 6 | 1.54 | 0.106 | 3/6 | 8.8 | 0.73 | 3/6 |
-| Objective Runner | 3 | 1.13 | 0.097 | 3/3 | 5.3 | 0.62 | 0/3 |
+| Objective Runner | 3 | 1.13 | 0.097 | 3/3 | 5.3 | 0.62 | 1/3 |
 | Line Fighter | 4 | 1.68 | 0.162 | 2/4 | 9.6 | 0.76 | 1/4 |
 | Specialist | 9 | 1.13 | 0.088 | 1/9 | 2.6 | 0.64 | 2/9 |
 
@@ -344,18 +344,18 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.75)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
 | [Urchin](/factions/rashaar/urchin/) | 1.13 | 0.141 | ✓ | 5.0 | 0.62 | – |
-| [Bounding Telchine](/factions/rashaar/bounding-telchine/) | 0.87 | 0.097 | ✓ | 6.9 | 0.77 | – |
+| [Bounding Telchine](/factions/rashaar/bounding-telchine/) | 0.87 | 0.097 | ✓ | 6.9 | 0.77 | ✓ |
 | [Advanced Hybrid](/factions/rashaar/advanced-hybrid/) | 1.13 | 0.094 | ✓ | 5.3 | 0.44 | – |
 
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.153, ATK2K/Duc 0.97)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|

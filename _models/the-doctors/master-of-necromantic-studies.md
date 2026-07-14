@@ -13,7 +13,7 @@ meta: "Leader · Doctor · Discipline(<a href=\"/magic/blood-rites/\" class=\"di
 
 | AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
 |---|---|---|---|---|---|---|---|---|
-| 3 | 11 | 4 | 4 | 4 | 4 | 4 | 4 | 5 |
+| 3 | 11 | 0 | 4 | 4 | 4 | 4 | 4 | 5 |
 
 </div>
 

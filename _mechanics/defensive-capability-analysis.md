@@ -53,15 +53,15 @@ Median ATK2K/Ducat vs each attacker, the fair cross-role comparison.
 |---|---|---|---|---|
 | Tank | 1.532 | 0.384 | 0.593 | 0.56 |
 | Brawler | 1.318 | 0.371 | 0.711 | 0.6 |
-| Sniper | 0.993 | 0.293 | 0.525 | 0.525 |
-| Line Fighter | 0.974 | 0.329 | 0.506 | 0.58 |
+| Sniper | 0.993 | 0.293 | 0.525 | 0.53 |
+| Line Fighter | 0.97 | 0.328 | 0.506 | 0.58 |
 | Disruptor | 0.824 | 0.275 | 0.584 | 0.481 |
 | Canal Fighter | 0.797 | 0.261 | 0.45 | 0.55 |
-| Objective Runner | 0.787 | 0.279 | 0.505 | 0.482 |
-| Harasser | 0.757 | 0.292 | 0.487 | 0.52 |
+| Harasser | 0.757 | 0.278 | 0.487 | 0.482 |
+| Objective Runner | 0.752 | 0.276 | 0.491 | 0.482 |
 | Support | 0.752 | 0.254 | 0.417 | 0.438 |
 | Damage Dealer | 0.72 | 0.254 | 0.427 | 0.519 |
-| Specialist | 0.694 | 0.25 | 0.418 | 0.442 |
+| Specialist | 0.694 | 0.25 | 0.425 | 0.442 |
 | Control | 0.669 | 0.248 | 0.429 | 0.525 |
 | Assassin | 0.587 | 0.224 | 0.397 | 0.475 |
 {: .sortable}
@@ -134,9 +134,9 @@ Global Line Fighter median ATK2K = **9.7**, median ATK2K/Ducat = **0.974**.
 | Faction | n | median ATK2K | vs global (raw) | median ATK2K/ducat | vs global (value) |
 |---|---|---|---|---|---|
 | [The Vatican](/factions/the-vatican/) | 7 | 9.7 | +0% | 1.078 | +11% |
-| [Patricians](/factions/patricians/) | 7 | 9.7 | +0% | 1.027 | +5% |
-| [The Guild](/factions/the-guild/) | 5 | 9.7 | +0% | 0.958 | -2% |
+| [Patricians](/factions/patricians/) | 7 | 9.7 | +0% | 1.027 | +6% |
 | [The Doctors](/factions/the-doctors/) | 5 | 9.8 | +1% | 0.885 | -9% |
+| [The Guild](/factions/the-guild/) | 5 | 9.7 | +0% | 0.882 | -9% |
 | [Strigoi](/factions/strigoi/) | 6 | 9.3 | -4% | 0.865 | -11% |
 | [Rashaar](/factions/rashaar/) | 4 | 9.6 | -1% | 0.765 | -21% |
 {: .sortable}
@@ -209,10 +209,10 @@ The per-Ducat counterpart, most survivability per point spent.
 | [Avignon Guard](/factions/the-vatican/avignon-guard/) | [The Vatican](/factions/the-vatican/) | Brawler | 14 | 24.0 | 1.71 |
 | [Knight of the Holy Sepulchre](/factions/the-vatican/knight-of-the-holy-sepulchre/) | [The Vatican](/factions/the-vatican/) | Brawler | 17 | 28.8 | 1.69 |
 | [Knight of Malta](/factions/the-vatican/knight-of-malta/) | [The Vatican](/factions/the-vatican/) | Brawler | 14 | 23.3 | 1.66 |
+| [Bishop Guard](/factions/the-vatican/bishop-guard/) | [The Vatican](/factions/the-vatican/) | Line Fighter | 11 | 18.0 | 1.64 |
 | [Rhino](/factions/the-doctors/rhino/) | [The Doctors](/factions/the-doctors/) | Tank | 15 | 24.5 | 1.63 |
 | [Spatar](/factions/strigoi/spatar/) | [Strigoi](/factions/strigoi/) | Tank | 16 | 22.9 | 1.43 |
 | [Hippogryph](/factions/the-doctors/hippogryph/) | [The Doctors](/factions/the-doctors/) | Harasser | 7 | 9.8 | 1.4 |
 | [Cult Enforcer](/factions/rashaar/cult-enforcer/) | [Rashaar](/factions/rashaar/) | Brawler | 14 | 19.5 | 1.39 |
 | [City Guard](/factions/patricians/city-guard/) | [Patricians](/factions/patricians/) | Line Fighter | 10 | 13.7 | 1.37 |
-| [Hired Muscle](/factions/patricians/hired-muscle/) | [Patricians](/factions/patricians/) | Brawler | 11 | 14.9 | 1.35 |
 {: .sortable}

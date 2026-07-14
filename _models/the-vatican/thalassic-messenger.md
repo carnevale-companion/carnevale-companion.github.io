@@ -13,7 +13,7 @@ meta: "Henchman · Construct · Size 50"
 
 | AP | LP | WP | CP | Move | Dex | Atk | Prot | Mind |
 |---|---|---|---|---|---|---|---|---|
-| 2 | 12 | 2 | 0 | 3 | 4 | 4 | 5 | 1 |
+| 2 | 12 | 0 | 0 | 3 | 4 | 4 | 5 | 1 |
 
 </div>
 

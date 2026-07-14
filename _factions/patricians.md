@@ -270,7 +270,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 | Assassin | 2 | 3.28 | 0.213 | 1/2 | 9.8 | 0.63 | 2/2 |
 | Sniper | 4 | 1.87 | 0.145 | 2/4 | 12.1 | 0.86 | 1/4 |
 | Canal Fighter | 1 | 1.99 | 0.166 | 1/1 | 8.8 | 0.73 | 0/1 |
-| Harasser | 2 | 1.65 | 0.222 | 1/2 | 8.1 | 0.87 | 1/2 |
+| Harasser | 2 | 1.65 | 0.194 | 1/2 | 8.1 | 0.79 | 1/2 |
 | Support | 6 | 1.68 | 0.129 | 3/6 | 11.2 | 0.90 | 5/6 |
 | Objective Runner | 1 | 1.13 | 0.094 | 1/1 | 11.3 | 0.94 | 1/1 |
 | Line Fighter | 7 | 1.50 | 0.167 | 5/7 | 9.7 | 1.03 | 6/7 |
@@ -343,7 +343,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
-| [Hunting Hound](/factions/patricians/hunting-hound/) | 1.68 | 0.336 | ✓ | 4.9 | 0.98 | ✓ |
+| [Hunting Hound](/factions/patricians/hunting-hound/) | 1.68 | 0.280 | ✓ | 4.9 | 0.82 | ✓ |
 | [Cat Burglar](/factions/patricians/cat-burglar/) | 1.63 | 0.109 | – | 11.3 | 0.75 | – |
 
 </details>
@@ -363,7 +363,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.79)*</summary>
+<summary markdown="span">Objective Runner  *(bars: E/Duc 0.094, ATK2K/Duc 0.75)*</summary>
 
 | Model | EDPA | EDPA/Duc | ≥E/Duc bar | ATK2K | ATK2K/Duc | ≥A2/Duc bar |
 |---|---|---|---|---|---|---|
@@ -372,7 +372,7 @@ See [Game Mechanics section](/mechanics) for details about EDPA and ATK2K calcul
 </details>
 
 <details class="role-group" markdown="1">
-<summary markdown="span">Line Fighter  *(bars: E/Duc 0.148, ATK2K/Duc 0.97)*</summary>
+<summary markdown="span">Line Fighter  *(bars: E/Duc 0.153, ATK2K/Duc 0.97)*</summary>
 
 *EDPA median understates this role: typical 1.50, average 1.66, with a wide spread (1.13 to 1.99), so the offensive ceiling is higher than the median suggests.*
 
